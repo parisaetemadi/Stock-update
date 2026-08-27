@@ -53,7 +53,10 @@ async function fetchFredLatest(seriesId) {
   if (!res.ok) throw new Error(`fred http ${res.status}`);
   const text = await res.text();
   const lines = text.trim().split('\n').filter(Boolean);
-  if (lines.length < 2 || !lines[0].toUpperCase().startsWith('DATE')) {
+  // FRED's CSV header column name has varied over time ("DATE" vs
+  // "observation_date"), so check it merely looks like a date header rather
+  // than matching an exact string — a strict match silently dropped US2Y.
+  if (lines.length < 2 || !lines[0].toLowerCase().includes('date')) {
     throw new Error(`unexpected fred response: ${text.slice(0, 100)}`);
   }
   const rows = lines.slice(1).map(line => {
