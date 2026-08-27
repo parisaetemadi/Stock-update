@@ -29,10 +29,13 @@ jobs:
       - name: Fetch earnings dates
         run: node scripts/update-earnings.mjs
 
+      - name: Fetch trailing returns
+        run: node scripts/update-returns.mjs
+
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/biotech.json data/econ.json data/earnings.json
+          git add data/biotech.json data/econ.json data/earnings.json data/returns.json
           git diff --cached --quiet || git commit -m "Automated daily data refresh"
           git push
