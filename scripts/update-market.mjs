@@ -4,7 +4,8 @@ const INSTRUMENTS = [
   { id: 'IXIC', symbol: '^IXIC' },
   { id: 'GSPC', symbol: '^GSPC' },
   { id: 'CL', symbol: 'CL=F' },
-  { id: 'GC', symbol: 'GC=F' }
+  { id: 'GC', symbol: 'GC=F' },
+  { id: 'SI', symbol: 'SI=F' }
 ];
 
 const BROWSER_HEADERS = {
