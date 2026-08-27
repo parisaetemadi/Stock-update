@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-26T18:14:15.960Z",
+  "generatedAt": "2026-08-27T06:22:34.593Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
+        {
+          "title": "Medigen links up with Charles River in push to take enterovirus vaccine global",
+          "link": "https://www.fiercebiotech.com/cro/medigen-links-charles-river-push-take-enterovirus-vaccine-global",
+          "pubDate": "2026-08-20T10:04:00.000Z",
+          "description": "Charles River Laboratories and Taiwan-based Medigen Vaccine Biologics are teaming up to advance Medigen’s multivalent enterovirus vaccine."
+        },
         {
           "title": "FDA greenlights Revolution Medicines' pancreatic cancer gamechanger",
           "link": "https://www.fiercebiotech.com/pharma/fda-greenlights-revolution-medicines-pancreatic-cancer-gamechanger",
@@ -45,12 +51,6 @@
           "link": "https://www.fiercebiotech.com/biotech/spyres-rheumatoid-arthritis-plan-toppled-subpar-tl1a-data",
           "pubDate": "2026-08-26T05:22:00.000Z",
           "description": "Phase 2 data on Spyre Therapeutics’ anti-TL1A antibody SPY072 in rheumatoid arthritis have fallen short of expectations, prompting the biotech to deprioritize monotherapy development in the indication."
-        },
-        {
-          "title": "SK Biopharma pens $795M deal to usher Biohaven’s epilepsy therapy towards hoped-for 2029 launch",
-          "link": "https://www.fiercebiotech.com/biotech/sk-biopharma-pens-795m-deal-usher-biohavens-epilepsy-therapy-towards-fda",
-          "pubDate": "2026-08-26T04:48:00.000Z",
-          "description": "SK Biopharmaceuticals has strengthened its epilepsy offering by paying $350 million upfront to help speed Biohaven’s Kv7 ion channel activator on its way to market."
         }
       ]
     },
