@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T21:16:56.682Z",
+  "generatedAt": "2026-08-29T15:21:51.693Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
@@ -58,6 +58,24 @@
       "name": "Endpoints News",
       "items": [
         {
+          "title": "Landmark approval for pancreatic cancer; Reactions to Lilly’s Phase 1 secrecy; and more",
+          "link": "https://endpoints.news/landmark-approval-for-pancreatic-cancer-reactions-to-lillys-phase-1-secrecy-and-more/",
+          "pubDate": "2026-08-29T10:00:51.000Z",
+          "description": "Welcome back to Endpoints Weekly! The big news this week was the FDA’s approval of Revolution Medicines’ pancreatic cancer treatment Rasonque. The drug stunned researchers and spurred excitement in April, when it nearly doubled patients’ .."
+        },
+        {
+          "title": "#ESC26: Novartis pushes ahead with its IL-6 inhibitor despite Novo's failure",
+          "link": "https://endpoints.news/esc26-novartis-pushes-ahead-with-its-il-6-inhibitor-despite-novos-failure/",
+          "pubDate": "2026-08-29T06:55:35.000Z",
+          "description": "MUNICH — Novartis is to kick off a Phase 3 trial to see whether its anti–IL‑6 antibody can prevent cardiovascular (CV) events in people with elevated CV risk by reducing inflammation, despite the failure of ..."
+        },
+        {
+          "title": "FDA approves Takeda, Protagonist drug for rare blood disorder",
+          "link": "https://endpoints.news/fda-approves-takeda-protagonist-drug-for-rare-blood-disorder/",
+          "pubDate": "2026-08-28T22:15:30.000Z",
+          "description": "The FDA approved rusfertide, a new drug from Takeda and Protagonist Therapeutics to treat a rare blood disease.\r\n\r\n Rusfertide, which will be branded as Mimrylo, can now be prescribed for polycythemia vera, a disease in ..."
+        },
+        {
           "title": "Mounjaro scores FDA approval to reduce CV risk; Teva to buy an approved drug",
           "link": "https://endpoints.news/mounjaro-scores-fda-approval-to-reduce-cv-risk-teva-to-buy-an-approved-drug/",
           "pubDate": "2026-08-28T14:58:50.000Z",
@@ -86,24 +104,6 @@
           "link": "https://endpoints.news/daiichi-sankyos-commercial-team-to-get-a-makeover-novo-nordisks-gpcr-partner-finds-cmo/",
           "pubDate": "2026-08-28T11:00:21.000Z",
           "description": "→ Daiichi Sankyo will retool its commercial organization, and Ken Keller will be at the center of it all as chief commercialization officer. On April 1, 2027, the Japanese pharma will split the commercialization efforts ..."
-        },
-        {
-          "title": "#ESC26: Data in hand, Cytokinetics looks to expanded Myqorzo approval",
-          "link": "https://endpoints.news/esc26-data-in-hand-cytokinetics-looks-to-expanded-myqorzo-approval/",
-          "pubDate": "2026-08-28T09:45:14.000Z",
-          "description": "MUNICH — Cytokinetics’ heart drug Myqorzo could gain expanded approval next year, potentially doubling its market reach, after detailed results backed the drug’s use in a heart muscle disease.\r\n\r\n The new data, presented at the European ..."
-        },
-        {
-          "title": "#ESC26: Trial failure clouds future of AstraZeneca’s heart disease gene silencer",
-          "link": "https://endpoints.news/esc26-trial-failure-clouds-future-of-astrazenecas-heart-disease-gene-silencer/",
-          "pubDate": "2026-08-28T09:10:19.000Z",
-          "description": "MUNICH — The surprise failure of a high-profile study of AstraZeneca and Ionis Pharmaceuticals’ Wainua can be attributed to patients in the trial also taking a Pfizer drug for the same condition, the head of the ..."
-        },
-        {
-          "title": "Gilead gets another HIV treatment approval, extending lenacapavir's dominance",
-          "link": "https://endpoints.news/gilead-gets-another-hiv-treatment-approval-extending-lenacapavirs-dominance/",
-          "pubDate": "2026-08-27T22:14:58.000Z",
-          "description": "Gilead Sciences' HIV treatment arsenal is getting bigger.\r\n\r\n The leading drugmaker in the four-decade epidemic gained another FDA stamp of approval on Thursday. This time, Gilead will market ..."
         }
       ]
     },
@@ -147,16 +147,16 @@
           "description": "The European Society of Cardiology Congress that kicks off Friday in Munich will be a consequential meeting for Alnylam Pharmaceuticals."
         },
         {
-          "title": "STAT+: The mystery of Moderna’s magic algorithm",
-          "link": "https://www.statnews.com/2026/08/27/moderna-merck-cancer-vaccine-secret-ingredient-an-algorithm/?utm_campaign=rss",
-          "pubDate": "2026-08-27T08:30:00.000Z",
-          "description": "A personalized cancer vaccine developed by Moderna and Merck may be a triumph of immunology and cancer biology. It might also be the triumph of an algorithm."
-        },
-        {
           "title": "Opinion: STAT+: A bill is supposed to protect U.S. biotech from Chinese competition. But there’s a loophole",
           "link": "https://www.statnews.com/2026/08/27/binsa-biotech-china-eurowashing-geography-clinical-trials/?utm_campaign=rss",
           "pubDate": "2026-08-27T08:30:00.000Z",
           "description": "“Biotech industry leaders must forge a new geographic path before heavy-handed legislation forces the issue,” write executives at Optimapharm."
+        },
+        {
+          "title": "STAT+: The mystery of Moderna’s magic algorithm",
+          "link": "https://www.statnews.com/2026/08/27/moderna-merck-cancer-vaccine-secret-ingredient-an-algorithm/?utm_campaign=rss",
+          "pubDate": "2026-08-27T08:30:00.000Z",
+          "description": "A personalized cancer vaccine developed by Moderna and Merck may be a triumph of immunology and cancer biology. It might also be the triumph of an algorithm."
         }
       ]
     },
