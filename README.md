@@ -8,11 +8,21 @@ commits them here. The dashboard fetches them directly from
 
 | File | Contents | Refreshed |
 | --- | --- | --- |
-| `data/market.json` | Index, commodity and crypto prices | every 10 min |
-| `data/watchlist.json` | Watchlist ticker prices | every 10 min |
+| `data/market.json` | Index, commodity and crypto prices | scheduled every 10 min* |
+| `data/watchlist.json` | Watchlist ticker prices | scheduled every 10 min* |
 | `data/econ.json` | US CPI, US PCE, Canada CPI (year-over-year) | daily |
 | `data/earnings.json` | Next earnings date per ticker | daily |
 | `data/biotech.json` | Biotech news headlines | daily |
+| `data/returns.json` | 1W / 1M / YTD / 1Y / 5Y change per ticker | daily |
+
+\* The cron says `*/10 * * * *`; GitHub does not honour it. Measured over the
+72 hours to 30 Aug 2026, the schedule produced **13 runs, not ~1,300** — an
+average of one every five and a half hours, with gaps of eight and ten hours.
+GitHub drops scheduled runs under load and offers no guarantee about them, so
+this is a floor, not a cadence. The dashboard gets genuinely current prices
+from its own Cloudflare function on page load; these files are the fallback
+for when that can't answer, and the manual **Run workflow** button on both
+workflows refreshes them on demand.
 
 ## Why this is a separate public repo
 
