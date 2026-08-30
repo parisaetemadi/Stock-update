@@ -32,14 +32,6 @@ jobs:
       - name: Fetch trailing returns
         run: node scripts/update-returns.mjs
 
-      # The four feeds above are established and the dashboard depends on them.
-      # This one is newer and depends on an endpoint Yahoo sometimes refuses, so
-      # it must not be able to stop their commit: on failure the previous
-      # drugchain.json stays in place and the rest still lands.
-      - name: Fetch drug value chain market data
-        continue-on-error: true
-        run: node scripts/update-drugchain.mjs
-
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
