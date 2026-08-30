@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T04:39:37.839Z",
+  "generatedAt": "2026-08-30T15:06:02.255Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
@@ -58,6 +58,12 @@
       "name": "Endpoints News",
       "items": [
         {
+          "title": "#ESC26: AstraZeneca's relaxin pill shows promise in mid-stage heart failure trial",
+          "link": "https://endpoints.news/esc26-astrazenecas-relaxin-pill-shows-promise-in-mid-stage-heart-failure-trial/",
+          "pubDate": "2026-08-30T07:19:28.000Z",
+          "description": "MUNICH — AstraZeneca’s oral relaxin agonist was able to improve cardiac function in some, though not all, patients in a mid-stage trial. While the study was only a partial success, this is still a decent showing ..."
+        },
+        {
           "title": "Landmark approval for pancreatic cancer; Reactions to Lilly’s Phase 1 secrecy; and more",
           "link": "https://endpoints.news/landmark-approval-for-pancreatic-cancer-reactions-to-lillys-phase-1-secrecy-and-more/",
           "pubDate": "2026-08-29T10:00:51.000Z",
@@ -98,12 +104,6 @@
           "link": "https://endpoints.news/roche-bets-1b-on-dualitybios-adc-tech-to-tackle-topo1-resistance/",
           "pubDate": "2026-08-28T11:30:02.000Z",
           "description": "DualityBio said Friday it will receive $45 million upfront from Roche’s Genentech to develop drugs that could be part of a new wave of antibody-drug conjugates.\r\n\r\n The deal is centered on ..."
-        },
-        {
-          "title": "Daiichi Sankyo to give commercial team a makeover; Novo Nordisk's GPCR partner finds CMO",
-          "link": "https://endpoints.news/daiichi-sankyos-commercial-team-to-get-a-makeover-novo-nordisks-gpcr-partner-finds-cmo/",
-          "pubDate": "2026-08-28T11:00:21.000Z",
-          "description": "→ Daiichi Sankyo will retool its commercial organization, and Ken Keller will be at the center of it all as chief commercialization officer. On April 1, 2027, the Japanese pharma will split the commercialization efforts ..."
         }
       ]
     },
