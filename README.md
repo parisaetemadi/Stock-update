@@ -13,6 +13,7 @@ commits them here. The dashboard fetches them directly from
 | `data/econ.json` | US CPI, US PCE, Canada CPI (year-over-year) | daily |
 | `data/earnings.json` | Next earnings date per ticker | daily |
 | `data/biotech.json` | Biotech news headlines | daily |
+| `data/drugchain.json` | Market value, revenue, profit and margins for the [Drug-research](https://github.com/parisaetemadi/Drug-research) value chain | daily |
 
 ## Why this is a separate public repo
 
@@ -27,9 +28,25 @@ public buys two things the dashboard repo can't have:
   host rebuild, and those are capped. Data commits landing here instead means
   the site only rebuilds when its code actually changes.
 
+## The drug value chain feed
+
+`data/drugchain.json` prices the companies in the
+[Drug-research](https://github.com/parisaetemadi/Drug-research) value chain. The
+list of companies is **not** kept here — `update-drugchain.mjs` fetches
+`data/companies.json` from that repo at run time, so the chain is defined in one
+place and this repo only does what it is for: turning a ticker into a number.
+
+Each company gets a market value, trailing revenue, net income and gross,
+operating and net margins, converted into dollars from whatever currency the
+listing quotes. Companies that cannot be priced are named in `missing` and left
+out of `quotes` rather than guessed at, and the run **fails without writing** if
+fewer than 60% of the list prices — a broken endpoint should leave yesterday's
+numbers alone, not half-empty the chart that reads them.
+
 ## Sources
 
 - Prices: Yahoo Finance chart API; CoinGecko for crypto; FRED for the 2-year yield
+- Drug value chain market data: Yahoo Finance quote and quoteSummary endpoints
 - US CPI: Bureau of Labor Statistics public API
 - US PCE: FRED (`PCEPI`)
 - Canada CPI: Statistics Canada Web Data Service, with FRED series as fallbacks
