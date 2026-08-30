@@ -22,7 +22,7 @@ const TICKERS = [
   'BUG', 'SHOP',
   'XBI',
   'HBNK.TO',
-  'USO', 'TNX', 'US2Y', 'USDCAD'
+  'USO', 'TNX', 'US1Y', 'US2Y', 'US30Y', 'USDCAD'
 ];
 
 const YAHOO_SYMBOL_OVERRIDES = {
@@ -33,7 +33,9 @@ const YAHOO_SYMBOL_OVERRIDES = {
 
 // Yahoo has no clean percentage-yield ticker for the 2-year, same as in
 // update-watchlist.mjs.
-const FRED_SYMBOL_OVERRIDES = { US2Y: 'DGS2' };
+// Yahoo only publishes a clean percentage-yield ticker for a couple of
+// maturities, so the rest come from FRED's constant-maturity series.
+const FRED_SYMBOL_OVERRIDES = { US1Y: 'DGS1', US2Y: 'DGS2', US30Y: 'DGS30' };
 
 const BROWSER_HEADERS = {
   'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',

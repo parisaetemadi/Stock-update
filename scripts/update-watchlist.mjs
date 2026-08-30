@@ -12,7 +12,7 @@ const TICKERS = [
   'BUG', 'SHOP',
   'XBI',
   'HBNK.TO',
-  'USO', 'TNX', 'US2Y', 'USDCAD'
+  'USO', 'TNX', 'US1Y', 'US2Y', 'US30Y', 'USDCAD'
 ];
 
 const CRYPTO_COIN_IDS = { ETH: 'ethereum', BTC: 'bitcoin' };
@@ -20,7 +20,9 @@ const YAHOO_SYMBOL_OVERRIDES = { TNX: '^TNX', USDCAD: 'USDCAD=X' };
 // Yahoo has no clean percentage-yield ticker for the 2-year (unlike ^TNX for the
 // 10-year) — use FRED's well-known DGS2 series instead (Market Yield on U.S.
 // Treasury Securities at 2-Year Constant Maturity).
-const FRED_SYMBOL_OVERRIDES = { US2Y: 'DGS2' };
+// Yahoo only publishes a clean percentage-yield ticker for a couple of
+// maturities, so the rest come from FRED's constant-maturity series.
+const FRED_SYMBOL_OVERRIDES = { US1Y: 'DGS1', US2Y: 'DGS2', US30Y: 'DGS30' };
 
 const BROWSER_HEADERS = {
   'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
