@@ -42,10 +42,29 @@ async function session() {
   return { cookie, crumb };
 }
 
-async function getJson(url, { cookie }) {
-  const res = await fetch(url, { headers: { 'User-Agent': UA, Cookie: cookie, Accept: 'application/json' } });
-  if (!res.ok) throw new Error(`http ${res.status}`);
-  return res.json();
+// Yahoo answers the first quote call after a fresh crumb with a 429 often
+// enough that a single attempt is not a fair test of whether the endpoint is
+// available. Back off and retry; a run that still 429s after this is being
+// refused, not rate-limited, and the caller gives up quickly rather than
+// grinding through every symbol.
+const RETRY_DELAYS = [1000, 2500, 6000, 12000];
+
+async function getJson(url, sess) {
+  let last;
+  for (let attempt = 0; attempt <= RETRY_DELAYS.length; attempt++) {
+    const res = await fetch(url, {
+      headers: { 'User-Agent': UA, Cookie: sess.cookie, Accept: 'application/json' }
+    });
+    if (res.ok) return res.json();
+    last = new Error(`http ${res.status}`);
+    if (res.status !== 429 || attempt === RETRY_DELAYS.length) throw last;
+    await sleep(RETRY_DELAYS[attempt]);
+    // A stale crumb reads as a 429, so mint a new session before the last try.
+    if (attempt === RETRY_DELAYS.length - 1) {
+      try { Object.assign(sess, await session()); } catch { /* keep the old one */ }
+    }
+  }
+  throw last;
 }
 
 /* ---------- quotes, in batches ---------- */
@@ -117,9 +136,15 @@ for (let i = 0; i < symbols.length; i += 20) {
 
 // Then one detail call per symbol for the figures the batch does not carry.
 // This also backfills the market cap for anything the batches dropped.
+let consecutiveRefusals = 0;
 for (const symbol of symbols) {
+  if (consecutiveRefusals >= 8) {
+    console.warn(`giving up after ${consecutiveRefusals} consecutive refusals — the endpoint is not serving this runner`);
+    break;
+  }
   try {
     const r = await quoteSummary(symbol, sess);
+    consecutiveRefusals = 0;
     if (!r) continue;
     const prior = raw.get(symbol) ?? {};
     const fin = r.financialData ?? {};
@@ -137,6 +162,7 @@ for (const symbol of symbols) {
       revenueGrowth: fin.revenueGrowth?.raw ?? null
     });
   } catch (err) {
+    if (err.message.includes('429')) consecutiveRefusals++;
     console.warn(`${symbol}: ${err.message}`);
   }
   await sleep(250);
@@ -176,7 +202,12 @@ if (Object.keys(quotes).length < companies.length * 0.6) {
   // A handful of gaps is normal; most of the list going missing means the
   // endpoint changed, and overwriting good data with that would be worse than
   // failing the run.
-  throw new Error(`only ${Object.keys(quotes).length}/${companies.length} priced — refusing to overwrite`);
+  throw new Error(
+    `only ${Object.keys(quotes).length}/${companies.length} priced — refusing to overwrite. `
+    + 'If the log is full of 429s, Yahoo is refusing the quote and quoteSummary endpoints for this '
+    + 'runner; the v8 chart endpoint the other scripts here use is unaffected, but carries no '
+    + 'market cap or income statement.'
+  );
 }
 
 const out = {
