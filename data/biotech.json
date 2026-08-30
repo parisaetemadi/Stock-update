@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T15:21:51.693Z",
+  "generatedAt": "2026-08-30T04:16:03.889Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
@@ -67,7 +67,7 @@
           "title": "#ESC26: Novartis pushes ahead with its IL-6 inhibitor despite Novo's failure",
           "link": "https://endpoints.news/esc26-novartis-pushes-ahead-with-its-il-6-inhibitor-despite-novos-failure/",
           "pubDate": "2026-08-29T06:55:35.000Z",
-          "description": "MUNICH — Novartis is to kick off a Phase 3 trial to see whether its anti–IL‑6 antibody can prevent cardiovascular (CV) events in people with elevated CV risk by reducing inflammation, despite the failure of ..."
+          "description": "MUNICH — Novartis is to kick off a Phase 3 trial to see whether its anti-IL‑6 antibody can prevent cardiovascular (CV) events in people with elevated CV risk by reducing inflammation, despite the failure of ..."
         },
         {
           "title": "FDA approves Takeda, Protagonist drug for rare blood disorder",
@@ -147,16 +147,16 @@
           "description": "The European Society of Cardiology Congress that kicks off Friday in Munich will be a consequential meeting for Alnylam Pharmaceuticals."
         },
         {
-          "title": "Opinion: STAT+: A bill is supposed to protect U.S. biotech from Chinese competition. But there’s a loophole",
-          "link": "https://www.statnews.com/2026/08/27/binsa-biotech-china-eurowashing-geography-clinical-trials/?utm_campaign=rss",
-          "pubDate": "2026-08-27T08:30:00.000Z",
-          "description": "“Biotech industry leaders must forge a new geographic path before heavy-handed legislation forces the issue,” write executives at Optimapharm."
-        },
-        {
           "title": "STAT+: The mystery of Moderna’s magic algorithm",
           "link": "https://www.statnews.com/2026/08/27/moderna-merck-cancer-vaccine-secret-ingredient-an-algorithm/?utm_campaign=rss",
           "pubDate": "2026-08-27T08:30:00.000Z",
           "description": "A personalized cancer vaccine developed by Moderna and Merck may be a triumph of immunology and cancer biology. It might also be the triumph of an algorithm."
+        },
+        {
+          "title": "Opinion: STAT+: A bill is supposed to protect U.S. biotech from Chinese competition. But there’s a loophole",
+          "link": "https://www.statnews.com/2026/08/27/binsa-biotech-china-eurowashing-geography-clinical-trials/?utm_campaign=rss",
+          "pubDate": "2026-08-27T08:30:00.000Z",
+          "description": "“Biotech industry leaders must forge a new geographic path before heavy-handed legislation forces the issue,” write executives at Optimapharm."
         }
       ]
     },
