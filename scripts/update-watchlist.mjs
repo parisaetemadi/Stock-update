@@ -10,6 +10,7 @@ const TICKERS = [
   'PLTR', 'DLR', 'EQIX', 'ARKK',
   'ASTS', 'AEVA',
   'BUG', 'SHOP',
+  'XBI',
   'HBNK.TO',
   'USO', 'TNX', 'US2Y', 'USDCAD'
 ];
