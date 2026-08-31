@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-08-30T15:06:02.255Z",
+  "generatedAt": "2026-08-31T17:44:55.800Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
+        {
+          "title": "Electra aims to light up Nasdaq with IPO for phase 2/3 I&I push",
+          "link": "https://www.fiercebiotech.com/biotech/electra-sets-plans-light-nasdaq-ipo-fuel-phase-23-trial-ii-asset",
+          "pubDate": "2026-08-31T11:28:00.000Z",
+          "description": "The 2026 IPO streak continues as Electra Therapeutics has filed to go public to support its immunology and cancer pipeline."
+        },
+        {
+          "title": "‘A neuroscience revolution’: The GLP-like race to keep us awake and make billions doing it",
+          "link": "https://www.fiercebiotech.com/biotech/neuroscience-revolution-glp-race-keep-us-awake-and-make-billions-doing-it",
+          "pubDate": "2026-08-21T12:00:00.000Z",
+          "description": "As the hype around the vast medical potential of GLP-1 drugs continues unabated, another peptide is starting to make its own mark."
+        },
+        {
+          "title": "ESC26: AstraZeneca's heart failure drug shows promise in ph. 2 trial",
+          "link": "https://www.fiercebiotech.com/biotech/esc26-astrazenecas-heart-failure-drug-shows-promise-ph-2-trial",
+          "pubDate": "2026-08-31T10:47:00.000Z",
+          "description": "AstraZeneca’s oral relaxin agonist delivered encouraging phase 2b results in chronic heart failure, improving measures of cardiac function across two patient groups."
+        },
+        {
+          "title": "Eli Lilly inks $2.88B Merida buyout for autoimmune drugs against rogue antibodies",
+          "link": "https://www.fiercebiotech.com/biotech/eli-lilly-inks-29b-merida-buyout-autoimmune-drugs-against-rogue-antibodies",
+          "pubDate": "2026-08-31T08:04:00.000Z",
+          "description": "Eli Lilly has struck a deal to acquire Merida Biosciences for up to $2.875 billion, establishing a beachhead in efforts to treat disease through the selective degradation of pathogenic autoantibodies."
+        },
+        {
+          "title": "Beyond the Bandwidth Ceiling: Redesigning Advanced Therapy Operating Models for the Digital Staff Era",
+          "link": "https://www.fiercebiotech.com/sponsored/beyond-bandwidth-ceiling-redesigning-advanced-therapy-operating-models-digital-staff-era",
+          "pubDate": "2026-08-26T09:09:00.000Z",
+          "description": "Advanced therapy manufacturers are hitting a bandwidth ceiling. Deloitte makes the case for redesigning ops around AI 'digital staff.'"
+        },
+        {
+          "title": "China in Global Clinical Development: Why Early Inclusion Matters",
+          "link": "https://www.fiercebiotech.com/sponsored/china-global-clinical-development-why-early-inclusion-matters",
+          "pubDate": "2026-08-26T16:32:00.000Z",
+          "description": "Leading biotechs are rethinking China’s role in global clinical development. Early inclusion can unlock significant value."
+        },
         {
           "title": "BioNTech-Genentech cancer vax records more deaths than control in scrapped ph. 2 test",
           "link": "https://www.fiercebiotech.com/biotech/biontech-genentech-personalized-cancer-vaccine-posts-worse-patient-survival-terminated-ph-2",
@@ -15,48 +51,36 @@
           "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
           "pubDate": "2025-12-22T15:30:00.000Z",
           "description": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs."
-        },
-        {
-          "title": "AusperBio adds $120M series C to advance hep B oligo therapy through phase 3 and beyond",
-          "link": "https://www.fiercebiotech.com/biotech/ausperbio-adds-120m-advance-hepatitis-b-therapy-through-ph3-and-commercialization",
-          "pubDate": "2026-08-28T10:30:00.000Z",
-          "description": "AusperBio Therapeutics has raised $120 million in series C funds to advance its oligonucleotide therapy for chronic hepatitis B through phase 3 testing and hopefully on to commercialization."
-        },
-        {
-          "title": "Teva saddles up as stalking horse bidder for bankrupt BioXcel’s neuroscience portfolio",
-          "link": "https://www.fiercebiotech.com/biotech/teva-saddles-stalking-horse-bidder-bankrupt-bioxcels-neuroscience-portfolio",
-          "pubDate": "2026-08-28T09:17:00.000Z",
-          "description": "BioXcel Therapeutics has filed for bankruptcy and lined up a deal for Teva Pharmaceutical to acquire its assets for $57.5 million upfront."
-        },
-        {
-          "title": "Chutes & Ladders—Vivace revs up C-suite ahead of pivotal push",
-          "link": "https://www.fiercebiotech.com/biotech/chutes-ladders-vivace-adds-new-ceo-cbo-ahead-ph-3-trial",
-          "pubDate": "2026-08-27T13:31:00.000Z",
-          "description": "Vivace Therapeutics has named&nbsp;Craig Gibbs, Ph.D., as its new president and CEO."
-        },
-        {
-          "title": "Genentech doubles down on ADC-resistant cancers with $1B DualityBio pact",
-          "link": "https://www.fiercebiotech.com/biotech/genentech-doubles-down-adc-resistant-cancers-1b-dualitybio-pact",
-          "pubDate": "2026-08-28T03:34:00.000Z",
-          "description": "Roche’s Genentech is paying DualityBio $45 million upfront for rights to antibody-drug conjugates (ADCs) designed for the growing pool of patients who progress after treatment with the modality. The deal is worth more than $1 billion in pot"
-        },
-        {
-          "title": "Research into protein interactions sheds new light on causes of autism",
-          "link": "https://www.fiercebiotech.com/research/looking-drug-discovery-through-protein-protein-interaction-lens",
-          "pubDate": "2026-08-26T14:42:00.000Z",
-          "description": "Studying protein-protein interactions might hold the key to identifying druggable targets for autism, a group of scientists at the University of California, San Francisco has suggested."
-        },
-        {
-          "title": "With mRNA back in the spotlight, tRNA shows potential to treat genetic disease",
-          "link": "https://www.fiercebiotech.com/research/trna-has-entered-ring-possible-therapeutic-avenue-while-mrna-rise",
-          "pubDate": "2026-08-25T13:56:00.000Z",
-          "description": "New research coming out of the University of Toronto has shown that transfer RNA may offer a promising therapeutic avenue for treating genetic diseases."
         }
       ]
     },
     "endpoints": {
       "name": "Endpoints News",
       "items": [
+        {
+          "title": "Take the Q3 Biopharma Sentiment Survey (BPSI)",
+          "link": "https://endpoints.news/take-the-q3-biopharma-sentiment-survey-bpsi/",
+          "pubDate": "2026-08-31T15:44:09.000Z",
+          "description": "We're conducting a 3-minute survey that tracks the mood across the industry — science, finance, hiring and regulation"
+        },
+        {
+          "title": "Sanofi-backed Electra files for IPO to fund Phase 2/3 immunology drug",
+          "link": "https://endpoints.news/sanofi-backed-electra-files-for-ipo-to-fund-phase-2-3-immunology-drug/",
+          "pubDate": "2026-08-31T14:28:28.000Z",
+          "description": "Biotech's IPO summer isn't over yet.\r\n\r\n Electra Therapeutics plans to begin public trading on the Nasdaq after the Labor Day holiday, according to a Friday IPO filing with securities regulators. While ..."
+        },
+        {
+          "title": "Lilly to buy TED startup Merida Biosciences in its 13th acquisition of 2026",
+          "link": "https://endpoints.news/lilly-to-buy-ted-startup-merida-biosciences-in-its-13th-acquisition-of-2026/",
+          "pubDate": "2026-08-31T13:47:00.000Z",
+          "description": "Eli Lilly is further strengthening its position in immunology with its 13th acquisition of the year, paying up to $2.875 billion for Merida Biosciences and its asset in the increasingly popular subfields ..."
+        },
+        {
+          "title": "#ESC26: Arrowhead claims safety edge over Ionis as triglyceride battle draws closer",
+          "link": "https://endpoints.news/esc26-arrowhead-claims-safety-edge-over-ionis-as-triglyceride-battle-draws-closer/",
+          "pubDate": "2026-08-30T15:40:30.000Z",
+          "description": "MUNICH — Arrowhead is on course to crash Ionis Pharmaceuticals’ party.\r\n\r\n Arrowhead’s RNA interference drug Redemplo looked safer as well as effective in two late-stage trials in patients with high levels of dangerous fatty molecules calle"
+        },
         {
           "title": "#ESC26: AstraZeneca's relaxin pill shows promise in mid-stage heart failure trial",
           "link": "https://endpoints.news/esc26-astrazenecas-relaxin-pill-shows-promise-in-mid-stage-heart-failure-trial/",
@@ -80,36 +104,42 @@
           "link": "https://endpoints.news/fda-approves-takeda-protagonist-drug-for-rare-blood-disorder/",
           "pubDate": "2026-08-28T22:15:30.000Z",
           "description": "The FDA approved rusfertide, a new drug from Takeda and Protagonist Therapeutics to treat a rare blood disease.\r\n\r\n Rusfertide, which will be branded as Mimrylo, can now be prescribed for polycythemia vera, a disease in ..."
-        },
-        {
-          "title": "Mounjaro scores FDA approval to reduce CV risk; Teva to buy an approved drug",
-          "link": "https://endpoints.news/mounjaro-scores-fda-approval-to-reduce-cv-risk-teva-to-buy-an-approved-drug/",
-          "pubDate": "2026-08-28T14:58:50.000Z",
-          "description": "Plus news about AusperBio and Samsung Biologics.\r\n\r\n Eli Lilly’s Mounjaro wins heart approval: The blockbuster drug, whose generic name is tirzepatide, was approved on Friday to reduce the risk of major ..."
-        },
-        {
-          "title": "BioNTech, Genentech terminate Phase 2 of personalized mRNA cancer vaccine",
-          "link": "https://endpoints.news/biontech-genentech-terminate-phase-2-of-personalized-mrna-cancer-vaccine/",
-          "pubDate": "2026-08-28T14:49:15.000Z",
-          "description": "BioNTech has axed a Phase 2 trial of its personalized mRNA cancer vaccine just a week after Moderna and Merck had breakout success for their own approach in a much different cancer setting.\r\n\r\n BioNTech said ..."
-        },
-        {
-          "title": "#ESC26: CRISPR Therapeutics to pursue highest dose of its lipid lowering gene editing therapy",
-          "link": "https://endpoints.news/esc26-crispr-therapeutics-to-pursue-highest-dose-of-its-lipid-lowering-gene-editing-therapy/",
-          "pubDate": "2026-08-28T14:30:23.000Z",
-          "description": "MUNICH — CRISPR Therapeutics’ gene editing candidate showed mixed durability results a year after patients were dosed, according to early-stage data presented Friday at the annual meeting of the European Society of Cardiology.\r\n\r\n The compa"
-        },
-        {
-          "title": "Roche bets $1B+ on DualityBio's ADC tech to tackle TOPO1 resistance",
-          "link": "https://endpoints.news/roche-bets-1b-on-dualitybios-adc-tech-to-tackle-topo1-resistance/",
-          "pubDate": "2026-08-28T11:30:02.000Z",
-          "description": "DualityBio said Friday it will receive $45 million upfront from Roche’s Genentech to develop drugs that could be part of a new wave of antibody-drug conjugates.\r\n\r\n The deal is centered on ..."
         }
       ]
     },
     "statnews": {
       "name": "STAT News (Biotech)",
       "items": [
+        {
+          "title": "STAT+: Can a pregnancy hormone steer a cardiovascular treatment?",
+          "link": "https://www.statnews.com/2026/08/31/biotech-news-can-a-pregnancy-hormone-steer-a-cardiovascular-treatment/?utm_campaign=rss",
+          "pubDate": "2026-08-31T12:48:19.000Z",
+          "description": "Caution and survival in radiopharmaceuticals, mRNA skepticism, and more biotech news from The Readout"
+        },
+        {
+          "title": "STAT+: After a rough stretch, mRNA gets a boost — at least for now",
+          "link": "https://www.statnews.com/2026/08/31/mrna-cancer-vaccine-intersects-politics-medicine/?utm_campaign=rss",
+          "pubDate": "2026-08-31T08:30:00.000Z",
+          "description": "With clinical success on a personalized mRNA vaccine for melanoma, experts are hoping for a more stable future for the technology in other areas."
+        },
+        {
+          "title": "STAT+: Cadre of radiopharmaceuticals experts pushes the bounds in cancer therapy",
+          "link": "https://www.statnews.com/2026/08/31/radiopharmaceuticals-dosing-pushing-bounds-cancer-treatment/?utm_campaign=rss",
+          "pubDate": "2026-08-31T08:30:00.000Z",
+          "description": "Researchers believe radiopharmaceuticals have great promise as cancer treatments. But are they using them too timidly?"
+        },
+        {
+          "title": "STAT+: FDA approves Protagonist and Takeda’s drug for rare blood cancer",
+          "link": "https://www.statnews.com/2026/08/30/fda-approves-mimrylo-takeda-protagonist-treatment-for-polycythemia-vera/?utm_campaign=rss",
+          "pubDate": "2026-08-30T18:30:18.000Z",
+          "description": "Mimrylo, from Takeda and Protagonist, is a new kind of treatment for the blood cancer polycythemia vera."
+        },
+        {
+          "title": "STAT+: Alnylam defends heart disease drugs after failure of AstraZeneca’s Wainua",
+          "link": "https://www.statnews.com/2026/08/30/alnylam-attr-astrazeneca-wainua-attruby-heart-disease/?utm_campaign=rss",
+          "pubDate": "2026-08-30T17:29:05.000Z",
+          "description": "An AstraZeneca heart disease trial failure has put Alnylam under pressure. It's mounting a defense of its medicines."
+        },
         {
           "title": "STAT+: AstraZeneca and Ionis detail surprise failure of heart disease drug, with Alnylam closely watching",
           "link": "https://www.statnews.com/2026/08/28/biotech-news-astrazeneca-ionis-detail-surprise-failure-of-heart-disease-drug/?utm_campaign=rss",
@@ -127,42 +157,36 @@
           "link": "https://www.statnews.com/2026/08/27/fda-approves-roivant-therapy-for-rare-autoimmune-disease/?utm_campaign=rss",
           "pubDate": "2026-08-27T19:47:01.000Z",
           "description": "The FDA approved a new medicine from Roivant and its subsidiary Priovant for the treatment of dermatomyositis, a rare autoimmune disease."
-        },
-        {
-          "title": "STAT+: Hospitals plot their response to funding cuts",
-          "link": "https://www.statnews.com/2026/08/27/hospitals-lobby-medicaid-cuts-rasonque-approved-dc-diagnosis/?utm_campaign=rss",
-          "pubDate": "2026-08-27T15:26:50.000Z",
-          "description": "Hospital prep a lobbying push, RFK Jr. faces more bad news on measles, and the cancer drug that helped Ben Sasse gets approved."
-        },
-        {
-          "title": "What’s in Merck and Moderna’s cancer vaccine algorithm?",
-          "link": "https://www.statnews.com/2026/08/27/biotech-news-whats-in-merck-and-modernas-cancer-vaccine-algorithm/?utm_campaign=rss",
-          "pubDate": "2026-08-27T14:49:21.000Z",
-          "description": "A heart drug failure, RevMed's pancreatic cancer drug approved, and more biotech news from The Readout"
-        },
-        {
-          "title": "STAT+: Alnylam&#8217;s heart drug troubles take center stage at a cardiology conference",
-          "link": "https://www.statnews.com/2026/08/27/alnylam-amvuttra-nucresiran-heart-drugs-esc/?utm_campaign=rss",
-          "pubDate": "2026-08-27T10:30:00.000Z",
-          "description": "The European Society of Cardiology Congress that kicks off Friday in Munich will be a consequential meeting for Alnylam Pharmaceuticals."
-        },
-        {
-          "title": "STAT+: The mystery of Moderna’s magic algorithm",
-          "link": "https://www.statnews.com/2026/08/27/moderna-merck-cancer-vaccine-secret-ingredient-an-algorithm/?utm_campaign=rss",
-          "pubDate": "2026-08-27T08:30:00.000Z",
-          "description": "A personalized cancer vaccine developed by Moderna and Merck may be a triumph of immunology and cancer biology. It might also be the triumph of an algorithm."
-        },
-        {
-          "title": "Opinion: STAT+: A bill is supposed to protect U.S. biotech from Chinese competition. But there’s a loophole",
-          "link": "https://www.statnews.com/2026/08/27/binsa-biotech-china-eurowashing-geography-clinical-trials/?utm_campaign=rss",
-          "pubDate": "2026-08-27T08:30:00.000Z",
-          "description": "“Biotech industry leaders must forge a new geographic path before heavy-handed legislation forces the issue,” write executives at Optimapharm."
         }
       ]
     },
     "biopharmadive": {
       "name": "BioPharma Dive",
       "items": [
+        {
+          "title": "FDA OKs Takeda, Protagonist drug for rare blood cancer",
+          "link": "https://www.biopharmadive.com/news/fda-approve-mimrylo-takeda-protagonist-polycythemia-vera/829153/",
+          "pubDate": "2026-08-31T16:13:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/SG1boBs5f6zltWbABFW7cY2TUKDwCBazwEbF3SM-hLw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UYWtlZGFfUGhvdG9fMS5KUEc=.webp\"/></div></figure><p>The clearance and broader-"
+        },
+        {
+          "title": "Lilly adds to immune drug pipeline with $2.9B Merida buyout",
+          "link": "https://www.biopharmadive.com/news/lilly-merida-acquire-deal-immune-drugs-graves-disease/829152/",
+          "pubDate": "2026-08-31T15:23:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/9EIPCzYtRGI1Mw67ETK-A5ICASzwtR_LUg63y_dniiA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYxMjA1MzY0LmpwZw==.webp\"/></div></figure><p>The big drugma"
+        },
+        {
+          "title": "ESC ‘26: Cytokinetics’ sell-off, Arrowhead’s edge and a heart drug autopsy",
+          "link": "https://www.biopharmadive.com/news/esc-congress-2026-results-eplontersen-alnylam-cytokinetics/829139/",
+          "pubDate": "2026-08-31T14:49:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/BEaA7RlZhiBVZ8rfvBq1gV4dfZ4BC5WOow-17uS8d2o/g:nowe:0:100/c:8192:4628/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY2Nzk1NzQ2LmpwZw==.webp\"/></div></figu"
+        },
+        {
+          "title": "The next frontier: Advancing foundation models with multimodal data",
+          "link": "https://www.biopharmadive.com/spons/the-next-frontier-advancing-foundation-models-with-multimodal-data/828675/",
+          "pubDate": "2026-08-31T09:00:00.000Z",
+          "description": "<p>What's possible when AI models can learn from additional health data modalities to create a more complete understanding of human health?</p>"
+        },
         {
           "title": "Moderna raises $2.6B to support cancer work; FDA clears updated COVID vaccines",
           "link": "https://www.biopharmadive.com/news/fda-covid-vaccines-moderna-generate-profound-bixlenvo/828929/",
@@ -186,30 +210,6 @@
           "link": "https://www.biopharmadive.com/news/fda-priovant-pfizer-lisraya-brepocitinib-approved/829021/",
           "pubDate": "2026-08-28T13:12:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/MKSpUMRqXmBl5c6sl6lC-y4lj5_idaOQDG4XIWSzlSM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9saXNyYXlhLWJvdHRsZS5wbmc=.webp\"/></div></figure><p>Lisraya&rsquo;s clearance "
-        },
-        {
-          "title": "Michael Polansky has a new, skin-focused biotech. Don’t call it a drug company.",
-          "link": "https://www.biopharmadive.com/news/outer-bio-skin-biotech-michael-polansky-cosmetics-pharma/828910/",
-          "pubDate": "2026-08-27T16:32:00.000Z",
-          "description": "<p>Though its data could be useful for pharmaceutical firms, Polansky&rsquo;s latest entrepreneurial endeavor, Outer Bio, is serious about steering clear of road bumps that slow&nbsp;biotechs.</p>"
-        },
-        {
-          "title": "New data could widen use of AstraZeneca, Amgen immune disease drug",
-          "link": "https://www.biopharmadive.com/news/astrazeneca-amgen-tezpire-eosinophilic-esophagitis-results/828946/",
-          "pubDate": "2026-08-27T15:58:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/Fjzr5kjcLeZ_A2pzstCyxTNQnZ-ZrmOt89UiifKXUfo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yREI1VzA4LmpwZw==.webp\"/></div></figure><p>Tezspire succeeded in a study in e"
-        },
-        {
-          "title": "Revolution pancreatic cancer drug should quickly become a blockbuster, analysts say",
-          "link": "https://www.biopharmadive.com/news/revolution-rasonque-price-pancreatic-cancer-drug-launch-sales/828918/",
-          "pubDate": "2026-08-27T15:30:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/7jo2bTBrvQW7C5qhMG_FtjmMgwpMzB3G5eEU8gciPKw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yYXNvbnF1ZS1wYWNrYWdpbmctZmluYWwuanBn.webp\"/></div></figure><p>Rasonque&rsquo"
-        },
-        {
-          "title": "Revolution drug heralded as a pancreatic cancer breakthrough cleared by FDA",
-          "link": "https://www.biopharmadive.com/news/revolution-daraxonrasib-rasonque-approval-fda-priority-review-voucher/828847/",
-          "pubDate": "2026-08-26T17:35:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/--z7IUefW7_CFxzWiHHVTekUfcuTJQJbVoIg7e9MW6Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SZXZtZWRfY2FtcHVzMi5qcGc=.webp\"/></div></figure><p>Rasonque&rsquo;s speedy ap"
         }
       ]
     }
