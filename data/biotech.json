@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-09-01T15:15:51.411Z",
+  "generatedAt": "2026-09-02T14:47:13.958Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
+        {
+          "title": "SEC, FDA sign info-sharing agreement as a ‘signal to the market’ on insider trading",
+          "link": "https://www.fiercebiotech.com/biotech/sec-fda-sign-info-sharing-agreement-signal-market-insider-trading",
+          "pubDate": "2026-09-02T10:17:00.000Z",
+          "description": "The SEC and the FDA have signed a three-year agreement to step up cooperation and information-sharing capabilities aiming to improve each organization’s regulatory and enforcement missions."
+        },
+        {
+          "title": "Novartis inks $3.2B subcutaneous drug delivery deal with Alteogen",
+          "link": "https://www.fiercebiotech.com/biotech/novartis-inks-32b-subcutaneous-drug-delivery-deal-alteogen",
+          "pubDate": "2026-09-02T07:51:00.000Z",
+          "description": "Novartis has struck a deal worth up to $3.2 billion to work with Alteogen on subcutaneous drug delivery, joining Biogen and GSK on the list of drugmakers to pay to access the technology this year."
+        },
+        {
+          "title": "From his parents’ basement to your medicine cabinet: Absci CEO endeavors to create biotech’s Apple",
+          "link": "https://www.fiercebiotech.com/biotech/his-parents-basement-your-medicine-cabinet-absci-ceo-endeavors-create-biotechs-apple",
+          "pubDate": "2026-09-01T17:35:00.000Z",
+          "description": "The overwhelming demand for GLP-1 weight loss drugs has reshaped the drug market, empowering consumers to take charge of their own health and removing barriers between their wallets and their medicine cabinets."
+        },
+        {
+          "title": "ESC: Alnylam's next-gen silencer sees silver linings after fallout of AZ, Ionis trial in ATTR-CM",
+          "link": "https://www.fiercebiotech.com/biotech/esc-alnylams-next-gen-silencer-sees-silver-linings-after-fallout-az-ionis-trial-flop-attr",
+          "pubDate": "2026-08-31T14:48:00.000Z",
+          "description": "As AstraZeneca appears to close the book on a combo approach following the phase 3 failure of its Ionis-partnered Wainua, several analysts contend it’s too early to count out Alnylam’s silencing drugs in ATTR-CM patients also taking standar"
+        },
         {
           "title": "Roche inks $1.53B deal for Simcere’s B-cell-targeting antibody",
           "link": "https://www.fiercebiotech.com/biotech/roche-inks-153-billion-biobucks-deal-simceres-b-cell-targeting-antibody",
@@ -27,36 +51,48 @@
           "link": "https://www.fiercebiotech.com/biotech/alumis-crushed-midstage-lupus-flop-plots-path-phase-3-tyk2-inhibitor",
           "pubDate": "2026-09-01T09:28:00.000Z",
           "description": "A phase 2b lupus trial of Alumis’ envudeucitinib has missed its primary and secondary endpoints. But the biotech is still moving the TYK2 inhibitor into phase 3 in the autoimmune disease, pointing to evidence of efficacy in a prespecified s"
-        },
-        {
-          "title": "Novocure hit by cyberattack exposing patient data",
-          "link": "https://www.fiercebiotech.com/medtech/novocure-hit-cyberattack-includes-exposure-patient-records-data",
-          "pubDate": "2026-09-01T09:02:00.000Z",
-          "description": "Novocure has become the latest medtech company to be hit by a cyberattack, with the oncology specialist revealing that unauthorized access to some of its information systems exposed patient and employee data."
-        },
-        {
-          "title": "Fierce Biotech Layoff Tracker 2026: ArsenalBio winnows down workforce; Kolon cuts staff",
-          "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
-          "pubDate": "2025-12-23T10:11:00.000Z",
-          "description": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team."
-        },
-        {
-          "title": "Boston Scientific halts sales of angiographic catheters amid 2 serious injuries",
-          "link": "https://www.fiercebiotech.com/medtech/boston-scientific-halts-sales-angiographic-catheters-amid-two-serious-injuries",
-          "pubDate": "2026-09-01T02:47:00.000Z",
-          "description": "Boston Scientific has told its customers to stop using its Imager II angiographic catheters upon learning that a manufacturing issue has impacted the tips of the devices."
-        },
-        {
-          "title": "GSK catches phase 3 fever after mRNA flu vaccine beats standard shots",
-          "link": "https://www.fiercebiotech.com/biotech/gsk-catches-phase-3-fever-after-mrna-flu-vaccine-beats-standard-shots",
-          "pubDate": "2026-09-01T05:43:00.000Z",
-          "description": "GSK has linked its mRNA seasonal flu vaccine candidate to higher immune responses than conventional jabs in a phase 2 trial, emboldening the company to start a pivotal study this month."
         }
       ]
     },
     "endpoints": {
       "name": "Endpoints News",
       "items": [
+        {
+          "title": "China deaths reignite debate about using viruses to deliver CRISPR therapies",
+          "link": "https://endpoints.news/china-deaths-reignite-debate-about-using-viruses-to-deliver-crispr-therapies/",
+          "pubDate": "2026-09-02T14:00:43.000Z",
+          "description": "The deaths of two children who received CRISPR therapies in China have rattled scientists who work on similar genetic medicines in the US, adding new fuel to a yearslong debate about the danger of the ..."
+        },
+        {
+          "title": "Typewriter raises $56M for jumping gene technology and in vivo CAR-T therapies",
+          "link": "https://endpoints.news/typewriter-raises-56m-for-jumping-gene-technology-and-in-vivo-car-t-therapies/",
+          "pubDate": "2026-09-02T11:00:57.000Z",
+          "description": "Moving pieces of genetic code commonly called “jumping genes” could give scientists a long-sought way to transplant full genes into the human body without viral delivery vehicles or bacterial-derived enzymes like CRISPR.\r\n ..."
+        },
+        {
+          "title": "Health Tech meets AI giants",
+          "link": "https://endpoints.news/health-tech-meets-ai-giants/",
+          "pubDate": "2026-09-01T19:26:54.000Z",
+          "description": "In August, Google announced that Gemini users can now book appointments with Zocdoc. The news came not long after Solv said it’s partnering with Amazon ..."
+        },
+        {
+          "title": "ARPA-H awards $125M for manufacturing custom RNA therapies on demand",
+          "link": "https://endpoints.news/arpa-h-awards-125m-for-manufacturing-custom-rna-therapies-on-demand/",
+          "pubDate": "2026-09-01T18:32:08.000Z",
+          "description": "The dream of making personalized genetic medicines at a moment’s notice just got a major infusion of funding from the federal government.\r\n Five groups were collectively awarded up to $125 million ..."
+        },
+        {
+          "title": "Three takeaways from Trump's latest drug pricing event",
+          "link": "https://endpoints.news/three-takeaways-from-trumps-latest-drug-pricing-event/",
+          "pubDate": "2026-09-01T18:16:50.000Z",
+          "description": "President Donald Trump announced voluntary drug pricing deals with nine new companies on Monday, for the first time veering outside of the original crop of companies that he singled out in letters last summer.\r\n\r\n But ..."
+        },
+        {
+          "title": "Arsenal Biosciences cuts ‘majority’ of staff in move to in vivo CAR-T",
+          "link": "https://endpoints.news/arsenal-biosciences-cuts-majority-of-staff-in-move-to-in-vivo-car-t/",
+          "pubDate": "2026-09-01T17:12:58.000Z",
+          "description": "Roughly a year after shedding half of its workforce, Arsenal Biosciences is trimming its headcount again by letting go of “the majority” of its staffers as a result of a pivot into in vivo CAR-T ..."
+        },
         {
           "title": "Lilly’s 2026 dealmaking spreads the wealth among biotech venture investors",
           "link": "https://endpoints.news/lillys-2026-dealmaking-spreads-the-wealth-among-biotech-venture-investors/",
@@ -68,48 +104,18 @@
           "link": "https://endpoints.news/gsk-to-launch-phase-3-test-of-mrna-flu-vaccine-with-newer-formulation/",
           "pubDate": "2026-09-01T14:40:34.000Z",
           "description": "GSK on Tuesday said it will start a late-stage trial of its mRNA vaccine for seasonal influenza after the candidate delivered “higher immune responses” than traditional vaccines in a Phase 2 test.\r\n\r\n The UK pharma ..."
-        },
-        {
-          "title": "Roche taps Simcere for trispecific T cell engager pact with $75M upfront",
-          "link": "https://endpoints.news/roche-taps-simcere-for-trispecific-t-cell-engager-pact-with-75m-upfront/",
-          "pubDate": "2026-09-01T14:40:27.000Z",
-          "description": "For the second time in as many weeks, Roche's business development team has lined up a deal with a Chinese biopharma.\r\n\r\n The Swiss drug giant this time is teaming with Simcere Zaiming on a preclinical ..."
-        },
-        {
-          "title": "Alumis' TYK2 drug fails in lupus trial; CEO sees 'clear path forward'",
-          "link": "https://endpoints.news/alumis-tyk2-drug-fails-in-lupus-trial-ceo-sees-clear-path-forward/",
-          "pubDate": "2026-09-01T14:24:39.000Z",
-          "description": "Alumis' lead drug program suffered a clinical setback Tuesday as the San Francisco biotech reported its TYK2 pill failed a mid-stage lupus study.\r\n\r\n The results put a damper on what has ..."
-        },
-        {
-          "title": "K Health is eyeing an IPO by 2029",
-          "link": "https://endpoints.news/k-health-is-eyeing-an-ipo-by-2029/",
-          "pubDate": "2026-09-01T13:00:43.000Z",
-          "description": "K Health is gearing up for a future public-market debut, CEO Allon Bloch said after a recent raise.\r\n\r\n The virtual care company, which uses AI to help patients and clinicians sort through and act on ..."
-        },
-        {
-          "title": "Novartis' Rhapsido safer than rivals, Phase 3 multiple sclerosis data suggest",
-          "link": "https://endpoints.news/novartis-rhapsido-safer-than-rivals-phase-3-multiple-sclerosis-data-suggest/",
-          "pubDate": "2026-09-01T11:30:44.000Z",
-          "description": "Novartis’ BTK inhibitor Rhapsido has a chance of expanding from a chronic itch treatment to the multiple sclerosis market following wins in two identical Phase 3 trials.\r\n\r\n The pill significantly cut annualized relapse rates (ARR) ..."
-        },
-        {
-          "title": "ARCH Venture Partners targets $3 billion raise for latest fund",
-          "link": "https://endpoints.news/arch-venture-partners-targets-3-billion-raise-for-latest-fund/",
-          "pubDate": "2026-09-01T00:55:30.000Z",
-          "description": "ARCH Venture Partners, one of highest-profile names in biotech investing, has outlined plans for another $3 billion fund.\r\n\r\n The new fund — its 14th — would be one of the largest batches of venture capital raised in ..."
-        },
-        {
-          "title": "Three deaths in CAR-T trials prompt halt by Novartis; Bristol Myers programs also paused",
-          "link": "https://endpoints.news/three-deaths-in-car-t-trials-prompt-halt-by-novartis-bristol-myers-programs-also-paused/",
-          "pubDate": "2026-09-01T00:01:19.000Z",
-          "description": "Three patients died in Novartis trials of its CD19-directed CAR-T treatment following a dangerous immune system response, and a similar therapy from Bristol Myers Squibb has also been put on hold to review safety issues ..."
         }
       ]
     },
     "statnews": {
       "name": "STAT News (Biotech)",
       "items": [
+        {
+          "title": "STAT+: ARPA-H funds biotechs working on custom RNA therapies",
+          "link": "https://www.statnews.com/2026/09/02/biotech-news-arp-h-funds-biotechs-working-on-custom-rna-therapies/?utm_campaign=rss",
+          "pubDate": "2026-09-02T13:37:50.000Z",
+          "description": "Roche licenses a tri-specific antibody, new Trump deals may undercut its own goals, and other biotech news"
+        },
         {
           "title": "STAT+: 5 burning questions on Trump’s latest deals with drugmakers",
           "link": "https://www.statnews.com/2026/09/01/trump-pharma-deals-analysis-latest-round-most-favored-nation-drug-pricing/?utm_campaign=rss",
@@ -129,7 +135,7 @@
           "description": "The federal spending bill has an important provision for researchers, and Trump announced more MFN deals with pharma firms."
         },
         {
-          "title": "Trump strikes nine more deals with drugmakers to lower prices",
+          "title": "STAT+: Trump strikes nine more deals with drugmakers to lower prices",
           "link": "https://www.statnews.com/2026/08/31/trump-most-favored-nation-drug-pricing-new-round-price-cuts-announced/?utm_campaign=rss",
           "pubDate": "2026-08-31T19:48:44.000Z",
           "description": "President Trump on Monday announced the next round of pricing deals with drugmakers, with nine new companies making such agreements."
@@ -141,22 +147,16 @@
           "description": "Caution and survival in radiopharmaceuticals, mRNA skepticism, and more biotech news from The Readout"
         },
         {
-          "title": "STAT+: Cadre of radiopharmaceuticals experts pushes the bounds in cancer therapy",
-          "link": "https://www.statnews.com/2026/08/31/radiopharmaceuticals-dosing-pushing-bounds-cancer-treatment/?utm_campaign=rss",
-          "pubDate": "2026-08-31T08:30:00.000Z",
-          "description": "Researchers believe radiopharmaceuticals have great promise as cancer treatments. But are they using them too timidly?"
-        },
-        {
           "title": "STAT+: After a rough stretch, mRNA gets a boost — at least for now",
           "link": "https://www.statnews.com/2026/08/31/mrna-cancer-vaccine-intersects-politics-medicine/?utm_campaign=rss",
           "pubDate": "2026-08-31T08:30:00.000Z",
           "description": "With clinical success on a personalized mRNA vaccine for melanoma, experts are hoping for a more stable future for the technology in other areas."
         },
         {
-          "title": "STAT+: FDA approves Protagonist and Takeda’s drug for rare blood cancer",
-          "link": "https://www.statnews.com/2026/08/30/fda-approves-mimrylo-takeda-protagonist-treatment-for-polycythemia-vera/?utm_campaign=rss",
-          "pubDate": "2026-08-30T18:30:18.000Z",
-          "description": "Mimrylo, from Takeda and Protagonist, is a new kind of treatment for the blood cancer polycythemia vera."
+          "title": "STAT+: Cadre of radiopharmaceuticals experts pushes the bounds in cancer therapy",
+          "link": "https://www.statnews.com/2026/08/31/radiopharmaceuticals-dosing-pushing-bounds-cancer-treatment/?utm_campaign=rss",
+          "pubDate": "2026-08-31T08:30:00.000Z",
+          "description": "Researchers believe radiopharmaceuticals have great promise as cancer treatments. But are they using them too timidly?"
         }
       ]
     },
@@ -164,10 +164,34 @@
       "name": "BioPharma Dive",
       "items": [
         {
+          "title": "Teva claims success in celiac study; BioMarin, Ascendis settle patent dispute",
+          "link": "https://www.biopharmadive.com/news/teva-celiac-biomarin-ascendis-gsk-flu-biontech-mifepristone/828937/",
+          "pubDate": "2026-09-02T14:12:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\"/></div></figure>"
+        },
+        {
+          "title": "Mid-cap biotechs join Trump’s latest round of drug pricing deals",
+          "link": "https://www.biopharmadive.com/news/medicaid-low-price-model-drugmakers-white-house/829282/",
+          "pubDate": "2026-09-01T16:14:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/QgWntJBIi9wmk7OGDnQXGHnnNV7oD0cWSDPggs993zs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgzMDg4MTAwLmpwZw==.webp\"/></div></figure><p>Focused on Med"
+        },
+        {
+          "title": "Novartis says MS pill succeeds in two large studies",
+          "link": "https://www.biopharmadive.com/news/novartis-remibrutinib-relapsing-multiple-sclerosis-study-results/829300/",
+          "pubDate": "2026-09-01T15:58:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/zfRhQ6UdoLhrnrg6WnOJHxS_autlpVcZwuWId9Q7ZSI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5Nzg4MDE4LmpwZw==.webp\"/></div></figure><p>Notably, Novar"
+        },
+        {
+          "title": "Alumis’ TYK2 drug fails in key lupus study",
+          "link": "https://www.biopharmadive.com/news/alumis-lupus-tyk2-inhibitor-lumus-study-failure/829286/",
+          "pubDate": "2026-09-01T15:28:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/TdEzB9fivWcYdfSq7t-4EvsoludfqTCe-laYACTMMvk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgyMTM0MDgzLmpwZw==.webp\"/></div></figure><p>Though Alumis "
+        },
+        {
           "title": "Novartis, Bristol Myers pause autoimmune CAR-T trials due to safety concerns",
           "link": "https://www.biopharmadive.com/news/novartis-bristol-myers-autoimmune-cell-therapy-trial-halt/829218/",
           "pubDate": "2026-08-31T21:38:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/X3sV_EXvyvsvpYIxmtC_tj_n9c7XBDYmBNLrkm5EaVE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jYXItdF9jYW5jZXJfY2VsbF90aGVyYXB5LmpwZw==.webp\"/></div></figure><p>Side effec"
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/X3sV_EXvyvsvpYIxmtC_tj_n9c7XBDYmBNLrkm5EaVE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jYXItdF9jYW5jZXJfY2VsbF90aGVyYXB5LmpwZw==.webp\"/></div></figure><p>The deaths"
         },
         {
           "title": "FDA OKs Takeda, Protagonist drug for rare blood cancer",
@@ -186,30 +210,6 @@
           "link": "https://www.biopharmadive.com/news/esc-congress-2026-results-eplontersen-alnylam-cytokinetics/829139/",
           "pubDate": "2026-08-31T14:49:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/BEaA7RlZhiBVZ8rfvBq1gV4dfZ4BC5WOow-17uS8d2o/g:nowe:0:100/c:8192:4628/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY2Nzk1NzQ2LmpwZw==.webp\"/></div></figu"
-        },
-        {
-          "title": "The next frontier: Advancing foundation models with multimodal data",
-          "link": "https://www.biopharmadive.com/spons/the-next-frontier-advancing-foundation-models-with-multimodal-data/828675/",
-          "pubDate": "2026-08-31T09:00:00.000Z",
-          "description": "<p>What's possible when AI models can learn from additional health data modalities to create a more complete understanding of human health?</p>"
-        },
-        {
-          "title": "Moderna raises $2.6B to support cancer work; FDA clears updated COVID vaccines",
-          "link": "https://www.biopharmadive.com/news/fda-covid-vaccines-moderna-generate-profound-bixlenvo/828929/",
-          "pubDate": "2026-08-28T15:59:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\"/></div></figure>"
-        },
-        {
-          "title": "AstraZeneca, Ionis data spark debate about RNA drugs’ impact on deadly heart disease",
-          "link": "https://www.biopharmadive.com/news/astrazeneca-ionis-eplontersen-nejm-cardio-ttransform-results/829057/",
-          "pubDate": "2026-08-28T14:58:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/QMRuFnxqha_MeEkSNlcDFPieSHe5TJZgniaU-Fvf6m4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk2MTY2MTgyLmpwZw==.webp\"/></div></figure><p>Results publis"
-        },
-        {
-          "title": "This week in charts: Biotech’s rebound is undeniable",
-          "link": "https://www.biopharmadive.com/news/biotech-charts-biopharma-xbi-deals-mergers-ipos/828794/",
-          "pubDate": "2026-08-28T14:30:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/S7kYl4_8o-FTTXWhd92CtQyC0IbGNdT9f0kWAlh5hRk/g:nowe:0:217/c:4928:2784/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyLmpwZw==.webp\"/></div></figu"
         }
       ]
     }
