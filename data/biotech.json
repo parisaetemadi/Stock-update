@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-09-03T14:45:43.391Z",
+  "generatedAt": "2026-09-04T14:36:25.822Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
+        {
+          "title": "Chutes & Ladders—Invivyd's chairman adds CEO role ahead of COVID readout",
+          "link": "https://www.fiercebiotech.com/biotech/chutes-ladders-invivyd-boosts-chairman-ceo-ahead-covid-readout",
+          "pubDate": "2026-09-03T15:57:00.000Z",
+          "description": "Infectious-disease biotech Invivyd has appointed its current chairman, Marc Elia, as CEO."
+        },
+        {
+          "title": "A year on from Big Pharma’s pull-back from the UK, has anything changed?",
+          "link": "https://www.fiercebiotech.com/biotech/year-big-pharmas-pull-back-uk-has-anything-changed",
+          "pubDate": "2026-08-27T15:09:00.000Z",
+          "description": "September 2025 marked a low point for relations between the U.K. government and Big Pharma. Fierce reached out to the companies involved to see if they've softened their stance."
+        },
+        {
+          "title": "Psilocybin proves promising in neuropathic pain mouse study",
+          "link": "https://www.fiercebiotech.com/research/psilocybin-proves-promising-neuropathic-pain-study-mice",
+          "pubDate": "2026-09-03T11:58:00.000Z",
+          "description": "Amid the rise of psychedelics in the mental health space, researchers have begun to explore psilocybin as a treatment for chemotherapy-induced peripheral neuropathy."
+        },
+        {
+          "title": "Pfizer offloads scrapped Seagen ADC to Medicus Pharma in up to $1B+ deal",
+          "link": "https://www.fiercebiotech.com/biotech/pfizer-offloads-scrapped-seagen-adc-medicus-pharma-1b-deal",
+          "pubDate": "2026-09-03T11:33:00.000Z",
+          "description": "Pfizer has found a new home for an antibody-drug conjugate it acquired in its $43 billion Seagen buyout and dropped earlier this year."
+        },
+        {
+          "title": "Why Roche is 'really excited' about a UCN2 analog for obesity after seeing preclinical data",
+          "link": "https://www.fiercebiotech.com/biotech/why-roche-was-really-excited-using-ucn2-analog-treat-obesity-after-viewing-preclinical-data",
+          "pubDate": "2026-08-28T04:16:00.000Z",
+          "description": "Roche has decided to pay $190 million upfront for an unusual obesity mechanism after viewing preclinical data that “clearly suggests” the modality can reduce weight while preserving lean muscle, Fierce has learned."
+        },
         {
           "title": "Fierce Biotech Fundraising Tracker '26: Superluminal snags $60M; AusperBio adds $120M",
           "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
@@ -21,42 +51,48 @@
           "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
           "pubDate": "2025-12-23T10:11:00.000Z",
           "description": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team."
-        },
-        {
-          "title": "GSK pens $1.3B Hutchmed deal for early-stage KRAS-EGFR cancer asset",
-          "link": "https://www.fiercebiotech.com/biotech/gsk-pens-13b-hutchmed-deal-early-stage-kras-egfr-cancer-asset",
-          "pubDate": "2026-09-03T05:07:00.000Z",
-          "description": "GSK is handing over $110 million upfront to Hutchmed in a deal worth up to $1.295 billion to get its hands on a first-in-class oncology candidate."
-        },
-        {
-          "title": "Ultragenyx fails phase 3 Angelman test, plots ‘significant expense reductions’",
-          "link": "https://www.fiercebiotech.com/biotech/ultragenyx-fails-phase-3-angelman-test-plots-significant-expenses-reduction",
-          "pubDate": "2026-09-03T02:40:00.000Z",
-          "description": "Ultragenyx had been flying high after its recent FDA approval for Genglycos—but the company has been brought back down to earth with a damaging phase 3 flop."
-        },
-        {
-          "title": "Fortrea boosts early-phase CRO platform with $45M acquisition of Worldwide division",
-          "link": "https://www.fiercebiotech.com/cro/fortrea-boosts-early-phase-platform-45-million-cro-acquisition",
-          "pubDate": "2026-09-02T14:48:00.000Z",
-          "description": "Fortrea has agreed to acquire the early-phase services division of fellow CRO Worldwide Clinical Trials for $45 million."
-        },
-        {
-          "title": "Novartis telegraphs 130 job cuts amid biologics rethink in Switzerland",
-          "link": "https://www.fiercebiotech.com/pharma/novartis-telegraphs-130-job-cuts-amid-biologics-rethink-switzerland",
-          "pubDate": "2026-09-02T13:45:00.000Z",
-          "description": "Novartis could cut about 130 jobs in Switzerland as it rethinks its biologics technical development and production footprint in Basel."
-        },
-        {
-          "title": "Teva autoimmune antibody notches ph. 2 win in celiac disease",
-          "link": "https://www.fiercebiotech.com/biotech/teva-autoimmune-antibody-notches-ph-2-win-celiac-disease",
-          "pubDate": "2026-09-02T10:29:00.000Z",
-          "description": "Teva Pharmaceutical's dreams of a first-in-class autoimmune blockbuster are being kept alive after the Israeli outfit’s anti-interleukin-15 antibody scored a midstage win in celiac disease."
         }
       ]
     },
     "endpoints": {
       "name": "Endpoints News",
       "items": [
+        {
+          "title": "Thiel-backed Lindus sells CRO arm in pivot to hunt for drug assets",
+          "link": "https://endpoints.news/thiel-backed-lindus-sells-cro-arm-in-pivot-to-hunt-for-drug-assets/",
+          "pubDate": "2026-09-04T12:00:51.000Z",
+          "description": "A Peter Thiel-backed transatlantic startup that once branded itself as an “anti-CRO” is pivoting from a clinical trials operator to a drug developer.\r\n\r\n Lindus Therapeutics is betting that its experience over ..."
+        },
+        {
+          "title": "Italy's Menarini gets into obesity with European rights to GLP-1 from China's Gan & Lee",
+          "link": "https://endpoints.news/italys-menarini-gets-into-obesity-with-european-rights-to-glp-1-from-chinas-gan-lee/",
+          "pubDate": "2026-09-04T10:44:21.000Z",
+          "description": "One of Italy's large family-owned pharmaceutical companies is throwing its hat into the ring to compete with the GLP-1 giants in Europe.\r\n\r\n Menarini Group is gaining hold of the European rights to a GLP-1 agonist ..."
+        },
+        {
+          "title": "Merck's top dealmaker signals more M&A as Keytruda's patent cliff nears",
+          "link": "https://endpoints.news/mercks-top-dealmaker-signals-more-ma-as-keytrudas-patent-cliff-nears/",
+          "pubDate": "2026-09-03T18:49:58.000Z",
+          "description": "Merck CEO Robert Davis has been landing deals “with urgency” over the last few years in an effort to shore up the pipeline ahead of Keytruda’s upcoming patent cliff. But make no mistake: The company ..."
+        },
+        {
+          "title": "Novartis' drug delivery deal with Alteogen; More worker cuts at Cellares",
+          "link": "https://endpoints.news/novartis-drug-delivery-deal-with-alteogen-further-worker-cuts-at-cellares/",
+          "pubDate": "2026-09-03T15:30:42.000Z",
+          "description": "Plus, news about Novonesis, Aspen, Fortrea and Northway.\r\n\r\n Alteogen and Novartis make a deal: The Swiss pharma is licensing Alteogen’s hyaluronidase enzyme, called ALT-B4, which is manufactured using a tech platform ..."
+        },
+        {
+          "title": "Pfizer shares ADC rights with Medicus; RevMed updates lung cancer data",
+          "link": "https://endpoints.news/pfizer-shares-adc-rights-with-medicus-revmed-updates-lung-cancer-data/",
+          "pubDate": "2026-09-03T15:19:01.000Z",
+          "description": "Plus, news about Novartis.\r\n\r\n 🤝 Pfizer turns over ADC: The New York pharma is giving Medicus Pharma co-development rights to a CD228-targeted antibody-drug conjugate known as PF-08046031, a Seagen-derived asset that it ..."
+        },
+        {
+          "title": "AbbVie claims Phase 3 win for multiple myeloma drug etentamig",
+          "link": "https://endpoints.news/abbvie-claims-phase-3-win-for-multiple-myeloma-drug-etentamig/",
+          "pubDate": "2026-09-03T14:50:40.000Z",
+          "description": "AbbVie said its T cell engager etentamig cut the risk of disease progression or death by 60% compared with standard therapies in a Phase 3 multiple myeloma trial. The Chicago-area company is now planning to ..."
+        },
         {
           "title": "Health tech investors are looking at bigger bets",
           "link": "https://endpoints.news/health-tech-investors-are-looking-at-bigger-bets/",
@@ -68,48 +104,24 @@
           "link": "https://endpoints.news/summit-akeso-say-ivonescimab-clears-os-bar-in-phase-3-lung-cancer-trial/",
           "pubDate": "2026-09-03T11:12:36.000Z",
           "description": "After an interim overall survival result last year that shook investor confidence, Akeso has claimed victory Thursday with updated China-only Phase 3 data for its closely watched PD-1xVEGF bispecific in certain lung cancer patients.\r\n\r\n Ake"
-        },
-        {
-          "title": "Superluminal secures $60M for Phase 1 of genetic obesity drug",
-          "link": "https://endpoints.news/superluminal-secures-60m-for-phase-1-of-genetic-obesity-drug/",
-          "pubDate": "2026-09-03T10:00:59.000Z",
-          "description": "A Boston biotech following in the footsteps of Rhythm Pharmaceuticals and others in the MC4R obesity field has raised $60 million to test its approach in Phase 1.\r\n\r\n Superluminal Medicines secured the Series B from ..."
-        },
-        {
-          "title": "GSK to license Hutchmed’s KRAS-EGFR cancer drug for $110M upfront",
-          "link": "https://endpoints.news/gsk-to-license-hutchmeds-kras-egfr-cancer-drug-for-110m-upfront/",
-          "pubDate": "2026-09-03T09:59:27.000Z",
-          "description": "GSK will spend $110 million upfront for a license to a KRAS-EGFR antibody conjugate developed by Hutchmed, with up to $1.185 billion in biobucks on the line.\r\n\r\n The Chinese biopharma said ..."
-        },
-        {
-          "title": "Ultragenyx’s Angelman therapy fails Phase 3 trial in setback for company and patients",
-          "link": "https://endpoints.news/ultragenyxs-angelman-therapy-fails-phase-3-trial-in-setback-for/",
-          "pubDate": "2026-09-03T01:35:17.000Z",
-          "description": "In a major setback to the search for a treatment for the rare neurodevelopmental disease known as Angelman syndrome, Ultragenyx said a Phase 3 trial of its experimental therapy failed.\r\n\r\n The company's antisense oligonucleotide therapy ..."
-        },
-        {
-          "title": "FDA leaders project enhanced scrutiny of foreign data",
-          "link": "https://endpoints.news/fda-leaders-project-enhanced-scrutiny-of-foreign-data/",
-          "pubDate": "2026-09-02T19:21:51.000Z",
-          "description": "Top FDA leaders are doubling down on clinical trial oversight measures to ensure that research data generated outside the US are adequate, as lawmakers and some inside the drug industry try to counter China’s growing ..."
-        },
-        {
-          "title": "Novartis CAR-T deaths raise questions over acceptable autoimmune risk",
-          "link": "https://endpoints.news/novartis-car-t-deaths-raise-questions-over-acceptable-autoimmune-risk/",
-          "pubDate": "2026-09-02T18:48:44.000Z",
-          "description": "Many researchers believe cancer cell therapies called CAR-Ts could shift the treatment paradigm for patients with autoimmune disease. But three recently disclosed deaths in Novartis’ clinical trials serve as a stark reminder that the modali"
-        },
-        {
-          "title": "CBER official overruled review team's rejection of new Replimune melanoma drug",
-          "link": "https://endpoints.news/cber-official-overruled-review-teams-rejection-of-new-replimune-melanoma-drug/",
-          "pubDate": "2026-09-02T16:02:32.000Z",
-          "description": "Asha Das, director of the FDA biologics center's office of clinical evaluation, overruled the agency's review team in granting an accelerated approval to Replimune's melanoma treatment Tudriqev in early August, new documents from the agency"
         }
       ]
     },
     "statnews": {
       "name": "STAT News (Biotech)",
       "items": [
+        {
+          "title": "STAT+: FDA takes another look at botanical drugs",
+          "link": "https://www.statnews.com/2026/09/04/biotech-news-fda-takes-another-look-at-botanical-drugs/?utm_campaign=rss",
+          "pubDate": "2026-09-04T13:46:42.000Z",
+          "description": "The biggest barrier for a top schzophrenia treatment, Ionis' first approval for Alexander disease, and more biotech news"
+        },
+        {
+          "title": "STAT+: Ionis wins FDA approval for first drug for Alexander disease, a rare and deadly neurological disorder",
+          "link": "https://www.statnews.com/2026/09/03/ionis-fda-approval-zanvastro-alexander-disease/?utm_campaign=rss",
+          "pubDate": "2026-09-03T20:45:56.000Z",
+          "description": "Zanvastro is the first disease-modifying treatment for Alexander disease, a rare and fatal disorder."
+        },
         {
           "title": "STAT+: Seattle scientists launch $95 million AI biology effort",
           "link": "https://www.statnews.com/2026/09/03/biotech-news-seattle-scientists-launch-95-million-ai-biology-effort/?utm_campaign=rss",
@@ -145,24 +157,36 @@
           "link": "https://www.statnews.com/2026/09/01/trump-pharma-deals-analysis-latest-round-most-favored-nation-drug-pricing/?utm_campaign=rss",
           "pubDate": "2026-09-01T14:51:22.000Z",
           "description": "Here are some of the key questions about the agreements the Trump administration has reached with drugmakers on pricing."
-        },
-        {
-          "title": "STAT+: Novartis gets multiple sclerosis win with BTK inhibitor",
-          "link": "https://www.statnews.com/2026/09/01/biotech-news-novartis-gets-multiple-sclerosis-win-with-btk-inhibitor/?utm_campaign=rss",
-          "pubDate": "2026-09-01T13:34:13.000Z",
-          "description": "More Trump drug pricing deals, GSK speeds up development of mRNA flu vaccine, and other biotech news"
-        },
-        {
-          "title": "STAT+: Will House delay Trump plan to politicize NIH grants?",
-          "link": "https://www.statnews.com/2026/09/01/house-spending-bill-vote-grant-rule-trump-mfn-deals-dc-diagnois/?utm_campaign=rss",
-          "pubDate": "2026-09-01T12:03:04.000Z",
-          "description": "The federal spending bill has an important provision for researchers, and Trump announced more MFN deals with pharma firms."
         }
       ]
     },
     "biopharmadive": {
       "name": "BioPharma Dive",
       "items": [
+        {
+          "title": "An AI drug specialist zeroes in on rare forms of obesity",
+          "link": "https://www.biopharmadive.com/news/superluminal-medicines-obesity-ai-drug-discovery-series-b/829552/",
+          "pubDate": "2026-09-03T16:20:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/JikBqIBd-z87mV89lFI2VhLGRBmXDVveUUMHhQHnFPk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzA2NTMwOTMyLmpwZw==.webp\"/></div></figure><p>Superluminal M"
+        },
+        {
+          "title": "GSK wagers up to $1.3B on a different kind of cancer drug",
+          "link": "https://www.biopharmadive.com/news/gsk-hutchmed-egfr-kras-cancer-drug-deal-china/829542/",
+          "pubDate": "2026-09-03T16:01:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/mDk-h3NLB8udDPFuDlI7IPou1i9tJKJYucQXUnhK9vA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc3MzEzMjc4LmpwZw==.webp\"/></div></figure><p>With its lates"
+        },
+        {
+          "title": "Ultragenyx to weigh ‘significant’ cost cuts as Angelman drug fails key study",
+          "link": "https://www.biopharmadive.com/news/ultragenyx-angelman-syndrome-drug-results-cost-cuts/829528/",
+          "pubDate": "2026-09-03T14:53:00.000Z",
+          "description": "<p>The failure of what was once considered a potential blockbuster therapy represents a major setback in a tough-to-treat disease and is forcing Ultragenyx to closely examine its expenses.</p>"
+        },
+        {
+          "title": "Akeso, Summit cancer drug confirms lung cancer survival benefit",
+          "link": "https://www.biopharmadive.com/news/akeso-summit-cancer-drug-ivonescimab-confirms-lung-cancer-survival-benefit/829538/",
+          "pubDate": "2026-09-03T13:14:12.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/DXO95hTwvXeb31BPsDT8mRQZBsDXBzkh8y-DSxzCOSk/g:nowe:0:180/c:2000:1129/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDA3MzIxMTg5LmpwZw==.webp\"/></div></figu"
+        },
         {
           "title": "The hidden scale-out problem behind CAR-T’s growth",
           "link": "https://www.biopharmadive.com/news/the-hidden-scale-out-problem-behind-car-t-growth/829405/",
@@ -186,30 +210,6 @@
           "link": "https://www.biopharmadive.com/news/teva-celiac-biomarin-ascendis-gsk-flu-biontech-mifepristone/828937/",
           "pubDate": "2026-09-02T14:12:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\"/></div></figure>"
-        },
-        {
-          "title": "Mid-cap biotechs join Trump’s latest round of drug pricing deals",
-          "link": "https://www.biopharmadive.com/news/medicaid-low-price-model-drugmakers-white-house/829282/",
-          "pubDate": "2026-09-01T16:14:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/QgWntJBIi9wmk7OGDnQXGHnnNV7oD0cWSDPggs993zs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgzMDg4MTAwLmpwZw==.webp\"/></div></figure><p>Focused on Med"
-        },
-        {
-          "title": "Novartis says MS pill succeeds in two large studies",
-          "link": "https://www.biopharmadive.com/news/novartis-remibrutinib-relapsing-multiple-sclerosis-study-results/829300/",
-          "pubDate": "2026-09-01T15:58:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/zfRhQ6UdoLhrnrg6WnOJHxS_autlpVcZwuWId9Q7ZSI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5Nzg4MDE4LmpwZw==.webp\"/></div></figure><p>Notably, Novar"
-        },
-        {
-          "title": "Alumis’ TYK2 drug fails in key lupus study",
-          "link": "https://www.biopharmadive.com/news/alumis-lupus-tyk2-inhibitor-lumus-study-failure/829286/",
-          "pubDate": "2026-09-01T15:28:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/TdEzB9fivWcYdfSq7t-4EvsoludfqTCe-laYACTMMvk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgyMTM0MDgzLmpwZw==.webp\"/></div></figure><p>Though Alumis "
-        },
-        {
-          "title": "Novartis, Bristol Myers pause autoimmune CAR-T trials due to safety concerns",
-          "link": "https://www.biopharmadive.com/news/novartis-bristol-myers-autoimmune-cell-therapy-trial-halt/829218/",
-          "pubDate": "2026-08-31T21:38:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/X3sV_EXvyvsvpYIxmtC_tj_n9c7XBDYmBNLrkm5EaVE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jYXItdF9jYW5jZXJfY2VsbF90aGVyYXB5LmpwZw==.webp\"/></div></figure><p>The deaths"
         }
       ]
     }
