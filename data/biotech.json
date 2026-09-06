@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T13:35:21.084Z",
+  "generatedAt": "2026-09-06T13:50:45.965Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
@@ -164,6 +164,12 @@
       "name": "BioPharma Dive",
       "items": [
         {
+          "title": "Novartis, Ionis drug failure spurs questions about an emerging class of heart medicines",
+          "link": "https://www.biopharmadive.com/news/novartis-ionis-pelacarsen-lpa-horizon-study-results-fail/829736/",
+          "pubDate": "2026-09-05T16:51:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/aqW0OluGxeTjgQMC31sKD6r-yo2ojrHgFgSPl_pqzuY/g:nowe:0:1263/c:5616:3173/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTMxNTEwOTA4LmpwZw==.webp\"/></div></fig"
+        },
+        {
           "title": "Trailing rivals, AbbVie scores win with dual-acting myeloma drug",
           "link": "https://www.biopharmadive.com/news/abbvie-multiple-myeloma-etentamig-phase-3-trial-results/829672/",
           "pubDate": "2026-09-04T16:00:00.000Z",
@@ -204,12 +210,6 @@
           "link": "https://www.biopharmadive.com/news/akeso-summit-cancer-drug-ivonescimab-confirms-lung-cancer-survival-benefit/829538/",
           "pubDate": "2026-09-03T13:14:12.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/DXO95hTwvXeb31BPsDT8mRQZBsDXBzkh8y-DSxzCOSk/g:nowe:0:180/c:2000:1129/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDA3MzIxMTg5LmpwZw==.webp\"/></div></figu"
-        },
-        {
-          "title": "The hidden scale-out problem behind CAR-T’s growth",
-          "link": "https://www.biopharmadive.com/news/the-hidden-scale-out-problem-behind-car-t-growth/829405/",
-          "pubDate": "2026-09-03T12:00:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/NqVSIzno9BnKK70l80W9phVhOdTVqntzodTfqRszY1o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waGFybWEtbWFudWZhY3R1cmluZy10ZWNobmljaWFuLWdldHR5LTE0MjE0MDE4ODQuanBn.webp\"/>"
         }
       ]
     }
