@@ -1,4 +1,5 @@
 import { writeFile, mkdir } from 'node:fs/promises';
+import { previousClose } from './yahoo.mjs';
 
 // Kept in sync by hand with DEFAULT_WATCHLIST in app.js. Fetched here, server-side,
 // because browsers can't reliably call these APIs directly (CORS/auth walls) — the
@@ -38,11 +39,7 @@ async function fetchYahoo(symbol) {
   const meta = result?.meta;
   if (!meta || meta.regularMarketPrice == null) throw new Error('no data');
   const price = meta.regularMarketPrice;
-  // meta.chartPreviousClose is unreliable with range=5d (it isn't consistently
-  // "yesterday's close") — use the actual daily close series instead: the
-  // second-to-last close is the prior trading day's close.
-  const closes = (result?.indicators?.quote?.[0]?.close || []).filter(c => c != null);
-  const prevClose = closes.length >= 2 ? closes[closes.length - 2] : (meta.chartPreviousClose ?? meta.previousClose);
+  const prevClose = previousClose(result);
   const changePct = prevClose ? ((price - prevClose) / prevClose) * 100 : null;
   return { price, changePct };
 }
