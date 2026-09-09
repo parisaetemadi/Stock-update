@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-09-08T14:48:23.716Z",
+  "generatedAt": "2026-09-09T14:51:47.361Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
         {
-          "title": "FDA approves AstraZeneca’s Etcamah, opening ctDNA-guided treatment paradigm in breast cancer",
-          "link": "https://www.fiercebiotech.com/pharma/fda-approves-astrazeneca-etcamah-opening-ctdna-guided-treatment-shift-breast-cancer",
-          "pubDate": "2026-09-08T09:57:00.000Z",
-          "description": "In a rare divergence from its own expert panel, the FDA has granted accelerated approval to AstraZeneca’s camizestrant, turning a contentious regulatory review into a landmark win that opens a new treatment paradigm for molecular-guided can"
+          "title": "Kura creates Lilly-backed spinout armed with $50M to advance next-gen diabetes therapy",
+          "link": "https://www.fiercebiotech.com/biotech/kura-creates-lilly-backed-spinout-take-forward-next-gen-diabetes-therapy",
+          "pubDate": "2026-09-09T08:56:00.000Z",
+          "description": "Kura Oncology has spun out a biotech armed with $50 million in fresh funding to take forward a next-generation diabetes treatment."
         },
         {
-          "title": "Spyre's 3-pronged IBD strategy on track as IL-23 antibody rounds off trio of phase 2 wins",
-          "link": "https://www.fiercebiotech.com/biotech/spyre-snags-phase-2-win-il-23-antibody-round-ulcerative-colitis-program",
-          "pubDate": "2026-09-08T09:46:00.000Z",
-          "description": "Spyre's three-pronged approach to inflammatory bowel disease continues to pay off, with the biotech's anti-IL-23 antibody notching a phase 2 win."
+          "title": "Luma locks down 15-year, $410M fund for life science investments",
+          "link": "https://www.fiercebiotech.com/biotech/luma-closes-410m-fund-life-sciences-biotechs-over-15-years",
+          "pubDate": "2026-09-09T09:45:00.000Z",
+          "description": "Luma Group announced the final close of its inaugural life sciences venture capital fund totaling $410 million."
         },
         {
-          "title": "Inhibrx CEO says progression-free survival data leave ‘no question’ about OX40 agonist’s durability",
-          "link": "https://www.fiercebiotech.com/biotech/inhibrxs-profound-dataset-boosts-hopes-accelerated-approval-ox40-agonist",
-          "pubDate": "2026-09-08T00:22:00.000Z",
-          "description": "Inhibrx Biosciences’ CEO has argued that the 9.6 months of progression-free survival demonstrated by its OX40 agonist in a phase 2 study has proven the therapy’s durability in treating head and neck cancer."
+          "title": "Google-backed Encoded gains $275M to advance Dravet drug, scale genetic med manufacturing",
+          "link": "https://www.fiercebiotech.com/biotech/encoded-executes-275m-raise-advance-dravet-syndrome-asset-and-scale-manufacturing",
+          "pubDate": "2026-09-09T09:43:00.000Z",
+          "description": "Neuro-focused Encoded Therapeutics has bagged a $275 million series F round to support its Dravet syndrome asset and scale up its internal manufacturing capabilities."
         },
         {
-          "title": "Pharvaris' latest phase 3 win builds case for HAE drug with FDA verdict pending",
-          "link": "https://www.fiercebiotech.com/biotech/pharvaris-builds-case-hae-drug-awaiting-fda-verdict-another-phase-3-win",
-          "pubDate": "2026-09-08T09:29:00.000Z",
-          "description": "Pharvaris’ deucrictibant has tasted success in a second phase 3 study, strengthening the case for the therapy to treat hereditary angioedema patients as the Swiss biotech awaits an FDA approval decision."
+          "title": "Tyra rolls toward pivotal bladder cancer study even as midphase data deflates stock",
+          "link": "https://www.fiercebiotech.com/biotech/tyra-rolls-toward-pivotal-bladder-cancer-study-even-midphase-data-deflates-stock",
+          "pubDate": "2026-09-09T09:15:00.000Z",
+          "description": "Tyra Biosciences has reported initial phase 2 data on dabogratinib in bladder cancer, putting the biotech on course to start a registrational study next year. But the biotech’s stock fell in premarket trading after the complete response rat"
         },
         {
-          "title": "Bristol Myers’ pivotal CAR-T multiple myeloma trial hits primary endpoint",
-          "link": "https://www.fiercebiotech.com/biotech/bristol-myers-pivotal-car-t-multiple-myeloma-trial-hits-primary-endpoint",
-          "pubDate": "2026-09-08T09:12:00.000Z",
-          "description": "A pivotal trial of Bristol Myers Squibb’s GPRC5D-directed CAR-T cell therapy has hit its primary endpoint, furthering the drugmaker’s efforts to challenge Johnson &amp; Johnson for the post-BCMA multiple myeloma market."
+          "title": "Labcorp snaps up MLM Medical Labs to boost laboratory footprint",
+          "link": "https://www.fiercebiotech.com/medtech/labcorp-snaps-mlm-medical-labs-boost-laboratory-footprint",
+          "pubDate": "2026-09-09T02:05:00.000Z",
+          "description": "Medtech and testing giant Labcorp has bought out MLM Medical Labs to help grow its geographic footprint for laboratory services."
         },
         {
-          "title": "Boston Scientific recalls spinal cord implant in wake of more than 1k serious injuries",
-          "link": "https://www.fiercebiotech.com/medtech/boston-scientific-recalls-spinal-cord-implant-wake-more-1k-serious-injuries",
-          "pubDate": "2026-09-08T08:16:00.000Z",
-          "description": "Boston Scientific has issued another recall, this time for its spinal cord implant used to treat pain.<br>"
+          "title": "FDA solidifies CDER, CBER leadership posts as commissioner confirmation awaits",
+          "link": "https://www.fiercebiotech.com/pharma/fda-solidifies-cder-cber-leadership-posts-commissioner-confirmation-awaits",
+          "pubDate": "2026-09-09T09:01:00.000Z",
+          "description": "In a stabilizing move, the Department of Health and Human Services announced Tuesday afternoon that it has tapped Michael Davis, M.D., Ph.D., and Karim Mikhail—who’ve been serving as acting directors of CDER and CBER, respectively—to occupy"
         },
         {
-          "title": "Building the Data Foundation for AI-Driven Clinical Development",
-          "link": "https://www.fiercebiotech.com/sponsored/building-data-foundation-ai-driven-clinical-development",
-          "pubDate": "2026-09-02T15:27:00.000Z",
-          "description": "H1 is transforming clinical development with connected intelligence that improves study design, accelerates execution, and reduces cost and patient burden"
+          "title": "Beeline flies into phase 3 as oral lupus drug soars past placebo",
+          "link": "https://www.fiercebiotech.com/biotech/beeline-flies-phase-3-oral-lupus-drug-soars-past-placebo",
+          "pubDate": "2026-09-09T04:23:00.000Z",
+          "description": "A phase 2 trial of Beeline Medicines’ afimetoran has hit its primary endpoint, positioning the biotech to swarm into pivotal development in two forms of lupus."
         },
         {
-          "title": "BrainChild Bio masterminds $116M series A for CAR-T's pivotal push in pediatric brain cancer",
-          "link": "https://www.fiercebiotech.com/biotech/brainchild-bio-masterminds-116m-series-pivotal-push-pediatric-brain-cancer",
-          "pubDate": "2026-09-07T14:07:00.000Z",
-          "description": "A startup spawned from Seattle Children’s Hospital has raised a $116 million series A to advance cell therapies for devastating childhood brain tumors."
+          "title": "Solstice rises with $225M series A to advance next-gen CTLA-4 immunotherapy into phase 2",
+          "link": "https://www.fiercebiotech.com/biotech/solstice-rises-225m-advance-second-gen-ctla-4-immunotherapy",
+          "pubDate": "2026-09-09T00:08:00.000Z",
+          "description": "Solstice Oncology has secured $225 million in series A funds to advance a next-gen immunotherapy that the biotech hopes will turn “darkness to light” for cancer care."
         }
       ]
     },
@@ -58,52 +58,52 @@
       "name": "Endpoints News",
       "items": [
         {
-          "title": "Sandoz unveils plan for biosimilar expansion and new $300M factory in Slovenia",
-          "link": "https://endpoints.news/sandoz-unveils-plan-for-biosimilar-expansion-and-new-300m-factory-in-slovenia/",
-          "pubDate": "2026-09-08T14:14:32.000Z",
-          "description": "LONDON — Sandoz is betting big on its newly formed biosimilar unit, as it reveals plans to grow its pipeline there by more than sevenfold and also invests $300 million in a new biosimilar manufacturing site.\r\n\r\n ..."
+          "title": "NodThera, a decade-old NLRP3 player, plans Phase 3 and a rebrand",
+          "link": "https://endpoints.news/nodthera-a-decade-old-nlrp3-player-plans-phase-3-and-a-rebrand/",
+          "pubDate": "2026-09-09T11:01:41.000Z",
+          "description": "After tinkering with the biology of the broadly appealing anti-inflammatory NLRP3 pathway, NodThera is now plotting its pivotal trial plans for 2027.\r\n\r\n The decade-old biotech said Wednesday it is rebranding to Rezera ..."
         },
         {
-          "title": "Bristol Myers claims Phase 2 success for GPRC5D-directed CAR-T",
-          "link": "https://endpoints.news/bristol-myers-claims-phase-2-success-for-gprc5d-directed-car-t/",
-          "pubDate": "2026-09-08T14:08:51.000Z",
-          "description": "CAR-T therapy has revolutionized blood cancer treatment, particularly in multiple myeloma. But an ongoing concern remains: If patients’ cancers progress after receiving CAR-T, what other options do they have?\r\n\r\n A Phase 2 study at Bristol "
+          "title": "Cancer biotech TwoStep gets $62.5M to take twist on ADCs into clinic",
+          "link": "https://endpoints.news/cancer-biotech-twostep-gets-62-5m-to-take-twist-on-adcs-into-clinic/",
+          "pubDate": "2026-09-09T11:00:54.000Z",
+          "description": "Pfizer and Merck KGaA's venture groups are backing a nimble cancer startup taking a different approach to the popular antibody-drug conjugate and radioligand fields.\r\n\r\n TwoStep Therapeutics collected $62.5 million in a Series A raise to .."
         },
         {
-          "title": "Why consumer apps set their sights on patient health records",
-          "link": "https://endpoints.news/why-consumer-apps-set-their-sights-on-patient-health-records/",
-          "pubDate": "2026-09-08T13:00:00.000Z",
-          "description": "Just a few years ago, if you wanted your full medical records, you’d have to remember all the places you’ve received care, go patient portal by patient portal to request them and try your best ..."
+          "title": "Kura Oncology spins out diabetes pipeline with $50M and Lilly's help",
+          "link": "https://endpoints.news/kura-oncology-spins-out-diabetes-pipeline-with-50m-and-lillys-help/",
+          "pubDate": "2026-09-09T11:00:49.000Z",
+          "description": "Kura Oncology, the maker of the menin inhibitor Komzifti, is spinning out its diabetes R&D to a new company that has attracted the attention of the leading pharma in the metabolic field.\r\n\r\n ..."
         },
         {
-          "title": "Moonwalk raises $70M to test siRNA treatment for obesity",
-          "link": "https://endpoints.news/moonwalk-raises-70-million-to-test-sirna-treatment-for-obesity/",
-          "pubDate": "2026-09-08T12:00:17.000Z",
-          "description": "Moonwalk Biosciences is heading to the clinic with an obesity program and has raised $70 million for that goal, leaning into a shift in its approach to using genetic medicine.\r\n\r\n The company, founded by former ..."
+          "title": "Beeline Medicines reports promising Phase 2 lupus data",
+          "link": "https://endpoints.news/beeline-medicines-reports-promising-phase-2-lupus-data/",
+          "pubDate": "2026-09-09T11:00:48.000Z",
+          "description": "The business of advancing shelved pharma assets continues to reap benefits, this time for Beeline Medicines and a lupus candidate provided by Bristol Myers Squibb.\r\n\r\n The buzzy Bain-backed startup said Wednesday that its drug afimetoran .."
         },
         {
-          "title": "Inhibrx targets OX40 agonist-cancer vaccine studies from early next year",
-          "link": "https://endpoints.news/inhibrx-plots-ox40-agonist-cancer-vaccine-studies-from-early-next-year/",
-          "pubDate": "2026-09-08T11:30:32.000Z",
-          "description": "Inhibrx Biosciences says its latest mid-stage results show the potential of its OX40 agonist in immunogenic cancers — but also its prospects in combination with cancer vaccines in tumors with lower immunogenicity.\r\n\r\n “The next step for ..."
+          "title": "Tyra claims Phase 2 win in bladder cancer, will advance drug to pivotal trial",
+          "link": "https://endpoints.news/tyra-claims-phase-2-win-in-bladder-cancer-will-advance-drug-to-pivotal-trial/",
+          "pubDate": "2026-09-09T11:00:08.000Z",
+          "description": "Tyra Biosciences wants to challenge Johnson & Johnson in a low-risk form of bladder cancer. The Phase 2 data it released Wednesday takes a step toward that goal — although you just might have to squint ..."
         },
         {
-          "title": "BrainChild Bio gets $116M for pivotal trial of pediatric brain tumor CAR-T",
-          "link": "https://endpoints.news/brainchild-bio-gets-116m-for-trial-of-pediatric-brain-tumor-car-t/",
-          "pubDate": "2026-09-08T11:00:53.000Z",
-          "description": "A Seattle biotech trying to flip the script on CAR-T cell therapies — making them akin to small molecules for brain tumors — has put together a megaround with the hopes of becoming a commercial-stage company around ..."
+          "title": "Evommune's MRGPRX2 antagonist flunks its second I&I trial this summer",
+          "link": "https://endpoints.news/evommunes-mrgprx2-antagonist-flunks-its-second-ii-trial-this-summer/",
+          "pubDate": "2026-09-09T07:38:48.000Z",
+          "description": "Evommune's Dermira-derived small molecule has failed a Phase 2b test in atopic dermatitis, marking the second mid-stage flop for the experimental drug this summer.\r\n\r\n The Palo Alto biotech"
         },
         {
-          "title": "Diabetes cell therapy biotechs Sernova and Seraxis to merge",
-          "link": "https://endpoints.news/diabetes-cell-therapy-biotechs-sernova-and-seraxis-to-merge/",
-          "pubDate": "2026-09-08T11:00:21.000Z",
-          "description": "Two companies that have spent decades trying to develop cell therapies for diabetes are set to merge, with the aim of working together to take on a market also being pursued by Vertex and CRISPR ..."
+          "title": "Current heads of CBER, CDER snag permanent jobs",
+          "link": "https://endpoints.news/current-heads-of-cber-cder-snag-permanent-jobs/",
+          "pubDate": "2026-09-08T21:07:50.000Z",
+          "description": "The FDA has made permanent the leaders of CDER and CBER, stabilizing key agency posts as a new commissioner awaits confirmation.\r\n\r\n The decision was announced by HHS on Tuesday afternoon, naming ..."
         },
         {
-          "title": "#ERS26: Roivant reports Phase 2 win for lung disease drug that it got from Bayer",
-          "link": "https://endpoints.news/ers26-roivant-reports-phase-2-win-for-lung-disease-drug-that-it-got-from-bayer/",
-          "pubDate": "2026-09-08T10:00:00.000Z",
-          "description": "Roivant Sciences said Tuesday its inhaled drug candidate has passed a mid-stage test in interstitial lung disease, surpassing Wall Street’s benchmarks for success.\r\n\r\n In the Phase 2 trial, mosliciguat met the primary endpoint of change ..."
+          "title": "Pharvaris' stock jumps on pivotal success in rare genetic disease",
+          "link": "https://endpoints.news/pharvaris-stock-jumps-on-pivotal-success-in-rare-genetic-disease/",
+          "pubDate": "2026-09-08T18:29:02.000Z",
+          "description": "Pharvaris claims it achieved “injectable-like efficacy” in a once-daily pill for a debilitating genetic disease.\r\n\r\n The experimental drug, an extended-release version of deucrictibant, is designed to prevent swelling attacks in patients wi"
         }
       ]
     },
@@ -111,7 +111,25 @@
       "name": "STAT News (Biotech)",
       "items": [
         {
-          "title": "STAT+: Oura goes public, reported $1.2B earnings in its last fiscal year",
+          "title": "STAT+: Orexin discoverers awarded prestigious Lasker award",
+          "link": "https://www.statnews.com/2026/09/09/biotech-news-orexin-discovers-awawrded-prestigious-lasker-award/?utm_campaign=rss",
+          "pubDate": "2026-09-09T13:38:20.000Z",
+          "description": "A new FDA CBER head, AI company Schrodinger with a new startup, and more biotech news from The Readout"
+        },
+        {
+          "title": "STAT+: Leukemia drug data suggested a different way to treat diabetes. A new biotech will test that idea",
+          "link": "https://www.statnews.com/2026/09/09/kura-oncology-spins-off-diabetes-focused-caspian-therapeutics/?utm_campaign=rss",
+          "pubDate": "2026-09-09T11:00:00.000Z",
+          "description": "Caspian Therapeutics, is launching with $50 million in financing to develop menin inhibitors for diabetes and other cardiometabolic diseases."
+        },
+        {
+          "title": "STAT+: FDA names acting heads of drug and vaccine centers to permanent roles",
+          "link": "https://www.statnews.com/2026/09/08/fda-names-leaders-cder-cber-michael-davis-karim-mikhail/?utm_campaign=rss",
+          "pubDate": "2026-09-08T21:15:40.000Z",
+          "description": "The moves bring stability to an agency that's been rocked by the exits of top leadership."
+        },
+        {
+          "title": "STAT+: Oura files to goes public, reported $1.2B in earnings",
           "link": "https://www.statnews.com/2026/09/08/health-tech-newsletter-oura-goes-public-reports-profitability/?utm_campaign=rss",
           "pubDate": "2026-09-08T14:18:41.000Z",
           "description": "In health tech news today, Oura reports a profit, the FDA loses another key digital health leader, and more"
@@ -139,30 +157,42 @@
           "link": "https://www.statnews.com/2026/09/07/novo-nordisk-heart-studies-inflammation-ziltivekimab/?utm_campaign=rss",
           "pubDate": "2026-09-07T11:13:52.000Z",
           "description": "Novo Nordisk has stopped two trials of a drug that aims to tame inflammation as a way to improve cardiovascular health, another blow for the approach."
-        },
-        {
-          "title": "STAT+: Novartis’ experimental cardiovascular drug fails a pivotal study",
-          "link": "https://www.statnews.com/2026/09/04/novartis-therapy-pelacarsen-fails-cardiovascular-trial/?utm_campaign=rss",
-          "pubDate": "2026-09-04T21:07:27.000Z",
-          "description": "A closely watched cardiovascular drug from Novartis failed in a pivotal study, the company said Friday, a major blow to the firm."
-        },
-        {
-          "title": "STAT+: After failure of Angelman syndrome drug, experts see hope in other experimental therapies",
-          "link": "https://www.statnews.com/2026/09/04/angelman-syndrome-drug-ultragenyx-oak-hill-ionis/?utm_campaign=rss",
-          "pubDate": "2026-09-04T15:34:42.000Z",
-          "description": "After the failure of an experimental drug for Angelman syndrome, experts cautioned that there is still reason to think similar experimental medicines can succeed."
-        },
-        {
-          "title": "STAT+: FDA takes another look at botanical drugs",
-          "link": "https://www.statnews.com/2026/09/04/biotech-news-fda-takes-another-look-at-botanical-drugs/?utm_campaign=rss",
-          "pubDate": "2026-09-04T13:46:42.000Z",
-          "description": "The biggest barrier for a top schzophrenia treatment, Ionis' first approval for Alexander disease, and more biotech news"
         }
       ]
     },
     "biopharmadive": {
       "name": "BioPharma Dive",
       "items": [
+        {
+          "title": "A new immuno-oncology play raises $225M for a next-generation drug",
+          "link": "https://www.biopharmadive.com/news/solstice-immuno-oncology-cancer-series-a-launch/829811/",
+          "pubDate": "2026-09-09T11:00:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/t2eSQFnULTRPQ6pHoF74ilRTdrAlEvvFROsITsihAlw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDUzMDQ1NTczLmpwZw==.webp\"/></div></figure><p>Solstice Oncol"
+        },
+        {
+          "title": "Six AI agents, one deskside system: A new model for clinical decision support",
+          "link": "https://www.biopharmadive.com/spons/six-ai-agents-one-deskside-system-a-new-model-for-clinical-decision-suppo/829301/",
+          "pubDate": "2026-09-08T23:00:00.000Z",
+          "description": "<p>Multi-agent AI reasoning at the point of care, with complete data sovereignty built in.</p>"
+        },
+        {
+          "title": "Roivant surges on ‘exceptional’ results; Bristol Myers touts first-of-its-kind CAR-T therapy",
+          "link": "https://www.biopharmadive.com/news/roivant-astrazeneca-etcamah-GPRC5D-pharvaris-inhibrx/829763/",
+          "pubDate": "2026-09-08T18:41:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\"/></div></figure>"
+        },
+        {
+          "title": "Moonwalk reloads with $70M and new RNAi prospects for obesity",
+          "link": "https://www.biopharmadive.com/news/moonwalk-series-b-obesity-rna-interference/829784/",
+          "pubDate": "2026-09-08T15:52:00.000Z",
+          "description": "<p>The California biotech plans to bring its first drug, enabled by licensing technology from a Chinese drugmaker, into clinical testing for obesity by the end of 2027.</p>"
+        },
+        {
+          "title": "Novartis RNA drug falls short in rare muscle disease study",
+          "link": "https://www.biopharmadive.com/news/novartis-rna-drug-failure-dm1-avidity-del-desiran/829778/",
+          "pubDate": "2026-09-08T13:23:20.000Z",
+          "description": "<p>The failure of &ldquo;del-desiran,&rdquo; which Novartis got through a $12 billion acquisition, could raise questions about the company&rsquo;s business development acumen, according to one analyst.</p>"
+        },
         {
           "title": "BrainChild hauls in $116M to make cell therapies for childhood brain cancers",
           "link": "https://www.biopharmadive.com/news/brainchild-pediatric-brain-tumors-car-t/829463/",
@@ -180,36 +210,6 @@
           "link": "https://www.biopharmadive.com/news/abbvie-multiple-myeloma-etentamig-phase-3-trial-results/829672/",
           "pubDate": "2026-09-04T16:00:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/0cnfwe5d43GhJmKetdmaK8qIEtUFH-OzbzGPXEu163M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yR0JLN0JZLmpwZw==.webp\"/></div></figure><p>The drugmaker is leaning on a bett"
-        },
-        {
-          "title": "This week in charts: China deals, stock flatlines and Lilly’s M&A spree",
-          "link": "https://www.biopharmadive.com/news/charts-biotech-deals-china-alumis-ultragenyx-stock/829635/",
-          "pubDate": "2026-09-04T15:56:31.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/S7kYl4_8o-FTTXWhd92CtQyC0IbGNdT9f0kWAlh5hRk/g:nowe:0:217/c:4928:2784/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyLmpwZw==.webp\"/></div></figu"
-        },
-        {
-          "title": "Ionis’ rare neurology drug approved; Pfizer inks an ADC deal",
-          "link": "https://www.biopharmadive.com/news/ionis-rare-neurology-drug-approved-pfizer-inks-an-adc-deal/829639/",
-          "pubDate": "2026-09-04T13:00:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\"/></div></figure>"
-        },
-        {
-          "title": "An AI drug specialist zeroes in on rare forms of obesity",
-          "link": "https://www.biopharmadive.com/news/superluminal-medicines-obesity-ai-drug-discovery-series-b/829552/",
-          "pubDate": "2026-09-03T16:20:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/JikBqIBd-z87mV89lFI2VhLGRBmXDVveUUMHhQHnFPk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzA2NTMwOTMyLmpwZw==.webp\"/></div></figure><p>Superluminal M"
-        },
-        {
-          "title": "GSK wagers up to $1.3B on a different kind of cancer drug",
-          "link": "https://www.biopharmadive.com/news/gsk-hutchmed-egfr-kras-cancer-drug-deal-china/829542/",
-          "pubDate": "2026-09-03T16:01:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/mDk-h3NLB8udDPFuDlI7IPou1i9tJKJYucQXUnhK9vA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc3MzEzMjc4LmpwZw==.webp\"/></div></figure><p>With its lates"
-        },
-        {
-          "title": "Ultragenyx to weigh ‘significant’ cost cuts as Angelman drug fails key study",
-          "link": "https://www.biopharmadive.com/news/ultragenyx-angelman-syndrome-drug-results-cost-cuts/829528/",
-          "pubDate": "2026-09-03T14:53:00.000Z",
-          "description": "<p>The failure of what was once considered a potential blockbuster therapy represents a major setback in a tough-to-treat disease and is forcing Ultragenyx to closely examine its expenses.</p>"
         }
       ]
     }
