@@ -1,5 +1,9 @@
 {
-  "generatedAt": "2026-09-09T14:51:47.886Z",
+  "generatedAt": "2026-09-10T14:41:02.590Z",
+  "us": {
+    "cpiYoY": 3.3648250414799055,
+    "period": "July 2026"
+  },
   "usPce": {
     "pceYoY": 3.7011657214870812,
     "period": "July 2026"
