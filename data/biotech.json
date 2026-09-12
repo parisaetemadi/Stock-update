@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-09-11T14:40:14.020Z",
+  "generatedAt": "2026-09-12T13:47:47.535Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
+        {
+          "title": "FDA delays approval decision for Exelixis' tyrosine kinase inhibitor in colorectal cancer",
+          "link": "https://www.fiercebiotech.com/biotech/fda-delays-approval-exelixis-tyrosine-kinase-inhibitor-colorectal-cancer-analysts-believe",
+          "pubDate": "2026-09-11T09:53:00.000Z",
+          "description": "The FDA has delayed its approval decision for Exelixis’ oral kinase inhibitor in combination with Roche’s Tecentriq for the treatment of metastatic colorectal cancer."
+        },
         {
           "title": "The future of RAS inhibitors",
           "link": "https://www.fiercebiotech.com/biotech/future-ras-inhibitors",
@@ -45,18 +51,42 @@
           "link": "https://www.fiercebiotech.com/pharma/novartis-shareholder-calls-board-overhaul-following-costly-deal-setbacks-reuters",
           "pubDate": "2026-09-10T10:09:00.000Z",
           "description": "Novartis’ recent dual clinical setbacks have prompted questions from a major shareholder about the board’s oversight of dealmaking."
-        },
-        {
-          "title": "Mass. governor makes pre-election pitch to biotechs amid warning early-stage start-ups are 'dying'",
-          "link": "https://www.fiercebiotech.com/biotech/massachusetts-biotech-its-all-about-access-capital-governor-healey",
-          "pubDate": "2026-09-09T22:20:00.000Z",
-          "description": "It may have seemed like an ordinary Wednesday afternoon at MassBio’s headquarters in Technology Square, but the black SUV parked outside was a telltale sign that the Cambridge, Massachusetts-based biotech trade group was playing host to a g"
         }
       ]
     },
     "endpoints": {
       "name": "Endpoints News",
       "items": [
+        {
+          "title": "Setbacks for Novartis; Anthropic looks for a dealmaker; and more",
+          "link": "https://endpoints.news/setbacks-for-novartis-anthropic-looks-for-a-dealmaker-and-more/",
+          "pubDate": "2026-09-12T10:00:51.000Z",
+          "description": "Welcome back to another edition of Endpoints Weekly! While it is still technically summer, the season is starting to turn now that we’re past Labor Day. It will be a sprint to Thanksgiving, and we’ll ..."
+        },
+        {
+          "title": "FDA extends review of Exelixis' colorectal cancer drug candidate",
+          "link": "https://endpoints.news/fda-extends-review-of-exelixis-colorectal-cancer-drug-candidate/",
+          "pubDate": "2026-09-11T16:02:17.000Z",
+          "description": "California-based drug developer Exelixis submitted new safety and efficacy data on its potential treatment of metastatic colorectal cancer (mCRC) to the FDA. The new data led to a three-month extension in the agency's review, the ..."
+        },
+        {
+          "title": "Yarrow brings in more cash; AbbVie drug succeeds in menstrual migraine trial",
+          "link": "https://endpoints.news/yarrow-brings-in-more-cash-abbvie-drug-succeeds-in-menstrual-migraine-trial/",
+          "pubDate": "2026-09-11T15:28:37.000Z",
+          "description": "Plus news about Sino Biopharm and AtomVie.\r\n\r\n Yarrow gets more money: New Haven-based Yarrow Bioscience priced a $150 million offering at $26 per share {$YARW}, about $2.50 below its Thursday closing ..."
+        },
+        {
+          "title": "New report may spell trouble for future cheaper biologics",
+          "link": "https://endpoints.news/new-report-may-spell-trouble-for-future-cheaper-biologics/",
+          "pubDate": "2026-09-11T15:22:09.000Z",
+          "description": "A trade group representing generics and biosimilars is warning that the lack of product development could imperil billions of dollars in potential savings.\r\n\r\n The new report released Thursday by the Association ..."
+        },
+        {
+          "title": "Alzheon outlines plans for major fundraising round despite Phase 3 miss for Alzheimer's drug",
+          "link": "https://endpoints.news/alzheon-outlines-plans-for-major-fundraising-round-despite-phase-3-miss-for-alzheimers-drug/",
+          "pubDate": "2026-09-11T15:01:59.000Z",
+          "description": "Alzheon, a biotech that has been attempting to treat Alzheimer's with a checkered drug candidate for more than a decade, is plotting a major fundraise.\r\n\r\n The Framingham, MA-based biotech outlined an up to $500 million ..."
+        },
         {
           "title": "Takeda's R&D chief Andy Plump to retire; Novo Nordisk appoints global research head",
           "link": "https://endpoints.news/takedas-r-novo-nordisk-appoints-global-research-head/",
@@ -74,42 +104,18 @@
           "link": "https://endpoints.news/shionogis-stroke-drug-fails-mid-stage-bayers-hyrnuo-gets-expanded-label/",
           "pubDate": "2026-09-10T15:06:53.000Z",
           "description": "Plus news about Tevard Biosciences, InduPro, EMD Serono, Shionogi, Bayer's Hyrnuo.\r\n\r\n Disc's competitor for Takeda's blood disorder drug Mimrylo: Disc Medicine shared initial data from its Phase 2 RESTORE-PV trial, which ..."
-        },
-        {
-          "title": "Lonza to build new US factory; Samsung Bio signs $262M contract",
-          "link": "https://endpoints.news/lonza-to-build-new-us-factory-samsung-bio-signs-262m-contract/",
-          "pubDate": "2026-09-10T15:01:04.000Z",
-          "description": "Plus, news about Boston Scientific. \r\n\r\n Lonza’s new factory in the US: Lonza is expanding its US capacity with a new commercial spray-drying facility in Bend, OR. The new build is ..."
-        },
-        {
-          "title": "How past Endpoints 11 winners fared as biotech industry rebounded",
-          "link": "https://endpoints.news/how-past-endpoints-11-winners-fared-as-biotech-industry-rebounded/",
-          "pubDate": "2026-09-10T14:30:21.000Z",
-          "description": "We'll be unveiling this year's Endpoints 11 in Boston on the night of Sept. 24. Join us.\r\n The biopharma industry feels much different than it did in 2018, when Endpoints News ..."
-        },
-        {
-          "title": "The blueprint for clinical AI",
-          "link": "https://endpoints.news/the-blueprint-for-clinical-ai/",
-          "pubDate": "2026-09-10T14:24:11.000Z",
-          "description": "ARPA-H, a federal agency that funds breakthrough health technologies, just kicked off a new program called ADVOCATE that provides millions of dollars to health tech companies to build AI agents ..."
-        },
-        {
-          "title": "FDA places partial hold on Biohaven's ion channel drug",
-          "link": "https://endpoints.news/fda-places-partial-hold-on-biohavens-ion-channel-drug/",
-          "pubDate": "2026-09-10T13:58:04.000Z",
-          "description": "The FDA has placed a troubled Biohaven program on partial clinical hold, the company disclosed Wednesday.\r\n\r\n An epilepsy study of the experimental drug called BHV-7000 was paused after regulators requested more information about preclinica"
-        },
-        {
-          "title": "What Oura's IPO filing reveals about its healthcare ambitions",
-          "link": "https://endpoints.news/what-ouras-ipo-filing-reveals-about-its-healthcare-ambitions/",
-          "pubDate": "2026-09-10T12:00:24.000Z",
-          "description": "Oura's newly filed S-1 sheds some light on how it's thinking about its healthcare business.\r\n\r\n As it gears up to go public, Oura described in its S-1, released ..."
         }
       ]
     },
     "statnews": {
       "name": "STAT News (Biotech)",
       "items": [
+        {
+          "title": "STAT+: Scholar Rock wins FDA approval for first drug to target SMA muscle loss",
+          "link": "https://www.statnews.com/2026/09/11/scholar-rock-spinal-muscular-atrophy-isembyld-clinical-trial-fda-approval/?utm_campaign=rss",
+          "pubDate": "2026-09-11T23:30:21.000Z",
+          "description": "A late-stage clinical trial found that, when combined with an SMN2-targeting drug, Isembyld caused young patients’ motor skills to improve after a year."
+        },
         {
           "title": "STAT+: Cancer drug shortages keep disrupting patient care",
           "link": "https://www.statnews.com/2026/09/11/biotech-news-cancer-drug-shortages-keep-disrupting-patient-care/?utm_campaign=rss",
@@ -151,18 +157,18 @@
           "link": "https://www.statnews.com/2026/09/09/kura-oncology-spins-off-diabetes-focused-caspian-therapeutics/?utm_campaign=rss",
           "pubDate": "2026-09-09T11:00:00.000Z",
           "description": "Caspian Therapeutics, is launching with $50 million in financing to develop menin inhibitors for diabetes and other cardiometabolic diseases."
-        },
-        {
-          "title": "STAT+: FDA names acting heads of drug and vaccine centers to permanent roles",
-          "link": "https://www.statnews.com/2026/09/08/fda-names-leaders-cder-cber-michael-davis-karim-mikhail/?utm_campaign=rss",
-          "pubDate": "2026-09-08T21:15:40.000Z",
-          "description": "The moves bring stability to an agency that's been rocked by the exits of top leadership."
         }
       ]
     },
     "biopharmadive": {
       "name": "BioPharma Dive",
       "items": [
+        {
+          "title": "This week in charts: RA’s insatiable appetite, Novartis’ big slide and a reverse merger spree",
+          "link": "https://www.biopharmadive.com/news/biotech-charts-ra-capital-venture-novartis-reverse-mergers/830052/",
+          "pubDate": "2026-09-11T15:22:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/S7kYl4_8o-FTTXWhd92CtQyC0IbGNdT9f0kWAlh5hRk/g:nowe:0:217/c:4928:2784/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyLmpwZw==.webp\"/></div></figu"
+        },
         {
           "title": "Karyopharm pushes off debt payment; Amgen eyes broader Imdelltra use",
           "link": "https://www.biopharmadive.com/news/imdelltra-bridgebio-oncology-evommune-encoded-tectora/830056/",
@@ -204,12 +210,6 @@
           "link": "https://www.biopharmadive.com/news/caspian-diabetes-kura-oncology-menin-inhibitors-lilly/829860/",
           "pubDate": "2026-09-09T15:54:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/JSL6MFx_7G82fkdt2b5xaD1Fqy3_zdU_F7C-j0TJiy8/g:nowe:88:975/c:5259:2971/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTc4ODE2NTQ3LmpwZw==.webp\"/></div></fig"
-        },
-        {
-          "title": "FDA gains ‘continuity’ as Mikhail, Davis named permanent CBER, CDER leaders",
-          "link": "https://www.biopharmadive.com/news/fda-mikhail-davis-cber-cder-director-hhs/829886/",
-          "pubDate": "2026-09-09T15:04:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/f5a4VRDXQg-SwH2yBDKHbtLeyVHpX8cemnSbe-t-6xU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp\"/></div></figure><p>After "
         }
       ]
     }
