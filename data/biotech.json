@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-09-12T13:47:47.535Z",
+  "generatedAt": "2026-09-13T14:44:18.633Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
+        {
+          "title": "GE HealthCare mulls $1B imaging chemicals maker deal: Financial Times",
+          "link": "https://www.fiercebiotech.com/medtech/ge-healthcare-mulling-1b-imaging-chemicals-maker-deal-financial-times",
+          "pubDate": "2026-09-13T08:05:00.000Z",
+          "description": "GE HealthCare is said to be on the cusp of buying out radiopharmaceutical developer Sofie Biosciences, according to a report by the Financial Times."
+        },
+        {
+          "title": "GSK’s Hansoh-partnered ADC lays down marker for lung cancer scrap with Merck",
+          "link": "https://www.fiercebiotech.com/biotech/gsks-adc-lays-down-marker-lung-cancer-scrap-merck-co",
+          "pubDate": "2026-09-11T04:54:00.000Z",
+          "description": "GSK’s risvutatug rezetecan has achieved a median overall survival of 18.5 months in a phase 3 trial, painting the antibody-drug conjugate as a threat to Amgen and Merck &amp; Co. in the lung cancer field."
+        },
         {
           "title": "FDA delays approval decision for Exelixis' tyrosine kinase inhibitor in colorectal cancer",
           "link": "https://www.fiercebiotech.com/biotech/fda-delays-approval-exelixis-tyrosine-kinase-inhibitor-colorectal-cancer-analysts-believe",
@@ -23,40 +35,34 @@
           "description": "The announcement from Merck &amp; Co. and Moderna last month that their mRNA cancer vaccine had successfully lengthened patient survival in a phase 3 study affirmed the two companies' years of hard work and reignited hopes for the field of "
         },
         {
-          "title": "Singapore launches biotech-focused Boston hub to build on 'centuries-old bond'",
-          "link": "https://www.fiercebiotech.com/biotech/singapore-launches-biotech-focused-boston-hub-do-hard-work-matters",
-          "pubDate": "2026-09-10T21:39:00.000Z",
-          "description": "Officials rubbed shoulders with business leaders in a 19th-floor meeting room to celebrate the launch of Singapore’s newest Overseas Centre."
-        },
-        {
           "title": "Chutes & Ladders—Longtime Takeda R&D chief to depart next June",
           "link": "https://www.fiercebiotech.com/biotech/chutes-ladders-longtime-takeda-rd-chief-depart-next-june",
           "pubDate": "2026-09-10T14:42:00.000Z",
           "description": "Takeda President of Research and Development Andy Plump, M.D., Ph.D., is leaving the company in June after twelve years in the position."
         },
         {
+          "title": "Singapore launches biotech-focused Boston hub to build on 'centuries-old bond'",
+          "link": "https://www.fiercebiotech.com/biotech/singapore-launches-biotech-focused-boston-hub-do-hard-work-matters",
+          "pubDate": "2026-09-10T21:39:00.000Z",
+          "description": "Officials rubbed shoulders with business leaders in a 19th-floor meeting room to celebrate the launch of Singapore’s newest Overseas Centre."
+        },
+        {
           "title": "Scientists boycott American Diabetes Association as fallout of June conference fracas escalates",
           "link": "https://www.fiercebiotech.com/research/scientists-boycott-american-diabetes-association-fallout-june-conference-fracas-escalates",
           "pubDate": "2026-09-10T19:34:00.000Z",
           "description": "Following the removal of five scientists from its annual conference in June, members of the American Diabetes Association have launched a boycott of the organization that includes halting the review of grants and new articles submitted to t"
-        },
-        {
-          "title": "In first interview as FDA oncology chief, Angelo de Claro vows to ‘continue the innovation’ behind OCE legacy",
-          "link": "https://www.fiercebiotech.com/pharma/first-interview-fda-oncology-chief-angelo-de-claro-vows-continue-innovation-behind-oce",
-          "pubDate": "2026-09-10T23:39:00.000Z",
-          "description": "In his first interview after taking the reins of the FDA’s Oncology Center of Excellence, Angelo de Claro, M.D., is outlining a regulatory agenda that prioritizes organizational strength and continued regulatory modernization."
-        },
-        {
-          "title": "Novartis shareholder calls for board overhaul following costly deal setbacks: Reuters",
-          "link": "https://www.fiercebiotech.com/pharma/novartis-shareholder-calls-board-overhaul-following-costly-deal-setbacks-reuters",
-          "pubDate": "2026-09-10T10:09:00.000Z",
-          "description": "Novartis’ recent dual clinical setbacks have prompted questions from a major shareholder about the board’s oversight of dealmaking."
         }
       ]
     },
     "endpoints": {
       "name": "Endpoints News",
       "items": [
+        {
+          "title": "Akeso details survival win for its PD-1xVEGF drug versus Keytruda",
+          "link": "https://endpoints.news/akeso-details-survival-win-for-its-pd-1xvegf-drug-versus-keytruda/",
+          "pubDate": "2026-09-13T01:46:49.000Z",
+          "description": "Akeso and Summit Therapeutics claimed a key win over Keytruda at the start of September, and are now spelling out that survival data. They hope it will add to the trove of results supporting the ..."
+        },
         {
           "title": "Setbacks for Novartis; Anthropic looks for a dealmaker; and more",
           "link": "https://endpoints.news/setbacks-for-novartis-anthropic-looks-for-a-dealmaker-and-more/",
@@ -98,12 +104,6 @@
           "link": "https://endpoints.news/fda-suggests-regulatory-flexibility-for-assessing-psychedelics/",
           "pubDate": "2026-09-10T18:09:37.000Z",
           "description": "FDA regulators said they’re open to “innovative approaches” for studying the effects of psychedelic therapies, including the use of comparators other than placebo.\r\n\r\n The comments echo recently finalized regulatory guidance and signal ..."
-        },
-        {
-          "title": "Shionogi's stroke drug fails mid-stage; Bayer's Hyrnuo gets expanded label",
-          "link": "https://endpoints.news/shionogis-stroke-drug-fails-mid-stage-bayers-hyrnuo-gets-expanded-label/",
-          "pubDate": "2026-09-10T15:06:53.000Z",
-          "description": "Plus news about Tevard Biosciences, InduPro, EMD Serono, Shionogi, Bayer's Hyrnuo.\r\n\r\n Disc's competitor for Takeda's blood disorder drug Mimrylo: Disc Medicine shared initial data from its Phase 2 RESTORE-PV trial, which ..."
         }
       ]
     },
