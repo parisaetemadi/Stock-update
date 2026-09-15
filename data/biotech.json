@@ -1,26 +1,38 @@
 {
-  "generatedAt": "2026-09-14T16:39:50.746Z",
+  "generatedAt": "2026-09-15T04:55:26.623Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
         {
+          "title": "As ‘cultural weight’ of a psychedelic approval looms, FDA hearing focuses on access and safety",
+          "link": "https://www.fiercebiotech.com/biotech/cultural-weight-psychedelic-approval-looms-fda-hearing-focuses-access-and-safety",
+          "pubDate": "2026-09-14T17:48:00.000Z",
+          "description": "As the FDA marches toward the likely first approval of a psychedelic medicine, the agency today convened a hearing seeking public input on how these drugs should be used, monitored and continuously studied in the real world."
+        },
+        {
+          "title": "Lilly cans early experimental obesity drug after ‘high bar’ not met",
+          "link": "https://www.fiercebiotech.com/biotech/lilly-cans-early-experimental-obesity-drug-after-high-bar-not-met",
+          "pubDate": "2026-09-14T12:38:00.000Z",
+          "description": "Eli Lilly has put the kibosh on an early-stage obesity drug after the candidate didn’t meet the pharma giant’s lofty expectations."
+        },
+        {
           "title": "Corbus posts phase 1 obesity data for drug mechanism that defeated Novo, Sanofi",
           "link": "https://www.fiercebiotech.com/biotech/corbus-posts-phase-1-obesity-data-area-where-novo-and-sanofi-stumbled",
           "pubDate": "2026-09-14T10:07:00.000Z",
-          "description": "Corbus Pharmaceuticals’ phase 1b obesity trial has generated evidence its CB1 inverse agonist may be less prone to the neuropsychiatric side effects that affected Novo Nordisk and Sanofi. The biotech plans to enter phase 2. <br>"
+          "description": "Corbus Pharmaceuticals’ phase 1b obesity trial has generated evidence that its CB1 inverse agonist may be less prone to the neuropsychiatric side effects that affected Novo Nordisk and Sanofi. The biotech plans to enter phase 2. <br>"
         },
         {
           "title": "Electra aims for $342M IPO to power inflammatory drug’s push through phase 3",
           "link": "https://www.fiercebiotech.com/biotech/electra-aims-342m-ipo-power-inflammatory-drugs-push-through-phase-3",
           "pubDate": "2026-09-14T08:55:00.000Z",
-          "description": "Electra Therapeutics is hoping to raise up to $341.9 million from an IPO in order to power the clinical development of its inflammatory disorder drug ipsoprubart."
+          "description": "Electra Therapeutics is hoping to raise up to $341.9 million from an IPO in order to power the clinical development of its inflammatory disorder drug, ipsoprubart."
         },
         {
           "title": "J&J looking to offload orthopedics unit in $20B deal to Apollo: Bloomberg",
           "link": "https://www.fiercebiotech.com/medtech/jj-looking-offload-orthopedics-unit-20b-deal-apollo-bloomberg",
           "pubDate": "2026-09-13T11:53:00.000Z",
-          "description": "Johnson &amp; Johnson is nearing a $20 billion deal to sell off its unwanted hips-and-knees business DePuy Synthes to private equity firm Apollo Equity Management."
+          "description": "Johnson &amp; Johnson is nearing a $20 billion deal to sell off its unwanted hips-and-knees business, DePuy Synthes, to private equity firm Apollo Equity Management."
         },
         {
           "title": "Moving NAMs from Progress to Practice: Building the Foundation for Broader Adoption",
@@ -39,24 +51,24 @@
           "link": "https://www.fiercebiotech.com/biotech/definium-lsd-drug-goes-3-3-another-pivotal-anxiety-trial-win",
           "pubDate": "2026-09-11T15:07:00.000Z",
           "description": "Definium Therapeutics has scored a third straight phase 3 win for its LSD formula, with the psychedelic significantly alleviating anxiety symptoms and setting up an FDA filing next year."
-        },
-        {
-          "title": "No more Nordisk as Novo goes it alone amid rebranding push",
-          "link": "https://www.fiercebiotech.com/marketing/no-more-nordisk-novo-goes-it-alone-amid-rebranding-push",
-          "pubDate": "2026-09-14T06:55:00.000Z",
-          "description": "As Novo Nordisk continues its epic battle with Eli Lilly for market share in the increasingly competitive obesity and diabetes space, Novo is launching a major rebranding of its business, its logo and its name."
-        },
-        {
-          "title": "Roche, MediLink notch phase 3 lung cancer win but trail GSK on cross-trial survival",
-          "link": "https://www.fiercebiotech.com/biotech/roche-and-medilink-notch-phase-3-lung-cancer-win-trail-gsk-cross-trial-survival",
-          "pubDate": "2026-09-14T05:11:00.000Z",
-          "description": "MediLink has reported phase 3 results on a Roche-partnered antibody-drug conjugate. The small-cell lung cancer trial hit its primary endpoint, although the B7-H3-directed ADC’s median overall survival fell short of the bar set by GSK’s riva"
         }
       ]
     },
     "endpoints": {
       "name": "Endpoints News",
       "items": [
+        {
+          "title": "BioNTech says CTLA-4 drug nearly doubled survival times for lung cancer",
+          "link": "https://endpoints.news/biontech-says-ctla-4-drug-nearly-doubled-survival-times-for-lung-cancer/",
+          "pubDate": "2026-09-14T18:27:25.000Z",
+          "description": "BioNTech delivered a compelling piece of evidence Monday supporting the development of its CTLA-4 antibody gotistobart in lung cancer.\r\n\r\n Previously treated lung cancer patients who received the CTLA-4 antibody lived for 8.5 months longer "
+        },
+        {
+          "title": "FDA looks into reassessing criteria around rare disease trials, endpoint selection",
+          "link": "https://endpoints.news/fda-looks-into-reassessing-criteria-around-rare-disease-trials-endpoint-selection/",
+          "pubDate": "2026-09-14T18:05:37.000Z",
+          "description": "As more rare disease treatments make their way to the FDA, the agency on Monday called for further outside input as it grapples with how much efficacy and safety data are sufficient to inform an ..."
+        },
         {
           "title": "GSK to wind down German vaccine factory due to lack of demand",
           "link": "https://endpoints.news/gsk-to-wind-down-german-vaccine-factory-due-to-lack-of-demand/",
@@ -92,18 +104,6 @@
           "link": "https://endpoints.news/astrazenecas-next-gen-serd-etcamah-disappoints-in-untreated-advanced-breast-cancer/",
           "pubDate": "2026-09-14T11:21:38.000Z",
           "description": "AstraZeneca said Friday that its recently approved breast cancer drug Etcamah failed a late-stage trial designed to support a label expansion into an earlier setting.\r\n\r\n Just last week, the FDA cleared the ..."
-        },
-        {
-          "title": "Definium says its LSD drug notched another Phase 3 win in anxiety disorder",
-          "link": "https://endpoints.news/definiums-lsd-drug-notches-another-phase-3-win-in-anxiety-disorder/",
-          "pubDate": "2026-09-14T11:00:08.000Z",
-          "description": "Definium Therapeutics reported results Monday for its third Phase 3 readout this year on its oral LSD candidate, called DT120, and is gearing up for an FDA submission.\r\n\r\n The company’s late-stage data are from a ..."
-        },
-        {
-          "title": "Akeso details survival win for its PD-1xVEGF drug versus Keytruda",
-          "link": "https://endpoints.news/akeso-details-survival-win-for-its-pd-1xvegf-drug-versus-keytruda/",
-          "pubDate": "2026-09-13T01:46:49.000Z",
-          "description": "Akeso and Summit Therapeutics claimed a key win over Keytruda at the start of September, and are now spelling out that survival data, hoping it will add to the trove of results supporting the use ..."
         }
       ]
     },
@@ -164,6 +164,12 @@
       "name": "BioPharma Dive",
       "items": [
         {
+          "title": "Summit, Akeso look to shed PD-1/VEGF drug doubts with latest study results",
+          "link": "https://www.biopharmadive.com/news/summit-akeso-wclc-2026-ivonescimab-lung-cancer-survival/830318/",
+          "pubDate": "2026-09-14T20:41:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/DXO95hTwvXeb31BPsDT8mRQZBsDXBzkh8y-DSxzCOSk/g:nowe:0:180/c:2000:1129/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDA3MzIxMTg5LmpwZw==.webp\"/></div></figu"
+        },
+        {
           "title": "AstraZeneca’s newly approved pill fails frontline breast cancer study",
           "link": "https://www.biopharmadive.com/news/astrazeneca-etcamah-first-line-breast-cancer-study-results/830266/",
           "pubDate": "2026-09-14T16:30:00.000Z",
@@ -204,12 +210,6 @@
           "link": "https://www.biopharmadive.com/news/biohaven-fda-hold-opakalim-epilepsy-drug-trial/830013/",
           "pubDate": "2026-09-10T16:13:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/f5a4VRDXQg-SwH2yBDKHbtLeyVHpX8cemnSbe-t-6xU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp\"/></div></figure><p>Announ"
-        },
-        {
-          "title": "Andy Plump, architect of Takeda’s R&D overhaul, to retire next year",
-          "link": "https://www.biopharmadive.com/news/takeda-andy-plump-retire-president-research-development/830017/",
-          "pubDate": "2026-09-10T15:24:00.000Z",
-          "description": "<p>Plump joined Takeda during a turbulent period, pushed the company to work more closely with young biotechs and will leave it with what CEO Julie Kim called a &ldquo;lasting foundation.&rdquo;</p>"
         }
       ]
     }
