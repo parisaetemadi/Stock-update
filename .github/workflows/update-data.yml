@@ -26,6 +26,9 @@ jobs:
       - name: Fetch macro indicators
         run: node scripts/update-econ.mjs
 
+      - name: Fetch macro history
+        run: node scripts/update-macro.mjs
+
       - name: Fetch earnings dates
         run: node scripts/update-earnings.mjs
 

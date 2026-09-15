@@ -14,6 +14,8 @@ commits them here. The dashboard fetches them directly from
 | `data/earnings.json` | Next earnings date per ticker | daily |
 | `data/biotech.json` | Biotech news headlines | daily |
 | `data/returns.json` | 1W / 1M / YTD / 1Y / 5Y change per ticker | daily |
+| `data/macro.json` | Index of the macro series: label, units, source, latest reading | daily |
+| `data/macro/<id>.json` | Full history of one macro series | daily |
 
 \* The cron says `*/10 * * * *`; GitHub does not honour it. Measured over the
 72 hours to 30 Aug 2026, the schedule produced **13 runs, not ~1,300** — an
@@ -47,3 +49,35 @@ public buys two things the dashboard repo can't have:
 - Biotech headlines: Fierce Biotech, Endpoints News, STAT News, BioPharma Dive RSS
 
 No API keys are required, so there are no secrets in this repo.
+
+
+## The macro history feed
+
+`data/macro.json` is an index, not the data. It lists every series with its
+label, units, FRED source and current reading; the observations themselves live
+in `data/macro/<id>.json`, one file per series. A page showing one chart at a
+time therefore downloads the index (about a kilobyte) and a single series,
+rather than the whole archive.
+
+Fifteen series are published: the US Treasury curve from one month to thirty
+years, US CPI inflation and unemployment, and Canadian CPI inflation and
+unemployment. All come from FRED's graph CSV endpoint, which needs no API key.
+
+Two details worth knowing before reading the numbers:
+
+**History is thinned, not truncated.** The last five years are published exactly
+as FRED reports them. Older observations are reduced to one per month — the last
+of each month — because a daily series back to 1962 is some sixteen thousand
+points that no chart can draw and nobody should have to download. The boundary
+is published as `fullDetailFrom` so a page can say so rather than implying the
+whole line is daily.
+
+**Inflation is derived here, levels are not.** A CPI series from FRED is an index,
+not a rate. `update-macro.mjs` converts it to a year-over-year percentage by
+matching observation dates twelve months apart — never by counting rows back,
+which silently becomes a thirteen-month comparison the moment the series has a
+gap. Yields and unemployment rates are published as they come.
+
+Run `node scripts/macro-series.test.mjs` to exercise the parsing, the two
+transforms and the thinning. Every FRED id is tried before use, and a series
+that fails keeps the previous run's file rather than disappearing from the page.
