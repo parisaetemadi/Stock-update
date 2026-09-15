@@ -11,7 +11,7 @@
    A series that fails is left out of the file and logged; the rest still
    publish, and the page skips what isn't there. */
 
-import { writeFile, mkdir, readFile } from 'node:fs/promises';
+import { writeFile, mkdir, readFile, readdir, unlink } from 'node:fs/promises';
 import { SERIES, candidatesFor, isFresh, stalenessDays, parseFredCsv, applyTransform, thin, cutoffISO, pack, FULL_DETAIL_YEARS } from './macro-series.mjs';
 
 const RETRIES = 3;
@@ -150,6 +150,18 @@ async function main() {
   await mkdir('data/macro', { recursive: true });
   for (const [id, packed] of files) {
     await writeFile(`data/macro/${id}.json`, JSON.stringify(packed) + '\n');
+  }
+
+  // Dropping a series from SERIES has to remove its file too. The workflow
+  // commits with `git add data/`, which stages changes and additions but never
+  // a deletion nobody performed — so without this the feed keeps serving
+  // history for a series the index no longer lists.
+  for (const name of await readdir('data/macro')) {
+    if (!name.endsWith('.json')) continue;
+    const id = name.slice(0, -5);
+    if (series[id]) continue;
+    await unlink(`data/macro/${name}`);
+    console.error(`[macro] removed data/macro/${name} — no longer published`);
   }
   await writeFile('data/macro.json', JSON.stringify({
     generatedAt,

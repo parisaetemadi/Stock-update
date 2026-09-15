@@ -20,6 +20,34 @@ test('drops "." rows rather than reading them as zero', () => {
   assert.deepEqual(rows, [{ date: '2026-01-02', value: 4.1 }]);
 });
 
+test('drops BLANK rows rather than reading them as zero', () => {
+  // The one that actually shipped. FRED writes a missing observation as "."
+  // in some series and as nothing at all in others. Number(".") is NaN and
+  // falls out on its own; Number("") is 0, which is finite, so every market
+  // holiday in DGS1MO was published as a real 0% yield and drawn as a spike
+  // to the axis. These three dates are Good Friday, Memorial Day and New
+  // Year's Day, taken from the feed that was live when this was found.
+  const rows = parseFredCsv(
+    'DATE,DGS1MO\n2002-03-28,1.77\n2002-03-29,\n2004-05-31,\n2024-01-01,\n2024-01-02,5.40\n'
+  );
+  assert.deepEqual(rows, [
+    { date: '2002-03-28', value: 1.77 },
+    { date: '2024-01-02', value: 5.4 }
+  ]);
+  assert.equal(rows.some(r => r.value === 0), false, 'a holiday came through as a zero reading');
+});
+
+test('a genuine zero is still kept', () => {
+  // The guard must not overshoot: a policy rate really can print 0.00.
+  const rows = parseFredCsv('DATE,FEDFUNDS\n2021-05-01,0.00\n2021-06-01,0.01\n');
+  assert.deepEqual(rows.map(r => r.value), [0, 0.01]);
+});
+
+test('tolerates trailing whitespace and CRLF line endings', () => {
+  const rows = parseFredCsv('DATE,X\r\n2026-01-01, 4.10 \r\n2026-01-02,\r\n');
+  assert.deepEqual(rows, [{ date: '2026-01-01', value: 4.1 }]);
+});
+
 test('accepts the observation_date header spelling', () => {
   const rows = parseFredCsv('observation_date,UNRATE\n2026-01-01,4.0\n');
   assert.equal(rows.length, 1);
@@ -173,6 +201,16 @@ test('the frozen Canadian CPI mirror is rejected', () => {
 test('a daily series survives a long weekend but not a dead month', () => {
   assert.equal(isFresh('2026-09-11', 'daily', NOW), true);
   assert.equal(isFresh('2026-08-01', 'daily', NOW), false);
+});
+
+test('the curve is the three maturities asked for, and no others', () => {
+  const yields = SERIES.filter(s => s.group === 'US Treasury yields').map(s => s.id);
+  assert.deepEqual(yields, ['dgs2', 'dgs10', 'dgs30']);
+});
+
+test('Canada carries no yields', () => {
+  const canada = SERIES.filter(s => s.group === 'Canada').map(s => s.id);
+  assert.deepEqual(canada, ['cacpi', 'caunrate']);
 });
 
 test('every series names at least one source, and no id is blank', () => {

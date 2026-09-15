@@ -59,9 +59,10 @@ in `data/macro/<id>.json`, one file per series. A page showing one chart at a
 time therefore downloads the index (about a kilobyte) and a single series,
 rather than the whole archive.
 
-Fifteen series are published: the US Treasury curve from one month to thirty
-years, US CPI inflation and unemployment, and Canadian CPI inflation and
-unemployment. All come from FRED's graph CSV endpoint, which needs no API key.
+Seven series are published: the 2-, 10- and 30-year Treasury yields, US CPI
+inflation and unemployment, and Canadian CPI inflation and unemployment. No
+Canadian yields. Most come from FRED's graph CSV endpoint, which needs no API
+key; Canadian CPI comes from StatCan.
 
 Two details worth knowing before reading the numbers:
 
@@ -71,6 +72,13 @@ of each month — because a daily series back to 1962 is some sixteen thousand
 points that no chart can draw and nobody should have to download. The boundary
 is published as `fullDetailFrom` so a page can say so rather than implying the
 whole line is daily.
+
+**A blank is missing data, not a zero.** FRED marks a missing observation as
+`.` in some series and as nothing at all in others. `Number(".")` is `NaN` and
+falls out of a numeric check on its own, but `Number("")` is `0`, which is
+finite — so every US market holiday in `DGS1MO` was published as a genuine 0%
+yield and charted as a spike to the axis. The parser now rejects a blank field
+explicitly, while still keeping a real `0.00` (a policy rate can print zero).
 
 **Inflation is derived here, levels are not.** A CPI series from FRED is an index,
 not a rate. `update-macro.mjs` converts it to a year-over-year percentage by

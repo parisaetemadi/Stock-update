@@ -11,21 +11,11 @@
 // an inflation rate, or as the month-on-month difference ("diff"), which is how
 // a payroll count becomes a jobs-added number.
 export const SERIES = [
-  // --- US Treasury constant-maturity yields, short end to long ---
-  { id: 'dgs1mo', fred: 'DGS1MO', group: 'US Treasury yields', label: '1-Month Treasury', transform: 'level', unit: '%', decimals: 2, freq: 'daily',
-    note: 'What the US government pays to borrow for one month. The shortest point on the curve, and the one that tracks the Fed most closely.' },
-  { id: 'dgs3mo', fred: 'DGS3MO', group: 'US Treasury yields', label: '3-Month Treasury', transform: 'level', unit: '%', decimals: 2, freq: 'daily',
-    note: 'The three-month bill yield \u2014 the usual stand-in for the risk-free rate.' },
-  { id: 'dgs6mo', fred: 'DGS6MO', group: 'US Treasury yields', label: '6-Month Treasury', transform: 'level', unit: '%', decimals: 2, freq: 'daily' },
-  { id: 'dgs1', fred: 'DGS1', group: 'US Treasury yields', label: '1-Year Treasury', transform: 'level', unit: '%', decimals: 2, freq: 'daily' },
+  // --- US Treasury yields: the short, the long, and the very long ---
   { id: 'dgs2', fred: 'DGS2', group: 'US Treasury yields', label: '2-Year Treasury', transform: 'level', unit: '%', decimals: 2, freq: 'daily',
-    note: 'The maturity that moves on what the market expects the Fed to do over the next couple of years.' },
-  { id: 'dgs3', fred: 'DGS3', group: 'US Treasury yields', label: '3-Year Treasury', transform: 'level', unit: '%', decimals: 2, freq: 'daily' },
-  { id: 'dgs5', fred: 'DGS5', group: 'US Treasury yields', label: '5-Year Treasury', transform: 'level', unit: '%', decimals: 2, freq: 'daily' },
-  { id: 'dgs7', fred: 'DGS7', group: 'US Treasury yields', label: '7-Year Treasury', transform: 'level', unit: '%', decimals: 2, freq: 'daily' },
+    note: 'What the US government pays to borrow for two years. Moves on what the market expects the Fed to do next.' },
   { id: 'dgs10', fred: 'DGS10', group: 'US Treasury yields', label: '10-Year Treasury', transform: 'level', unit: '%', decimals: 2, freq: 'daily',
     note: 'The long rate most other borrowing costs \u2014 mortgages included \u2014 are priced off.' },
-  { id: 'dgs20', fred: 'DGS20', group: 'US Treasury yields', label: '20-Year Treasury', transform: 'level', unit: '%', decimals: 2, freq: 'daily' },
   { id: 'dgs30', fred: 'DGS30', group: 'US Treasury yields', label: '30-Year Treasury', transform: 'level', unit: '%', decimals: 2, freq: 'daily',
     note: 'The longest point on the curve. Reflects what the market thinks inflation and growth look like decades out.' },
 
@@ -36,10 +26,6 @@ export const SERIES = [
     note: 'Share of the US labour force without a job and looking for one. Seasonally adjusted.' },
 
   // --- Canada ---
-  // FRED carries the Canadian series under OECD-derived ids that have been
-  // renamed more than once. Each candidate below is tried in order and the
-  // first that actually returns a series wins; if none do, the series is left
-  // out of the feed rather than charted from a guess.
   // StatCan first: it is the authority for its own CPI and it is current.
   // FRED's Canadian series are OECD-derived mirrors that have been renamed and,
   // in CANCPIALLMINMEI's case, frozen — it still answers, with history that
@@ -93,8 +79,16 @@ export function parseFredCsv(text) {
   for (const line of lines.slice(1)) {
     const [date, raw] = line.split(',');
     if (!/^\d{4}-\d{2}-\d{2}$/.test(date || '')) continue;
-    const value = Number(raw);
-    if (!Number.isFinite(value)) continue;   // "." and anything else non-numeric
+    // FRED marks a missing observation two different ways, and only one of them
+    // is obvious. Some series write "." — Number(".") is NaN, so that falls out
+    // on its own. Others write nothing at all ("2024-01-01,"), and Number("") is
+    // 0, which is finite, so a market holiday sails through the numeric check
+    // and charts as a genuine 0% yield. Every US holiday in DGS1MO was drawn as
+    // a spike to zero because of this. A blank is missing data, not a reading.
+    const text = (raw ?? '').trim();
+    if (text === '' || text === '.') continue;
+    const value = Number(text);
+    if (!Number.isFinite(value)) continue;
     rows.push({ date, value });
   }
   rows.sort((a, b) => a.date.localeCompare(b.date));
