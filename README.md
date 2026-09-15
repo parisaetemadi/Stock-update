@@ -78,6 +78,16 @@ matching observation dates twelve months apart — never by counting rows back,
 which silently becomes a thirteen-month comparison the moment the series has a
 gap. Yields and unemployment rates are published as they come.
 
-Run `node scripts/macro-series.test.mjs` to exercise the parsing, the two
-transforms and the thinning. Every FRED id is tried before use, and a series
-that fails keeps the previous run's file rather than disappearing from the page.
+**A source that answers is not the same as a source that is current.** FRED still
+serves `CANCPIALLMINMEI`, and the response looks entirely normal — the series
+simply stopped being updated in March 2025. Charting it would have shown
+Canadian inflation as of eighteen months ago under a heading calling it the
+latest reading. So a spec names several candidate sources and each must prove
+its most recent observation is recent enough for its own frequency before it is
+used; Canadian CPI now comes from StatCan, which is both the authority and
+current. Whichever source actually won is recorded in the feed, so a page cites
+what it really charted.
+
+Run `node scripts/macro-series.test.mjs` to exercise the parsing, both
+transforms, the thinning and the freshness gate. A series that fails entirely
+keeps the previous run's file rather than disappearing from the page.

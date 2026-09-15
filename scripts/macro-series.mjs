@@ -40,16 +40,44 @@ export const SERIES = [
   // renamed more than once. Each candidate below is tried in order and the
   // first that actually returns a series wins; if none do, the series is left
   // out of the feed rather than charted from a guess.
-  { id: 'cacpi', fredCandidates: ['CANCPIALLMINMEI', 'CPALTT01CAM659N', 'CPALTT01CAM661N'],
+  // StatCan first: it is the authority for its own CPI and it is current.
+  // FRED's Canadian series are OECD-derived mirrors that have been renamed and,
+  // in CANCPIALLMINMEI's case, frozen — it still answers, with history that
+  // stops in March 2025. That is exactly why a candidate has to prove it is
+  // recent before it is used, not merely that it replies.
+  { id: 'cacpi', candidates: ['statcan:41690973', 'CANCPIALLMINMEI', 'CPALTT01CAM659N', 'CPALTT01CAM661N'],
     group: 'Canada', label: 'Canada CPI Inflation', transform: 'yoy', unit: '%', decimals: 1, freq: 'monthly',
     note: 'Canadian all-items consumer price index against the same month a year earlier.' },
-  { id: 'caunrate', fredCandidates: ['LRUNTTTTCAM156S', 'LRUN64TTCAM156S', 'CANURHARMMDSMEI'],
+  { id: 'caunrate', candidates: ['LRUNTTTTCAM156S', 'LRUN64TTCAM156S', 'CANURHARMMDSMEI'],
     group: 'Canada', label: 'Canada Unemployment Rate', transform: 'level', unit: '%', decimals: 1, freq: 'monthly',
     note: 'Share of the Canadian labour force without a job and looking for one. Seasonally adjusted.' }
 ];
 
-// A spec names either one FRED id or a list of candidates to try in order.
-export const candidatesFor = spec => spec.fredCandidates || [spec.fred];
+// A spec names either one source or a list tried in order. A plain string is a
+// FRED series id; the "statcan:" prefix names a StatCan vector instead.
+export const candidatesFor = spec => spec.candidates || [spec.fred];
+
+/* ---------- freshness ----------
+   A source that answers is not the same as a source that is current. FRED still
+   serves CANCPIALLMINMEI, and it still looks like a normal series — it simply
+   stopped being updated in March 2025. Charting it would have shown Canadian
+   inflation as of eighteen months ago under a heading that says it is the
+   latest. So every candidate must prove its most recent observation is recent
+   enough for its own frequency before it is accepted.
+
+   The allowances are generous, because these are release schedules rather than
+   deadlines: monthly statistics can run six weeks behind, quarterly GDP a
+   quarter, and a daily series has to survive a long weekend. */
+export const MAX_STALE_DAYS = { daily: 12, weekly: 21, monthly: 120, quarterly: 250 };
+
+export function stalenessDays(latestISO, now = Date.now()) {
+  return (now - new Date(latestISO + 'T00:00:00Z').getTime()) / 86400000;
+}
+
+export function isFresh(latestISO, freq, now = Date.now()) {
+  const limit = MAX_STALE_DAYS[freq] ?? 120;
+  return stalenessDays(latestISO, now) <= limit;
+}
 
 /* ---------- parsing ----------
    FRED writes "." for a missing observation. Dropping those rows is correct —

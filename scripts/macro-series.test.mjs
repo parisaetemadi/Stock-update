@@ -5,7 +5,7 @@
    one), and thinning that drops or duplicates the boundary observation. */
 
 import assert from 'node:assert/strict';
-import { parseFredCsv, toYoY, toDiff, thin, pack } from './macro-series.mjs';
+import { parseFredCsv, toYoY, toDiff, thin, pack, isFresh, stalenessDays, SERIES, candidatesFor } from './macro-series.mjs';
 
 let passed = 0;
 function test(name, fn) {
@@ -149,6 +149,44 @@ console.log('pack');
 test('packs into parallel arrays and rounds to four places', () => {
   const out = pack([{ date: '2026-01-01', value: 3.3965478924 }]);
   assert.deepEqual(out, { d: ['2026-01-01'], v: [3.3965] });
+});
+
+console.log('freshness');
+
+const NOW = Date.UTC(2026, 8, 15);   // 2026-09-15
+
+test('a monthly series six weeks behind is still current', () => {
+  // Statistical agencies run behind by design; a six-week lag is a release
+  // schedule, not a dead series.
+  assert.equal(isFresh('2026-08-01', 'monthly', NOW), true);
+});
+
+test('the frozen Canadian CPI mirror is rejected', () => {
+  // FRED still serves CANCPIALLMINMEI and it still parses cleanly. It simply
+  // stopped being updated in March 2025, which no part of the response says.
+  // Without this gate the page charts eighteen-month-old Canadian inflation
+  // under a heading that calls it the latest reading.
+  assert.equal(Math.round(stalenessDays('2025-03-01', NOW)), 563);
+  assert.equal(isFresh('2025-03-01', 'monthly', NOW), false);
+});
+
+test('a daily series survives a long weekend but not a dead month', () => {
+  assert.equal(isFresh('2026-09-11', 'daily', NOW), true);
+  assert.equal(isFresh('2026-08-01', 'daily', NOW), false);
+});
+
+test('every series names at least one source, and no id is blank', () => {
+  for (const spec of SERIES) {
+    const candidates = candidatesFor(spec);
+    assert.ok(candidates.length > 0, `${spec.id} names no source`);
+    for (const c of candidates) assert.ok(c && c.trim(), `${spec.id} has a blank candidate`);
+    assert.ok(spec.label && spec.group && spec.unit && spec.freq, `${spec.id} is missing metadata`);
+  }
+});
+
+test('series ids are unique', () => {
+  const ids = SERIES.map(s => s.id);
+  assert.equal(new Set(ids).size, ids.length);
 });
 
 console.log(`\n${passed} passed`);

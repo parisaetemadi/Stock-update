@@ -12,9 +12,30 @@
    publish, and the page skips what isn't there. */
 
 import { writeFile, mkdir, readFile } from 'node:fs/promises';
-import { SERIES, candidatesFor, parseFredCsv, applyTransform, thin, cutoffISO, pack, FULL_DETAIL_YEARS } from './macro-series.mjs';
+import { SERIES, candidatesFor, isFresh, stalenessDays, parseFredCsv, applyTransform, thin, cutoffISO, pack, FULL_DETAIL_YEARS } from './macro-series.mjs';
 
 const RETRIES = 3;
+
+// Statistics Canada's Web Data Service is the authority for Canadian series and
+// needs no key. latestN is capped generously rather than exactly: asking for
+// more periods than a vector has returns what it has.
+async function fetchStatCan(vectorId) {
+  const res = await fetch('https://www150.statcan.gc.ca/t1/wds/rest/getDataFromVectorsAndLatestNPeriods', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify([{ vectorId: Number(vectorId), latestN: 900 }])
+  });
+  if (!res.ok) throw new Error(`statcan http ${res.status}`);
+  const json = await res.json();
+  const entry = Array.isArray(json) ? json[0] : null;
+  if (entry?.status !== 'SUCCESS') throw new Error(`statcan status ${entry?.status ?? 'unknown'}`);
+  const points = entry?.object?.vectorDataPoint;
+  if (!Array.isArray(points) || points.length === 0) throw new Error('statcan: no data points');
+  return points
+    .map(p => ({ date: p.refPer, value: Number(p.value) }))
+    .filter(p => /^\d{4}-\d{2}-\d{2}$/.test(p.date) && Number.isFinite(p.value))
+    .sort((a, b) => a.date.localeCompare(b.date));
+}
 
 async function fetchOne(fredId) {
   let lastErr;
@@ -33,22 +54,40 @@ async function fetchOne(fredId) {
   throw lastErr;
 }
 
-// A spec may name several FRED ids. FRED has renamed its OECD-derived series
-// more than once, so rather than hard-coding one id and hoping, each is tried
-// until one answers — and the id that actually worked is recorded in the feed,
-// so the page cites the series it really charted rather than the first guess.
+function describe(candidate) {
+  return candidate.startsWith('statcan:') ? `StatCan v${candidate.slice(8)}` : `FRED ${candidate}`;
+}
+
+function load(candidate) {
+  return candidate.startsWith('statcan:') ? fetchStatCan(candidate.slice(8)) : fetchOne(candidate);
+}
+
+/* A spec may name several sources, tried in order. Two things can go wrong and
+   only one of them looks like an error: a source can fail outright, or it can
+   answer cheerfully with a series that stopped being updated. FRED still serves
+   CANCPIALLMINMEI, frozen since March 2025, and nothing about the response says
+   so. A candidate therefore has to be both reachable and current to be used.
+
+   The source that actually won is recorded in the feed, so the page cites what
+   it really charted rather than the first id that was guessed at. */
 async function fetchSeries(spec) {
-  const ids = candidatesFor(spec);
+  const candidates = candidatesFor(spec);
+  const verbose = candidates.length > 1;
   let lastErr;
-  for (const id of ids) {
+  for (const candidate of candidates) {
+    const name = describe(candidate);
     try {
-      const rows = await fetchOne(id);
+      const rows = await load(candidate);
       if (rows.length === 0) throw new Error('empty series');
-      if (ids.length > 1) console.error(`[macro] ${spec.id}: using FRED ${id}`);
-      return { rows, fredId: id };
+      const latest = rows[rows.length - 1].date;
+      if (!isFresh(latest, spec.freq)) {
+        throw new Error(`last observation ${latest} is ${Math.round(stalenessDays(latest))} days old — this source has stopped updating`);
+      }
+      if (verbose) console.error(`[macro] ${spec.id}: using ${name}`);
+      return { rows, source: name };
     } catch (err) {
       lastErr = err;
-      if (ids.length > 1) console.error(`[macro] ${spec.id}: FRED ${id} — ${err.message}`);
+      if (verbose) console.error(`[macro] ${spec.id}: ${name} — ${err.message}`);
     }
   }
   throw lastErr;
@@ -76,7 +115,7 @@ async function main() {
 
   for (const spec of SERIES) {
     try {
-      const { rows: raw, fredId } = await fetchSeries(spec);
+      const { rows: raw, source } = await fetchSeries(spec);
       const rows = applyTransform(raw, spec.transform);
       if (rows.length === 0) throw new Error('no observations survived the transform');
       const points = thin(rows, cutoff);
@@ -87,7 +126,7 @@ async function main() {
       // whole archive of every series on it.
       series[spec.id] = {
         label: spec.label, group: spec.group, unit: spec.unit, decimals: spec.decimals,
-        freq: spec.freq, note: spec.note, source: `FRED ${fredId}`,
+        freq: spec.freq, note: spec.note, source,
         start: points[0].date, count: points.length,
         latest: { date: last.date, value: Number(last.value.toFixed(4)) }
       };
@@ -95,7 +134,7 @@ async function main() {
       console.error(`[macro] ${spec.id}: ${points.length} points, latest ${last.date} = ${last.value.toFixed(2)}${spec.unit}`);
     } catch (err) {
       failed.push(spec.id);
-      console.error(`[macro] ${spec.id} (FRED ${candidatesFor(spec).join(' / ')}): ${err.message}`);
+      console.error(`[macro] ${spec.id} (${candidatesFor(spec).map(describe).join(' / ')}): ${err.message}`);
       if (previous[spec.id]) {
         series[spec.id] = previous[spec.id];
         carried.push(spec.id);
