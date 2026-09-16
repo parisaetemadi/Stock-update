@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-09-15T15:19:20.324Z",
+  "generatedAt": "2026-09-16T15:11:57.578Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
         {
+          "title": "Novartis ends ALS program after phase 2 flop, adding to R&D woes",
+          "link": "https://www.fiercebiotech.com/biotech/novartis-ends-als-program-after-phase-2-flop-adding-rd-woes",
+          "pubDate": "2026-09-16T10:28:00.000Z",
+          "description": "Novartis has extended its losing streak, stopping an amyotrophic lateral sclerosis program after flunking a phase 2 trial."
+        },
+        {
+          "title": "Novartis pays Sironax $125M to acquire platform for crossing the blood-brain barrier",
+          "link": "https://www.fiercebiotech.com/biotech/novartis-pays-sironax-125m-acquire-platform-crossing-blood-brain-barrier",
+          "pubDate": "2026-09-16T08:32:00.000Z",
+          "description": "Novartis is paying Sironax $125 million to take up its option on a brain delivery platform, gaining control of technology for getting large molecules to targets in the central nervous system.<br>"
+        },
+        {
+          "title": "CEO O’Day tells Fierce how Gilead’s cancer, inflammation expansion has reached ‘critical mass’",
+          "link": "https://www.fiercebiotech.com/biotech/its-cancer-and-inflammation-expansion-critical-mass-gileads-oday-eyes-companys-next-chapter",
+          "pubDate": "2026-09-09T17:09:00.000Z",
+          "description": "Following a steady stream of acquisitions that culminated in three biotech buyouts earlier this year, Gilead has now reached “critical mass” in its efforts to diversify into oncology and inflammation, CEO Daniel O’Day told Fierce."
+        },
+        {
+          "title": "Sling reels in $123M series C to fund oral Tepezza rival through phase 3 trial",
+          "link": "https://www.fiercebiotech.com/biotech/sling-reels-123m-series-c-funding-its-oral-tepezza-rival-eye-disease",
+          "pubDate": "2026-09-15T16:12:00.000Z",
+          "description": "Sling Therapeutics has closed a $123 million series C round to advance its oral therapy for thyroid eye disease through a phase 3 trial and hopefully on to commercialization."
+        },
+        {
+          "title": "FDA launches pilot program to speed up sluggish phase 1 trials",
+          "link": "https://www.fiercebiotech.com/biotech/fda-launches-pilot-program-speed-sluggish-phase-1-trials",
+          "pubDate": "2026-09-15T13:42:00.000Z",
+          "description": "After teasing a new initiative to speed up early-stage clinical trials over the summer, the FDA today opened a pilot program for an expedited investigational new drug (IND) application process that the agency hopes will put U.S. phase 1 tri"
+        },
+        {
+          "title": "Mayo Clinic teams with Thermo Fisher to form biomedical data group Precure",
+          "link": "https://www.fiercebiotech.com/medtech/mayo-clinic-teams-thermo-fisher-form-biomedical-data-group-precure",
+          "pubDate": "2026-09-15T08:50:00.000Z",
+          "description": "The Mayo Clinic has partnered with Thermo Fisher Scientific to launch a new group focused on reaping large-scale data that could lead to the understanding and development of new treatments, devices and diagnostics.<br>"
+        },
+        {
+          "title": "Newly formed Jaguar acquires Afib device assets from J&J",
+          "link": "https://www.fiercebiotech.com/medtech/newly-formed-jaguar-acquires-afib-device-assets-jj",
+          "pubDate": "2026-09-15T08:15:00.000Z",
+          "description": "Jaguar LAA, a newly formed medtech, has acquired assets that are part of Johnson &amp; Johnson’s AFib device Laminar program for an undisclosed price."
+        },
+        {
           "title": "Fierce Biotech Layoff Tracker 2026: Sionna halves staff; Merck trims more NJ jobs",
           "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
           "pubDate": "2025-12-23T10:11:00.000Z",
           "description": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team."
-        },
-        {
-          "title": "Connect's Dupixent rival flunks phase 2 asthma trial, but biotech sees reasons for hope",
-          "link": "https://www.fiercebiotech.com/biotech/connect-biopharma-missing-asthma-primary-endpoint-sends-investors-spiraling-about-copd",
-          "pubDate": "2026-09-15T10:00:00.000Z",
-          "description": "Connect Biopharma’s hopes of dethroning Dupixent took a knock as its IL-4/IL-13 blocker missed the primary endpoint of a phase 2 asthma study."
-        },
-        {
-          "title": "Fierce Biotech Fundraising Tracker '26: RegCell wrangles $66M; Encoded finagles $275M series F",
-          "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
-          "pubDate": "2025-12-22T15:30:00.000Z",
-          "description": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs."
-        },
-        {
-          "title": "Lilly pledges up to $237M per program in CNS genetic med collab with Canadian biotech",
-          "link": "https://www.fiercebiotech.com/biotech/lilly-pledges-237m-program-cns-genetic-med-collab-canadian-biotech",
-          "pubDate": "2026-09-15T08:44:00.000Z",
-          "description": "Eli Lilly’s ongoing attempt to strengthen its genetic medicine offering has seen the company pledge up to $237 million in biobucks per program as part of a collaboration with QurCan Therapeutics."
-        },
-        {
-          "title": "After rejection, FDA approves Telix’s Pixclara, the first FET-PET imaging drug for brain cancer",
-          "link": "https://www.fiercebiotech.com/medtech/after-rejection-fda-approves-telixs-pixclara-first-fet-pet-imaging-drug-brain-cancer",
-          "pubDate": "2026-09-15T04:27:00.000Z",
-          "description": "The FDA has signed off on the first ever glioma drug imaging diagnostic more than a year after it initially rejected the med."
-        },
-        {
-          "title": "Sionna lays off 46% of workforce in strategic shift after cystic fibrosis trial fail",
-          "link": "https://www.fiercebiotech.com/biotech/sionna-lays-46-workforce-strategic-shift-after-cystic-fibrosis-trial-fail",
-          "pubDate": "2026-09-15T07:21:00.000Z",
-          "description": "Sionna Therapeutics is laying off almost half its workforce as the company recovers from the failure of its closely watched cystic fibrosis add-on program."
-        },
-        {
-          "title": "GSK doubles down on Chimagen with $750M multiple myeloma wager",
-          "link": "https://www.fiercebiotech.com/biotech/gsk-doubles-down-chimagen-750m-multiple-myeloma-wager",
-          "pubDate": "2026-09-15T06:21:00.000Z",
-          "description": "GSK has bet up to $750 million on a Chimagen Biosciences trispecific T-cell engager, positioning the Big Pharma to start phase 1 development of the multiple myeloma drug candidate next year. The deal comes two years after GSK paid China’s C"
-        },
-        {
-          "title": "Novo walks away from $285M pact to develop monthly GLP-1 obesity drug with Ascendis",
-          "link": "https://www.fiercebiotech.com/biotech/novo-walks-away-285m-pact-develop-monthly-glp-1-ascendis",
-          "pubDate": "2026-09-15T05:22:00.000Z",
-          "description": "Novo’s attempted rebrand got off to a shaky start this week with the news that the pharma had walked away from a $285 million biobucks pact to develop a monthly weight loss drug after less than two years."
         }
       ]
     },
@@ -58,58 +58,64 @@
       "name": "Endpoints News",
       "items": [
         {
-          "title": "GSK to wind down German vaccine factory due to lack of demand",
-          "link": "https://endpoints.news/gsk-to-wind-down-german-vaccine-factory-due-to-lack-of-demand/",
-          "pubDate": "2026-09-15T14:33:16.000Z",
-          "description": "GSK is closing a factory in Germany and laying off about 650 workers as demand for egg-based flu vaccines declines, a spokesperson told Endpoints News.\r\n\r\n The site closure comes after a “rigorous review” of two ..."
+          "title": "Researchers implant human neurons in mice brains to study disease",
+          "link": "https://endpoints.news/researchers-implant-human-neurons-in-mice-brains-to-study-disease/",
+          "pubDate": "2026-09-16T15:00:26.000Z",
+          "description": "“There is now a mouse, the cortex of which is filled with human cells. We can’t quite call that a mouse, and we certainly can’t call it a human.” — Bioethicist Nita Farahany\r\n To better understand ..."
         },
         {
-          "title": "FDA leaders say they've woven feedback into new trial pilot",
-          "link": "https://endpoints.news/fda-leaders-say-theyve-woven-feedback-into-new-trial-pilot/",
-          "pubDate": "2026-09-15T14:24:37.000Z",
-          "description": "The FDA’s long-awaited expedited investigational new drug pilot program began accepting applications Tuesday, with top agency officials incorporating public feedback into who should qualify.\r\n\r\n Karim Mikhail and Michael Davis, the newly na"
+          "title": "Novo signs Anthropic deal to test Claude Science in R&D",
+          "link": "https://endpoints.news/novo-signs-anthropic-deal-to-test-claude-science-in-rd/",
+          "pubDate": "2026-09-16T14:10:28.000Z",
+          "description": "Anthropic is deepening ties with the Danish drugmaker Novo, in the latest gain for the tech giant's life sciences business.\r\n\r\n In a Wednesday release, the two companies said they will work ..."
         },
         {
-          "title": "Axoltis says its Phase 2 study for an experimental ALS drug failed",
-          "link": "https://endpoints.news/axoltis-says-its-phase-2-study-for-an-experimental-als-drug-failed/",
-          "pubDate": "2026-09-15T14:16:53.000Z",
-          "description": "The French biotech Axoltis Pharma reported a Phase 2 failure in ALS on Tuesday morning, but suggested it found a small signal to move the drug forward amid a noisy dataset.\r\n\r\n Researchers were testing whether ..."
+          "title": "Novartis' TREM2 drug fails Phase 2 ALS trial",
+          "link": "https://endpoints.news/novartis-trem2-drug-fails-phase-2-als-trial/",
+          "pubDate": "2026-09-16T11:24:04.000Z",
+          "description": "Novartis has scrapped development of a Phase 2 treatment candidate for amyotrophic lateral sclerosis, Endpoints News has learned.\r\n\r\n The Swiss pharma giant is ending work on VHB937/lifonebart in ALS, according to a"
         },
         {
-          "title": "Why Omada is staying in its lane",
-          "link": "https://endpoints.news/why-omada-is-staying-in-its-lane/",
-          "pubDate": "2026-09-15T14:10:40.000Z",
-          "description": "It’s been a little more than a year since Omada Health went public, and the company reported its first profitable quarter this spring. Now, it's preparing for its first CEO transition.\r\n\r\n Wei-Li Shao, who joined ..."
+          "title": "Sling gets $123M for Phase 3 trial of ex-Astellas drug in thyroid eye disease",
+          "link": "https://endpoints.news/sling-gets-123m-for-phase-3-trial-of-ex-astellas-drug-in-thyroid-eye-disease/",
+          "pubDate": "2026-09-16T11:00:19.000Z",
+          "description": "Investors are pumping $123 million into a tiny Michigan biotech that is resurrecting an Astellas cancer drug for an eye disease that has attracted lots of VC and pharma attention in recent years.\r\n\r\n Sling Therapeutics ..."
         },
         {
-          "title": "Kairon Health raises $5M to use data to make patients healthier",
-          "link": "https://endpoints.news/kairon-health-raises-5m-to-use-data-to-make-patients-healthier/",
-          "pubDate": "2026-09-15T13:00:57.000Z",
-          "description": "A startup that helps value-based healthcare practices turn patient data into a to-do list for staff has raised new funding, Endpoints News learned exclusively.\r\n\r\n Kairon Health pulls together patient data from claims, health records, pharm"
+          "title": "Skyhawk says its Huntington’s drug improved symptoms in extension to Phase 1/2 trial",
+          "link": "https://endpoints.news/skyhawk-says-its-huntingtons-drug-improved-symptoms-in-extension-to-phase-1-2-trial/",
+          "pubDate": "2026-09-16T10:56:58.000Z",
+          "description": "Skyhawk Therapeutics’ RNA-splicing candidate for Huntington’s disease improved patients’ symptoms in an early stage-trial, the company said, as it moves to pivotal development.\r\n\r\n The therapy, called SKY-0515, led to a 1.59-point improveme"
         },
         {
-          "title": "GSK strikes deal for Chimagen’s T cell engager for blood cancer",
-          "link": "https://endpoints.news/gsk-strikes-deal-for-chimagens-t-cell-engager-for-blood-cancer/",
-          "pubDate": "2026-09-15T11:03:57.000Z",
-          "description": "Two years after GSK announced its first licensing pact with Chimagen Biosciences, the UK drugmaker is making a new deal with the Chinese company for a trispecific T cell engager that it ..."
+          "title": "Klomp, Warren spar over MFN deal contracts",
+          "link": "https://endpoints.news/klomp-warren-spar-over-mfn-deal-contracts/",
+          "pubDate": "2026-09-15T18:45:31.000Z",
+          "description": "Top HHS official Chris Klomp had a relatively mild nomination hearing with senators on Tuesday, but he sparred with Sen. Elizabeth Warren (D-MA) over voluntary agreements with large drugmakers and what exactly the details of ..."
         },
         {
-          "title": "Vera eyes full approval for Trutakna in IgAN following positive readout",
-          "link": "https://endpoints.news/vera-eyes-full-approval-for-trutakna-in-igan-following-positive-readout/",
-          "pubDate": "2026-09-15T10:30:50.000Z",
-          "description": "Vera Therapeutics said two-year data show its recently approved drug Trutakna stabilized kidney function in patients with a chronic autoimmune disease, setting the drug up for another FDA submission.\r\n\r\n Trutakna won an"
+          "title": "FDA approves first radioligand generic, setting up rivalry with Novartis",
+          "link": "https://endpoints.news/fda-approves-first-radioligand-generic-setting-up-rivalry-with-novartis/",
+          "pubDate": "2026-09-15T16:59:15.000Z",
+          "description": "For the first time, Novartis’ leadership in the radioligand field will be tested by a generic rival.\r\n\r\n Curium announced on Monday that the FDA has approved its “radioligand equivalent” to Novartis’ Lutathera for the treatment ..."
         },
         {
-          "title": "RegCell lands $44M Series A to take Nobel-winning Tregs into clinic",
-          "link": "https://endpoints.news/regcell-lands-44m-series-a-to-take-nobel-winning-tregs-into-clinic/",
-          "pubDate": "2026-09-15T10:30:19.000Z",
-          "description": "For nearly 50 years, Shimon Sakaguchi has been studying and working on regulatory T cells, figuring out how the immune system \"governs itself.\"\r\n\r\n Now, the Nobel laureate's decade-old biotech RegCell is gearing up for clinical ..."
+          "title": "Centric Compounding recalls three injectables over contamination",
+          "link": "https://endpoints.news/centric-compounding-recalls-three-injectables-over-contamination/",
+          "pubDate": "2026-09-15T16:28:16.000Z",
+          "description": "Centric Compounding is undergoing a nationwide recall of three injectable drugs over contamination issues with an active pharmaceutical ingredient (API).\r\n\r\n Three lots of the Houston-based pharmacy's peptide injectable drug Glutathione are"
         }
       ]
     },
     "statnews": {
       "name": "STAT News (Biotech)",
       "items": [
+        {
+          "title": "STAT+: Sen. Warren demands to see Trump drug-pricing pharma contracts, accuses RFK Jr. of hiding them",
+          "link": "https://www.statnews.com/2026/09/16/biotech-news-sen-warren-demands-to-see-trump-drug-pricing-contracts/?utm_campaign=rss",
+          "pubDate": "2026-09-16T13:34:04.000Z",
+          "description": "An FDA pilot program to speed up drug development, Democrats plan health care probes after midterms, and more biotech news"
+        },
         {
           "title": "STAT+: Obesity drugmakers are testing in kids as young as 6",
           "link": "https://www.statnews.com/2026/09/15/biotech-news-obesity-drugmakers-are-testing-in-kids-as-young-as-si/?utm_campaign=rss",
@@ -151,18 +157,24 @@
           "link": "https://www.statnews.com/2026/09/11/novartis-novo-nordisk-cardiovascular-drug-trials-fallout/?utm_campaign=rss",
           "pubDate": "2026-09-11T08:30:00.000Z",
           "description": "The back-to-back failures of cardiovascular drugs from Novartis and Novo Nordisk made headlines. They could also have a chilling effect across the industry."
-        },
-        {
-          "title": "STAT+: FDA expands Bayer lung cancer drug approval",
-          "link": "https://www.statnews.com/2026/09/10/biotech-news-fda-expands-bayer-lung-cancer-drug-approval/?utm_campaign=rss",
-          "pubDate": "2026-09-10T13:36:56.000Z",
-          "description": "UniQure readout tests durability of benefits, an AI effort to manage heart failure, and more biotech news from The Readout"
         }
       ]
     },
     "biopharmadive": {
       "name": "BioPharma Dive",
       "items": [
+        {
+          "title": "FDA clears first generic radioligand drug; Sionna turns to layoffs",
+          "link": "https://www.biopharmadive.com/news/radioligand-generic-sionna-layoffs-novo-contineum-arrowhead-corbus/830246/",
+          "pubDate": "2026-09-15T21:13:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\"/></div></figure>"
+        },
+        {
+          "title": "WCLC ‘26: A new ‘ADC era,’ China questions and AstraZeneca’s spotlight",
+          "link": "https://www.biopharmadive.com/news/wclc-2026-adc-b7h3-china-study-results-astrazeneca/830247/",
+          "pubDate": "2026-09-15T16:02:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/lbrY-kOrc9k3tdi1l3vDKOnquutefnbAg6hO8dGrIo0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEyMzk4MDA3LmpwZw==.webp\"/></div></figure><p>The year&rsquo"
+        },
         {
           "title": "FDA launches pilot program to speed up early US drug research",
           "link": "https://www.biopharmadive.com/news/fda-operation-trialblazer-ind-pilot-program-drug-trials/830372/",
@@ -198,18 +210,6 @@
           "link": "https://www.biopharmadive.com/news/biotech-charts-ra-capital-venture-novartis-reverse-mergers/830052/",
           "pubDate": "2026-09-11T15:22:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/S7kYl4_8o-FTTXWhd92CtQyC0IbGNdT9f0kWAlh5hRk/g:nowe:0:217/c:4928:2784/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyLmpwZw==.webp\"/></div></figu"
-        },
-        {
-          "title": "Karyopharm pushes off debt payment; Amgen eyes broader Imdelltra use",
-          "link": "https://www.biopharmadive.com/news/imdelltra-bridgebio-oncology-evommune-encoded-tectora/830056/",
-          "pubDate": "2026-09-11T13:37:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\"/></div></figure>"
-        },
-        {
-          "title": "mRNA cancer vaccines’ biggest barriers to market",
-          "link": "https://www.biopharmadive.com/news/mrna-cancer-vaccines-commercialization-manufacturing/830137/",
-          "pubDate": "2026-09-11T11:55:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/AOckwKBJxzE0cNYHlyISlZFWLdLjzh0BcDccBaVbRWc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tcm5hLWNhbmNlci12YWNjaW5lcy5qcGc=.webp\"/></div></figure><p>Manufacturing hurd"
         }
       ]
     }
