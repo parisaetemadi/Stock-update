@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-09-16T15:11:57.578Z",
+  "generatedAt": "2026-09-17T15:21:04.908Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
         {
+          "title": "After one failed acquisition attempt, Lisata finds lifeline in Marea merger",
+          "link": "https://www.fiercebiotech.com/biotech/after-one-failed-acquisition-attempt-lisata-finds-lifeline-marea-merger",
+          "pubDate": "2026-09-17T10:02:00.000Z",
+          "description": "After a failed merger that led to massive layoffs and a lawsuit, solid tumor biotech Lisata Therapeutics has found a new future through a merger with cardio specialist Marea Therapeutics."
+        },
+        {
+          "title": "'Still a bull': Novo's CEO on honoring heritage and planning for the future amid corporate rebrand",
+          "link": "https://www.fiercebiotech.com/pharma/still-bull-novos-ceo-honoring-heritage-and-planning-future-amid-corporate-rebrand",
+          "pubDate": "2026-09-16T21:40:00.000Z",
+          "description": "Novo CEO Mike Doustdar—tapped to breathe new life into the Danish drugmaker last year after losing GLP-1 marketing ground to chief rival Eli Lilly—isn’t one to make changes for the sake of change."
+        },
+        {
+          "title": "Roche signs $1B deal with Dualitas to pair up on big bispecific screening drive",
+          "link": "https://www.fiercebiotech.com/biotech/roche-pays-dualitas-365m-pair-big-bispecific-screening-drive",
+          "pubDate": "2026-09-17T08:07:00.000Z",
+          "description": "Roche is paying Dualitas Therapeutics $36.5 million upfront to screen over 300,000 novel bispecific combinations in search of new treatments for immunology and inflammation diseases.<br>"
+        },
+        {
+          "title": "SK pens $315M pact with fellow South Korean company for Parkinson’s prospect",
+          "link": "https://www.fiercebiotech.com/biotech/sk-pens-315m-pact-fellow-south-korean-company-parkinsons-prospect",
+          "pubDate": "2026-09-17T06:27:00.000Z",
+          "description": "SK Biopharmaceuticals has added a second preclinical Parkinson’s disease therapy to its pipeline courtesy of a $314.8 million biobucks deal with a fellow South Korean drug developer."
+        },
+        {
+          "title": "North Immunology goes public via reverse merger as eczema drug heads toward clinic",
+          "link": "https://www.fiercebiotech.com/biotech/north-immunology-goes-public-reverse-merger-eczema-drug-heads-toward-clinic",
+          "pubDate": "2026-09-17T07:43:00.000Z",
+          "description": "North Immunology has decided its path to taking an atopic dermatitis drug into the clinic involves going public via a reverse merger."
+        },
+        {
+          "title": "Novo explores macrocycles’ potential in $1.4B cardiometabolic pact with Danish biotech",
+          "link": "https://www.fiercebiotech.com/biotech/novo-explores-macrocycles-potential-14b-cardiometabolic-pact-danish-biotech",
+          "pubDate": "2026-09-16T08:54:00.000Z",
+          "description": "Novo’s race to rejuvenate its cardiometabolic portfolio has seen the rebranded Danish pharma pen a $1.4 billion biobucks pact with oral macrocycle drug start-up Orbis Medicines."
+        },
+        {
+          "title": "Longeveron’s phase 2b stem cell flop spurs cost cutting, exploration of ‘all options’",
+          "link": "https://www.fiercebiotech.com/biotech/longeverons-phase-2b-stem-cell-flop-spurs-cost-cutting-exploration-all-options",
+          "pubDate": "2026-09-17T04:12:00.000Z",
+          "description": "A phase 2b study of Longeveron’s stem cell therapy in a pediatric heart disease has missed its primary endpoint, prompting the cash-strapped biotech to “review all options” for the business."
+        },
+        {
           "title": "Novartis ends ALS program after phase 2 flop, adding to R&D woes",
           "link": "https://www.fiercebiotech.com/biotech/novartis-ends-als-program-after-phase-2-flop-adding-rd-woes",
           "pubDate": "2026-09-16T10:28:00.000Z",
           "description": "Novartis has extended its losing streak, stopping an amyotrophic lateral sclerosis program after flunking a phase 2 trial."
-        },
-        {
-          "title": "Novartis pays Sironax $125M to acquire platform for crossing the blood-brain barrier",
-          "link": "https://www.fiercebiotech.com/biotech/novartis-pays-sironax-125m-acquire-platform-crossing-blood-brain-barrier",
-          "pubDate": "2026-09-16T08:32:00.000Z",
-          "description": "Novartis is paying Sironax $125 million to take up its option on a brain delivery platform, gaining control of technology for getting large molecules to targets in the central nervous system.<br>"
-        },
-        {
-          "title": "CEO O’Day tells Fierce how Gilead’s cancer, inflammation expansion has reached ‘critical mass’",
-          "link": "https://www.fiercebiotech.com/biotech/its-cancer-and-inflammation-expansion-critical-mass-gileads-oday-eyes-companys-next-chapter",
-          "pubDate": "2026-09-09T17:09:00.000Z",
-          "description": "Following a steady stream of acquisitions that culminated in three biotech buyouts earlier this year, Gilead has now reached “critical mass” in its efforts to diversify into oncology and inflammation, CEO Daniel O’Day told Fierce."
-        },
-        {
-          "title": "Sling reels in $123M series C to fund oral Tepezza rival through phase 3 trial",
-          "link": "https://www.fiercebiotech.com/biotech/sling-reels-123m-series-c-funding-its-oral-tepezza-rival-eye-disease",
-          "pubDate": "2026-09-15T16:12:00.000Z",
-          "description": "Sling Therapeutics has closed a $123 million series C round to advance its oral therapy for thyroid eye disease through a phase 3 trial and hopefully on to commercialization."
-        },
-        {
-          "title": "FDA launches pilot program to speed up sluggish phase 1 trials",
-          "link": "https://www.fiercebiotech.com/biotech/fda-launches-pilot-program-speed-sluggish-phase-1-trials",
-          "pubDate": "2026-09-15T13:42:00.000Z",
-          "description": "After teasing a new initiative to speed up early-stage clinical trials over the summer, the FDA today opened a pilot program for an expedited investigational new drug (IND) application process that the agency hopes will put U.S. phase 1 tri"
-        },
-        {
-          "title": "Mayo Clinic teams with Thermo Fisher to form biomedical data group Precure",
-          "link": "https://www.fiercebiotech.com/medtech/mayo-clinic-teams-thermo-fisher-form-biomedical-data-group-precure",
-          "pubDate": "2026-09-15T08:50:00.000Z",
-          "description": "The Mayo Clinic has partnered with Thermo Fisher Scientific to launch a new group focused on reaping large-scale data that could lead to the understanding and development of new treatments, devices and diagnostics.<br>"
-        },
-        {
-          "title": "Newly formed Jaguar acquires Afib device assets from J&J",
-          "link": "https://www.fiercebiotech.com/medtech/newly-formed-jaguar-acquires-afib-device-assets-jj",
-          "pubDate": "2026-09-15T08:15:00.000Z",
-          "description": "Jaguar LAA, a newly formed medtech, has acquired assets that are part of Johnson &amp; Johnson’s AFib device Laminar program for an undisclosed price."
-        },
-        {
-          "title": "Fierce Biotech Layoff Tracker 2026: Sionna halves staff; Merck trims more NJ jobs",
-          "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
-          "pubDate": "2025-12-23T10:11:00.000Z",
-          "description": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team."
         }
       ]
     },
@@ -58,58 +58,76 @@
       "name": "Endpoints News",
       "items": [
         {
-          "title": "Researchers implant human neurons in mice brains to study disease",
-          "link": "https://endpoints.news/researchers-implant-human-neurons-in-mice-brains-to-study-disease/",
-          "pubDate": "2026-09-16T15:00:26.000Z",
-          "description": "“There is now a mouse, the cortex of which is filled with human cells. We can’t quite call that a mouse, and we certainly can’t call it a human.” — Bioethicist Nita Farahany\r\n To better understand ..."
+          "title": "What's next for Medicare's health tech pilot",
+          "link": "https://endpoints.news/whats-next-for-medicares-health-tech-pilot/",
+          "pubDate": "2026-09-17T15:17:40.000Z",
+          "description": "The Centers for Medicare and Medicaid Services (CMS) held an event this week to mark the launch, earlier this summer, of the ACCESS model — the 10-year pilot program that"
         },
         {
-          "title": "Novo signs Anthropic deal to test Claude Science in R&D",
-          "link": "https://endpoints.news/novo-signs-anthropic-deal-to-test-claude-science-in-rd/",
-          "pubDate": "2026-09-16T14:10:28.000Z",
-          "description": "Anthropic is deepening ties with the Danish drugmaker Novo, in the latest gain for the tech giant's life sciences business.\r\n\r\n In a Wednesday release, the two companies said they will work ..."
+          "title": "The Endpoints 11: How we picked 2026's most exciting biotech startups",
+          "link": "https://endpoints.news/the-endpoints-11-how-we-picked-2026s-most-exciting-biotech-startups/",
+          "pubDate": "2026-09-17T14:52:34.000Z",
+          "description": "Picking the Endpoints 11 this year was harder than it ever has been.\r\n\r\n Finding the year’s most interesting biotech startups is always a process of long hours of debate and research by ..."
         },
         {
-          "title": "Novartis' TREM2 drug fails Phase 2 ALS trial",
-          "link": "https://endpoints.news/novartis-trem2-drug-fails-phase-2-als-trial/",
-          "pubDate": "2026-09-16T11:24:04.000Z",
-          "description": "Novartis has scrapped development of a Phase 2 treatment candidate for amyotrophic lateral sclerosis, Endpoints News has learned.\r\n\r\n The Swiss pharma giant is ending work on VHB937/lifonebart in ALS, according to a"
+          "title": "Roche eyes label expansion for Lunsumio after confirmatory lymphoma trial win",
+          "link": "https://endpoints.news/roche-eyes-label-expansion-for-lunsumio-after-confirmatory-lymphoma-trial-win/",
+          "pubDate": "2026-09-17T14:34:00.000Z",
+          "description": "Roche’s T cell engager Lunsumio has passed a Phase 3 trial in a slow-growing type of blood cancer, clearing the path for full approval and a broader label.\r\n\r\n Lunsumio is a bispecific antibody that targets ..."
         },
         {
-          "title": "Sling gets $123M for Phase 3 trial of ex-Astellas drug in thyroid eye disease",
-          "link": "https://endpoints.news/sling-gets-123m-for-phase-3-trial-of-ex-astellas-drug-in-thyroid-eye-disease/",
-          "pubDate": "2026-09-16T11:00:19.000Z",
-          "description": "Investors are pumping $123 million into a tiny Michigan biotech that is resurrecting an Astellas cancer drug for an eye disease that has attracted lots of VC and pharma attention in recent years.\r\n\r\n Sling Therapeutics ..."
+          "title": "General Catalyst details tech partnerships at Summa Health",
+          "link": "https://endpoints.news/general-catalyst-details-tech-partnerships-at-summa-health/",
+          "pubDate": "2026-09-17T13:11:09.000Z",
+          "description": "About a year after the venture investor General Catalyst went through with its unusual plans to buy a hospital group, it's finally talking more about how it will use the experiment.\r\n\r\n ..."
         },
         {
-          "title": "Skyhawk says its Huntington’s drug improved symptoms in extension to Phase 1/2 trial",
-          "link": "https://endpoints.news/skyhawk-says-its-huntingtons-drug-improved-symptoms-in-extension-to-phase-1-2-trial/",
-          "pubDate": "2026-09-16T10:56:58.000Z",
-          "description": "Skyhawk Therapeutics’ RNA-splicing candidate for Huntington’s disease improved patients’ symptoms in an early stage-trial, the company said, as it moves to pivotal development.\r\n\r\n The therapy, called SKY-0515, led to a 1.59-point improveme"
+          "title": "Bavarian Nordic names Tarja Stenvall as new CEO",
+          "link": "https://endpoints.news/bavarian-nordic-names-tarja-stenvall-as-new-ceo/",
+          "pubDate": "2026-09-17T11:15:40.000Z",
+          "description": "Bavarian Nordic has appointed a veteran of Sanofi, AstraZeneca and Pfizer to replace Paul Chaplin as president and CEO.\r\n\r\n Tarja Stenvall will take the helm on Oct. 15, and one of her top priorities is ..."
         },
         {
-          "title": "Klomp, Warren spar over MFN deal contracts",
-          "link": "https://endpoints.news/klomp-warren-spar-over-mfn-deal-contracts/",
-          "pubDate": "2026-09-15T18:45:31.000Z",
-          "description": "Top HHS official Chris Klomp had a relatively mild nomination hearing with senators on Tuesday, but he sparred with Sen. Elizabeth Warren (D-MA) over voluntary agreements with large drugmakers and what exactly the details of ..."
+          "title": "Lilly-backed Orbis does up to $1.4B macrocycle deal with Novo",
+          "link": "https://endpoints.news/lilly-backed-orbis-does-up-to-1-4b-macrocycle-deal-with-novo/",
+          "pubDate": "2026-09-17T11:00:05.000Z",
+          "description": "Orbis Medicines will help Novo create macrocycles — those ring-shaped molecules that marry the best of antibodies and small molecules — for cardiometabolic diseases as part of an up to $1.4 billion alliance.\r\n\r\n The Thursday morning pact .."
         },
         {
-          "title": "FDA approves first radioligand generic, setting up rivalry with Novartis",
-          "link": "https://endpoints.news/fda-approves-first-radioligand-generic-setting-up-rivalry-with-novartis/",
-          "pubDate": "2026-09-15T16:59:15.000Z",
-          "description": "For the first time, Novartis’ leadership in the radioligand field will be tested by a generic rival.\r\n\r\n Curium announced on Monday that the FDA has approved its “radioligand equivalent” to Novartis’ Lutathera for the treatment ..."
+          "title": "Roche turns to Dualitas to find new bispecific approaches for immunology",
+          "link": "https://endpoints.news/roche-turns-to-dualitas-to-find-new-bispecific-approaches-for-immunology/",
+          "pubDate": "2026-09-17T10:00:54.000Z",
+          "description": "Roche is turning up the heat on its hunt for next-generation bispecific antibodies in a deal that will involve screening 300,000 new combinations for inflammatory and immunology conditions.\r\n\r\n The Swiss pharma is delivering $36.5 million ."
         },
         {
-          "title": "Centric Compounding recalls three injectables over contamination",
-          "link": "https://endpoints.news/centric-compounding-recalls-three-injectables-over-contamination/",
-          "pubDate": "2026-09-15T16:28:16.000Z",
-          "description": "Centric Compounding is undergoing a nationwide recall of three injectable drugs over contamination issues with an active pharmaceutical ingredient (API).\r\n\r\n Three lots of the Houston-based pharmacy's peptide injectable drug Glutathione are"
+          "title": "Drugmakers cooperate with House probe of China trial sites",
+          "link": "https://endpoints.news/drugmakers-cooperate-with-house-probe-of-china-trial-sites/",
+          "pubDate": "2026-09-16T18:30:48.000Z",
+          "description": "WASHINGTON — Five large pharmaceutical companies have been cooperating with a congressional probe into clinical trials run at Chinese military hospitals, according to the House lawmaker leading the charge.\r\n\r\n Rep. John Moolenaar (R-MI) sai"
         }
       ]
     },
     "statnews": {
       "name": "STAT News (Biotech)",
       "items": [
+        {
+          "title": "STAT+: New startup to test psychedelic-like drug against Parkinson&#8217;s symptom",
+          "link": "https://www.statnews.com/2026/09/17/biotech-news-ariadne-testing-psychedelic-like-drug-parkinsons-apathy/?utm_campaign=rss",
+          "pubDate": "2026-09-17T14:30:37.000Z",
+          "description": "A psychedelic-like drug for a Parkinson's symptom, mice with half-human brains, and more biotech news in the Readout newsletter."
+        },
+        {
+          "title": "STAT+: A biotech hedge fund births a new immunology company",
+          "link": "https://www.statnews.com/2026/09/17/biotech-hedge-fund-startup-north-immunology/?utm_campaign=rss",
+          "pubDate": "2026-09-17T10:30:00.000Z",
+          "description": "Why a biotech hedge fund decided to build from the ground up a new company to develop a better, long-acting antibody treatment for atopic dermatitis."
+        },
+        {
+          "title": "STAT+: A Sellas immunotherapy study, long delayed, will end in failure",
+          "link": "https://www.statnews.com/2026/09/17/sellas-immunotherapy-study-acute-myeloid-leukemia/?utm_campaign=rss",
+          "pubDate": "2026-09-17T10:30:00.000Z",
+          "description": "Why Sellas' experimental immunotherapy study is a blowup waiting to happen."
+        },
         {
           "title": "STAT+: Sen. Warren demands to see Trump drug-pricing pharma contracts, accuses RFK Jr. of hiding them",
           "link": "https://www.statnews.com/2026/09/16/biotech-news-sen-warren-demands-to-see-trump-drug-pricing-contracts/?utm_campaign=rss",
@@ -139,30 +157,42 @@
           "link": "https://www.statnews.com/2026/09/14/definiums-lsd-therapy-eased-anxiety-large-trial-psychedelic/?utm_campaign=rss",
           "pubDate": "2026-09-14T11:00:00.000Z",
           "description": "The first wave of biotechs is nearing regulatory approval for psychedelic therapies, a class of treatments that appear to exert rapid benefits."
-        },
-        {
-          "title": "STAT+: Scholar Rock wins FDA approval for first drug to target SMA muscle loss",
-          "link": "https://www.statnews.com/2026/09/11/scholar-rock-spinal-muscular-atrophy-isembyld-clinical-trial-fda-approval/?utm_campaign=rss",
-          "pubDate": "2026-09-11T23:30:21.000Z",
-          "description": "A late-stage clinical trial found that, when combined with an SMN2-targeting drug, Isembyld caused young patients’ motor skills to improve after a year."
-        },
-        {
-          "title": "STAT+: Cancer drug shortages keep disrupting patient care",
-          "link": "https://www.statnews.com/2026/09/11/biotech-news-cancer-drug-shortages-keep-disrupting-patient-care/?utm_campaign=rss",
-          "pubDate": "2026-09-11T13:39:52.000Z",
-          "description": "Platinum chemotherapy's long-term effects, surprising heart failure drug failures, and more biotech news from The Readout"
-        },
-        {
-          "title": "STAT+: Novartis, Novo Nordisk drug failures will likely ‘pop a hole in the balloon’ of the field",
-          "link": "https://www.statnews.com/2026/09/11/novartis-novo-nordisk-cardiovascular-drug-trials-fallout/?utm_campaign=rss",
-          "pubDate": "2026-09-11T08:30:00.000Z",
-          "description": "The back-to-back failures of cardiovascular drugs from Novartis and Novo Nordisk made headlines. They could also have a chilling effect across the industry."
         }
       ]
     },
     "biopharmadive": {
       "name": "BioPharma Dive",
       "items": [
+        {
+          "title": "Roche, Dualitas team up to find bispecific drugs for immune diseases",
+          "link": "https://www.biopharmadive.com/news/roche-dualitas-bispecific-antibodies-immune/830573/",
+          "pubDate": "2026-09-17T10:00:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/_Jl91qpyunJWe-csdceqrcSO_PmI-VBjWQO1KOBqP58/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTM3MjY1MDU5LmpwZw==.webp\"/></div></figure><p>Through a rese"
+        },
+        {
+          "title": "Novartis to pay $125M for blood-brain barrier crossing platform",
+          "link": "https://www.biopharmadive.com/news/novartis-125m-for-blood-brain-barrier-crossing-platform-Sironax/830560/",
+          "pubDate": "2026-09-16T20:26:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/zfRhQ6UdoLhrnrg6WnOJHxS_autlpVcZwuWId9Q7ZSI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5Nzg4MDE4LmpwZw==.webp\"/></div></figure><p>Proceeds from "
+        },
+        {
+          "title": "Novo looks to Anthropic’s AI models to ‘supercharge’ drug development",
+          "link": "https://www.biopharmadive.com/news/novo-anthropic-ai-drug-discovery-development-deal/830540/",
+          "pubDate": "2026-09-16T15:10:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/D9gg1rVcUIq9FaZHiVbjCf_eOkzM5gCv482MNMS1gT4/g:nowe:10:333/c:1376:777/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTUxODkzMzI3LmpwZw==.webp\"/></div></figu"
+        },
+        {
+          "title": "Sling banks $123M for an experimental thyroid eye disease pill",
+          "link": "https://www.biopharmadive.com/news/sling-linsitinib-series-c-financing-thyroid-eye-disease/830452/",
+          "pubDate": "2026-09-16T14:54:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/Vql4aZidBzEhd2QjTN3RMPOhCdvNFi6mvcRAHM5msJ8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzA2NjM5NTk3LmpwZw==.webp\"/></div></figure><p>A confirmatory"
+        },
+        {
+          "title": "Skyhawk racks up more support for Huntington’s drug",
+          "link": "https://www.biopharmadive.com/news/skyhawk-huntingtons-drug-rna-splicing-results/830537/",
+          "pubDate": "2026-09-16T13:05:57.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/MOwz7heogOUmMBiVeW9jdOYnqDQ4pg7YZRYO_YHAnuM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDUzNDM0MTY4LmpwZw==.webp\"/></div></figure><p>The Fidelity-b"
+        },
         {
           "title": "FDA clears first generic radioligand drug; Sionna turns to layoffs",
           "link": "https://www.biopharmadive.com/news/radioligand-generic-sionna-layoffs-novo-contineum-arrowhead-corbus/830246/",
@@ -180,36 +210,6 @@
           "link": "https://www.biopharmadive.com/news/fda-operation-trialblazer-ind-pilot-program-drug-trials/830372/",
           "pubDate": "2026-09-15T14:00:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/_wuBDKlxgofuGZjl5ZwRRCQIhyULA-rfYIkWcgIilJQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI5Njc1NjY4LmpwZw==.webp\"/></div></figure><p>First teased i"
-        },
-        {
-          "title": "Summit, Akeso look to shed PD-1/VEGF drug doubts with latest study results",
-          "link": "https://www.biopharmadive.com/news/summit-akeso-wclc-2026-ivonescimab-lung-cancer-survival/830318/",
-          "pubDate": "2026-09-14T20:41:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/DXO95hTwvXeb31BPsDT8mRQZBsDXBzkh8y-DSxzCOSk/g:nowe:0:180/c:2000:1129/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDA3MzIxMTg5LmpwZw==.webp\"/></div></figu"
-        },
-        {
-          "title": "AstraZeneca’s newly approved pill fails frontline breast cancer study",
-          "link": "https://www.biopharmadive.com/news/astrazeneca-etcamah-first-line-breast-cancer-study-results/830266/",
-          "pubDate": "2026-09-14T16:30:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/Fjzr5kjcLeZ_A2pzstCyxTNQnZ-ZrmOt89UiifKXUfo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yREI1VzA4LmpwZw==.webp\"/></div></figure><p>Etcamah is the second oral &ldquo;"
-        },
-        {
-          "title": "Cellectis quits CAR-T and pivots to ‘in vivo’ gene editing",
-          "link": "https://www.biopharmadive.com/news/cellectis-restructure-in-vivo-gene-editing-allogeneic-heart-disease/830281/",
-          "pubDate": "2026-09-14T15:46:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/v3zPs8xFZHpOXBWe_GtdpurJJUCpv3Rf3nHJV4S08Bc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTM4MzgyNTk0LmpwZw==.webp\"/></div></figure><p>Long a frontru"
-        },
-        {
-          "title": "Scholar Rock SMA drug approved by FDA",
-          "link": "https://www.biopharmadive.com/news/scholar-rock-sma-drug-isemblyd-fda-approve/830232/",
-          "pubDate": "2026-09-14T13:00:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/jwQkg-wzyofiJL5d7k24n0j3Xb2TKl03YT8PmHJpsMs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JU0VNQllMRC5qcGc=.webp\"/></div></figure><p>Projected by some analysts as a fu"
-        },
-        {
-          "title": "This week in charts: RA’s insatiable appetite, Novartis’ big slide and a reverse merger spree",
-          "link": "https://www.biopharmadive.com/news/biotech-charts-ra-capital-venture-novartis-reverse-mergers/830052/",
-          "pubDate": "2026-09-11T15:22:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/S7kYl4_8o-FTTXWhd92CtQyC0IbGNdT9f0kWAlh5hRk/g:nowe:0:217/c:4928:2784/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyLmpwZw==.webp\"/></div></figu"
         }
       ]
     }
