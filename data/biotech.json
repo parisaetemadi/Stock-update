@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-09-18T14:41:05.852Z",
+  "generatedAt": "2026-09-19T14:01:58.513Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
         {
+          "title": "Artelo’s ex-AstraZeneca cannabinoid agonist holds its own against GLP-1 drug semaglutide in obese mice",
+          "link": "https://www.fiercebiotech.com/research/artelos-ex-astrazeneca-cannabinoid-agonist-holds-its-own-against-glp1s-obese-mice",
+          "pubDate": "2026-09-18T14:24:00.000Z",
+          "description": "Artelo Biosciences’ oral dual cannabinoid agonist showed weight loss comparable to the GLP-1 semaglutide in obese mice."
+        },
+        {
+          "title": "Refreshed Novo corrals 3 new early-stage obesity drugs from Kallyope",
+          "link": "https://www.fiercebiotech.com/biotech/refreshed-novo-corrals-three-new-early-stage-obesity-drugs-kallyope",
+          "pubDate": "2026-09-18T11:24:00.000Z",
+          "description": "New-look Novo is digging deeper into its metabolic roots with three new obesity programs purchased from New York biotech Kallyope."
+        },
+        {
           "title": "Inside the growing world of biopharma prediction markets",
           "link": "https://www.fiercebiotech.com/biotech/inside-growing-world-biopharma-prediction-markets",
           "pubDate": "2026-09-18T09:47:00.000Z",
           "description": "In this episode of “The Top Line,” we explore the growing space of biopharma prediction markets, how they work and the risks they create around insider information and clinical trial integrity."
+        },
+        {
+          "title": "Medtronic earns FDA clearance for LigaSure use with its Hugo robotic system",
+          "link": "https://www.fiercebiotech.com/medtech/medtronic-earns-fda-clearance-liagsure-use-its-hugo-robotic-system",
+          "pubDate": "2026-09-18T09:35:00.000Z",
+          "description": "The FDA has cleared Medtronic’s LigaSure RAS Maryland jaw vessel sealer-divider to be used in combination with the device maker’s Hugo robotic-assisted surgery system.<br>"
+        },
+        {
+          "title": "FDA clears Aptitude’s latest Metrix molecular dx to test for COVID",
+          "link": "https://www.fiercebiotech.com/medtech/fda-clears-aptitudes-latest-matrix-molecular-dx-test-covid",
+          "pubDate": "2026-09-18T08:59:00.000Z",
+          "description": "The FDA granted Aptitude its first 510(k) clearance for the next-generation Metrix COVID diagnostic that features three-times greater sensitivity with 30% faster results that its original emergency use authorized test.<br>"
         },
         {
           "title": "Chutes & Ladders—Legend poaches Novartis vet to boost commercial potential",
@@ -27,30 +51,6 @@
           "link": "https://www.fiercebiotech.com/biotech/bristol-myers-dumps-100m-orum-degrader-antibody-conjugate-after-phase-1-look",
           "pubDate": "2026-09-18T03:42:00.000Z",
           "description": "Bristol Myers Squibb has axed the degrader-antibody conjugate it bought from Orum Therapeutics for $100 million, walking away from the asset after seeing phase 1 data."
-        },
-        {
-          "title": "Inflammation biotech Electra charges up with $350M from upsized IPO",
-          "link": "https://www.fiercebiotech.com/biotech/electra-rides-biotech-ipo-surge-charge-350m-upsized-listing",
-          "pubDate": "2026-09-18T03:01:00.000Z",
-          "description": "Electra Therapeutics is the latest biotech to overshoot its own IPO expectations this year, with the inflammation-focused company bringing in $350 million from this morning’s Nasdaq listing."
-        },
-        {
-          "title": "Goa Therapeutics launches with ‘immeasurably huge’ vision of creating Narcan for alcohol",
-          "link": "https://www.fiercebiotech.com/biotech/goa-therapeutics-launches-immeasurably-huge-vision-creating-narcan-alcohol",
-          "pubDate": "2026-09-17T12:17:00.000Z",
-          "description": "A new biotech has sprung out of stealth with a bold vision to develop the “greatest therapeutic of all time”—a drug that can quickly sober up people who have had too much to drink."
-        },
-        {
-          "title": "Rare EGFR mutation increases lung cancer risk 62 times in never smokers",
-          "link": "https://www.fiercebiotech.com/research/rare-egfr-mutation-increases-lung-cancer-risk-25-times-62-times-never-smokers",
-          "pubDate": "2026-09-17T09:44:00.000Z",
-          "description": "A rare inherited germline mutation was found to increase risk for lung cancer by 25 times, while smoking only increased risk by 4 times."
-        },
-        {
-          "title": "DPHARM: How to address the clinical trial enrollment crisis?",
-          "link": "https://www.fiercebiotech.com/cro/dpharm-how-address-clinical-trial-enrollment-crisis",
-          "pubDate": "2026-09-17T11:55:00.000Z",
-          "description": "Clinical trials are facing an enrollment crisis. Around 80% of trials don’t meet their enrollment timelines, and fewer than 5% of eligible adult cancer patients participate in trials."
         }
       ]
     },
@@ -58,52 +58,52 @@
       "name": "Endpoints News",
       "items": [
         {
-          "title": "Legend names new CEO as Carvykti competition grows; Vertex makes a flurry of moves",
-          "link": "https://endpoints.news/legend-names-new-ceo-as-carvykti-competition-grows-vertex-makes-a-flurry-of-moves/",
-          "pubDate": "2026-09-18T11:00:21.000Z",
-          "description": "→ Legend Biotech has tapped Novartis executive Ingrid Zhang as its new CEO at a time when the company is seeking its next act. The company’s shares {$LEGN} are down 50% ..."
+          "title": "Another Novartis failure; Novo drops the ‘Nordisk’; and more",
+          "link": "https://endpoints.news/another-novartis-failure-novo-drops-the-nordisk-and-more/",
+          "pubDate": "2026-09-19T10:00:19.000Z",
+          "description": "Welcome back to another edition of Endpoints Weekly! We’ll get to the headlines in just a bit, but be sure to check out the recordings of our China event in Washington, D.C., from this week ..."
         },
         {
-          "title": "Electra's $350M IPO will help it become a commercial biotech",
-          "link": "https://endpoints.news/electras-350m-ipo-will-help-it-become-a-commercial-biotech/",
-          "pubDate": "2026-09-18T00:43:12.000Z",
-          "description": "Electra Therapeutics became the 21st biotech of 2026 to go through with an IPO after pricing its $350 million Nasdaq debut on Thursday evening.\r\n\r\n The Bay Area biotech will use the ..."
+          "title": "All 50 states sign up for most favored nation prices under Medicaid, Trump says",
+          "link": "https://endpoints.news/all-50-states-sign-up-for-most-favored-nation-prices-under-medicaid-trump-says/",
+          "pubDate": "2026-09-18T20:41:21.000Z",
+          "description": "President Donald Trump on Friday announced that all 50 states, Washington, DC, and Puerto Rico will participate in a new drug pricing model under which pharma companies will provide supplemental rebates to align Medicaid net ..."
         },
         {
-          "title": "Bristol Myers scraps $100M Orum-partnered cancer drug",
-          "link": "https://endpoints.news/bristol-myers-scraps-orum-partnered-cancer-drug/",
-          "pubDate": "2026-09-17T19:19:36.000Z",
-          "description": "Bristol Myers Squibb has ended development of a twist on the popular antibody-drug conjugate field.\r\n\r\n The Phase 1 asset that was axed is BMS-986497/ORM-6151, according to a Thursday regulatory filing from ..."
+          "title": "FDA approves Lilly's oral SERD combo for second-line breast cancer therapy",
+          "link": "https://endpoints.news/fda-approves-lillys-oral-serd-combo-for-second-line-breast-cancer-therapy/",
+          "pubDate": "2026-09-18T19:32:11.000Z",
+          "description": "The FDA approved a new combination regimen from Eli Lilly for certain breast cancer patients, a regimen that includes Lilly’s oral selective estrogen receptor degrader (SERD) drug Inluriyo.\r\n\r\n Patients with metastatic ..."
         },
         {
-          "title": "FDA approves Ultragenyx's gene therapy for Sanfilippo syndrome type A",
-          "link": "https://endpoints.news/fda-approves-ultragenyxs-gene-therapy-for-sanfilippo-syndrome-type-a/",
-          "pubDate": "2026-09-17T19:04:26.000Z",
-          "description": "The FDA granted full approval to a rare disease gene therapy from Ultragenyx on Thursday, giving the company a much-needed boost in an otherwise difficult year.\r\n\r\n The therapy, called UX111, will be branded as Fayuvi ..."
+          "title": "Post-Hoc Live: The China Biotech Debate goes to Washington",
+          "link": "https://endpoints.news/post-hoc-live-the-china-biotech-debate-goes-to-washington/",
+          "pubDate": "2026-09-18T17:08:19.000Z",
+          "description": "There aren’t any easy answers around China and biotech.\r\n\r\n Endpoints News took our China debate on the road to DC this week. We sat down with some of the people crafting new laws and policies ..."
         },
         {
-          "title": "Internal CMS email confirms Globe and Guard exemption plan",
-          "link": "https://endpoints.news/internal-cms-email-confirms-globe-and-guard-exemption-plan/",
-          "pubDate": "2026-09-17T18:56:20.000Z",
-          "description": "The Centers for Medicare and Medicaid Services has exempted drugmakers from two pricing demonstration programs in Medicare if they agree to provide additional rebates in Medicaid, according to internal agency correspondence.\r\n\r\n Emails obta"
+          "title": "CHMP backs Novo’s hemophilia A drug and seven other medicines",
+          "link": "https://endpoints.news/chmp-backs-novos-hemophilia-a-drug-and-seven-other-medicines/",
+          "pubDate": "2026-09-18T16:51:03.000Z",
+          "description": "Novo won regulatory backing for its hemophilia A preventive drug from the European Medicines Agency's human medicines committee, which also recommended approving seven other new drugs and 11 label expansions.\r\n\r\n The committee gives its opi"
         },
         {
-          "title": "FDA grapples with China biotech's rise across the agency",
-          "link": "https://endpoints.news/fda-grapples-with-china-biotechs-rise-across-the-agency/",
-          "pubDate": "2026-09-17T18:27:10.000Z",
-          "description": "WASHINGTON — What do you do when an economic rival swiftly becomes a critical player in the industry you regulate?\r\n\r\n The FDA is coming to grips with this question right now, and two of its senior ..."
+          "title": "FDA says initial rejections of new drugs have declined",
+          "link": "https://endpoints.news/fda-says-initial-rejections-of-new-drugs-have-declined/",
+          "pubDate": "2026-09-18T16:26:20.000Z",
+          "description": "The FDA is looking to dispel what it says are inaccurate claims that it's increasingly rejecting new drugs after an initial review.\r\n\r\n The claims stem from a 2027 budget-related report from ..."
         },
         {
-          "title": "UK government committees call for probe into US pharma deal",
-          "link": "https://endpoints.news/uk-government-committees-call-for-probe-into-us-pharma-deal/",
-          "pubDate": "2026-09-17T17:01:24.000Z",
-          "description": "Six UK government committees have called for an investigation into the cost of the UK’s pharmaceutical trade deal with the US.\r\n\r\n The letter, published Wednesday, demands that the UK’s watchdog, the ..."
+          "title": "China sets ambitious goals for global biopharma expansion in new five-year plan",
+          "link": "https://endpoints.news/china-sets-ambitions-goals-for-global-biopharma-expansion-in-new-five-year-plan/",
+          "pubDate": "2026-09-18T15:07:57.000Z",
+          "description": "Any doubts about China’s ambitions as a major global competitor in biopharma are quickly disappearing.\r\n\r\n On Friday, the Chinese government issued the latest five-year plan for its biotech and pharma industries ..."
         },
         {
-          "title": "Cellares and Ori Biotech’s new cell therapy manufacturing contracts",
-          "link": "https://endpoints.news/cellares-and-ori-biotechs-new-cell-therapy-manufacturing-contracts/",
-          "pubDate": "2026-09-17T16:47:15.000Z",
-          "description": "Plus more from Reckitt, Astellas and Hovione.\r\n\r\n Cellares’ first Asian partnership: The manufacturer has inked a new partnership with Taiwanese company GenomeFrontier Therapeutics, under which Cellares will evaluate manufacturing GenomeFro"
+          "title": "Anthropic starts verification program for using Mythos in biology",
+          "link": "https://endpoints.news/anthropic-starts-verification-program-for-using-mythos-in-biology/",
+          "pubDate": "2026-09-18T14:46:20.000Z",
+          "description": "When it made its much-hyped Mythos available back on July 1, Anthropic said the AI model was so powerful it couldn't allow the technology to be used for life sciences tasks. On Thursday, it said ..."
         }
       ]
     },
@@ -164,6 +164,18 @@
       "name": "BioPharma Dive",
       "items": [
         {
+          "title": "Xenon shares fall following depression trial pause",
+          "link": "https://www.biopharmadive.com/news/xenon-azetukalner-depression-trial-halt-adverse-events/830756/",
+          "pubDate": "2026-09-18T15:51:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/xa_T0oT9Hj8F-wJjKfJeFkbn4Yqp_lT58dL0S4GszxY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MjEzNjQ4MDJfMS5qcGc=.webp\"/></div></figure><p>The occurrence"
+        },
+        {
+          "title": "This week in charts: GSK’s China deals, the $300M IPO club and selling the news",
+          "link": "https://www.biopharmadive.com/news/biotech-charts-gsk-china-electra-ipo-scholar-rock/830514/",
+          "pubDate": "2026-09-18T14:43:50.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/pYD3j5yHNQKa20_p-YozLhgHtUmmjO5JVAIccUnyifU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyXzBlaExSdTIuanBn.webp\"/></div></figure><p>The la"
+        },
+        {
           "title": "Ultragenyx prices Sanfilippo gene therapy at $4M; Bristol Myers shelves Orum drug",
           "link": "https://www.biopharmadive.com/news/ultragenyx-fayuvi-orum-bristol-lunsumio-longeveron-rocket-danon/830512/",
           "pubDate": "2026-09-18T14:24:00.000Z",
@@ -198,18 +210,6 @@
           "link": "https://www.biopharmadive.com/news/roche-dualitas-bispecific-antibodies-immune/830573/",
           "pubDate": "2026-09-17T10:00:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/_Jl91qpyunJWe-csdceqrcSO_PmI-VBjWQO1KOBqP58/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTM3MjY1MDU5LmpwZw==.webp\"/></div></figure><p>Through a rese"
-        },
-        {
-          "title": "Novartis to pay $125M for blood-brain barrier crossing platform",
-          "link": "https://www.biopharmadive.com/news/novartis-125m-for-blood-brain-barrier-crossing-platform-Sironax/830560/",
-          "pubDate": "2026-09-16T20:26:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/zfRhQ6UdoLhrnrg6WnOJHxS_autlpVcZwuWId9Q7ZSI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5Nzg4MDE4LmpwZw==.webp\"/></div></figure><p>Proceeds from "
-        },
-        {
-          "title": "Novo looks to Anthropic’s AI models to ‘supercharge’ drug development",
-          "link": "https://www.biopharmadive.com/news/novo-anthropic-ai-drug-discovery-development-deal/830540/",
-          "pubDate": "2026-09-16T15:10:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/D9gg1rVcUIq9FaZHiVbjCf_eOkzM5gCv482MNMS1gT4/g:nowe:10:333/c:1376:777/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTUxODkzMzI3LmpwZw==.webp\"/></div></figu"
         }
       ]
     }
