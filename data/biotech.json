@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T15:37:44.304Z",
+  "generatedAt": "2026-09-26T14:47:50.541Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
@@ -58,6 +58,36 @@
       "name": "Endpoints News",
       "items": [
         {
+          "title": "The drug industry’s care gap; Novo aims to diversify; and more",
+          "link": "https://endpoints.news/the-drug-industrys-care-gap-novo-aims-to-diversify-and-more/",
+          "pubDate": "2026-09-26T10:00:48.000Z",
+          "description": "Welcome back to Endpoints Weekly. We unveiled this year’s Endpoints 11 at a gala event in Boston on Thursday. You can meet the class of 2026 here, or replay the show"
+        },
+        {
+          "title": "FDA approves Mirum’s drug for ultra-rare soft tissue disease",
+          "link": "https://endpoints.news/fda-approves-mirums-drug-for-ultra-rare-soft-tissue-disease/",
+          "pubDate": "2026-09-25T19:46:36.000Z",
+          "description": "The FDA has approved the third treatment for a debilitating genetic disease that turns muscle and connective tissue to bone.\r\n\r\n Mirum Pharmaceuticals’ zilurgisertib, which blocks the ALK2 receptor, will be marketed as Atebrioz for patients"
+        },
+        {
+          "title": "Jury awards Nektar $90M in suit against Lilly",
+          "link": "https://endpoints.news/jury-awards-nektar-90m-in-suit-against-lilly/",
+          "pubDate": "2026-09-25T17:05:24.000Z",
+          "description": "Nektar Therapeutics won $90 million in its lawsuit against Eli Lilly over a fractured licensing deal, a win for the biotech but a far smaller sum than was sought.\r\n\r\n Jurors in the US District Court ..."
+        },
+        {
+          "title": "Pharma industry asks FDA for more details on when one trial is enough",
+          "link": "https://endpoints.news/pharma-industry-asks-fda-for-more-details-on-when-one-trial-is-enough/",
+          "pubDate": "2026-09-25T16:51:20.000Z",
+          "description": "Pharmaceutical companies and industry groups are calling on the FDA to provide more details and examples about when sponsors can rely on one pivotal trial plus confirmatory evidence for a new drug’s approval.\r\n\r\n The push ..."
+        },
+        {
+          "title": "To get drugmakers into ultra-rare disease, the answer isn’t rare disease at all",
+          "link": "https://endpoints.news/to-get-drugmakers-into-ultra-rare-disease-the-answer-isnt-rare-disease-at-all/",
+          "pubDate": "2026-09-25T15:41:48.000Z",
+          "description": "OXFORD, England — Making rare disease treatments economically attractive for drugmakers requires looking outside rare disease, according to experts interviewed by Endpoints News.\r\n\r\n The pharmaceutical industry’s lack of investment in ultra"
+        },
+        {
           "title": "Legend's five-year data suggests Carvykti could be a cure; Addex, Indivior split",
           "link": "https://endpoints.news/legends-five-year-data-suggests-carvykti-could-be-a-cure-addex-indivior-split/",
           "pubDate": "2026-09-25T14:34:34.000Z",
@@ -74,36 +104,6 @@
           "link": "https://endpoints.news/endpoints-11-2026-winner-azalea-melds-gene-editing-and-car-t/",
           "pubDate": "2026-09-25T14:00:58.000Z",
           "description": "..."
-        },
-        {
-          "title": "Endpoints 11 2026 winner NewLimit searches for a new class of anti-aging drugs",
-          "link": "https://endpoints.news/endpoints-11-2026-winner-newlimit-searches-for-a-new-class-of-anti-aging-drugs/",
-          "pubDate": "2026-09-25T14:00:55.000Z",
-          "description": "Key leaders Co-founders Jacob Kimmel (CEO), Brian Armstrong, Blake Byers\r\n Headquarters South San Francisco, CA\r\n Total raised $682M\r\n Key investors Kleiner Perkins, Founders Fund, Dimension Capital, Eli Lilly Ventures, Thrive Capital\r\n \r\n "
-        },
-        {
-          "title": "Endpoints 11 2026 winner Anew Labs offers a China-based rival to AI labs",
-          "link": "https://endpoints.news/endpoints-11-2026-winner-anew-labs-offers-a-china-based-rival-to-ai-labs/",
-          "pubDate": "2026-09-25T14:00:54.000Z",
-          "description": "Google, Anthropic and OpenAI aren’t the only tech giants infatuated with the ..."
-        },
-        {
-          "title": "Endpoints 11 2026 winner Stipple Bio is taking precision to the next level",
-          "link": "https://endpoints.news/endpoints-11-2026-winner-stipple-bio-is-taking-precision-to-the-next-level/",
-          "pubDate": "2026-09-25T14:00:53.000Z",
-          "description": "Pancreatic cancer treatment is ..."
-        },
-        {
-          "title": "Endpoints 11 2026 winner Medra wants to create self-driving labs",
-          "link": "https://endpoints.news/endpoints-11-2026-winner-medra-wants-to-create-self-driving-labs/",
-          "pubDate": "2026-09-25T14:00:51.000Z",
-          "description": "Shortly after earning a PhD in robotics ..."
-        },
-        {
-          "title": "Endpoints 11 2026 winner SonoThera has a new approach to non-viral gene therapy",
-          "link": "https://endpoints.news/endpoints-11-2026-winner-sonothera-has-a-new-approach-to-non-viral-gene-therapy/",
-          "pubDate": "2026-09-25T14:00:42.000Z",
-          "description": "Key leaders Kenneth Greenberg (CEO), Steve Feinstein (CSO)\r\n Headquarters San Francisco\r\n Total raised $186M\r\n Key investors Vida Ventures, ARCH Ventures Partners, Illumina Ventures, Leaps by Bayer, Johnson & Johnson Innovation, Eli Lilly ."
         }
       ]
     },
@@ -164,6 +164,12 @@
       "name": "BioPharma Dive",
       "items": [
         {
+          "title": "This week in charts: Novo’s rise and fall and AI biotechs’ big haul",
+          "link": "https://www.biopharmadive.com/news/novo-nordisk-share-price-ai-drug-discovery/831366/",
+          "pubDate": "2026-09-25T16:08:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/S7kYl4_8o-FTTXWhd92CtQyC0IbGNdT9f0kWAlh5hRk/g:nowe:0:217/c:4928:2784/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyLmpwZw==.webp\"/></div></figu"
+        },
+        {
           "title": "Novo pursues long-acting obesity drugs; Acadia slumps on Alzheimer’s data",
           "link": "https://www.biopharmadive.com/news/novo-nanexa-acadia-remlifanserin-nektar-lilly-onswik-welireg/831346/",
           "pubDate": "2026-09-25T13:21:00.000Z",
@@ -204,12 +210,6 @@
           "link": "https://www.biopharmadive.com/news/enveda-ai-drug-discovery-series-e/831161/",
           "pubDate": "2026-09-23T17:55:00.000Z",
           "description": "<p>Enveda, which is using AI tools to mine plants and microbes for drug prospects, has three candidates in human testing for immune diseases and obesity.</p>"
-        },
-        {
-          "title": "Roche, Ionis RNA drug scores in kidney disease study",
-          "link": "https://www.biopharmadive.com/news/roche-ionis-rna-study-iga-nephropathy/831152/",
-          "pubDate": "2026-09-23T16:21:56.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/cHs2RFOcWtoXtT_SrdEwLhKSYKW_ecNh_atlqwARHcw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzk5NTM3MTQwXzEuanBn.webp\"/></div></figure><p>The results po"
         }
       ]
     }
