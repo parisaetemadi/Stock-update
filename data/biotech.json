@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T14:47:50.541Z",
+  "generatedAt": "2026-09-27T15:25:10.013Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
@@ -58,6 +58,12 @@
       "name": "Endpoints News",
       "items": [
         {
+          "title": "AbbVie's next-gen dopamine therapy for Parkinson's gets FDA approval",
+          "link": "https://endpoints.news/fda-approves-abbvie-next-gen-dopamine-therapy-for-parkinsons/",
+          "pubDate": "2026-09-26T16:01:44.000Z",
+          "description": "The FDA approved AbbVie’s next-generation therapy for Parkinson’s disease, tavapadon, a dopamine agonist that's expected to provide the symptom relief of its predecessors but with fewer side effects.\r\n\r\n Tavapadon will be branded as Juvmo a"
+        },
+        {
           "title": "The drug industry’s care gap; Novo aims to diversify; and more",
           "link": "https://endpoints.news/the-drug-industrys-care-gap-novo-aims-to-diversify-and-more/",
           "pubDate": "2026-09-26T10:00:48.000Z",
@@ -98,12 +104,6 @@
           "link": "https://endpoints.news/endpoints-11-2026-winner-kali-looked-at-china-for-pipeline-drugs-then-turned-in-house/",
           "pubDate": "2026-09-25T14:00:59.000Z",
           "description": "Weihao Xu ..."
-        },
-        {
-          "title": "Endpoints 11 2026 winner Azalea melds gene editing and CAR-T",
-          "link": "https://endpoints.news/endpoints-11-2026-winner-azalea-melds-gene-editing-and-car-t/",
-          "pubDate": "2026-09-25T14:00:58.000Z",
-          "description": "..."
         }
       ]
     },
