@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-09-28T18:17:28.853Z",
+  "generatedAt": "2026-09-29T16:40:10.896Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
+        {
+          "title": "uniQure stock crashes as Huntington’s gene therapy data weaken",
+          "link": "https://www.fiercebiotech.com/biotech/uniqure-stock-crashes-huntingtons-gene-therapy-data-weaken",
+          "pubDate": "2026-09-29T09:29:00.000Z",
+          "description": "uniQure’s Huntington’s disease gene therapy has failed to significantly slow disease progression after 48 months, sending the biotech’s stock down 41% when trading began. But mitigating circumstances and the ongoing strength of a secondary "
+        },
+        {
+          "title": "ai3Bio emerging from stealth to ‘take the gun out of the hands of the immune system’",
+          "link": "https://www.fiercebiotech.com/biotech/ai3bio-emerging-stealth-take-gun-out-hands-immune-system",
+          "pubDate": "2026-09-28T16:25:00.000Z",
+          "description": "ai3Bio has emerged from stealth with $48 million in funding and a buzzing platform for targeting T cells in autoimmune disease."
+        },
+        {
+          "title": "Novo agrees $2.6B deal for preclinical GLP-1/GIP drug from in-demand Hengrui",
+          "link": "https://www.fiercebiotech.com/biotech/novo-agrees-26b-deal-preclinical-glp-1gip-drug-demand-hengrui",
+          "pubDate": "2026-09-29T03:51:00.000Z",
+          "description": "Novo’s ongoing efforts to rejuvenate its pipeline have seen the Big Pharma turn to one of the most in-demand drug developers in China."
+        },
+        {
+          "title": "AstraZeneca scales Summit’s PD-1xVEGF strategy with $2B investment to fuel ADC combos",
+          "link": "https://www.fiercebiotech.com/biotech/astrazeneca-scales-summits-pd-1xvegf-strategy-2b-investment-fuel-adc-combinations",
+          "pubDate": "2026-09-29T03:07:00.000Z",
+          "description": "AstraZeneca is investing $2 billion in Summit Therapeutics to accelerate the development of PD-1xVEGF bispecific ivonescimab in combination with antibody-drug conjugates (ADCs). The newly minted partners will start by testing ivonescimab wi"
+        },
         {
           "title": "Roche drops muscle-sparing obesity antibody after flunked interim analysis",
           "link": "https://www.fiercebiotech.com/biotech/roche-drops-muscle-sparing-obesity-antibody-after-flunked-interim-analysis",
@@ -27,30 +51,6 @@
           "link": "https://www.fiercebiotech.com/biotech/tolerance-continues-thymus-focused-deals-560m-pact-tanabe",
           "pubDate": "2026-09-28T09:00:00.000Z",
           "description": "After vaulting into the clinic by licensing a fusion protein last month, Tolerance Bio has continued to strengthen its thymus-focused pipeline by picking up an anti-IL-33 drug from Tanabe Pharma."
-        },
-        {
-          "title": "Precision Neuroscience taps $250M in Series D funding for brain-computer interface",
-          "link": "https://www.fiercebiotech.com/medtech/precision-neuroscience-taps-250m-series-d-funding-brain-computer-interface",
-          "pubDate": "2026-09-28T08:51:00.000Z",
-          "description": "Precision Neurosciences, which specializes in brain-computer interface technology, raised $250 million in an oversubscribed Series D financing round.<br>"
-        },
-        {
-          "title": "Kodiak's stock doubles as resurrected eye disease drug matches Eylea in phase 3",
-          "link": "https://www.fiercebiotech.com/biotech/kodiak-roars-back-pivotal-victory-resurrected-eye-disease-drug",
-          "pubDate": "2026-09-28T08:37:00.000Z",
-          "description": "Two of Kodiak Sciences’ drug candidates have matched aflibercept in a phase 3 clinical trial, positioning the biotech to seek FDA approval of one of the eye disease assets this year.<br>"
-        },
-        {
-          "title": "VC Sofinnova reels in €82M to target medtechs in the next 5 years",
-          "link": "https://www.fiercebiotech.com/medtech/vc-sofinnova-reels-eur82m-target-medtechs-next-5-years",
-          "pubDate": "2026-09-28T08:06:00.000Z",
-          "description": "Sofinnova Partners has hauled in 82 million euro ($93.3 million) in an oversubscribed financing round. The European venture capital group said it will use the cash to expand its medtech creation strategy in Europe and the U.S.<br>"
-        },
-        {
-          "title": "New approach methodologies in safety and toxicology testing: Why proving repeatability is the next hurdle for widespread adoption",
-          "link": "https://www.fiercebiotech.com/sponsored/new-approach-methodologies-safety-and-toxicology-testing-why-proving-repeatability-next",
-          "pubDate": "2026-09-23T15:53:00.000Z",
-          "description": "NAMs could transform drug safety testing—but proving repeatability and cell health remains the key hurdle to widespread adoption."
         }
       ]
     },
@@ -58,58 +58,76 @@
       "name": "Endpoints News",
       "items": [
         {
-          "title": "White House takes stock of US-based manufacturing for 86 essential drugs",
-          "link": "https://endpoints.news/white-house-takes-stock-of-us-based-manufacturing-for-86-essential-drugs/",
-          "pubDate": "2026-09-28T17:41:21.000Z",
-          "description": "The White House's Office of Management and Budget (OMB) is asking for more information on the domestic production of 86 essential medicines, such as the pain reliever aspirin and the blood pressure drug vasopressin.\r\n\r\n The ..."
+          "title": "SK pharmteco unveils $200M+ investment to expand CDMO capabilities",
+          "link": "https://endpoints.news/sk-pharmteco-unveils-200m-investment-to-expand-cdmo-capabilities/",
+          "pubDate": "2026-09-29T15:15:18.000Z",
+          "description": "SK pharmteco plans to spend at least $200 million on building out its development and manufacturing infrastructure over the next five years, which is expected to create 100 new jobs.\r\n\r\n\r\n\r\n Most of the investment will ..."
         },
         {
-          "title": "Nonprofits' gene therapy for rare immune disease will cost $3.25M",
-          "link": "https://endpoints.news/nonprofits-gene-therapy-for-rare-immune-disease-will-cost-3-25-million/",
-          "pubDate": "2026-09-28T15:45:19.000Z",
-          "description": "After winning FDA approval at the end of last year, two nonprofits are now launching their rare immune disease gene therapy Waskyra with a list price of $3.25 million, they told Endpoints News.\r\n\r\n The nonprofits — ..."
+          "title": "Ascletis challenges psoriasis field with pill; Invivyd plans Covid filing",
+          "link": "https://endpoints.news/ascletis-challenges-psoriasis-field-with-pill-invivyd-plans-covid-filing/",
+          "pubDate": "2026-09-29T14:46:04.000Z",
+          "description": "Plus news about Breye, Immix and Aptadir.\r\n\r\n Ascletis takes on injectables with psoriasis pill: The Hong Kong-listed biotech is developing a small-molecule IL-17A inhibitor, going after the same target as injectables ..."
         },
         {
-          "title": "Scynexis' BARDA alliance; Bristol Myers' early data for dual-targeting CAR-T",
-          "link": "https://endpoints.news/scynexis-barda-alliance-bristol-myers-early-data-for-dual-targeting-car-t/",
-          "pubDate": "2026-09-28T15:22:04.000Z",
-          "description": "Plus, news about MediciNova, Tolerance Bio, Tanabe, Lepu Medical and Synphatec.\r\n\r\n Scynexis’ $200M+ BARDA contract: The partnership is for SCY-247, an investigational treatment for serious drug-resistant fungal infections. The pact is ..."
+          "title": "UniQure sinks as Huntington's gene therapy appears to show waning benefit over time",
+          "link": "https://endpoints.news/uniqure-sinks-as-huntingtons-gene-therapy-appears-to-show-waning-benefit-over-time/",
+          "pubDate": "2026-09-29T14:23:49.000Z",
+          "description": "UniQure's shares {$QURE} were rocked Tuesday morning after the company revealed its experimental Huntington’s disease gene therapy may have less benefit than originally thought.\r\n\r\n In an additional year of follow-up data, the experimental "
         },
         {
-          "title": "Kodiak's stock soars as it clinches crucial Phase 3 win for Eylea competitor",
-          "link": "https://endpoints.news/kodiaks-stock-soars-as-it-clinches-crucial-phase-3-win-for-eylea-competitor/",
-          "pubDate": "2026-09-28T15:19:38.000Z",
-          "description": "Kodiak Sciences appears to have an Eylea successor on its hands.\r\n\r\n The Silicon Valley biotech said its experimental drug Zenkuda performed as well as Eylea in a progressive eye disease known as wet age-related macular ..."
+          "title": "Oura just pulled its IPO",
+          "link": "https://endpoints.news/oura-just-pulled-its-ipo/",
+          "pubDate": "2026-09-29T14:11:43.000Z",
+          "description": "The smart ring maker said the move came “despite strong demand, due to uncertainty in the IPO market.”\r\n\r\n To be honest, this caught us by surprise. We predicted we’d see ..."
         },
         {
-          "title": "Roche cans muscle-preserving obesity drug, hands it back to Chugai",
-          "link": "https://endpoints.news/roche-cans-muscle-preserving-obesity-drug-hands-it-back-to-chugai/",
-          "pubDate": "2026-09-28T14:06:16.000Z",
-          "description": "Roche has scrapped development of a muscle-building drug, ending a trial testing the experimental medicine in combination with an anti-obesity injectable.\r\n\r\n The Swiss pharma is stopping work on emugrobart, aptly named GYM329, and is retur"
+          "title": "ARCH and Population Health return to China for new startup Somnivera, targeting sleep",
+          "link": "https://endpoints.news/arch-and-population-health-return-to-china-for-new-startup-somnivera-targeting-sleep/",
+          "pubDate": "2026-09-29T13:16:55.000Z",
+          "description": "After last year's successful $10 billion sale of Metsera, and then the launch of an inflammatory disease biotech earlier this year, ARCH Venture Partners and Population Health Partners have ..."
         },
         {
-          "title": "Merck licenses a KRAS G12D inhibitor for $400M upfront",
-          "link": "https://endpoints.news/merck-licenses-a-kras-g12d-inhibitor-for-400m-upfront/",
-          "pubDate": "2026-09-28T14:00:16.000Z",
-          "description": "Back in 2023, entrepreneur and synthetic chemist Tao Hu sold a KRAS G12D inhibitor to AstraZeneca. Today, he's selling another KRAS G12D inhibitor, this time to Merck — but with a twist that could make it ..."
+          "title": "After GLP-1s, biosimilars are the new frontier in direct-to-employer plans",
+          "link": "https://endpoints.news/after-glp-1s-biosimilars-are-the-new-frontier-in-direct-to-employer-plans/",
+          "pubDate": "2026-09-29T13:00:58.000Z",
+          "description": "Fresenius Kabi will sell biosimilars directly to employers.\r\n\r\n To accomplish that, the drugmaker is working with Eversana-owned Waltz Health, which runs a marketplace that helps employers shop for better deals on prescription ..."
         },
         {
-          "title": "Merck, Daiichi scrap FDA application for B7-H3 ADC in lung cancer",
-          "link": "https://endpoints.news/merck-daiichi-scrap-fda-application-for-b7-h3-adc-in-lung-cancer/",
-          "pubDate": "2026-09-28T11:13:26.000Z",
-          "description": "In yet another setback to the Merck and Daiichi Sankyo partnership, the companies said they have pulled their FDA accelerated approval application for an antibody-drug conjugate (ADC) in certain small cell lung cancer (SCLC) patients.\r\n\r\n ."
+          "title": "Spark co-founder Steven Altschuler is back with an immune-resetting biotech",
+          "link": "https://endpoints.news/spark-co-founder-steven-altschuler-is-back-with-an-immune-resetting-biotech/",
+          "pubDate": "2026-09-29T13:00:49.000Z",
+          "description": "Drugmakers and investors have ramped up their spending and R&D attention on autoimmune diseases in recent years, with a proliferation of bispecific T cell engagers, various approaches to CAR-T cell therapy and twists on the ..."
         },
         {
-          "title": "AbbVie's next-gen dopamine therapy for Parkinson's gets FDA approval",
-          "link": "https://endpoints.news/fda-approves-abbvie-next-gen-dopamine-therapy-for-parkinsons/",
-          "pubDate": "2026-09-26T16:01:44.000Z",
-          "description": "The FDA approved AbbVie’s tavapadon, a next-generation therapy for Parkinson’s disease that's expected to provide the symptom relief of its predecessors but with fewer side effects.\r\n\r\n The dopamine agonist will be branded as Juvmo and ..."
+          "title": "AI health startup Ortet launches with $500M and co-founders from Genentech",
+          "link": "https://endpoints.news/ai-health-startup-ortet-launches-with-500m-and-ex-genentech-co-founders/",
+          "pubDate": "2026-09-29T11:45:14.000Z",
+          "description": "A trio of former AI scientists and engineers at Roche's Genentech has started a company called Ortet, with visions of changing the healthcare system with AI.\r\n\r\n Ortet launched Tuesday with a $500 million funding commitment ..."
         }
       ]
     },
     "statnews": {
       "name": "STAT News (Biotech)",
       "items": [
+        {
+          "title": "STAT+: AstraZeneca invests $2 billion in Summit Therapeutics",
+          "link": "https://www.statnews.com/2026/09/29/biotech-news-astrazeneca-invests-2-billion-in-summit-therapeautics/?utm_campaign=rss",
+          "pubDate": "2026-09-29T13:52:51.000Z",
+          "description": "AstraZeneca is teaming up with Summit Therapeutics to test its PD-1/VEGF bispecific ivonescimab alongside AstraZeneca’s antibody-drug conjugates."
+        },
+        {
+          "title": "STAT+: UniQure&#8217;s gene therapy continues to slow Huntington&#8217;s progression after four years",
+          "link": "https://www.statnews.com/2026/09/29/uniqure-huntingtons-gene-therapy-slows-disease-progression-four-years/?utm_campaign=rss",
+          "pubDate": "2026-09-29T11:05:00.000Z",
+          "description": "UniQure's gene therapy continues to slow Huntington's progression after four years. But the magnitude of the benefit waned compared to a similar analysis from a year ago."
+        },
+        {
+          "title": "STAT+: Drug pricing, Medicaid, and research funding: The key policy issues at stake in the midterms",
+          "link": "https://www.statnews.com/2026/09/29/healthcare-industry-midterm-elections-analysis/?utm_campaign=rss",
+          "pubDate": "2026-09-29T08:30:00.000Z",
+          "description": "Big shifts in health care policy could emerge depending on who wins the midterms, affecting hospitals and pharma companies."
+        },
         {
           "title": "STAT+: AbbVie wins FDA nod for Parkinson&#8217;s pill",
           "link": "https://www.statnews.com/2026/09/28/biotech-news-abbvie-wins-fda-nod-for-parkinsons-pill/?utm_campaign=rss",
@@ -139,30 +157,36 @@
           "link": "https://www.statnews.com/2026/09/24/chronicling-chinese-drug-development-from-shanghai-readout-loud/?utm_campaign=rss",
           "pubDate": "2026-09-24T19:30:38.000Z",
           "description": "The Readout LOUD is going international this week with a dispatch from Shanghai, along with notes on the FDA's Overton era."
-        },
-        {
-          "title": "STAT+: Kyverna&#8217;s cell therapy shows lasting autoimmune benefit",
-          "link": "https://www.statnews.com/2026/09/24/biotech-news-kyverna-cell-therapy-shows-lasting-autoimmune-benefit/?utm_campaign=rss",
-          "pubDate": "2026-09-24T13:52:10.000Z",
-          "description": "Kyverna Therapeutics is one step closer to launching the first cell therapy for an autoimmune disease, with new data in hand showing many patients remained off of other therapies a&#8230;"
-        },
-        {
-          "title": "STAT+: Why Gilead can&#8217;t stop talking about its ambitions in immunology",
-          "link": "https://www.statnews.com/2026/09/24/gilead-immunology-inflammation-biotech-moderna-merck/?utm_campaign=rss",
-          "pubDate": "2026-09-24T10:30:00.000Z",
-          "description": "Gilead Sciences’ top executives have been emphatically bullish about the biotech’s years-long push to develop drugs for inflammatory and autoimmune diseases."
-        },
-        {
-          "title": "STAT+: Trump boast on drug pricing policy overstated state-level interest in federal program",
-          "link": "https://www.statnews.com/2026/09/24/trump-medicaid-generous-model-state-interest/?utm_campaign=rss",
-          "pubDate": "2026-09-24T08:30:00.000Z",
-          "description": "President Trump and his aides boasted that every U.S. state wanted to participate in a drug pricing initiative through Medicaid. Several states said they weren't sure yet."
         }
       ]
     },
     "biopharmadive": {
       "name": "BioPharma Dive",
       "items": [
+        {
+          "title": "Novo to pay Hengrui up to $2.6B for a once-weekly obesity pill",
+          "link": "https://www.biopharmadive.com/news/novo-hengrui-oral-obesity-drug-deal/831607/",
+          "pubDate": "2026-09-29T15:52:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/aI2iJ0KsLoetrenkjn92gzc1Vz0ZFLzbtdVrUaAPy3I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yUEY1SFBKLmpwZw==.webp\"/></div></figure><p>The deal, which hands Novo a chall"
+        },
+        {
+          "title": "UniQure tumbles with latest data for Huntington’s gene therapy",
+          "link": "https://www.biopharmadive.com/news/uniqure-huntingtons-four-year-data-gene-therapy-results/831611/",
+          "pubDate": "2026-09-29T15:36:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/qlgLLw2c2yrKjI5ZO2FmrXiVDHfHmthnvdlzYzLFeBE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTQ5NDY1MDlfWUlJNG03bC5qcGc=.webp\"/></div></figure><p>Analys"
+        },
+        {
+          "title": "ai3Bio, built from two biotechs, pursues a different path to an ‘immune reset’",
+          "link": "https://www.biopharmadive.com/news/ai3bio-th17-drugs-immune-reset-launch-series-a/831521/",
+          "pubDate": "2026-09-29T13:00:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/aNTzdMHK4RRawV8CktDQdeZ_hIxyaN3mcNLUBbQ6ASQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk4MzgwNDA3LmpwZw==.webp\"/></div></figure><p>Rather than de"
+        },
+        {
+          "title": "AstraZeneca invests $2B in Summit, gaining ‘seat at the table’ for PD-1/VEGF drug push",
+          "link": "https://www.biopharmadive.com/news/summit-astrazeneca-ivonescimab-deal-pd1-vegf/752865/",
+          "pubDate": "2026-09-29T12:49:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/U1p_j9BDqJ48JLk77g8bxOnzXIh5YVNKqCXZdq4xNwI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDcxMDQzNjg0LmpwZw==.webp\"/></div></figure><p>The equity inv"
+        },
         {
           "title": "Kodiak skyrockets on positive study data for 2 eye drugs",
           "link": "https://www.biopharmadive.com/news/kodiak-tabirafusp-wet-amd-daybreak-study-results/831467/",
@@ -186,30 +210,6 @@
           "link": "https://www.biopharmadive.com/spons/breakthrough-therapies-still-need-builders/831034/",
           "pubDate": "2026-09-28T09:00:00.000Z",
           "description": "<p>The next biopharma advantage will come from the talent and systems that turn discovery into scale.</p>"
-        },
-        {
-          "title": "Kids shouldn’t have to organize childhood around medicine",
-          "link": "https://www.biopharmadive.com/spons/kids-shouldnt-have-to-organize-childhood-around-medicine/831365/",
-          "pubDate": "2026-09-28T09:00:00.000Z",
-          "description": "<p>Fewer shots, no hour-long pharmacy runs: two families show what medicine built for real life means.</p>"
-        },
-        {
-          "title": "This week in charts: Novo’s rise and fall and AI biotechs’ big haul",
-          "link": "https://www.biopharmadive.com/news/novo-nordisk-share-price-ai-drug-discovery/831366/",
-          "pubDate": "2026-09-25T16:08:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/S7kYl4_8o-FTTXWhd92CtQyC0IbGNdT9f0kWAlh5hRk/g:nowe:0:217/c:4928:2784/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyLmpwZw==.webp\"/></div></figu"
-        },
-        {
-          "title": "Novo pursues long-acting obesity drugs; Acadia slumps on Alzheimer’s data",
-          "link": "https://www.biopharmadive.com/news/novo-nanexa-acadia-remlifanserin-nektar-lilly-onswik-welireg/831346/",
-          "pubDate": "2026-09-25T13:21:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\"/></div></figure>"
-        },
-        {
-          "title": "RNAi drug specialist ADARx raises $446M IPO",
-          "link": "https://www.biopharmadive.com/news/adarx-rnai-biotech-ipo-stock-pricing/831262/",
-          "pubDate": "2026-09-25T00:36:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/szYDL8kkQd6XaSVgvjJPYl2j0snveijWs_0sZ-B522Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDYyODUzODA3LmpwZw==.webp\"/></div></figure><p>ADARx is the o"
         }
       ]
     }
