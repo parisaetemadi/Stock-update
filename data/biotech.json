@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-10-01T17:10:25.209Z",
+  "generatedAt": "2026-10-02T16:23:50.622Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
+        {
+          "title": "‘We’ve been taking our time’: Buzzy AI biotech Xaira reveals antibody platform, first taste of pipeline",
+          "link": "https://www.fiercebiotech.com/biotech/weve-been-taking-our-time-xaira-reveals-antibody-platform-and-first-taste-pipeline",
+          "pubDate": "2026-10-02T09:58:00.000Z",
+          "description": "When Xaira Therapeutics first debuted in 2024 with a gobsmacking $1 billion in funding, a natural expectation would have been for a flurry of further activity to follow. Instead, the buzzy AI biotech went quiet."
+        },
+        {
+          "title": "Chutes & Ladders—Bayer taps new chief medical officer; Cantor appointed PhRMA CEO",
+          "link": "https://www.fiercebiotech.com/biotech/chutes-ladders-cantor-steps-phrmas-house-ceo",
+          "pubDate": "2026-10-01T16:26:00.000Z",
+          "description": "Eric Cantor, who represented Virginia in the U.S. House of Representatives for 14 years and served as House majority leader from 2011 to 2014, will step up as PhRMA’s next president and CEO on Nov. 9. Plus, Bayer has a new chief medical off"
+        },
+        {
+          "title": "Novartis pens $7.8B deal for Abogen's in vivo autoimmune T-cell engager",
+          "link": "https://www.fiercebiotech.com/biotech/novartis-pays-abogen-575m-vivo-autoimmune-t-cell-engager",
+          "pubDate": "2026-10-02T04:25:00.000Z",
+          "description": "Novartis is paying Abogen Biosciences $575 million upfront for an mRNA-encoded T-cell engager that showed early clinical promise in autoimmune disease. The deal, which includes up to $7.2 billion in milestones, comes weeks after Novartis pa"
+        },
+        {
+          "title": "Immunotherapy startup Adecto blames ‘risk-averse funding environment’ for closing down",
+          "link": "https://www.fiercebiotech.com/biotech/immmunotherapy-startup-adecto-blames-risk-adverse-funding-environment-closing-down",
+          "pubDate": "2026-10-02T03:54:00.000Z",
+          "description": "Adecto Pharmaceuticals’ 12-year story has come to an end as the immunotherapy biotech blamed a “risk-averse funding environment” for shutting up shop."
+        },
+        {
+          "title": "Abbott launches SimpleScreen CRC blood test in the US",
+          "link": "https://www.fiercebiotech.com/medtech/abbott-launches-simplescreen-crc-blood-test-us",
+          "pubDate": "2026-10-02T02:18:00.000Z",
+          "description": "Abbott is kick-starting the U.S. commercial launch of SimpleScreen CRC, an FDA-approved blood-based colorectal cancer (CRC) screening test for adults age 45 and older who are at average risk for the disease."
+        },
         {
           "title": "Fierce Biotech Layoff Tracker 2026: Foghorn cuts workforce by 40%; BioMarin drops 117 roles",
           "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
@@ -17,40 +47,10 @@
           "description": "The revelation of a patient death in Bristol Myers Squibb’s phase 3 trial of a potential pulmonary fibrosis treatment has raised concerns ahead of the study’s readout, but analysts were quick to dispel worries about broader implications for"
         },
         {
-          "title": "Roche launches simultaneous screening test for SMA, SCID, and SCD",
+          "title": "Roche launches simultaneous screening test for SMA, SCID and SCD",
           "link": "https://www.fiercebiotech.com/medtech/roche-launches-simultaneous-screening-test-sma-scid-and-scd",
           "pubDate": "2026-10-01T09:37:00.000Z",
           "description": "Roche Diagnostics has launched a new in vitro diagnostic test for newborn screening to detect a series of rare disorders."
-        },
-        {
-          "title": "Biopharma recruiters see ‘signs of recovery’ as layoffs remain cool in Q3’26",
-          "link": "https://www.fiercebiotech.com/biotech/biopharma-recruiters-seeing-signs-recovery-layoffs-stay-cool-q326",
-          "pubDate": "2026-09-29T08:42:00.000Z",
-          "description": "A more subdued volume of biopharma layoffs continued into the third quarter of 2026, validating predictions that the sector has moved beyond the avalanche of redundancies experienced last year."
-        },
-        {
-          "title": "Foghorn lays off 40% of employees as Lilly cancer collab collapses over poor data",
-          "link": "https://www.fiercebiotech.com/ai-and-machine-learning/foghorn-lays-40-employees-lilly-collab-collapses-over-poor-data",
-          "pubDate": "2026-10-01T08:37:00.000Z",
-          "description": "Foghorn Therapeutics is laying off 40% of its workforce after a long-running collaboration with Eli Lilly collapsed over disappointing phase 1 data."
-        },
-        {
-          "title": "‘We’re so close to the tech companies’: Genentech CEO talks Fierce through vision for the future",
-          "link": "https://www.fiercebiotech.com/biotech/none-changing-genentechs-magargee-next-50-years-original-biotech-company",
-          "pubDate": "2026-09-28T17:24:00.000Z",
-          "description": "When recombinant DNA pioneer Herbert Boyer, Ph.D., first got a call from venture capitalist Robert Swanson about starting a company, the savvy scientist wasn’t sure a meeting would be worth his time."
-        },
-        {
-          "title": "Zealand's stock slides as Boehringer-partnered obesity drug underwhelms again in phase 3",
-          "link": "https://www.fiercebiotech.com/biotech/zealand-pharma-slides-boehringer-partnered-obesity-drug-underwhelms-again-phase-3",
-          "pubDate": "2026-10-01T06:15:00.000Z",
-          "description": "A phase 3 trial of Boehringer Ingelheim’s survodutide in people with obesity and Type 2 diabetes has met its co-primary endpoints. Yet, with the readout echoing earlier data that underwhelmed analysts, shares in Boehringer’s partner Zealand"
-        },
-        {
-          "title": "Sanofi pays Dupixent partner Regeneron $1B upfront for 4 early-stage assets to ignite R&D",
-          "link": "https://www.fiercebiotech.com/biotech/sanofi-pays-regeneron-1b-4-early-stage-assets-ignite-rd",
-          "pubDate": "2026-10-01T04:24:00.000Z",
-          "description": "Sanofi is paying Regeneron $1 billion upfront to collaborate on four early-stage immunology programs, teeing the longstanding partners up to try to replicate Dupixent’s success."
         }
       ]
     },
@@ -58,58 +58,64 @@
       "name": "Endpoints News",
       "items": [
         {
+          "title": "Lilly signals move into aesthetics, looking to add products for body, skin and hair",
+          "link": "https://endpoints.news/lilly-signals-move-into-aesthetics-looking-to-add-products-for-body-skin-and-hair/",
+          "pubDate": "2026-10-02T15:14:06.000Z",
+          "description": "Eli Lilly is looking to get into the aesthetics business and acquire drugs that could treat skin aging and diseases, body shape and hair conditions, according to a new job posting.\r\n\r\n The"
+        },
+        {
+          "title": "Summit partners with AstraZeneca and Daiichi; Eccogene earns $50M milestone",
+          "link": "https://endpoints.news/summit-partners-with-astrazeneca-and-daiichi-eccogene-earns-50m-milestone/",
+          "pubDate": "2026-10-02T14:48:37.000Z",
+          "description": "Plus news about Regeneron.\r\n\r\n Summit Therapeutics to test cancer drug with Datroway: The biotech agreed to partner with AstraZeneca and Daiichi Sankyo on a clinical trial collaboration, testing its Trop-2-directed antibody-drug ..."
+        },
+        {
+          "title": "David Sinclair's latest salvo aims to stall aging with a pill",
+          "link": "https://endpoints.news/david-sinclairs-latest-salvo-aims-to-stall-aging-with-a-pill/",
+          "pubDate": "2026-10-02T13:00:40.000Z",
+          "description": "BOSTON — Scientists say they’ve discovered small molecules that can reprogram cells to a younger state, raising the possibility that a simple pill could one day broadly combat aging.\r\n\r\n Christopher Petty, a graduate student in the ..."
+        },
+        {
+          "title": "#EASD26: Regeneron sees a future combining its obesity drug with lipid-lowering therapy",
+          "link": "https://endpoints.news/easd26-regeneron-sees-a-future-combining-its-obesity-drug-with-lipid-lowering-therapy/",
+          "pubDate": "2026-10-02T11:00:47.000Z",
+          "description": "MILAN — As more GLP-1-based drugs reach late-stage trials and post stronger and stronger weight loss effects, companies that want to enter the market are looking for differentiating factors.\r\n\r\n Regeneron has hit on something new and ..."
+        },
+        {
+          "title": "Moderna, Neurocrine bring back familiar faces; Pharming CEO exits after clashing with board",
+          "link": "https://endpoints.news/moderna-neurocrine-bring-back-familiar-faces-pharming-ceo-exits-after-clashing-with-board/",
+          "pubDate": "2026-10-02T11:00:10.000Z",
+          "description": "→ Juan Andres will come out of retirement to rejoin Moderna as COO on Oct. 5, bringing his intimate knowledge of the company as its Merck-partnered cancer vaccine gathers momentum in the clinic. Andres first ..."
+        },
+        {
+          "title": "Novartis takes rights to Abogen's mRNA T cell engager for $575M upfront",
+          "link": "https://endpoints.news/novartis-takes-rights-to-abogens-mrna-t-cell-engager-for-575m-upfront/",
+          "pubDate": "2026-10-02T08:55:40.000Z",
+          "description": "Novartis will pay Abogen Biosciences $575 million upfront for exclusive worldwide rights to an early-stage CD19xCD3 T cell engager, which is the Chinese biotech's lead asset.\r\n\r\n Abogen could get up to about $7.2 billion further ..."
+        },
+        {
           "title": "United Therapeutics' legal victory; BMS' Camzyos approved for kids",
           "link": "https://endpoints.news/united-therapeutics-legal-victory-bms-camzyos-approved-for-kids/",
           "pubDate": "2026-10-01T15:29:31.000Z",
-          "description": "Plus news about Novo, Nektar, MindRank, Mabwell Bioscience, Atara Biotherapeutics, Pierre Fabre, Monte Rosa and Skopos Bio.\r\n\r\n United Therapeutics wins court battle: A federal court in Delaware ruled on Wednesday that ..."
+          "description": "Plus, news about United Therapeutics, MindRank, Novo, Atara Biotherapeutics, Pierre Fabre, Monte Rosa Therapeutics, Bristol Myers Squibb’s Camzyos and Skopos Bio.\r\n\r\n Nektar Therapeutics' shares drop 20% after sharing long-term data: The bi"
         },
         {
           "title": "Is AI jacking up healthcare costs?",
           "link": "https://endpoints.news/is-ai-jacking-up-healthcare-costs/",
           "pubDate": "2026-10-01T15:26:25.000Z",
           "description": "For all the talk about AI’s potential to cut healthcare costs, it seems to be doing the opposite.\r\n\r\n An analysis by the Blue Cross Blue Shield Association last week blamed ..."
-        },
-        {
-          "title": "Lilly pulls back from Foghorn's synthetic lethality work as biotech sheds 40% of staff",
-          "link": "https://endpoints.news/lilly-pulls-back-from-foghorns-synthetic-lethality-work-as-biotech-sheds-40-of-staff/",
-          "pubDate": "2026-10-01T14:14:59.000Z",
-          "description": "Eli Lilly is walking away from Foghorn Therapeutics' \"synthetic lethality\" drug development, and the small biotech is reducing its headcount by 40% as a result of the culled collaboration.\r\n\r\n The duo is dropping a Phase ..."
-        },
-        {
-          "title": "#EASD26: Regeneron's antibody helps patients regain muscle after stopping GLP-1 therapy",
-          "link": "https://endpoints.news/easd26-regenerons-antibody-helps-patients-regain-muscle-after-stopping-glp-1-therapy/",
-          "pubDate": "2026-10-01T13:42:19.000Z",
-          "description": "MILAN — Regeneron’s investigational drug helped obesity patients who stopped taking Novo’s Wegovy regain a similar amount of muscle mass to what they lost when they took the GLP-1, according to new data from a mid-stage ..."
-        },
-        {
-          "title": "Q&A: Anthropic's life sciences team talk Claude's first scientific discovery",
-          "link": "https://endpoints.news/qa-anthropics-life-sciences-team-talk-claudes-first-scientific-discovery/",
-          "pubDate": "2026-10-01T13:35:23.000Z",
-          "description": "Last week, Anthropic said its AI system made its first scientific discovery.\r\n\r\n Claude agents had discovered a new enzyme system, the AI giant said, publicizing the findings in a blog post ..."
-        },
-        {
-          "title": "Parakeet Health raises $10M to automate patient outreach",
-          "link": "https://endpoints.news/parakeet-health-raises-10m-to-automate-patient-outreach/",
-          "pubDate": "2026-10-01T13:00:54.000Z",
-          "description": "A startup that automates patient communications just raised $10 million, Endpoints News learned exclusively.\r\n\r\n Parakeet Health uses AI to call, text and email patients to schedule and follow up on appointments and referrals. It also ..."
-        },
-        {
-          "title": "Insurer startup Devoted Health raises $1.2B as it revs up growth",
-          "link": "https://endpoints.news/insurer-startup-devoted-health-raises-1-2b-as-it-revs-up-growth/",
-          "pubDate": "2026-10-01T13:00:20.000Z",
-          "description": "Devoted Health, a Medicare Advantage insurer and medical group, announced nearly $1.2 billion in fresh funding after enrolling hundreds of thousands of new senior members this year.\r\n\r\n The financing includes $555 million in Series G ..."
-        },
-        {
-          "title": "Kallyope rebrands after Novo obesity deal, gets $94M for Phase 3 migraine drug",
-          "link": "https://endpoints.news/kallyope-rebrands-after-novo-obesity-deal-gets-94m-for-phase-3-migraine-drug/",
-          "pubDate": "2026-10-01T11:00:48.000Z",
-          "description": "New York City drug developer Kallyope is rebranding as TriGemX Bio as it focuses solely on treating migraine.\r\n\r\n To support the restructured company and its Phase 3 trials of a former Tanabe Pharma drug, TriGemX ..."
         }
       ]
     },
     "statnews": {
       "name": "STAT News (Biotech)",
       "items": [
+        {
+          "title": "STAT+: Lilly bypasses Australian pharmacies with DTC model",
+          "link": "https://www.statnews.com/2026/10/02/biotech-news-lilly-bypasses-australian-phramacies-with-dtc-model/?utm_campaign=rss",
+          "pubDate": "2026-10-02T13:58:31.000Z",
+          "description": "Eli Lilly is launching LillyDirect to deliver Mounjaro straight to Australian patients’ doors — and local doctors and pharmacists aren’t thrilled."
+        },
         {
           "title": "STAT+: A journey to witness China&#8217;s biotech boom up close",
           "link": "https://www.statnews.com/2026/10/01/biotech-news-journey-to-witness-chinas-biotech-boom-up-close/?utm_campaign=rss",
@@ -151,12 +157,6 @@
           "link": "https://www.statnews.com/2026/09/30/hhs-arpa-h-clinical-trials-artificial-intelligence-surpass-program/?utm_campaign=rss",
           "pubDate": "2026-09-30T20:09:15.000Z",
           "description": "Federal health officials want to speed up clinical research to compete with countries like China."
-        },
-        {
-          "title": "STAT+: Three biotech updates, including accusations of theft and and a new lobbying leader",
-          "link": "https://www.statnews.com/2026/09/30/biotech-news-updates-accusations-of-theft-new-phrma-guy/?utm_campaign=rss",
-          "pubDate": "2026-09-30T13:39:27.000Z",
-          "description": "Beam Therapeutics has filed a lawsuit alleging one of its former scientists stole intellectual property and used it to co-found a Chinese company that recently made a deal with prominent VC&#8230;"
         }
       ]
     },
@@ -164,10 +164,22 @@
       "name": "BioPharma Dive",
       "items": [
         {
+          "title": "This week in charts: Kodiak’s big comeback and Hengrui’s dealmaking",
+          "link": "https://www.biopharmadive.com/news/week-in-charts-kodiaks-big-comeback-and-hengruis-dealmaking/831690/",
+          "pubDate": "2026-10-02T15:00:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/S7kYl4_8o-FTTXWhd92CtQyC0IbGNdT9f0kWAlh5hRk/g:nowe:0:217/c:4928:2784/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyLmpwZw==.webp\"/></div></figu"
+        },
+        {
           "title": "3 takeaways from a European obesity scientific meeting",
           "link": "https://www.biopharmadive.com/news/3-takeaways-from-european-obesity-scientific-meeting/831870/",
           "pubDate": "2026-10-01T16:16:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/Lwe2KJpHwGQNmoHfod27KvoSZpAjQHguLp_4r0PptNI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNjY1Nzc4NTU4LmpwZw==.webp\"/></div></figure><p>Eli Lilly impr"
+        },
+        {
+          "title": "Lilly, Foghorn part ways; Wave’s FDA-approved plans",
+          "link": "https://www.biopharmadive.com/news/foghorn-eli-lilly-wave-samsung-bioepis-teva-varda-hatteras/831918/",
+          "pubDate": "2026-10-01T16:04:53.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\"/></div></figure>"
         },
         {
           "title": "Sanofi, Regeneron broaden alliance to find their next Dupixent",
@@ -182,6 +194,12 @@
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/IjJiP0IJSFpxNqttQzzSI9gTgUzpJItTCMlSNblLZLo/g:nowe:0:303/c:3000:1695/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy03MTY1MDAwNi5qcGc=.webp\"/></div></figure><"
         },
         {
+          "title": "Pfizer’s eczema drug clears skin in mid-stage trial",
+          "link": "https://www.biopharmadive.com/news/pfizer-eczema-drug-clears-skin-in-mid-stage-trial/831905/",
+          "pubDate": "2026-10-01T15:03:19.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/bHeki-RcmamHWZ337AesYqx0-vgLVnsXCVdnZnNyTHA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ0MTEwNTU2LmpwZw==.webp\"/></div></figure><p>Detailed resul"
+        },
+        {
           "title": "5 FDA decisions to watch in the fourth quarter of 2026",
           "link": "https://www.biopharmadive.com/news/fda-approval-decisions-watch-2026/808684/",
           "pubDate": "2026-10-01T13:04:00.000Z",
@@ -192,24 +210,6 @@
           "link": "https://www.biopharmadive.com/news/bristol-admilparant-fibrosis-aloft-study-amendment-lpa1r-contineum/831763/",
           "pubDate": "2026-09-30T16:22:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/CcReeJt3g93s2zCT4TgfM6ftZNWi_vBkwK5mT8ChtXo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5fU2hvdF8yMDI0LTA3LTExX2F0XzMuMjMuMzZfUE0ucG5n.webp\"/></div></figure><"
-        },
-        {
-          "title": "FDA starts review of Roche’s multiple sclerosis pill",
-          "link": "https://www.biopharmadive.com/news/roche-fenebrutinib-ms-fda-accept-application-btk/831746/",
-          "pubDate": "2026-09-30T15:54:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/_Jl91qpyunJWe-csdceqrcSO_PmI-VBjWQO1KOBqP58/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTM3MjY1MDU5LmpwZw==.webp\"/></div></figure><p>The FDA previo"
-        },
-        {
-          "title": "PhRMA names next CEO; Pierre Fabre takes third swing at Ebvallo approval",
-          "link": "https://www.biopharmadive.com/news/phrma-cantor-ebvallo-fda-mirum-bluejay-abbvie-juvmo/831450/",
-          "pubDate": "2026-09-30T14:18:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\"/></div></figure>"
-        },
-        {
-          "title": "Beam sues 2 biotechs, alleging theft of base editing trade secrets",
-          "link": "https://www.biopharmadive.com/news/beam-serapha-yoltech-base-editing-lawsuit/831663/",
-          "pubDate": "2026-09-29T18:34:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uaPgyyyIEYMOQwzwzi4jZopcRul86kRWfC9HvdzV1OE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MDI1NTg0OTIuanBn.webp\"/></div></figure><p>Beam claimed a for"
         }
       ]
     }
