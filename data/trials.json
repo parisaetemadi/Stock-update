@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T04:09:55.669Z",
+  "generatedAt": "2026-10-04T04:11:56.216Z",
   "basis": "Drugs whose first registered trial began in 2019 or later, ranked by how many live industry-sponsored Phase 2–3 trials each is the subject of.",
   "novelSince": "2019-01-01",
   "source": "ClinicalTrials.gov API v2",
@@ -54,6 +54,56 @@
       "enrolment": 6338,
       "lastUpdate": "2026-09-21",
       "link": "https://clinicaltrials.gov/study/NCT06316531"
+    },
+    {
+      "name": "Adebrelimab",
+      "trials": 15,
+      "phase": "Phase 3",
+      "sponsor": "Suzhou Suncadia Biopharmaceuticals Co., Ltd.",
+      "condition": "Advanced Biliary Tract Cancer",
+      "enrolment": 5035,
+      "lastUpdate": "2026-09-25",
+      "link": "https://clinicaltrials.gov/study/NCT06840002"
+    },
+    {
+      "name": "SHR-A1811",
+      "trials": 14,
+      "phase": "Phase 3",
+      "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
+      "condition": "Ovarian Cancer",
+      "enrolment": 5279,
+      "lastUpdate": "2026-09-11",
+      "link": "https://clinicaltrials.gov/study/NCT06126640"
+    },
+    {
+      "name": "Volrustomig",
+      "trials": 13,
+      "phase": "Phase 3",
+      "sponsor": "AstraZeneca",
+      "condition": "Gastric Cancer",
+      "enrolment": 6264,
+      "lastUpdate": "2026-09-30",
+      "link": "https://clinicaltrials.gov/study/NCT05984277"
+    },
+    {
+      "name": "SKB264",
+      "trials": 13,
+      "phase": "Phase 3",
+      "sponsor": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.",
+      "condition": "Non-Small Cell Lung Cancer",
+      "enrolment": 5421,
+      "lastUpdate": "2026-09-17",
+      "link": "https://clinicaltrials.gov/study/NCT05642780"
+    },
+    {
+      "name": "Telisotuzumab Adizutecan",
+      "trials": 13,
+      "phase": "Phase 3",
+      "sponsor": "AbbVie",
+      "condition": "Colorectal Cancer",
+      "enrolment": 5353,
+      "lastUpdate": "2026-10-02",
+      "link": "https://clinicaltrials.gov/study/NCT07023289"
     }
   ]
 }
