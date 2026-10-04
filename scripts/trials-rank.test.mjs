@@ -16,7 +16,7 @@ const test = (name, fn) => {
 
 // A study record in the shape the v2 API returns.
 const study = ({ nct = 'NCT00000001', status = 'RECRUITING', phases = ['PHASE3'],
-  sponsor = 'Acme Pharma', sponsorClass = 'INDUSTRY', interventions = [],
+  sponsor = 'Acme Pharma', sponsorClass = 'INDUSTRY', interventions = [], armGroups = [],
   conditions = ['Obesity'], enrolment = 100, updated = '2026-10-01' } = {}) => ({
   protocolSection: {
     identificationModule: { nctId: nct },
@@ -24,7 +24,7 @@ const study = ({ nct = 'NCT00000001', status = 'RECRUITING', phases = ['PHASE3']
     designModule: { phases, enrollmentInfo: { count: enrolment } },
     sponsorCollaboratorsModule: { leadSponsor: { name: sponsor, class: sponsorClass } },
     conditionsModule: { conditions },
-    armsInterventionsModule: { interventions }
+    armsInterventionsModule: { interventions, armGroups }
   }
 });
 const drug = name => ({ type: 'DRUG', name });
@@ -83,6 +83,56 @@ test('ignores devices and procedures', () => {
   assert.deepEqual(interventionsOf(s), ['Intismeran autogene']);
 });
 
+test('counts only the drug under test, not the chemo backbone', () => {
+  // The shape that produced a top ten of 1990s generics: a new drug added on
+  // top of a backbone, against the backbone alone. Carboplatin is on both
+  // sides; the new drug is on one.
+  const s = study({
+    interventions: [drug('Zalutuzumab'), drug('Carboplatin'), drug('Paclitaxel')],
+    armGroups: [
+      { type: 'EXPERIMENTAL', interventionNames: ['Drug: Zalutuzumab', 'Drug: Carboplatin', 'Drug: Paclitaxel'] },
+      { type: 'ACTIVE_COMPARATOR', interventionNames: ['Drug: Carboplatin', 'Drug: Paclitaxel'] }
+    ]
+  });
+  assert.deepEqual(interventionsOf(s), ['Zalutuzumab']);
+});
+
+test('a drug tested against placebo still counts', () => {
+  const s = study({
+    interventions: [drug('Retatrutide'), drug('Placebo')],
+    armGroups: [
+      { type: 'EXPERIMENTAL', interventionNames: ['Drug: Retatrutide'] },
+      { type: 'PLACEBO_COMPARATOR', interventionNames: ['Drug: Placebo'] }
+    ]
+  });
+  assert.deepEqual(interventionsOf(s), ['Retatrutide']);
+});
+
+test('a single-arm study counts everything in it', () => {
+  // Nothing to distinguish against, so there is no comparator to exclude.
+  const s = study({ interventions: [drug('Lonvo-z')], armGroups: [] });
+  assert.deepEqual(interventionsOf(s), ['Lonvo-z']);
+});
+
+test('arms that name nothing recognisable fall back rather than returning none', () => {
+  const s = study({
+    interventions: [drug('Oveporexton')],
+    armGroups: [{ type: 'EXPERIMENTAL', interventionNames: ['Other: dose escalation per protocol'] }]
+  });
+  assert.deepEqual(interventionsOf(s), ['Oveporexton']);
+});
+
+test('two experimental arms of the same trial both count', () => {
+  const s = study({
+    interventions: [drug('CagriSema'), drug('Semaglutide')],
+    armGroups: [
+      { type: 'EXPERIMENTAL', interventionNames: ['Drug: CagriSema'] },
+      { type: 'EXPERIMENTAL', interventionNames: ['Drug: Semaglutide'] }
+    ]
+  });
+  assert.deepEqual(interventionsOf(s).sort(), ['CagriSema', 'Semaglutide']);
+});
+
 console.log('countsTowardRanking');
 
 test('a live Phase 3 industry trial counts', () => {
@@ -99,6 +149,12 @@ test('Phase 1 is excluded — "in trials now" means late stage here', () => {
   assert.equal(countsTowardRanking(study({ phases: ['PHASE1'] })), false);
   assert.equal(countsTowardRanking(study({ phases: ['EARLY_PHASE1'] })), false);
   assert.equal(countsTowardRanking(study({ phases: ['PHASE1', 'PHASE2'] })), true, 'Ph1/2 should count on its top phase');
+});
+
+test('Phase 4 is excluded — post-marketing is not a pipeline', () => {
+  // The first live run ranked Phase 4 studies of approved generics at the top.
+  assert.equal(countsTowardRanking(study({ phases: ['PHASE4'] })), false);
+  assert.equal(countsTowardRanking(study({ phases: ['PHASE3', 'PHASE4'] })), true, 'a Ph3/4 study still has a Phase 3 arm');
 });
 
 test('an academic sponsor is excluded', () => {
@@ -144,6 +200,14 @@ test('the same input always gives the same order', () => {
   const first = rankDrugs(studies).map(d => d.name);
   const again = rankDrugs([...studies].reverse()).map(d => d.name);
   assert.deepEqual(first, again, 'order depended on input order');
+});
+
+test('a capitalised spelling wins over a lowercase one', () => {
+  const [row] = rankDrugs([
+    study({ nct: 'NCT1', interventions: [drug('oxaliplatin')] }),
+    study({ nct: 'NCT2', interventions: [drug('Oxaliplatin')] })
+  ]);
+  assert.equal(row.name, 'Oxaliplatin');
 });
 
 test('each row carries what the reader needs to check it', () => {

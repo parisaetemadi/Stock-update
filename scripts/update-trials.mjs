@@ -28,14 +28,17 @@ const FIELDS = [
   'protocolSection.designModule.enrollmentInfo',
   'protocolSection.sponsorCollaboratorsModule.leadSponsor',
   'protocolSection.conditionsModule.conditions',
-  'protocolSection.armsInterventionsModule.interventions'
+  'protocolSection.armsInterventionsModule.interventions',
+  // The arm structure is what separates the drug under test from the backbone
+  // it is given on top of; without it the ranking is a list of generics.
+  'protocolSection.armsInterventionsModule.armGroups'
 ].join(',');
 
 // Narrowed server-side as far as the API allows, so the sweep stays small. The
 // rest of the filtering is in trials-rank.mjs, where it is tested.
 const QUERY = {
   'filter.overallStatus': 'RECRUITING|NOT_YET_RECRUITING|ACTIVE_NOT_RECRUITING|ENROLLING_BY_INVITATION',
-  'filter.advanced': 'AREA[StudyType]INTERVENTIONAL AND AREA[LeadSponsorClass]INDUSTRY AND (AREA[Phase]PHASE2 OR AREA[Phase]PHASE3 OR AREA[Phase]PHASE4)',
+  'filter.advanced': 'AREA[StudyType]INTERVENTIONAL AND AREA[LeadSponsorClass]INDUSTRY AND (AREA[Phase]PHASE2 OR AREA[Phase]PHASE3)',
   fields: FIELDS,
   pageSize: String(PAGE_SIZE),
   countTotal: 'true',
@@ -119,7 +122,7 @@ async function main() {
     generatedAt,
     // Stated in the feed so the page can print the rule it is showing rather
     // than asserting a "top ten" the reader has no way to interpret.
-    basis: 'Live industry-sponsored Phase 2-4 interventional trials on ClinicalTrials.gov, ranked by how many each drug is running.',
+    basis: 'Live industry-sponsored Phase 2\u20133 trials on ClinicalTrials.gov, counting each drug only where it is the one being tested rather than the therapy it is added to.',
     source: 'ClinicalTrials.gov API v2',
     studiesConsidered: swept.studies.length,
     drugs

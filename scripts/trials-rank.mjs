@@ -10,9 +10,13 @@
    which matters, because the registry is not reachable from where this is
    written and the only live run happens on a GitHub runner. */
 
-export const PHASE_RANK = { PHASE4: 4, PHASE3: 3, PHASE2: 2, PHASE1: 1, EARLY_PHASE1: 0 };
+/* Phase 4 is deliberately absent. A Phase 4 study is post-marketing
+   surveillance of a drug that is already approved and on the shelf — the
+   opposite of "in trials now" in the sense that matters for a pipeline, and
+   another reason the first run filled up with old generics. */
+export const PHASE_RANK = { PHASE3: 3, PHASE2: 2, PHASE1: 1, EARLY_PHASE1: 0 };
 export const PHASE_LABEL = {
-  PHASE4: 'Phase 4', PHASE3: 'Phase 3', PHASE2: 'Phase 2',
+  PHASE3: 'Phase 3', PHASE2: 'Phase 2',
   PHASE1: 'Phase 1', EARLY_PHASE1: 'Early Phase 1', NA: 'N/A'
 };
 
@@ -75,18 +79,64 @@ function topPhase(phases) {
   return best;
 }
 
+/* The drug a study is actually testing, as opposed to every drug it mentions.
+
+   Counting every mentioned drug produced a top ten of carboplatin, cisplatin,
+   paclitaxel and gemcitabine — decades-old generics that appear in hundreds of
+   oncology trials because they are the chemotherapy backbone every new drug is
+   tested on top of. True, and useless: they are the comparator, not the
+   subject. It is the placebo problem one level up, and the fix is the same
+   idea applied properly.
+
+   The registry does not flag a lead intervention, but the arm structure gives
+   it away. A trial of a new drug reads "new drug + carbo/taxol" against
+   "carbo/taxol", so the backbone appears on BOTH sides while the new drug
+   appears only on the experimental one. So a drug counts for a study only when
+   it is in an experimental arm and in no comparator arm of that same study. */
+const COMPARATOR_ARMS = ['ACTIVE_COMPARATOR', 'PLACEBO_COMPARATOR', 'SHAM_COMPARATOR', 'NO_INTERVENTION'];
+
 export function interventionsOf(study) {
-  const list = study?.protocolSection?.armsInterventionsModule?.interventions || [];
-  const out = [];
-  for (const item of list) {
+  const module = study?.protocolSection?.armsInterventionsModule || {};
+  const medicines = new Map();      // raw registry name -> display name
+
+  for (const item of module.interventions || []) {
     // Only what is actually a medicine. Devices, procedures and behavioural
     // arms are real interventions but they are not drugs in trials.
     if (!['DRUG', 'BIOLOGICAL'].includes(item?.type)) continue;
     const name = normaliseDrug(item?.name);
-    if (name && isStudyDrug(name)) out.push(name);
+    if (name && isStudyDrug(name)) medicines.set(item.name, name);
   }
-  // One study counts once per drug however many arms mention it.
-  return [...new Set(out)];
+  if (medicines.size === 0) return [];
+
+  const armGroups = module.armGroups || [];
+  // A single-arm study has no comparator to distinguish against; everything in
+  // it is under test by definition.
+  if (armGroups.length === 0) return [...new Set(medicines.values())];
+
+  const experimental = new Set();
+  const comparator = new Set();
+  for (const arm of armGroups) {
+    const bucket = COMPARATOR_ARMS.includes(arm?.type) ? comparator
+      : arm?.type === 'EXPERIMENTAL' ? experimental
+      : null;                                  // OTHER: tells us nothing
+    if (!bucket) continue;
+    for (const raw of arm?.interventionNames || []) {
+      // Arms refer to interventions as "Drug: X", matching the label the
+      // registrar used rather than the intervention's own name field.
+      const display = medicines.get(raw) || medicines.get(raw.replace(/^[^:]+:\s*/, ''));
+      if (display) bucket.add(display);
+      else {
+        const guess = normaliseDrug(raw);
+        if (guess && [...medicines.values()].includes(guess)) bucket.add(guess);
+      }
+    }
+  }
+
+  // Arms that named nothing recognisable leave us no better off than having no
+  // arms at all, so fall back rather than returning an empty study.
+  if (experimental.size === 0 && comparator.size === 0) return [...new Set(medicines.values())];
+
+  return [...experimental].filter(name => !comparator.has(name));
 }
 
 /* A study earns its place in the count only if it is a late-stage,
@@ -135,8 +185,15 @@ export function rankDrugs(studies, { limit = 10 } = {}) {
       if (nctId) entry.nctIds.push(nctId);
       if (updated > entry.lastUpdate) entry.lastUpdate = updated;
       if (phase.rank > entry.phaseRank) { entry.phaseRank = phase.rank; entry.phase = phase.phase; }
-      // Prefer the spelling that looks most like a name: the shortest one.
-      if (name.length < entry.name.length) entry.name = name;
+      // Prefer a capitalised spelling, then the shorter one — registrars write
+      // the same molecule as "Semaglutide" and "semaglutide" and a lowercase
+      // row in a list of proper names reads as a mistake.
+      const better = (a, b) => {
+        const capA = /^[A-Z]/.test(a), capB = /^[A-Z]/.test(b);
+        if (capA !== capB) return capA ? a : b;
+        return a.length <= b.length ? a : b;
+      };
+      entry.name = better(entry.name, name);
       if (sponsor) entry.sponsors.set(sponsor, (entry.sponsors.get(sponsor) || 0) + 1);
       for (const c of conditions) entry.conditions.set(c, (entry.conditions.get(c) || 0) + 1);
     }
