@@ -28,7 +28,13 @@ const BASE = 'https://clinicaltrials.gov/api/v2/studies';
    trial is recent is. So each candidate is asked a single question — does any
    study of you start before this date? — and an established drug answers yes. */
 const NOVEL_SINCE = '2019-01-01';
-const CANDIDATE_POOL = 60;        // ranked candidates to screen for novelty
+/* Deep on purpose. A novel drug runs fewer trials than a thirty-year-old
+   regimen staple, so it ranks well below one — screening only the top sixty
+   found five new drugs and ran out, because nearly everything above them was
+   established. The pool has to reach past the generics for the pipeline to be
+   underneath. */
+const CANDIDATE_POOL = 400;
+const SCREEN_PAUSE_MS = 120;      // one cheap call each; no need to hammer
 const PAGE_SIZE = 1000;          // the API's maximum
 const MAX_PAGES = 12;            // ~12k studies; well past what the filter returns
 const RETRIES = 3;
@@ -99,11 +105,14 @@ async function isEstablished(name) {
 async function keepNovel(candidates, limit) {
   const kept = [];
   const dropped = [];
+  let screened = 0;
   for (const drug of candidates) {
     if (kept.length >= limit) break;
+    screened++;
     try {
       if (await isEstablished(drug.name)) { dropped.push(drug.name); continue; }
       kept.push(drug);
+      console.error(`[trials] new: ${drug.name} (${drug.trials} trials)`);
     } catch (err) {
       // A lookup that fails tells us nothing either way. Keeping the drug
       // would risk putting a 1990s generic back at the top of the list, so an
@@ -111,8 +120,9 @@ async function keepNovel(candidates, limit) {
       console.error(`[trials] ${drug.name}: novelty check failed (${err.message}) — skipping`);
       dropped.push(`${drug.name}?`);
     }
+    await new Promise(r => setTimeout(r, SCREEN_PAUSE_MS));
   }
-  if (dropped.length) console.error(`[trials] established or unverified, dropped: ${dropped.join(', ')}`);
+  console.error(`[trials] screened ${screened} candidates, kept ${kept.length}, dropped ${dropped.length} as established or unverified`);
   return kept;
 }
 
