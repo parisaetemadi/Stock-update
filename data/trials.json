@@ -1,0 +1,108 @@
+{
+  "generatedAt": "2026-10-04T04:05:04.179Z",
+  "basis": "Live industry-sponsored Phase 2-4 interventional trials on ClinicalTrials.gov, ranked by how many each drug is running.",
+  "source": "ClinicalTrials.gov API v2",
+  "studiesConsidered": 9119,
+  "drugs": [
+    {
+      "name": "Pembrolizumab",
+      "trials": 283,
+      "phase": "Phase 4",
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "condition": "Non-small Cell Lung Cancer",
+      "enrolment": 138356,
+      "lastUpdate": "2026-10-02",
+      "link": "https://clinicaltrials.gov/study/NCT06952504"
+    },
+    {
+      "name": "Carboplatin",
+      "trials": 240,
+      "phase": "Phase 4",
+      "sponsor": "AstraZeneca",
+      "condition": "Non-small Cell Lung Cancer",
+      "enrolment": 109662,
+      "lastUpdate": "2026-10-02",
+      "link": "https://clinicaltrials.gov/study/NCT02516241"
+    },
+    {
+      "name": "Paclitaxel",
+      "trials": 201,
+      "phase": "Phase 4",
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "condition": "Ovarian Cancer",
+      "enrolment": 87713,
+      "lastUpdate": "2026-10-02",
+      "link": "https://clinicaltrials.gov/study/NCT06952504"
+    },
+    {
+      "name": "Cisplatin",
+      "trials": 162,
+      "phase": "Phase 4",
+      "sponsor": "AstraZeneca",
+      "condition": "Non-Small Cell Lung Cancer",
+      "enrolment": 71563,
+      "lastUpdate": "2026-10-02",
+      "link": "https://clinicaltrials.gov/study/NCT06022861"
+    },
+    {
+      "name": "Bevacizumab",
+      "trials": 144,
+      "phase": "Phase 4",
+      "sponsor": "AstraZeneca",
+      "condition": "Ovarian Cancer",
+      "enrolment": 63811,
+      "lastUpdate": "2026-10-02",
+      "link": "https://clinicaltrials.gov/study/NCT07737600"
+    },
+    {
+      "name": "Gemcitabine",
+      "trials": 141,
+      "phase": "Phase 4",
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "condition": "Pancreatic Cancer",
+      "enrolment": 55088,
+      "lastUpdate": "2026-10-02",
+      "link": "https://clinicaltrials.gov/study/NCT02516241"
+    },
+    {
+      "name": "Docetaxel",
+      "trials": 128,
+      "phase": "Phase 3",
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "condition": "Non-Small Cell Lung Cancer",
+      "enrolment": 58303,
+      "lastUpdate": "2026-10-02",
+      "link": "https://clinicaltrials.gov/study/NCT04928846"
+    },
+    {
+      "name": "Pemetrexed",
+      "trials": 113,
+      "phase": "Phase 3",
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "condition": "Non-Small Cell Lung Cancer",
+      "enrolment": 51728,
+      "lastUpdate": "2026-10-02",
+      "link": "https://clinicaltrials.gov/study/NCT07415031"
+    },
+    {
+      "name": "capecitabine",
+      "trials": 98,
+      "phase": "Phase 4",
+      "sponsor": "AstraZeneca",
+      "condition": "Gastric Cancer",
+      "enrolment": 50155,
+      "lastUpdate": "2026-10-02",
+      "link": "https://clinicaltrials.gov/study/NCT04430738"
+    },
+    {
+      "name": "oxaliplatin",
+      "trials": 98,
+      "phase": "Phase 4",
+      "sponsor": "Astellas Pharma Global Development, Inc.",
+      "condition": "Gastric Cancer",
+      "enrolment": 38863,
+      "lastUpdate": "2026-10-02",
+      "link": "https://clinicaltrials.gov/study/NCT04430738"
+    }
+  ]
+}
