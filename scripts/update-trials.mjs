@@ -14,6 +14,21 @@ import { writeFile, mkdir, readFile } from 'node:fs/promises';
 import { rankDrugs } from './trials-rank.mjs';
 
 const BASE = 'https://clinicaltrials.gov/api/v2/studies';
+
+/* Counting live trials alone does not find new drugs — it finds busy ones.
+   Two runs proved it: the first returned carboplatin, cisplatin, paclitaxel
+   and gemcitabine, and after excluding comparator arms the list still held
+   carboplatin, cyclophosphamide, dexamethasone and fludarabine. All real
+   counts; all drugs from the 1990s that appear everywhere because they are
+   part of everyone's regimen.
+
+   What separates them from a pipeline is age, and age is a fact the registry
+   knows. A molecule that first entered a trial before this cutoff has been in
+   development for the better part of a decade and is not news; one whose first
+   trial is recent is. So each candidate is asked a single question — does any
+   study of you start before this date? — and an established drug answers yes. */
+const NOVEL_SINCE = '2019-01-01';
+const CANDIDATE_POOL = 60;        // ranked candidates to screen for novelty
 const PAGE_SIZE = 1000;          // the API's maximum
 const MAX_PAGES = 12;            // ~12k studies; well past what the filter returns
 const RETRIES = 3;
@@ -45,11 +60,8 @@ const QUERY = {
   format: 'json'
 };
 
-async function fetchPage(pageToken) {
-  const params = new URLSearchParams(QUERY);
-  if (pageToken) params.set('pageToken', pageToken);
-  const url = `${BASE}?${params}`;
-
+async function get(params) {
+  const url = `${BASE}?${new URLSearchParams(params)}`;
   let lastErr;
   for (let attempt = 1; attempt <= RETRIES; attempt++) {
     try {
@@ -64,6 +76,44 @@ async function fetchPage(pageToken) {
     }
   }
   throw lastErr;
+}
+
+const fetchPage = pageToken =>
+  get(pageToken ? { ...QUERY, pageToken } : QUERY);
+
+/* One cheap question per candidate: is there any study of this drug that
+   started before the cutoff? pageSize=1 with countTotal means the registry
+   answers with a number rather than the studies themselves. */
+async function isEstablished(name) {
+  const json = await get({
+    'query.intr': name,
+    'filter.advanced': `AREA[StartDate]RANGE[MIN,${NOVEL_SINCE}]`,
+    countTotal: 'true',
+    pageSize: '1',
+    fields: 'protocolSection.identificationModule.nctId',
+    format: 'json'
+  });
+  return (json.totalCount || 0) > 0;
+}
+
+async function keepNovel(candidates, limit) {
+  const kept = [];
+  const dropped = [];
+  for (const drug of candidates) {
+    if (kept.length >= limit) break;
+    try {
+      if (await isEstablished(drug.name)) { dropped.push(drug.name); continue; }
+      kept.push(drug);
+    } catch (err) {
+      // A lookup that fails tells us nothing either way. Keeping the drug
+      // would risk putting a 1990s generic back at the top of the list, so an
+      // unanswered question counts as "not proven new".
+      console.error(`[trials] ${drug.name}: novelty check failed (${err.message}) — skipping`);
+      dropped.push(`${drug.name}?`);
+    }
+  }
+  if (dropped.length) console.error(`[trials] established or unverified, dropped: ${dropped.join(', ')}`);
+  return kept;
 }
 
 async function sweep() {
@@ -107,7 +157,9 @@ async function main() {
     return;
   }
 
-  const drugs = rankDrugs(swept.studies, { limit: 10 });
+  const candidates = rankDrugs(swept.studies, { limit: CANDIDATE_POOL });
+  console.error(`[trials] ${candidates.length} candidates ranked; screening for novelty since ${NOVEL_SINCE}`);
+  const drugs = await keepNovel(candidates, 10);
   if (drugs.length === 0) {
     const old = await previous();
     if (old) {
@@ -122,7 +174,8 @@ async function main() {
     generatedAt,
     // Stated in the feed so the page can print the rule it is showing rather
     // than asserting a "top ten" the reader has no way to interpret.
-    basis: 'Live industry-sponsored Phase 2\u20133 trials on ClinicalTrials.gov, counting each drug only where it is the one being tested rather than the therapy it is added to.',
+    basis: `Drugs whose first registered trial began in ${NOVEL_SINCE.slice(0, 4)} or later, ranked by how many live industry-sponsored Phase 2\u20133 trials each is the subject of.`,
+    novelSince: NOVEL_SINCE,
     source: 'ClinicalTrials.gov API v2',
     studiesConsidered: swept.studies.length,
     drugs
