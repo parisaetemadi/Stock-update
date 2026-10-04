@@ -1,108 +1,59 @@
 {
-  "generatedAt": "2026-10-04T04:07:51.643Z",
-  "basis": "Live industry-sponsored Phase 2–3 trials on ClinicalTrials.gov, counting each drug only where it is the one being tested rather than the therapy it is added to.",
+  "generatedAt": "2026-10-04T04:09:55.669Z",
+  "basis": "Drugs whose first registered trial began in 2019 or later, ranked by how many live industry-sponsored Phase 2–3 trials each is the subject of.",
+  "novelSince": "2019-01-01",
   "source": "ClinicalTrials.gov API v2",
   "studiesConsidered": 8697,
   "drugs": [
     {
-      "name": "Pembrolizumab",
-      "trials": 153,
+      "name": "BL-B01D1",
+      "trials": 44,
+      "phase": "Phase 3",
+      "sponsor": "Sichuan Baili Pharmaceutical Co., Ltd.",
+      "condition": "Non-small Cell Lung Cancer",
+      "enrolment": 11458,
+      "lastUpdate": "2026-09-30",
+      "link": "https://clinicaltrials.gov/study/NCT06304974"
+    },
+    {
+      "name": "Sacituzumab Tirumotecan",
+      "trials": 29,
       "phase": "Phase 3",
       "sponsor": "Merck Sharp & Dohme LLC",
-      "condition": "Advanced Solid Tumor",
-      "enrolment": 59471,
+      "condition": "Non-small Cell Lung Cancer (NSCLC)",
+      "enrolment": 15817,
       "lastUpdate": "2026-10-02",
-      "link": "https://clinicaltrials.gov/study/NCT04430738"
+      "link": "https://clinicaltrials.gov/study/NCT07738341"
     },
     {
-      "name": "Carboplatin",
-      "trials": 101,
+      "name": "Pumitamig",
+      "trials": 23,
       "phase": "Phase 3",
-      "sponsor": "AstraZeneca",
+      "sponsor": "Bristol-Myers Squibb",
       "condition": "Non-small Cell Lung Cancer",
-      "enrolment": 29801,
+      "enrolment": 12906,
       "lastUpdate": "2026-10-02",
-      "link": "https://clinicaltrials.gov/study/NCT06840002"
+      "link": "https://clinicaltrials.gov/study/NCT07361497"
     },
     {
-      "name": "Bevacizumab",
-      "trials": 78,
+      "name": "Orforglipron",
+      "trials": 17,
       "phase": "Phase 3",
-      "sponsor": "AstraZeneca",
-      "condition": "Ovarian Cancer",
-      "enrolment": 26901,
+      "sponsor": "Eli Lilly and Company",
+      "condition": "Overweight",
+      "enrolment": 20788,
       "lastUpdate": "2026-10-02",
-      "link": "https://clinicaltrials.gov/study/NCT07737600"
+      "link": "https://clinicaltrials.gov/study/NCT06948422"
     },
     {
-      "name": "Paclitaxel",
-      "trials": 71,
+      "name": "BL-M07D1",
+      "trials": 17,
       "phase": "Phase 3",
-      "sponsor": "AstraZeneca",
-      "condition": "Head and Neck Squamous Cell Carcinoma",
-      "enrolment": 15882,
-      "lastUpdate": "2026-10-02",
-      "link": "https://clinicaltrials.gov/study/NCT06221748"
-    },
-    {
-      "name": "Cyclophosphamide",
-      "trials": 70,
-      "phase": "Phase 3",
-      "sponsor": "Beijing Biotech",
-      "condition": "Multiple Myeloma",
-      "enrolment": 13264,
-      "lastUpdate": "2026-10-02",
-      "link": "https://clinicaltrials.gov/study/NCT07015983"
-    },
-    {
-      "name": "Durvalumab",
-      "trials": 59,
-      "phase": "Phase 3",
-      "sponsor": "AstraZeneca",
-      "condition": "Hepatocellular Carcinoma",
-      "enrolment": 30114,
-      "lastUpdate": "2026-09-25",
-      "link": "https://clinicaltrials.gov/study/NCT05374603"
-    },
-    {
-      "name": "Cisplatin",
-      "trials": 56,
-      "phase": "Phase 3",
-      "sponsor": "AstraZeneca",
-      "condition": "Non-Small Cell Lung Cancer",
-      "enrolment": 15409,
-      "lastUpdate": "2026-10-02",
-      "link": "https://clinicaltrials.gov/study/NCT06428409"
-    },
-    {
-      "name": "Dexamethasone",
-      "trials": 55,
-      "phase": "Phase 3",
-      "sponsor": "Janssen Research & Development, LLC",
-      "condition": "Multiple Myeloma",
-      "enrolment": 17805,
-      "lastUpdate": "2026-10-02",
-      "link": "https://clinicaltrials.gov/study/NCT07150104"
-    },
-    {
-      "name": "Gemcitabine",
-      "trials": 52,
-      "phase": "Phase 3",
-      "sponsor": "AstraZeneca",
-      "condition": "Pancreatic Ductal Adenocarcinoma",
-      "enrolment": 12487,
-      "lastUpdate": "2026-10-02",
-      "link": "https://clinicaltrials.gov/study/NCT06492915"
-    },
-    {
-      "name": "Fludarabine",
-      "trials": 51,
-      "phase": "Phase 3",
-      "sponsor": "Beijing Biotech",
-      "condition": "Multiple Myeloma",
-      "enrolment": 7982,
-      "lastUpdate": "2026-10-02",
-      "link": "https://clinicaltrials.gov/study/NCT07015983"
+      "sponsor": "Sichuan Baili Pharmaceutical Co., Ltd.",
+      "condition": "HER2-positive Breast Cancer",
+      "enrolment": 6338,
+      "lastUpdate": "2026-09-21",
+      "link": "https://clinicaltrials.gov/study/NCT06316531"
     }
   ]
 }
