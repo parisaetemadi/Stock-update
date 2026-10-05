@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-04T04:11:56.216Z",
+  "generatedAt": "2026-10-05T14:20:17.539Z",
   "basis": "Drugs whose first registered trial began in 2019 or later, ranked by how many live industry-sponsored Phase 2–3 trials each is the subject of.",
   "novelSince": "2019-01-01",
   "source": "ClinicalTrials.gov API v2",
-  "studiesConsidered": 8697,
+  "studiesConsidered": 8704,
   "drugs": [
     {
       "name": "BL-B01D1",
@@ -13,17 +13,17 @@
       "condition": "Non-small Cell Lung Cancer",
       "enrolment": 11458,
       "lastUpdate": "2026-09-30",
-      "link": "https://clinicaltrials.gov/study/NCT06304974"
+      "link": "https://clinicaltrials.gov/study/NCT06343948"
     },
     {
-      "name": "Sacituzumab Tirumotecan",
+      "name": "Sacituzumab tirumotecan",
       "trials": 29,
       "phase": "Phase 3",
       "sponsor": "Merck Sharp & Dohme LLC",
       "condition": "Non-small Cell Lung Cancer (NSCLC)",
       "enrolment": 15817,
       "lastUpdate": "2026-10-02",
-      "link": "https://clinicaltrials.gov/study/NCT07738341"
+      "link": "https://clinicaltrials.gov/study/NCT06788912"
     },
     {
       "name": "Pumitamig",
@@ -33,7 +33,7 @@
       "condition": "Non-small Cell Lung Cancer",
       "enrolment": 12906,
       "lastUpdate": "2026-10-02",
-      "link": "https://clinicaltrials.gov/study/NCT07361497"
+      "link": "https://clinicaltrials.gov/study/NCT07111520"
     },
     {
       "name": "Orforglipron",
@@ -43,7 +43,7 @@
       "condition": "Overweight",
       "enrolment": 20788,
       "lastUpdate": "2026-10-02",
-      "link": "https://clinicaltrials.gov/study/NCT06948422"
+      "link": "https://clinicaltrials.gov/study/NCT07668336"
     },
     {
       "name": "BL-M07D1",
@@ -53,7 +53,7 @@
       "condition": "HER2-positive Breast Cancer",
       "enrolment": 6338,
       "lastUpdate": "2026-09-21",
-      "link": "https://clinicaltrials.gov/study/NCT06316531"
+      "link": "https://clinicaltrials.gov/study/NCT06957886"
     },
     {
       "name": "Adebrelimab",
@@ -73,7 +73,7 @@
       "condition": "Ovarian Cancer",
       "enrolment": 5279,
       "lastUpdate": "2026-09-11",
-      "link": "https://clinicaltrials.gov/study/NCT06126640"
+      "link": "https://clinicaltrials.gov/study/NCT06840002"
     },
     {
       "name": "Volrustomig",
@@ -83,7 +83,7 @@
       "condition": "Gastric Cancer",
       "enrolment": 6264,
       "lastUpdate": "2026-09-30",
-      "link": "https://clinicaltrials.gov/study/NCT05984277"
+      "link": "https://clinicaltrials.gov/study/NCT06792695"
     },
     {
       "name": "SKB264",
@@ -93,17 +93,17 @@
       "condition": "Non-Small Cell Lung Cancer",
       "enrolment": 5421,
       "lastUpdate": "2026-09-17",
-      "link": "https://clinicaltrials.gov/study/NCT05642780"
+      "link": "https://clinicaltrials.gov/study/NCT05631262"
     },
     {
-      "name": "Telisotuzumab Adizutecan",
+      "name": "Telisotuzumab adizutecan",
       "trials": 13,
       "phase": "Phase 3",
       "sponsor": "AbbVie",
-      "condition": "Colorectal Cancer",
+      "condition": "c-MET",
       "enrolment": 5353,
-      "lastUpdate": "2026-10-02",
-      "link": "https://clinicaltrials.gov/study/NCT07023289"
+      "lastUpdate": "2026-10-05",
+      "link": "https://clinicaltrials.gov/study/NCT07525206"
     }
   ]
 }
