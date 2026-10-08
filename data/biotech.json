@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-10-07T17:34:24.747Z",
+  "generatedAt": "2026-10-08T17:37:50.049Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
+        {
+          "title": "Endeavor’s threat to IPF incumbents increases after phase 2 win for Hedgehog inhibitor",
+          "link": "https://www.fiercebiotech.com/biotech/endeavors-threat-ipf-incumbents-increases-after-phase-2-win-hedgehog-inhibitor",
+          "pubDate": "2026-10-08T09:36:00.000Z",
+          "description": "Endeavor BioMedicines solidified its potential threat to Big Pharma with a phase 2b readout suggesting its Hedgehog inhibitor could become the first drug to reduce lung fibrosis while increasing total lung capacity."
+        },
+        {
+          "title": "AI biotech Iambic aims for $135M IPO to push cancer drugs through clinic",
+          "link": "https://www.fiercebiotech.com/biotech/ai-biotech-iambic-aims-135m-ipo-push-cancer-drugs-through-clinic",
+          "pubDate": "2026-10-08T08:46:00.000Z",
+          "description": "Iambic Therapeutics is aiming to raise $135 million in net proceeds from an IPO as the AI biotech looks to fund the clinical development of its lead cancer drug."
+        },
+        {
+          "title": "‘It’s just survival now’: Why is almost a third of Boston’s life sciences lab space sitting vacant?",
+          "link": "https://www.fiercebiotech.com/biotech/its-just-survival-now-why-third-bostons-lab-space-vacant",
+          "pubDate": "2026-09-22T15:17:00.000Z",
+          "description": "Vacancy rates for lab and manufacturing spaces in Massachusetts increased 11-fold to 31% between 2021 and 2026. So what's gone wrong?"
+        },
+        {
+          "title": "Ono pays $80M for regional rights to trio of Biohaven IgG degraders, including phase 3 Grave’s asset",
+          "link": "https://www.fiercebiotech.com/biotech/ono-pays-80m-regional-rights-trio-biohaven-igg-degraders-including-phase-3-graves-asset",
+          "pubDate": "2026-10-08T05:25:00.000Z",
+          "description": "Japan’s Ono Pharmaceutical is paying $80 million upfront for the regional rights to a trio of Biohaven’s IgG degraders, led by a phase 3-stage Grave’s disease prospect."
+        },
+        {
+          "title": "Zealand, Roche’s ‘intriguing’ weight loss for amylin drug soured by blood sugar data",
+          "link": "https://www.fiercebiotech.com/biotech/zealand-roches-intriguing-weight-loss-soured-blood-sugar-data",
+          "pubDate": "2026-10-08T04:34:00.000Z",
+          "description": "Zealand Pharma has reported more phase 2 data on its Roche-partnered amylin analog, linking the drug candidate to competitive weight loss but a lackluster effect on blood sugar."
+        },
+        {
+          "title": "Argenx digests phase 2 celiac win for $2.2B drug, preps pivotal run",
+          "link": "https://www.fiercebiotech.com/biotech/argenx-digests-phase-2-celiac-win-22b-drug-preps-pivotal-run",
+          "pubDate": "2026-10-08T03:04:00.000Z",
+          "description": "A phase 2 celiac disease trial of argenx’s FB102 has hit its primary endpoint, delivering a boost to a drug candidate that the biotech acquired in its $2.2 billion takeover of Forte Biosciences."
+        },
         {
           "title": "Cadrenal launches strategic review for late-stage cardiology pipeline",
           "link": "https://www.fiercebiotech.com/biotech/cadrenal-launches-strategic-review-late-stage-cardiology-pipeline",
@@ -15,42 +51,6 @@
           "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
           "pubDate": "2025-12-23T10:11:00.000Z",
           "description": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team."
-        },
-        {
-          "title": "ARPA-H unveils Surpass program to accelerate and expand clinical trials",
-          "link": "https://www.fiercebiotech.com/cro/arpa-h-unveils-surpass-program-accelerate-and-expand-clinical-trials",
-          "pubDate": "2026-10-07T11:27:00.000Z",
-          "description": "The U.S. Department of Health and Human Services announced the launching of a new program aimed to remove barriers that slow clinical development and transform how clinical trials are designed and conducted."
-        },
-        {
-          "title": "TCGX launches $600M fund to bankroll Asian biotechs",
-          "link": "https://www.fiercebiotech.com/biotech/tcgx-launches-600m-fund-bankroll-asian-biotechs",
-          "pubDate": "2026-10-07T10:22:00.000Z",
-          "description": "Investment firm TCGX is expanding in Asia, raising $600 million to funnel into biotechs emerging from a burgeoning drug discovery hotspot."
-        },
-        {
-          "title": "Cerevance rescues its Parkinson's drug with phase 3 win",
-          "link": "https://www.fiercebiotech.com/biotech/cerevance-rescues-its-parkinsons-drug-phase-3-win",
-          "pubDate": "2026-10-07T10:10:00.000Z",
-          "description": "Cerevance's oral non-dopaminergic therapy has redeemed itself by improving both motor and non-motor symptoms in a phase 3 Parkinson's disease study."
-        },
-        {
-          "title": "Atsena’s Lighthouse gene therapy readout illuminates eye disease efficacy",
-          "link": "https://www.fiercebiotech.com/biotech/atsenas-lighthouse-gene-therapy-readout-illuminates-eye-disease-efficacy",
-          "pubDate": "2026-10-07T09:10:00.000Z",
-          "description": "Atsena Therapeutics has reported evidence of efficacy in a clinical trial of an eye disease gene therapy, encouraging the biotech to forge ahead with a study that could support a filing for approval in 2028."
-        },
-        {
-          "title": "Matchpoint nets $150M series B to take covalent med into clinic",
-          "link": "https://www.fiercebiotech.com/biotech/matchpoint-nets-150m-series-b-take-covalent-med-clinic",
-          "pubDate": "2026-10-07T08:16:00.000Z",
-          "description": "Matchpoint Therapeutics has aced its series B round, serving up $150 million to advance the Sanofi-backed biotech’s pipeline of precision covalent medicines."
-        },
-        {
-          "title": "MimiVax’s cancer vaccine fails phase 2 glioblastoma study, but CEO still sees data as ‘inspiring’",
-          "link": "https://www.fiercebiotech.com/biotech/mimivaxs-ph-2-glioblastoma-vaccine-trial-misses-primary-endpoint-gleams-hope-subset-newly",
-          "pubDate": "2026-10-06T16:22:00.000Z",
-          "description": "MimiVax has reports a phase 2b miss in newly diagnosed glioblastoma patients, but remains positive about a significant survival benefit in a subset of patients 65 years and under."
         }
       ]
     },
@@ -58,58 +58,88 @@
       "name": "Endpoints News",
       "items": [
         {
-          "title": "Bexorg gets $28M ARPA-H award to run longer tests on ‘rebooted’ human brains",
-          "link": "https://endpoints.news/bexorg-gets-28m-arpa-h-award-to-run-longer-tests-on-rebooted-human-brains/",
-          "pubDate": "2026-10-07T15:24:58.000Z",
-          "description": "For years, scientists assumed that cells in the brain began decaying immediately after death. But researchers threw ice on that theory seven years ago when they showed it was possible to restore cellular activity in ..."
+          "title": "Robotics company Multiply Labs nets $75M; Isotope maker NorthStar gets up to $185M",
+          "link": "https://endpoints.news/robotics-company-multiply-labs-nets-75m-isotope-maker-northstar-gets-up-to-185m/",
+          "pubDate": "2026-10-08T16:27:16.000Z",
+          "description": "Plus, news about Roche’s Genentech and Fresenius Kabi.\r\n\r\n Multiply Labs collects $75M: The robotics biomanufacturing company’s Series B raise will be used to increase its capacity and headcount as it moves ..."
         },
         {
-          "title": "Nuvig drops a Phase 2 trial; Cerevance reports Parkinson's progress",
-          "link": "https://endpoints.news/nuvig-drops-a-phase-2-trial-cerevance-reports-parkinsons-progress/",
-          "pubDate": "2026-10-07T15:20:53.000Z",
-          "description": "Plus news about RevMed, Tang Capital, GSK and AmyriAD Therapeutics.\r\n\r\n Nuvig Therapeutics ends one of two trials: The biotech axed a Phase 2 study of its candidate NVG-2089 in patients with chronic inflammatory demyelinating polyneuropathy"
+          "title": "Ono pays Biohaven $80M for protein degrader; UK pulls Valneva's chikungunya shot",
+          "link": "https://endpoints.news/ono-pays-biohaven-80m-for-protein-degrader-uk-pulls-valnevas-chikungunya-shot/",
+          "pubDate": "2026-10-08T15:30:49.000Z",
+          "description": "Plus news about ADC Therapeutics, Atrium Therapeutics, Bristol Myers, Novartis and Pfizer.\r\n\r\n Biohaven partners with Ono: Tokyo-based Ono Pharmaceutical has agreed to pay Biohaven $80 million upfront to license its pan-IgG ..."
         },
         {
-          "title": "Novartis-partnered biotech nabs $150M Series B to move into the clinic",
-          "link": "https://endpoints.news/novartis-partnered-biotech-gets-150m-series-b-to-move-into-the-clinic/",
-          "pubDate": "2026-10-07T14:03:57.000Z",
-          "description": "Matchpoint Therapeutics, a biotech partnered with Novartis, has put together its latest financing round.\r\n\r\n The $150 million Series B will help fund Matchpoint’s efforts to get its lead program into human ..."
+          "title": "Endeavor notches major mid-stage trial win, says IPF drug can reverse disease",
+          "link": "https://endpoints.news/endeavor-notches-major-mid-stage-trial-win-says-ipf-drug-can-reverse-disease/",
+          "pubDate": "2026-10-08T15:29:56.000Z",
+          "description": "Endeavor BioMedicines said its treatment for a chronic lung disease succeeded in a mid-stage test, claiming the drug had the potential to reverse the course of idiopathic pulmonary fibrosis in a ..."
         },
         {
-          "title": "MimiVax's cancer vaccine for glioblastoma narrowly misses Phase 2b goal",
-          "link": "https://endpoints.news/mimivaxs-cancer-vaccine-for-glioblastoma-narrowly-misses-phase-2b-goal/",
-          "pubDate": "2026-10-07T12:00:43.000Z",
-          "description": "A brain cancer effort more than a decade in the making has culminated in a disappointing study result — but researchers behind it are contending there’s enough of a promising signal to give certain patients with ..."
+          "title": "Long ignored by drugmakers, preeclampsia is now a focus for WHO and biopharma",
+          "link": "https://endpoints.news/long-ignored-by-drugmakers-preeclampsia-is-now-a-focus-for-who-and-biopharma/",
+          "pubDate": "2026-10-08T15:12:53.000Z",
+          "description": "A pregnancy-related hypertension disorder that impacts millions of mothers and newborns each year is getting more attention from the top levels of public health organizations and a few biopharma companies.\r\n\r\n The World Health Organization "
         },
         {
-          "title": "TCGX doubles down on China with $600M Asia-focused fund",
-          "link": "https://endpoints.news/tcgx-doubles-down-on-china-with-600m-asia-focused-fund/",
-          "pubDate": "2026-10-07T12:00:40.000Z",
-          "description": "Chen Yu's TCGX, a private and public biotech investment firm, is going to invest directly in life sciences companies in China and elsewhere in Asia.\r\n\r\n The Palo Alto, CA-based firm on Wednesday announced a $600 ..."
+          "title": "Grindr's big bet on telehealth",
+          "link": "https://endpoints.news/grindrs-big-bet-on-telehealth/",
+          "pubDate": "2026-10-08T15:02:27.000Z",
+          "description": "Grindr tested the healthcare waters last year when it launched a telehealth partnership that connected users to clinicians for prescription erectile dysfunction and weight loss drugs.\r\n\r\n The early signals it got from that effort must ..."
         },
         {
-          "title": "Updated: CAR-T biotech Caribou to pull the plug after struggling to find funding",
-          "link": "https://endpoints.news/car-t-biotech-caribou-weighs-its-options-after-struggling-to-find-funding/",
-          "pubDate": "2026-10-07T11:17:25.000Z",
-          "description": "Caribou Biosciences is reaching the end of the road.\r\n\r\n The California biotech said Tuesday it is shelving two allogeneic CAR-T cell therapy programs and seeking an exit strategy after failing to secure the cash needed ..."
+          "title": "Zealand, Roche topline a Phase 2 study for amylin drug, though Lilly remains an obstacle",
+          "link": "https://endpoints.news/zealand-roche-topline-a-phase-2-study-for-amylin-drug-though-lilly-remains-an-obstacle/",
+          "pubDate": "2026-10-08T14:41:14.000Z",
+          "description": "Zealand Pharma and Roche rolled out some mid-stage data for their amylin drug in obesity and diabetes, hoping to compete with Eli Lilly.\r\n\r\n In a Phase 2 study, petrelintide reduced patients’ ..."
         },
         {
-          "title": "Utah steps up AI prescribing",
-          "link": "https://endpoints.news/utah-steps-up-ai-prescribing/",
-          "pubDate": "2026-10-06T20:26:16.000Z",
-          "description": "Utah is way ahead of the rest of the country in embracing AI in healthcare. Now it’s doubling down.\r\n\r\n Utah’s Office of AI Policy operates a regulatory sandbox that gives startups and other organizations"
+          "title": "General Medicine raises $120M to build a healthcare store that offers everything",
+          "link": "https://endpoints.news/general-medicine-raises-120m-to-build-a-healthcare-store-that-offers-everything/",
+          "pubDate": "2026-10-08T13:25:15.000Z",
+          "description": "General Medicine wants to be a one-stop shop for healthcare — whether it's AI or a human doing the shopping.\r\n\r\n The one-stop shop is not a new concept. Many health tech companies, like Hims and Ro ..."
         },
         {
-          "title": "In DC, a secretive new thorn has appeared in pharma's side",
-          "link": "https://endpoints.news/in-dc-a-secretive-new-thorn-has-appeared-in-pharmas-side/",
-          "pubDate": "2026-10-06T19:00:20.000Z",
-          "description": "What do the Seattle Latino Chamber of Commerce, the Venezuelan-American Republican Club of Miami-Dade and the lower-tier professional men’s soccer team Akron City Football Club have in common?\r\n\r\n They’re all listed ..."
+          "title": "Argenx's study flop in Sjögren's overshadows a win in celiac disease",
+          "link": "https://endpoints.news/argenxs-study-flop-in-sjogrens-overshadows-a-win-in-celiac-disease/",
+          "pubDate": "2026-10-08T11:00:06.000Z",
+          "description": "Argenx on Thursday reported one success and one setback in its autoimmune disease pipeline, sending its shares tumbling.\r\n\r\n The Belgian-Dutch pharma said it is shuttering a Phase 3 trial of its ..."
         }
       ]
     },
     "statnews": {
       "name": "STAT News (Biotech)",
       "items": [
+        {
+          "title": "STAT+: Roche goes beyond licensing in deal with Chinese biotech",
+          "link": "https://www.statnews.com/2026/10/08/biotech-news-roche-goes-beyond-licensing-in-deal-with-chinese-biotech/?utm_campaign=rss",
+          "pubDate": "2026-10-08T15:18:05.000Z",
+          "description": "Roche is partnering with Chinese startup Defand Therapeutics to discover new medicines."
+        },
+        {
+          "title": "STAT+: Argenx sees unusual setback with failure of late-stage study of drug for autoimmune disease",
+          "link": "https://www.statnews.com/2026/10/08/argenx-autoimmune-disease-study-sjogrens/?utm_campaign=rss",
+          "pubDate": "2026-10-08T14:02:29.000Z",
+          "description": "Argenx said its blockbuster drug Vyvgart didn’t outperform placebo in a Phase 3 trial of patients with Sjögren's disease, a chronic autoimmune disorder."
+        },
+        {
+          "title": "STAT+: Roche inks drug discovery deal with Chinese biotech, focused on molecular glue medicines",
+          "link": "https://www.statnews.com/2026/10/08/roche-defand-therapeutics-drug-development-deal/?utm_campaign=rss",
+          "pubDate": "2026-10-08T12:00:00.000Z",
+          "description": "Roche has inked a drug discovery deal with Chinese biotech Defand Therapeutics, focused on molecular glue medicines."
+        },
+        {
+          "title": "A mother-daughter quest to find fellow members of an ultra-rare genetic community",
+          "link": "https://www.statnews.com/2026/10/08/rare-disease-nicolaides-baraitser-syndrome-history-ncbrs-researchers/?utm_campaign=rss",
+          "pubDate": "2026-10-08T08:30:00.000Z",
+          "description": "“Don’t google,” the pediatric geneticist warned. It took me five years to disobey."
+        },
+        {
+          "title": "STAT+: Biotech companies are struggling to navigate Trump’s new tariffs",
+          "link": "https://www.statnews.com/2026/10/08/trump-tariffs-section-232-imported-prescription-drugs-challenge-biotech-companies/?utm_campaign=rss",
+          "pubDate": "2026-10-08T08:30:00.000Z",
+          "description": "Smaller biotech firms are trying to figure out how to win exemptions from Trump's import taxes."
+        },
         {
           "title": "STAT+: PhRMA sues over Trump policy mandating lower drug prices in Medicare",
           "link": "https://www.statnews.com/2026/10/07/phrma-sues-over-drug-pricing-model-globe/?utm_campaign=rss",
@@ -127,42 +157,30 @@
           "link": "https://www.statnews.com/2026/10/07/muscular-dystrophy-exon-skipping-drugs-novartis-dyne/?utm_campaign=rss",
           "pubDate": "2026-10-07T08:30:00.000Z",
           "description": "Exon-skipping drugs present a critical test for the FDA’s goal of encouraging treatments for rare disease."
-        },
-        {
-          "title": "STAT+: Caribou Biosciences, biotech co-founded by Jennifer Doudna, is shutting down",
-          "link": "https://www.statnews.com/2026/10/07/caribou-biosciences-shutting-down-lymphoma-car-t-therapy/?utm_campaign=rss",
-          "pubDate": "2026-10-07T08:30:00.000Z",
-          "description": "Caribou Biosciences is shutting down after failing to raise the money necessary to fund a late-stage clinical trial of its off-the-shelf CAR-T therapy for lymphoma."
-        },
-        {
-          "title": "STAT+: AstraZeneca opens new Boston site",
-          "link": "https://www.statnews.com/2026/10/06/biotech-news-astrazeneca-opens-new-boston-site/?utm_campaign=rss",
-          "pubDate": "2026-10-06T14:41:00.000Z",
-          "description": "AstraZeneca opened a new R&#038;D site in Kendall Square yesterday, celebrating a $1 billion investment in the unsettled center of U.S. biotechnology after a spate of Chinese dealmaking."
-        },
-        {
-          "title": "STAT+: Are stem cell treatments about to have their day?",
-          "link": "https://www.statnews.com/2026/10/06/trump-medicare-checks-stem-cell-treatments-fda-dc-diagnosis/?utm_campaign=rss",
-          "pubDate": "2026-10-06T14:30:00.000Z",
-          "description": "Stem cells might be the next peptides, and how Trump's $90 checks will play out after the election."
-        },
-        {
-          "title": "Opinion: Why the FDA should not approve an ineffective multicancer screening test",
-          "link": "https://www.statnews.com/2026/10/06/grail-multi-cancer-screening-test-criticism/?utm_campaign=rss",
-          "pubDate": "2026-10-06T08:30:00.000Z",
-          "description": "“Telling more people they have cancer is not progress; progress is having fewer people die from cancer,” H. Gilbert Welch writes of Grail’s multicancer screening test."
-        },
-        {
-          "title": "STAT+: Lilly&#8217;s Jaypirca approved as first-line CLL therapy",
-          "link": "https://www.statnews.com/2026/10/05/biotech-news-lilly-jaypirca-approved-as-first-line-cll-therapy/?utm_campaign=rss",
-          "pubDate": "2026-10-05T13:55:41.000Z",
-          "description": "Eli Lilly’s Jaypirca has won FDA approval for previously untreated chronic lymphocytic leukemia and small lymphocytic lymphoma."
         }
       ]
     },
     "biopharmadive": {
       "name": "BioPharma Dive",
       "items": [
+        {
+          "title": "Viatris boosts pain drug portfolio with $1.7B buyout of Pacira",
+          "link": "https://www.biopharmadive.com/news/viatris-pacira-acquire-pain-drug-zilretto-exparel/832481/",
+          "pubDate": "2026-10-08T16:00:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/b93a1GqR6kuP7wD2oNWtD1DNuJpzHOgoQ7ZHIJxSNNs/g:nowe:19:97/c:980:554/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9RLUdsb2JhbEhRX1NvdXRocG9pbnRlXzIucG5n.webp\"/></div></figure"
+        },
+        {
+          "title": "Argenx falls as Sjögren’s setback offsets celiac drug progress",
+          "link": "https://www.biopharmadive.com/news/argenx-sjogrens-vyvgart-celiac-forte-study-results/832463/",
+          "pubDate": "2026-10-08T15:38:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/xa_T0oT9Hj8F-wJjKfJeFkbn4Yqp_lT58dL0S4GszxY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MjEzNjQ4MDJfMS5qcGc=.webp\"/></div></figure><p>A monitoring b"
+        },
+        {
+          "title": "In the hunt for reverse merger targets, Caribou could be prized game",
+          "link": "https://www.biopharmadive.com/news/caribou-reverse-merger-prospects-cell-therapy-private-public/832494/",
+          "pubDate": "2026-10-08T15:23:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/szYDL8kkQd6XaSVgvjJPYl2j0snveijWs_0sZ-B522Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDYyODUzODA3LmpwZw==.webp\"/></div></figure><p>The struggling"
+        },
         {
           "title": "Caribou to halt CAR-T work, lay off staff amid ‘challenging’ funding climate",
           "link": "https://www.biopharmadive.com/news/caribou-layoffs-strategic-alternatives-allogeneic-cell-therapy-vispacel/832343/",
@@ -192,24 +210,6 @@
           "link": "https://www.biopharmadive.com/news/arrivent-furmonertinib-egfr-lung-cancer-study-results/832220/",
           "pubDate": "2026-10-06T16:12:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/lbrY-kOrc9k3tdi1l3vDKOnquutefnbAg6hO8dGrIo0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEyMzk4MDA3LmpwZw==.webp\"/></div></figure><p>More than half"
-        },
-        {
-          "title": "Dual-acting drug from AbbVie, Genmab scores in frontline lymphoma trial",
-          "link": "https://www.biopharmadive.com/news/abbvie-genmab-epkinly-dlbcl-epcore-study-results/832241/",
-          "pubDate": "2026-10-06T15:42:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/WrykHCObgQORJy6_Nsx19TUHTg8V8DEoa5UN1HcFlZc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTcxODMyMDY3LmpwZw==.webp\"/></div></figure><p>The better-tha"
-        },
-        {
-          "title": "[Podcast] (Season 2) The Progress Profile: Alzheimer’s Research in Focus",
-          "link": "https://www.biopharmadive.com/spons/podcast-season-2-the-progress-profile-alzheimers-research-in-focus/822189/",
-          "pubDate": "2026-10-06T12:00:00.000Z",
-          "description": "<p>This podcast explores how leading Alzheimer&rsquo;s experts are working to bridge the gap between clinical trial design and frontline care.</p>"
-        },
-        {
-          "title": "The top biopharma conferences in 2027",
-          "link": "https://www.biopharmadive.com/news/top-biotech-pharma-medical-conferences-2027/832075/",
-          "pubDate": "2026-10-06T12:00:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/8m2UUy2QBRQsGJIHWjhIc6YLzal_YHYoOaoVXxoJxYI/g:nowe:0:592/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjg1NF9IQm41Q0loLmpwZw==.webp\"/></div></figure><p>Me"
         }
       ]
     }
