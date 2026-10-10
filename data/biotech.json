@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-10-09T17:13:44.940Z",
+  "generatedAt": "2026-10-10T15:58:26.780Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
+        {
+          "title": "Ferass Abuzaina named Worldwide President of Surgery at BD",
+          "link": "https://www.fiercebiotech.com/medtech/ferass-abuzaina-named-worldwide-president-surgery-bd",
+          "pubDate": "2026-10-09T09:07:00.000Z",
+          "description": "Becton, Dickinson and Company has named Ferass Abuzaina as its new Worldwide President of its Surgery business unit."
+        },
         {
           "title": "GSK drinks in Chai Discovery’s AI models after wet-lab validation",
           "link": "https://www.fiercebiotech.com/biotech/gsk-drinks-chai-discoverys-ai-models-after-wet-lab-validation",
@@ -45,18 +51,30 @@
           "link": "https://www.fiercebiotech.com/biotech/ai-biotech-iambic-aims-135m-ipo-push-cancer-drugs-through-clinic",
           "pubDate": "2026-10-08T08:46:00.000Z",
           "description": "Iambic Therapeutics is aiming to raise $135 million in net proceeds from an IPO as the AI biotech looks to fund the clinical development of its lead cancer drug."
-        },
-        {
-          "title": "‘It’s just survival now’: Why is almost a third of Boston’s life sciences lab space sitting vacant?",
-          "link": "https://www.fiercebiotech.com/biotech/its-just-survival-now-why-third-bostons-lab-space-vacant",
-          "pubDate": "2026-09-22T15:17:00.000Z",
-          "description": "Vacancy rates for lab and manufacturing spaces in Massachusetts increased 11-fold to 31% between 2021 and 2026. So what's gone wrong?"
         }
       ]
     },
     "endpoints": {
       "name": "Endpoints News",
       "items": [
+        {
+          "title": "Women in Biopharma 2026; A secretive new thorn in pharma’s side; and more",
+          "link": "https://endpoints.news/women-in-biopharma-2026-a-secretive-new-thorn-in-pharmas-side-and-more/",
+          "pubDate": "2026-10-10T10:00:12.000Z",
+          "description": "Welcome back to Endpoints Weekly! We unveiled our 2026 Women in Biopharma special project on Monday. Our team pored through nearly 200 nominations to reach this year’s list of 20 honorees. You can check out ..."
+        },
+        {
+          "title": "Parkinson's cell therapy biotech Aspen and I&I startup Bambusa file for IPOs",
+          "link": "https://endpoints.news/parkinsons-cell-therapy-biotech-aspen-and-ii-startup-bambusa-file-for-ipos/",
+          "pubDate": "2026-10-09T22:48:48.000Z",
+          "description": "A Gilead-backed cell therapy maker and an I&I biotech from BioNTech vets are looking to ride the biotech industry's IPO momentum.\r\n\r\n Aspen Neuroscience and Bambusa Therapeutics are the latest drug developers to ..."
+        },
+        {
+          "title": "Curium prices generic radioligand at 5% discount to Novartis' Lutathera",
+          "link": "https://endpoints.news/curium-prices-generic-radioligand-at-5-discount-to-novartis-lutathera/",
+          "pubDate": "2026-10-09T18:28:05.000Z",
+          "description": "Curium has set the list price for Bexlutry, its radiosimilar to Novartis’ Lutathera, at $63,524 per infusion — about a 5% discount to the cost of the pharma giant’s drug.\r\n\r\n Challenging Novartis in the tricky field ..."
+        },
         {
           "title": "New data on RevMed’s Rasonque leave potential opening for other treatments",
           "link": "https://endpoints.news/new-data-on-revmeds-rasonque-leave-potential-opening-for-other-treatments/",
@@ -86,24 +104,6 @@
           "link": "https://endpoints.news/viking-commercial-chief-is-out-in-a-hurry-gilead-looks-to-beone-exec-for-china-expansion/",
           "pubDate": "2026-10-09T11:00:33.000Z",
           "description": "→ Neil Aubuchon only lasted nine months as chief commercial officer of Viking Therapeutics, leaving Peer Review to wonder what’s going on with the strategy for its obesity drug. Is it really just"
-        },
-        {
-          "title": "TRexBio prices $117M IPO for Tregs as Retension lands $45M Nasdaq debut for hypertension",
-          "link": "https://endpoints.news/trexbio-prices-117m-ipo-for-tregs-as-retension-lands-45m-nasdaq-debut-for-hypertension/",
-          "pubDate": "2026-10-09T07:54:45.000Z",
-          "description": "The appetite for biotech IPOs remains strong, especially when Eli Lilly and Nobel Prize-winning science are involved.\r\n\r\n TRexBio priced its initial stock sale Thursday, raising $116.7 million in ..."
-        },
-        {
-          "title": "New PDUFA deal sets aside FDA money to rehire reviewers",
-          "link": "https://endpoints.news/new-pdufa-deal-sets-aside-fda-money-to-rehire-reviewers-lost-to-layoffs/",
-          "pubDate": "2026-10-08T18:55:11.000Z",
-          "description": "Top pharmaceutical trade groups say the FDA will have a dedicated pool of money to replenish its stable of reviewers as part of the new Prescription Drug User Fee Act (PDUFA) agreement, after HHS layoffs ..."
-        },
-        {
-          "title": "Viatris to make $1.65B Pacira acquisition, adding to momentum in pain",
-          "link": "https://endpoints.news/viatris-to-make-1-65b-pacira-acquisition-adding-to-momentum-in-pain/",
-          "pubDate": "2026-10-08T18:13:05.000Z",
-          "description": "Viatris, a generics and branded medicines maker, is buying into non-opioid pain drugs with a cash acquisition of commercial-stage Pacira BioSciences.\r\n\r\n The Thursday morning deal, valued at $1.65 billion, follows a ..."
         }
       ]
     },
