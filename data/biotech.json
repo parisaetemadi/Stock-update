@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-10-10T15:58:26.780Z",
+  "generatedAt": "2026-10-11T16:26:30.847Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
+        {
+          "title": "Parkinson’s-focused Aspen and bispecific biotech Bambusa plan IPOs",
+          "link": "https://www.fiercebiotech.com/biotech/parkinsons-focused-aspen-and-bispecific-biotech-aspen-plan-ipos",
+          "pubDate": "2026-10-10T11:09:00.000Z",
+          "description": "Parkinson’s disease cell therapy-focused Aspen Neuroscience and bispecific biotech Bambusa Therapeutics are the latest drug developers to eye up a public listing."
+        },
         {
           "title": "Ferass Abuzaina named Worldwide President of Surgery at BD",
           "link": "https://www.fiercebiotech.com/medtech/ferass-abuzaina-named-worldwide-president-surgery-bd",
@@ -45,12 +51,6 @@
           "link": "https://www.fiercebiotech.com/biotech/endeavors-threat-ipf-incumbents-increases-after-phase-2-win-hedgehog-inhibitor",
           "pubDate": "2026-10-08T09:36:00.000Z",
           "description": "Endeavor BioMedicines solidified its potential threat to Big Pharma with a phase 2b readout suggesting its Hedgehog inhibitor could become the first drug to reduce lung fibrosis while increasing total lung capacity."
-        },
-        {
-          "title": "AI biotech Iambic aims for $135M IPO to push cancer drugs through clinic",
-          "link": "https://www.fiercebiotech.com/biotech/ai-biotech-iambic-aims-135m-ipo-push-cancer-drugs-through-clinic",
-          "pubDate": "2026-10-08T08:46:00.000Z",
-          "description": "Iambic Therapeutics is aiming to raise $135 million in net proceeds from an IPO as the AI biotech looks to fund the clinical development of its lead cancer drug."
         }
       ]
     },
