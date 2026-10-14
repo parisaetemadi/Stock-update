@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-10-13T17:50:20.006Z",
+  "generatedAt": "2026-10-14T15:35:45.695Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
         {
+          "title": "Deep-pocketed Verdiva axes GLP-1 switching trial over ‘market evolution’",
+          "link": "https://www.fiercebiotech.com/biotech/deep-pocketed-verdiva-axes-glp-1-switching-trial-over-market-evolution",
+          "pubDate": "2026-10-14T10:13:00.000Z",
+          "description": "Verdiva Bio has scrapped a phase 2 trial of its once-weekly oral GLP-1 drug candidate VRB-101, pulling the plug the year after launching with $410 million."
+        },
+        {
+          "title": "Biomea posts phase 1 data to pitch oral GLP-1 to potential partners, but investors appear unconvinced",
+          "link": "https://www.fiercebiotech.com/biotech/biomea-posts-phase-1-data-pitch-oral-glp-1-potential-partners",
+          "pubDate": "2026-10-14T09:24:00.000Z",
+          "description": "Biomea Fusion has shared phase 1 data on its oral GLP-1 prospect, shedding light on a small molecule designed to balance efficacy and gastrointestinal tolerability. Management hailed the data as a launchpad for talks with potential partners"
+        },
+        {
+          "title": "Vir CEO sees ‘opportunity to do more deals’ after striking $1.9B Gilead pact for dual-masked TCEs",
+          "link": "https://www.fiercebiotech.com/biotech/gilead-strikes-19b-oncology-deal-vir-dual-masked-t-cell-engager-technology",
+          "pubDate": "2026-10-13T20:14:00.000Z",
+          "description": "Looking to expand its oncology portfolio, Gilead has tapped Vir Biotechnology’s masked T-cell engager tech in a potential $1.9 billion biobucks deal."
+        },
+        {
+          "title": "GSK to lay off over 1,200 roles in Belgium as cost-saving program picks up steam",
+          "link": "https://www.fiercebiotech.com/biotech/gsk-lay-over-12k-roles-belgium-cost-saving-program-picks-steam",
+          "pubDate": "2026-10-14T06:39:00.000Z",
+          "description": "Up to 1,217 GSK employees in Belgium are at risk of losing their jobs as the Big Pharma rolls out it its global cost-saving plans."
+        },
+        {
+          "title": "Zealand inks $1.2B Generate pact to add multispecific proteins to obesity pipeline",
+          "link": "https://www.fiercebiotech.com/biotech/zealand-inks-12b-generate-pact-add-multispecific-proteins-obesity-pipeline",
+          "pubDate": "2026-10-14T04:09:00.000Z",
+          "description": "Zealand Pharma is paying Generate Biomedicines $30 million upfront to collaborate on multispecific drug candidates for metabolic diseases. Milestones could bring the total value of the deal above $1 billion."
+        },
+        {
+          "title": "Agilent spends $240M upfront to buy digital pathology specialist Proscia",
+          "link": "https://www.fiercebiotech.com/medtech/agilent-spends-240m-upfront-buy-digital-pathology-specialist-proscia",
+          "pubDate": "2026-10-14T03:36:00.000Z",
+          "description": "Agilent Technologies is buying up the digital pathology software company Proscia in an all-cash transaction valued at $240 million with an additional $30 million on the cards for future performance milestones."
+        },
+        {
+          "title": "Stryker pens deal with CMR Surgical to advance robotic-assisted surgery",
+          "link": "https://www.fiercebiotech.com/medtech/stryker-pens-deal-cmr-surgical-advance-robotic-assisted-surgery",
+          "pubDate": "2026-10-13T13:53:00.000Z",
+          "description": "Stryker will funnel around $400 million (£300 million) in a “strategic” investment in CMR Surgical and its robot surgery tech."
+        },
+        {
           "title": "Insulet’s Omnipod Discover platform sees full market release in US",
           "link": "https://www.fiercebiotech.com/medtech/insulets-omnipod-discover-platform-sees-full-market-release-us",
           "pubDate": "2026-10-13T01:42:00.000Z",
           "description": "Insulet Corporation has announced the U.S. full market release of Omnipod Discover, a web-based data platform designed for Omnipod 5."
-        },
-        {
-          "title": "BioNTech’s mRNA cancer vaccine fails phase 3 test, significantly denting analysts’ confidence",
-          "link": "https://www.fiercebiotech.com/biotech/biontechs-mrna-cancer-vaccine-fails-phase-3-test-significantly-denting-analysts-confidence",
-          "pubDate": "2026-10-13T08:49:00.000Z",
-          "description": "A phase 2/3 clinical trial of BioNTech’s mRNA cancer immunotherapy BNT113 has missed one of its dual primary endpoints. But with immature overall survival data offering a path to redemption, the German biotech is continuing to track patient"
-        },
-        {
-          "title": "Biotech builder Paragon imports Apogee's top brass after AbbVie buyout",
-          "link": "https://www.fiercebiotech.com/biotech/biotech-builder-paragon-imports-apogees-leadership-wholesale-wake-abbvie-buyout",
-          "pubDate": "2026-10-13T08:46:00.000Z",
-          "description": "It’s been a busy morning for Paragon Labs. In addition to bringing over much of the leadership team from AbbVie-acquired Apogee Therapeutics, Paragon has overseen a reverse merger to take its hypertension-focused spinout Velaris Therapeutic"
-        },
-        {
-          "title": "Fierce Biotech Fundraising Tracker '26: Soufflé cooks up $135M; Matchpoint makes $150M",
-          "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
-          "pubDate": "2025-12-22T15:30:00.000Z",
-          "description": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs."
-        },
-        {
-          "title": "Roche inks $1.2B deal with China's Rona to enter emerging ALK7 obesity race",
-          "link": "https://www.fiercebiotech.com/biotech/roche-inks-116b-rona-deal-enter-emerging-obesity-race",
-          "pubDate": "2026-10-13T07:16:00.000Z",
-          "description": "Roche has committed $100 million in upfront and near-term payments to license Rona Therapeutics’ ALK7 drug candidate, joining Alnylam, Arrowhead, GSK and Novo Nordisk in an emerging obesity niche."
-        },
-        {
-          "title": "Pfizer pens $500M Enodia pact to join Lilly in emerging protein degrader field",
-          "link": "https://www.fiercebiotech.com/biotech/pfizer-inks-500m-enodia-pact-join-lilly-emerging-protein-degrader-field",
-          "pubDate": "2026-10-09T09:58:00.000Z",
-          "description": "Pfizer has followed Eli Lilly into the Sec61 space, inking a $500 million deal with Enodia Therapeutics days after its Big Pharma peer formed an $870 million pact with Gate Bioscience."
-        },
-        {
-          "title": "Nurix drops one BTK degrader as momentum builds behind Roche-partnered option",
-          "link": "https://www.fiercebiotech.com/biotech/nurix-drops-one-btk-inhibitor-momentum-builds-behind-roche-partnered-option",
-          "pubDate": "2026-10-13T03:24:00.000Z",
-          "description": "Nurix’s BTK degrader zelebrudomide may have survived a clinical hold in recent years, but that hasn’t stopped the California biotech from dropping the cancer drug."
-        },
-        {
-          "title": "Roche sets sights on FDA approval decision of July 2027 with updated eye drug data",
-          "link": "https://www.fiercebiotech.com/biotech/roche-sets-sights-july-fda-ruling-updated-eye-drug-data",
-          "pubDate": "2026-10-12T09:42:00.000Z",
-          "description": "One year on from a mixed phase 3 readout, Roche has shared updated data from eye disease trials that could support FDA approval by July."
         }
       ]
     },
@@ -58,58 +58,64 @@
       "name": "Endpoints News",
       "items": [
         {
+          "title": "Ultragenyx's second PRV sale; Biomea's oral GLP-1 data leads to stock slump",
+          "link": "https://endpoints.news/ultragenyxs-second-prv-sale-biomeas-oral-glp-1-data-leads-to-stock-slump/",
+          "pubDate": "2026-10-14T14:24:20.000Z",
+          "description": "Plus news about United Therapeutics, Liquidia, Sanofi, Pharming, Skyhook Bio and Altay Therapeutics.\r\n\r\n Ultragenyx Pharmaceutical sells second PRV this month: The commercial-stage rare disease drugmaker sold its second priority review vouc"
+        },
+        {
+          "title": "Vir makes solid tumor T cell engager deal with Gilead",
+          "link": "https://endpoints.news/vir-makes-solid-tumor-t-cell-engager-deal-with-gilead/",
+          "pubDate": "2026-10-14T12:30:21.000Z",
+          "description": "Vir Biotechnology and its CEO Marianne De Backer have notched yet another deal, this time with Gilead.\r\n\r\n Gilead will pay Vir $65 million upfront, with another $45 million in near-term milestones. Gilead's also paying a ..."
+        },
+        {
+          "title": "Arrowhead’s brain-targeting RNA drug lowers Alzheimer’s protein in early study",
+          "link": "https://endpoints.news/arrowheads-brain-targeting-rna-drug-lowers-alzheimers-protein-in-early-study/",
+          "pubDate": "2026-10-14T11:30:27.000Z",
+          "description": "Arrowhead Pharmaceuticals has shown that a genetic medicine administered as a subcutaneous injection can seemingly travel into the brain and lower levels of tau, a protein implicated in Alzheimer’s disease.\r\n The company found that the ..."
+        },
+        {
+          "title": "Zealand inks up to $1.3B deal for AI-designed obesity treatments",
+          "link": "https://endpoints.news/zealand-inks-up-to-1-3b-deal-for-ai-designed-obesity-treatments/",
+          "pubDate": "2026-10-14T11:21:47.000Z",
+          "description": "Zealand Pharma said Tuesday it will develop new protein-based treatments for obesity and other metabolic diseases with the help of Generate Biomedicines’ AI technology.\r\n\r\n The Danish drugmaker is spending $30 million upfront for two initia"
+        },
+        {
+          "title": "GSK could cut more than 1,200 jobs in Belgium",
+          "link": "https://endpoints.news/gsk-could-cut-more-than-1200-jobs-in-belgium/",
+          "pubDate": "2026-10-14T10:41:26.000Z",
+          "description": "GSK will make up to 1,217 workers redundant from its sites in Belgium as part of the cost-cutting initiative CEO Luke Miels announced in July.\r\n\r\n “The proposed changes announced in Belgium today ..."
+        },
+        {
+          "title": "FTC accuses Martin Shkreli of violating lifetime pharma ban",
+          "link": "https://endpoints.news/ftc-accuses-martin-shkreli-of-violating-lifetime-pharma-ban/",
+          "pubDate": "2026-10-13T19:04:39.000Z",
+          "description": "Martin Shkreli is under FTC scrutiny once again.\r\n\r\n The agency and seven states asked a New York federal court on Tuesday to hold Shkreli in contempt for allegedly violating a court-ordered lifetime ban from the ..."
+        },
+        {
+          "title": "Novartis quietly returns a key antibiotic to US market",
+          "link": "https://endpoints.news/novartis-quietly-returns-a-key-antibiotic-to-us-market/",
+          "pubDate": "2026-10-13T18:51:04.000Z",
+          "description": "There is some good news in the world of antibiotics.\r\n\r\n Novartis quietly snagged supplemental FDA approval for its drug Lamprene over the summer, transitioning a decades-old leprosy drug to the commercial market, which may boost ..."
+        },
+        {
           "title": "Verdiva cans mid-stage obesity trial of GLP-1 pill, citing 'market evolution'",
           "link": "https://endpoints.news/verdiva-cans-mid-stage-obesity-trial-of-glp-1-pill-citing-market-evolution/",
           "pubDate": "2026-10-13T17:42:27.000Z",
           "description": "Verdiva Bio, one of the best-funded private biotechs seeking to get into the lucrative obesity drug market, has terminated one of the Phase 2 trials of its lead asset, a spokesperson ..."
-        },
-        {
-          "title": "Soufflé gets $135M for three RNA medicines",
-          "link": "https://endpoints.news/souffle-gets-135m-for-three-rna-medicines/",
-          "pubDate": "2026-10-13T16:54:10.000Z",
-          "description": "A Bob Langer-affiliated startup has collected a megaround to advance at least three experimental oligonucleotide medicines.\r\n\r\n Soufflé Therapeutics uncorked a fresh $135 million in VC backing on Tuesday. The capital will ..."
-        },
-        {
-          "title": "Beam suggests it can correct mutation; Pfizer to collaborate with Enodia",
-          "link": "https://endpoints.news/beam-proves-it-can-correct-mutation-pfizer-to-collaborate-with-enodia/",
-          "pubDate": "2026-10-13T15:37:36.000Z",
-          "description": "Beam's first data on a rare disease gene editing therapy: Beam Therapeutics shared initial data from a Phase 1/2 trial of a base editing therapy for glycogen storage disease type Ia ..."
-        },
-        {
-          "title": "Rudy Tanzi has long wanted to prevent Alzheimer's. He may be close",
-          "link": "https://endpoints.news/rudy-tanzi-has-long-wanted-to-prevent-alzheimers-he-may-be-close/",
-          "pubDate": "2026-10-13T15:00:01.000Z",
-          "description": "For decades, Rudolph Tanzi has dreamt of a “little white pill” to prevent Alzheimer’s disease that would be so cheap and so safe, it could practically be added to tap water. Now, Tanzi is finally ..."
-        },
-        {
-          "title": "BioNTech’s head and neck cancer vaccine misses first of two goals",
-          "link": "https://endpoints.news/biontechs-head-and-neck-cancer-vaccine-misses-first-of-two-goals/",
-          "pubDate": "2026-10-13T14:59:28.000Z",
-          "description": "An experimental mRNA cancer vaccine from BioNTech failed to meet one of two primary endpoints in a pivotal trial, adding to the obstacles faced by the company’s pipeline for such treatments.\r\n\r\n The therapy, known as ..."
-        },
-        {
-          "title": "Why an AI scribe wants to prescribe",
-          "link": "https://endpoints.news/why-an-ai-scribe-wants-to-prescribe/",
-          "pubDate": "2026-10-13T14:56:16.000Z",
-          "description": "Health tech companies have been racing to grow AI scribing tools into software that health systems can use more broadly. Some are leaning into medical billing. Others are serving specific ..."
-        },
-        {
-          "title": "Readily raises $11M to help insurers stay compliant",
-          "link": "https://endpoints.news/readily-raises-11m-to-help-insurers-stay-compliant/",
-          "pubDate": "2026-10-13T13:00:59.000Z",
-          "description": "A startup that uses AI to help insurers keep track of changing rules and stay compliant just raised $11 million, Endpoints News learned exclusively.\r\n\r\n San Francisco-based Readily tracks and flags changes in government regulations for ..."
-        },
-        {
-          "title": "Paragon spins out ninth biotech, sending cardiopulmonary drugs to Alaunos",
-          "link": "https://endpoints.news/paragon-spins-out-ninth-biotech-sending-cardiopulmonary-drugs-to-alaunos/",
-          "pubDate": "2026-10-13T11:00:48.000Z",
-          "description": "Paragon Labs has created a ninth company, using a reverse merger model that it’s honed over the past four years to send Velaris Therapeutics straight onto the public markets.\r\n\r\n Velaris completed a transaction on Tuesday ..."
         }
       ]
     },
     "statnews": {
       "name": "STAT News (Biotech)",
       "items": [
+        {
+          "title": "STAT+: FDA adcomm members&#8217; ties to industry under scrutiny",
+          "link": "https://www.statnews.com/2026/10/14/biotech-news-fda-adcomm-member-ties-to-industry-under-scrutiny/?utm_campaign=rss",
+          "pubDate": "2026-10-14T14:12:14.000Z",
+          "description": "New research found that nearly 40% of FDA advisory meetings held over a recent 20-year period included either a patient or consumer rep with active ties to an advocacy group&#8230;"
+        },
         {
           "title": "STAT+: Concerns grow on safety issues tied to Neurocrine Biosciences rare disease drug",
           "link": "https://www.statnews.com/2026/10/13/neurocrine-biosciences-prader-willi-vykat-xr/?utm_campaign=rss",
@@ -141,28 +147,40 @@
           "description": "Roche has inked a drug discovery deal with Chinese biotech Defand Therapeutics, focused on molecular glue medicines."
         },
         {
-          "title": "A mother-daughter quest to find fellow members of an ultra-rare genetic community",
-          "link": "https://www.statnews.com/2026/10/08/rare-disease-nicolaides-baraitser-syndrome-history-ncbrs-researchers/?utm_campaign=rss",
-          "pubDate": "2026-10-08T08:30:00.000Z",
-          "description": "“Don’t google,” the pediatric geneticist warned. It took me five years to disobey."
-        },
-        {
           "title": "STAT+: Biotech companies are struggling to navigate Trump’s new tariffs",
           "link": "https://www.statnews.com/2026/10/08/trump-tariffs-section-232-imported-prescription-drugs-challenge-biotech-companies/?utm_campaign=rss",
           "pubDate": "2026-10-08T08:30:00.000Z",
           "description": "Smaller biotech firms are trying to figure out how to win exemptions from Trump's import taxes."
         },
         {
-          "title": "STAT+: PhRMA sues over Trump policy mandating lower drug prices in Medicare",
-          "link": "https://www.statnews.com/2026/10/07/phrma-sues-over-drug-pricing-model-globe/?utm_campaign=rss",
-          "pubDate": "2026-10-07T16:58:32.000Z",
-          "description": "The brand drug industry’s main trade group is suing the Trump administration over a pilot program tying Medicare drug prices to those in peer countries."
+          "title": "A mother-daughter quest to find fellow members of an ultra-rare genetic community",
+          "link": "https://www.statnews.com/2026/10/08/rare-disease-nicolaides-baraitser-syndrome-history-ncbrs-researchers/?utm_campaign=rss",
+          "pubDate": "2026-10-08T08:30:00.000Z",
+          "description": "“Don’t google,” the pediatric geneticist warned. It took me five years to disobey."
         }
       ]
     },
     "biopharmadive": {
       "name": "BioPharma Dive",
       "items": [
+        {
+          "title": "Verastem cancer drug shows early promise in small study",
+          "link": "https://www.biopharmadive.com/news/verastem-g12d-pancreatic-cancer-results-genfleet/832952/",
+          "pubDate": "2026-10-14T15:00:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/WEayUdfuHXoOw2FpmsOFLF4yn7KYNOFOwzm5w7xXaT4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE4Mjc5OTExLmpwZw==.webp\"/></div></figure><p>Wall Street an"
+        },
+        {
+          "title": "Decreasing process variability in fluid management systems",
+          "link": "https://www.biopharmadive.com/spons/decreasing-process-variability-in-fluid-management-systems/832888/",
+          "pubDate": "2026-10-13T21:00:00.000Z",
+          "description": "<p>Discover why flow paths, tubing and connectors may limit your bioprocess performance</p>"
+        },
+        {
+          "title": "Another Paragon spinout goes public through reverse merger",
+          "link": "https://www.biopharmadive.com/news/velaris-alaunos-paragon-reverse-merger-acquisition-fairmount/832869/",
+          "pubDate": "2026-10-13T20:35:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/AXCySMJQ8gWU868YsGVW_uebBL4chqRPQGTVpVtvheY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk3MjUzODY4LmpwZw==.webp\"/></div></figure><p>One lawyer inv"
+        },
         {
           "title": "BioNTech mRNA cancer immunotherapy misses first objective in key study",
           "link": "https://www.biopharmadive.com/news/biontech-mrna-immunotherapy-hpv16-head-neck-cancer/832854/",
@@ -192,24 +210,6 @@
           "link": "https://www.biopharmadive.com/news/bristol-myers-admilparant-lpa1-ipf-aloft-results-contineum/832715/",
           "pubDate": "2026-10-12T15:35:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/lSL0Ve31QK8107mgU06QNJbrMjNs5BTWW82QPMzZsdU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY1MzQ2MTEzLmpwZw==.webp\"/></div></figure><p>Only the lower"
-        },
-        {
-          "title": "Pharma’s $500B patent problem will come in waves — not as a cliff",
-          "link": "https://www.biopharmadive.com/news/pharma-patent-cliff-merck-abbvie-dealmaking/832700/",
-          "pubDate": "2026-10-12T13:16:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/MKDTzwTtmuXFADRwdSzawP0vBoil7GKPLwSNaRgmkSo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9vY2Vhbi13YXZlLWFydC1nZXR0eS5qcGc=.webp\"/></div></figure><p>Merck is the most "
-        },
-        {
-          "title": "Bausch + Lomb swaps CEOs; Merck reveals anticipated eye drug data",
-          "link": "https://www.biopharmadive.com/news/bausch-lomb-saunders-remigromig-tezpire-eoe-hovilpri/832495/",
-          "pubDate": "2026-10-12T12:09:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\"/></div></figure>"
-        },
-        {
-          "title": "FDA review docs spark Revolution sell-off; Zealand diabetes data underwhelm analysts",
-          "link": "https://www.biopharmadive.com/news/rasonque-fda-zealand-tukysa-ultragenyx-tcgx-china/832492/",
-          "pubDate": "2026-10-09T15:18:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\"/></div></figure>"
         }
       ]
     }
