@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-10-15T15:22:45.434Z",
+  "generatedAt": "2026-10-16T15:02:58.426Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
         {
+          "title": "SimBioSys nabs FDA clearance for Nvidia-powered, MRI-derived breast cancer recurrence tool",
+          "link": "https://www.fiercebiotech.com/medtech/simbiosys-nabs-fda-clearance-nvidia-powered-mri-derived-breast-cancer-recurrence-tool",
+          "pubDate": "2026-10-15T02:40:00.000Z",
+          "description": "SimBioSys has been given FDA clearance of the Nvidia-powered TumorSight Risk, an AI and MRI-derived prognostic tool for assessing the risk of a breast cancer coming back."
+        },
+        {
+          "title": "Chutes & Ladders—Bausch + Lomb's returning CEO Saunders exits again",
+          "link": "https://www.fiercebiotech.com/biotech/chutes-ladders-bausch-lombs-return-ceo-saunders-exits-again",
+          "pubDate": "2026-10-15T16:45:00.000Z",
+          "description": "Bausch + Lomb CEO&nbsp;Brent Saunders is making a second exit from the eye health company, as the president of parent Bausch Health steps in temporarily. Plus, Paragon Labs is buying out  Apogee talent after its acquisition by AbbVie."
+        },
+        {
+          "title": "FDA issues early alert for Edwards Lifesciences’ mitral valve delivery system after reported death, injury",
+          "link": "https://www.fiercebiotech.com/medtech/fda-calls-early-alert-edwards-lifesciences-mitral-valve-replacement-after-injury-death",
+          "pubDate": "2026-10-16T02:28:00.000Z",
+          "description": "The FDA has issued an early alert for certain delivery systems used with Edwards Lifesciences’ SAPIEN M3 transcatheter mitral valve replacement system amid serious safety concerns."
+        },
+        {
+          "title": "‘It’s certainly not easy’: How are Boston biotechs coping with a shallower pool of seed funding?",
+          "link": "https://www.fiercebiotech.com/biotech/why-bostons-early-stage-funding-drop-may-be-good-thing",
+          "pubDate": "2026-09-23T15:53:00.000Z",
+          "description": "As the world's biggest biotech hub, funding for early-stage startups has long been the lifeblood of Boston's life sciences industry. But the latest figures make for concerning reading—with average seed funding secured by a preclinical start"
+        },
+        {
+          "title": "Fierce Biotech Fundraising Tracker '26: Estuary channels $93M series A; OMass obtains $310M",
+          "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+          "pubDate": "2025-12-22T15:30:00.000Z",
+          "description": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs."
+        },
+        {
+          "title": "Estuary flows out of stealth with $103M to propel kidney disease gene therapies into clinic",
+          "link": "https://www.fiercebiotech.com/biotech/estuary-emerges-stealth-103m-its-gene-therapies-kidney-disease",
+          "pubDate": "2026-10-15T08:26:00.000Z",
+          "description": "Estuary Biotherapeutics has swum out of stealth with $103 million in funding to power a pair of gene therapies into clinical trials for an inherited kidney disorder."
+        },
+        {
+          "title": "City goes public with $200M IPO, while Frazier Life Sciences takes biotech-focused SPAC to Nasdaq",
+          "link": "https://www.fiercebiotech.com/biotech/city-goes-public-200m-ipo-while-frazier-takes-biotech-focused-spac-nasdaq",
+          "pubDate": "2026-10-16T02:49:00.000Z",
+          "description": "City Therapeutics has gone public with an upsized $200 million IPO, on the same day that Frazier Life Sciences listed its second biotech-focused shell company."
+        },
+        {
           "title": "OrbiMed’s largest-ever Asian fund contributes to $3B war chest",
           "link": "https://www.fiercebiotech.com/biotech/orbimeds-largest-ever-asian-fund-contributes-3b-war-chest",
           "pubDate": "2026-10-15T09:19:00.000Z",
           "description": "OrbiMed has raised $3 billion to place a fresh round of bets on biotechs and life sciences companies in the U.S., Europe and Asia.<br>"
-        },
-        {
-          "title": "Osivax focuses on combo strategy for flu vaccine after phase 2 fail",
-          "link": "https://www.fiercebiotech.com/biotech/osivax-focuses-combo-strategy-flu-vaccine-after-phase-2-fail",
-          "pubDate": "2026-10-15T07:49:00.000Z",
-          "description": "Osivax has been forced to narrow the strategy for its influenza vaccine after the shot failed a phase 2b study."
-        },
-        {
-          "title": "AstraZeneca inks $1.5B insitro deal for AI-enabled target discovery of liver, heart disease drugs",
-          "link": "https://www.fiercebiotech.com/biotech/astrazeneca-inks-15b-insitro-deal-ai-enabled-target-discovery",
-          "pubDate": "2026-10-15T03:36:00.000Z",
-          "description": "AstraZeneca is paying insitro $40 million upfront to find novel drug targets for liver and heart diseases using artificial intelligence. <br>"
-        },
-        {
-          "title": "Rebranded Galapagos finally finds buyer for unwanted cell therapy pipeline",
-          "link": "https://www.fiercebiotech.com/biotech/rebranded-galapagos-finally-finds-buyer-unwanted-cell-therapy-pipeline",
-          "pubDate": "2026-10-15T04:11:00.000Z",
-          "description": "Lakefront Biotherapeutics—the new name for Belgium’s Galapagos Therapeutics—has found a buyer for its unwanted cell therapy pipeline."
-        },
-        {
-          "title": "Iambic goes public with $150M IPO to accelerate clinical development of oncology pipeline",
-          "link": "https://www.fiercebiotech.com/biotech/iambic-goes-public-150m-ipo-accelerate-clinical-development-oncology-pipeline",
-          "pubDate": "2026-10-15T02:31:00.000Z",
-          "description": "Iambic Therapeutics’ IPO came in dead on target, bringing in $150 million for the AI biotech to fuel the clinical development of its oncology pipeline."
-        },
-        {
-          "title": "Vanda pauses social anxiety program after ex-Novartis asset flunks phase 3 study",
-          "link": "https://www.fiercebiotech.com/biotech/vanda-pauses-social-anxiety-program-after-ex-novartis-asset-flunks-phase-3",
-          "pubDate": "2026-10-15T02:26:00.000Z",
-          "description": "A phase 3 trial of Vanda Pharmaceuticals’ social anxiety disorder drug candidate has missed its primary endpoint, prompting the company to put the program on hold."
-        },
-        {
-          "title": "Why OMass’ $310M series C marks ‘fantastic milestone’ on journey to become ‘Britain’s Big Biotech’",
-          "link": "https://www.fiercebiotech.com/biotech/why-omass-310m-series-c-fantastic-milestone-journey-become-britains-big-biotech",
-          "pubDate": "2026-10-14T07:51:00.000Z",
-          "description": "When Fierce last caught up with OMass Therapeutics’ CEO Ros Deegan, it was hard not to be impressed by the company’s ambition."
-        },
-        {
-          "title": "IQVIA, Veeva expand on existing partnership for speedier clinical trials",
-          "link": "https://www.fiercebiotech.com/cro/iqvia-veeva-expand-partnership-speedy-clinical-trials",
-          "pubDate": "2026-10-13T13:44:00.000Z",
-          "description": "Clinical research giant IQVIA and cloud system provider Veeva Systems have expanded their partnership to further increase trial speed and efficiency."
         }
       ]
     },
@@ -58,58 +58,82 @@
       "name": "Endpoints News",
       "items": [
         {
-          "title": "NorthStar's China CRO deal; Lonza details midterm guidance",
-          "link": "https://endpoints.news/northstars-china-cro-deal-lonza-details-midterm-guidance/",
-          "pubDate": "2026-10-15T15:21:38.000Z",
-          "description": "Plus more about Triastek, Scinai and HydRegen.\r\n\r\n NorthStar inks deal with Chinese CRO: Radioisotope maker NorthStar Medical Technologies has secured a partnership with Beijing-based contract research organization Quarkmed. Quarkmed will a"
+          "title": "CHMP endorses Eli Lilly’s GLP-1 pill and three other new drugs",
+          "link": "https://endpoints.news/chmp-endorses-eli-lillys-glp-1-pill-and-three-other-new-drugs/",
+          "pubDate": "2026-10-16T14:55:55.000Z",
+          "description": "Eli Lilly secured EU regulatory backing for its oral GLP-1 pill orforglipron on Friday as it looks to catch up with competitor Novo’s Wegovy pill.\r\n\r\n The European Medicines Agency’s human medicines committee (CHMP)"
         },
         {
-          "title": "Osivax pivots to combo approach after flu jab fails in Phase 2b",
-          "link": "https://endpoints.news/osivax-pivots-to-combo-approach-after-flu-jab-fails-in-phase-2b/",
-          "pubDate": "2026-10-15T14:33:55.000Z",
-          "description": "Osivax’s lead flu vaccine has flopped in a mid-stage trial. But the French biotech still holds out hope for the program, and plans to combine it with existing flu shots.\r\n\r\n The Phase 2b trial aimed ..."
+          "title": "Lilly interested in ibogaine investments, its neuro leader says",
+          "link": "https://endpoints.news/lilly-interested-in-ibogaine-investments-its-neuro-leader-says/",
+          "pubDate": "2026-10-16T14:04:29.000Z",
+          "description": "Eli Lilly is interested in R&D efforts to “improve the profile of ibogaine,” the pharma giant’s neuroscience president said at a psychedelics conference Thursday.\r\n\r\n Carole Ho, who joined the company last year from Denali Therapeutics ..."
         },
         {
-          "title": "San Francisco's pulse on health AI",
-          "link": "https://endpoints.news/san-franciscos-pulse-on-health-ai/",
-          "pubDate": "2026-10-15T14:21:39.000Z",
-          "description": "I flew to San Francisco yesterday to take part in Rock Health’s annual summit.\r\n\r\n It’s been about half a year since I last visited, so the event served as a good gut check of where ..."
+          "title": "Here's how many clinicians are using AI to answer their medical questions",
+          "link": "https://endpoints.news/heres-how-many-clinicians-are-using-ai-to-answer-their-medical-questions/",
+          "pubDate": "2026-10-16T13:00:31.000Z",
+          "description": "New research illustrates the rapid rise of clinicians’ use of AI to answer medical questions despite little evidence of how it affects decision-making or patient outcomes.\r\n\r\n Researchers studied usage data from OpenEvidence, an AI search ."
         },
         {
-          "title": "OrbiMed raises $3B in new life sciences funds, including $1B+ for Asia",
-          "link": "https://endpoints.news/orbimed-raises-3b-in-new-life-sciences-funds-including-1b-for-asia/",
-          "pubDate": "2026-10-15T13:55:06.000Z",
-          "description": "OrbiMed, one of the biggest life science investors in the world, has raised $3 billion across two new funds.\r\n\r\n OrbiMed’s 10th private equity fund in its flagship series put together “over $1.9 billion” to invest ..."
+          "title": "Ex-Genentech scientist joins Ira Mellman at Medici; Intellia poaches CMO from Scholar Rock",
+          "link": "https://endpoints.news/ex-genentech-scientist-joins-ira-mellman-at-medici-intellia-poaches-cmo-from-scholar-rock/",
+          "pubDate": "2026-10-16T11:00:08.000Z",
+          "description": "→ More former Genentech leaders are finding a new home. Lélia Delamarre posted on LinkedIn that she’s leading R&D at ARCH-backed cancer biotech Medici Therapeutics, one of this year’s"
         },
         {
-          "title": "AI will force doctors to focus on clinical reasoning, experts say",
-          "link": "https://endpoints.news/ai-will-force-doctors-to-focus-on-clinical-reasoning-experts-say/",
-          "pubDate": "2026-10-15T13:00:35.000Z",
-          "description": "The growing use of AI tools is changing the skills doctors need to practice medicine, experts said during a panel at an Endpoints News event on Wednesday.\r\n\r\n Doctors no longer need to memorize as many ..."
+          "title": "Estuary debuts with $103M to develop kidney disease gene therapies",
+          "link": "https://endpoints.news/estuary-debuts-with-103m-to-develop-kidney-disease-gene-therapies/",
+          "pubDate": "2026-10-16T10:30:34.000Z",
+          "description": "Estuary Biotherapeutics raised the curtain on Friday with $103 million to support the advancement of two preclinical gene therapy candidates for the most common type of inherited kidney disease.\r\n\r\n The company’s cash comes from a ..."
         },
         {
-          "title": "Vanda’s social anxiety drug flunks Phase 3 trial in female patients",
-          "link": "https://endpoints.news/vandas-social-anxiety-drug-flunks-phase-3-trial-in-female-patients/",
-          "pubDate": "2026-10-15T11:00:53.000Z",
-          "description": "Vanda Pharmaceuticals said Wednesday it is putting its social anxiety disorder program on hold following a late-stage trial failure.\r\n\r\n The biotech’s drug, called VQW-765, missed the primary endpoint in a Phase ..."
+          "title": "City Therapeutics lands $200M IPO as it builds an Alnylam 2.0 in RNAi field",
+          "link": "https://endpoints.news/city-therapeutics-lands-200m-ipo-as-it-builds-an-alnylam-2-0-in-rnai-field/",
+          "pubDate": "2026-10-16T10:17:21.000Z",
+          "description": "City Therapeutics will be the 26th biotech to complete an initial public offering in 2026 when it begins trading Friday morning, adding to a boisterous rebound in industry listings.\r\n\r\n The Kendall Square-based drug developer priced ..."
         },
         {
-          "title": "Paul Stoffels to bring Galapagos’ cell therapies back to life",
-          "link": "https://endpoints.news/paul-stoffels-to-bring-galapagos-cell-therapies-back-to-life/",
-          "pubDate": "2026-10-15T10:33:24.000Z",
-          "description": "Paul Stoffels isn’t giving up on the cell therapy plans he had at Galapagos, the Belgian drug developer that he tried turning around as CEO before abruptly departing last year.\r\n\r\n A new biotech called Armed ..."
+          "title": "CDC page supporting Covid vaccines for pregnancy went dark",
+          "link": "https://endpoints.news/cdc-page-supporting-covid-vaccines-for-pregnancy-went-dark/",
+          "pubDate": "2026-10-15T19:05:35.000Z",
+          "description": "The CDC briefly published a webpage that maintained unequivocal support for Covid-19 vaccines in people preparing to have a baby, but it now redirects elsewhere on the CDC's website, following online backlash from some vaccine ..."
         },
         {
-          "title": "Iambic snags $150M IPO for AI-driven cancer pipeline",
-          "link": "https://endpoints.news/iambic-snags-150m-ipo-for-ai-driven-cancer-pipeline/",
-          "pubDate": "2026-10-15T08:01:53.000Z",
-          "description": "Nvidia-backed Iambic Therapeutics will begin trading Thursday after pricing its $150 million initial public offering Wednesday night.\r\n\r\n The cancer-focused biotech sold 9.38 million shares {$IAM} at $16 apiece.\r\n\r\n The float adds ..."
+          "title": "Virginia leads in winning investments as drugmakers onshore to the US",
+          "link": "https://endpoints.news/virginia-leads-in-winning-investments-as-drugmakers-onshore-to-the-us/",
+          "pubDate": "2026-10-15T17:26:18.000Z",
+          "description": "The state of Virginia is emerging as an early winner as President Donald Trump prods drugmakers to increase their manufacturing investments in the US, securing at least $12.6 billion through commitments from three of the ..."
         }
       ]
     },
     "statnews": {
       "name": "STAT News (Biotech)",
       "items": [
+        {
+          "title": "STAT+: RevMed&#8217;s pancreatic cancer drug nears European approval",
+          "link": "https://www.statnews.com/2026/10/16/biotech-news-revmed-pancreatic-cancer-drug-nears-european-approval/?utm_campaign=rss",
+          "pubDate": "2026-10-16T13:38:22.000Z",
+          "description": "Following a green light from the FDA, European regulators have now recommended the approval of Revolution Medicines' Rasonque for pancreatic cancer."
+        },
+        {
+          "title": "Merck and Moderna have ‘lot of exploring to do’ after initial cancer vaccine success",
+          "link": "https://www.statnews.com/2026/10/15/moderna-merck-keytruda-mrna-cancer-vaccine-strategy/?utm_campaign=rss",
+          "pubDate": "2026-10-15T19:58:35.000Z",
+          "description": "Stephen Hoge and Dean Li, at the STAT Summit, spoke of how Merck and Moderna will pair Keytruda with personalized mRNA vaccines to target tumors."
+        },
+        {
+          "title": "STAT+: Verastem&#8217;s KRAS inhibitor shows promise in pancreatic cancer",
+          "link": "https://www.statnews.com/2026/10/15/biotech-news-verastem-kras-inhibitor-shows-promise-in-pancreatic-cancer/?utm_campaign=rss",
+          "pubDate": "2026-10-15T15:43:15.000Z",
+          "description": "Verastem Oncology reports encouraging early results for its KRAS G12D inhibitor, which it’s studying in more than 200 patients with advanced solid tumors like metastatic pancreatic ductal adenocarcinoma and non-small&#8230;"
+        },
+        {
+          "title": "After a melanoma diagnosis, mRNA cancer vaccine delivered a patient hope — and a path forward",
+          "link": "https://www.statnews.com/2026/10/15/melanoma-diagnosis-mrna-cancer-vaccine-stat-summit-boston-2026/?utm_campaign=rss",
+          "pubDate": "2026-10-15T15:25:08.000Z",
+          "description": "A schoolteacher diagnosed with melanoma provides an inside look at what it was like to be treated with a cancer vaccine developed by Merck and Moderna."
+        },
         {
           "title": "STAT+: On Wall Street, there&#8217;s trouble stirring for biotech",
           "link": "https://www.statnews.com/2026/10/15/wall-street-biotech-trouble-stirring/?utm_campaign=rss",
@@ -133,36 +157,42 @@
           "link": "https://www.statnews.com/2026/10/13/neurocrine-biosciences-prader-willi-vykat-xr/?utm_campaign=rss",
           "pubDate": "2026-10-13T08:30:00.000Z",
           "description": "Patient advocates and some experts are expressing growing alarm over the perceived risks of a rare disease drug sold by Neurocrine Biosciences."
-        },
-        {
-          "title": "STAT+: Life Biosciences share glaucoma study updates for its cellular reprogramming drug",
-          "link": "https://www.statnews.com/2026/10/09/biotech-news-life-biosciences-share-glaucoma-cellular-reprogramming-drug-update/?utm_campaign=rss",
-          "pubDate": "2026-10-09T15:41:39.000Z",
-          "description": "Life Biosciences said yesterday that three glaucoma patients have now received a single injection of its experimental cellular reprogramming drug, with no serious adverse events."
-        },
-        {
-          "title": "STAT+: Roche goes beyond licensing in deal with Chinese biotech",
-          "link": "https://www.statnews.com/2026/10/08/biotech-news-roche-goes-beyond-licensing-in-deal-with-chinese-biotech/?utm_campaign=rss",
-          "pubDate": "2026-10-08T15:18:05.000Z",
-          "description": "Roche is partnering with Chinese startup Defand Therapeutics to discover new medicines."
-        },
-        {
-          "title": "STAT+: Argenx sees unusual setback with failure of late-stage study of drug for autoimmune disease",
-          "link": "https://www.statnews.com/2026/10/08/argenx-autoimmune-disease-study-sjogrens/?utm_campaign=rss",
-          "pubDate": "2026-10-08T14:02:29.000Z",
-          "description": "Argenx said its blockbuster drug Vyvgart didn’t outperform placebo in a Phase 3 trial of patients with Sjögren's disease, a chronic autoimmune disorder."
-        },
-        {
-          "title": "STAT+: Roche inks drug discovery deal with Chinese biotech, focused on molecular glue medicines",
-          "link": "https://www.statnews.com/2026/10/08/roche-defand-therapeutics-drug-development-deal/?utm_campaign=rss",
-          "pubDate": "2026-10-08T12:00:00.000Z",
-          "description": "Roche has inked a drug discovery deal with Chinese biotech Defand Therapeutics, focused on molecular glue medicines."
         }
       ]
     },
     "biopharmadive": {
       "name": "BioPharma Dive",
       "items": [
+        {
+          "title": "This week in charts: Moderna’s massive stock run",
+          "link": "https://www.biopharmadive.com/news/biotech-charts-moderna-stock-xbi-roche-china/832886/",
+          "pubDate": "2026-10-16T13:15:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/noY6Oanv5v-_yDQZKEqBBDkEKvecYGoj9vaCkgyW_q0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyX20yY2w4SnouanBn.webp\"/></div></figure><p>The la"
+        },
+        {
+          "title": "Next-gen RNAi drugmaker City prices $200M IPO",
+          "link": "https://www.biopharmadive.com/news/city-therapeutics-ipo-price-rnai-drugs/832945/",
+          "pubDate": "2026-10-16T10:33:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/szYDL8kkQd6XaSVgvjJPYl2j0snveijWs_0sZ-B522Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDYyODUzODA3LmpwZw==.webp\"/></div></figure><p>The offering w"
+        },
+        {
+          "title": "Biogen-backed Estuary nabs $93M for kidney disease gene therapy",
+          "link": "https://www.biopharmadive.com/news/estuary-kidney-disease-gene-therapy-launch-emerged-biogen-biotech-startup/833114/",
+          "pubDate": "2026-10-16T10:30:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/ktSLVbm3OcchoepHqBqM7pHp-x5W3O0KZKEm19G7nnA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTQ2MDE0MzA1LmpwZw==.webp\"/></div></figure><p>The Series A r"
+        },
+        {
+          "title": "Belgian startup revives Galapagos CAR-T research",
+          "link": "https://www.biopharmadive.com/news/lakefront-armed-cell-therapies-deal-stoffels-galapagos/833082/",
+          "pubDate": "2026-10-15T15:55:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/D0L8N1mSAxUmtVXNUWGxMU_1vN4b1NGa4XnnPVKFOZ4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNjMzMTE0MjA1LmpwZw==.webp\"/></div></figure><p>Armed Cell The"
+        },
+        {
+          "title": "FDA ‘reset’ continues with new plan for reviewing rare disease drugs",
+          "link": "https://www.biopharmadive.com/news/fda-rare-disease-framework-initiative-drug-development/833080/",
+          "pubDate": "2026-10-15T15:23:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gpaOZa44o9-XZB6wRVVvfYbTrPRE6esvEdkkzkz8stU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mb29kLWFuZC1kcnVnLWFkbWluaXN0cmF0aW9uLmpwZw==.webp\"/></div></figure><p>A reva"
+        },
         {
           "title": "Iambic, an AI drug discovery specialist, banks $150M in an IPO",
           "link": "https://www.biopharmadive.com/news/iambic-ipo-price-ai-drug-discovery/832771/",
@@ -180,36 +210,6 @@
           "link": "https://www.biopharmadive.com/news/verastem-g12d-pancreatic-cancer-results-genfleet/832952/",
           "pubDate": "2026-10-14T15:00:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/WEayUdfuHXoOw2FpmsOFLF4yn7KYNOFOwzm5w7xXaT4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE4Mjc5OTExLmpwZw==.webp\"/></div></figure><p>Wall Street an"
-        },
-        {
-          "title": "CVS to pay $315M to settle opioid prescribing allegations",
-          "link": "https://www.biopharmadive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832999/",
-          "pubDate": "2026-10-14T14:45:52.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/y4ZnE-ebRFmuc-ITWJOkqsjoXAD1lFYu97Rycb1qL9c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTkzNzcxMDk4LmpwZw==.webp\"/></div></figure><p>Prosecutors sa"
-        },
-        {
-          "title": "J&J earnings set ‘negative tone’; Shkreli vs. the FTC",
-          "link": "https://www.biopharmadive.com/news/jnj-earnings-gilead-vir-shkreli-ftc-syndax-pfizer/832879/",
-          "pubDate": "2026-10-14T13:31:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\"/></div></figure>"
-        },
-        {
-          "title": "Decreasing process variability in fluid management systems",
-          "link": "https://www.biopharmadive.com/spons/decreasing-process-variability-in-fluid-management-systems/832888/",
-          "pubDate": "2026-10-13T21:00:00.000Z",
-          "description": "<p>Discover why flow paths, tubing and connectors may limit your bioprocess performance</p>"
-        },
-        {
-          "title": "Another Paragon spinout goes public through reverse merger",
-          "link": "https://www.biopharmadive.com/news/velaris-alaunos-paragon-reverse-merger-acquisition-fairmount/832869/",
-          "pubDate": "2026-10-13T20:35:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/AXCySMJQ8gWU868YsGVW_uebBL4chqRPQGTVpVtvheY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk3MjUzODY4LmpwZw==.webp\"/></div></figure><p>One lawyer inv"
-        },
-        {
-          "title": "BioNTech mRNA cancer immunotherapy misses first objective in key study",
-          "link": "https://www.biopharmadive.com/news/biontech-mrna-immunotherapy-hpv16-head-neck-cancer/832854/",
-          "pubDate": "2026-10-13T16:24:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/rOXgWwvAoQejvYyGfhFgyegwrIQjA6F1toVkmaowa6Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDk1OTc1MTMyLmpwZw==.webp\"/></div></figure><p>An early data "
         }
       ]
     }
