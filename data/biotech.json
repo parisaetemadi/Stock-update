@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-10-16T15:02:58.426Z",
+  "generatedAt": "2026-10-17T13:58:46.331Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
+        {
+          "title": "China looks to ban foreign acquisitions of critical biopharma platforms",
+          "link": "https://www.fiercebiotech.com/biotech/china-looks-ban-foreign-acquisitions-critical-biopharma-platforms",
+          "pubDate": "2026-10-16T10:40:00.000Z",
+          "description": "As Washington ramps up efforts to tighten cross-border life sciences deals involving Chinese assets, Beijing is moving to tighten its own grip on biomedical innovation, rolling out a draft policy that would ban or restrict the export of key"
+        },
         {
           "title": "SimBioSys nabs FDA clearance for Nvidia-powered, MRI-derived breast cancer recurrence tool",
           "link": "https://www.fiercebiotech.com/medtech/simbiosys-nabs-fda-clearance-nvidia-powered-mri-derived-breast-cancer-recurrence-tool",
@@ -29,6 +35,12 @@
           "description": "As the world's biggest biotech hub, funding for early-stage startups has long been the lifeblood of Boston's life sciences industry. But the latest figures make for concerning reading—with average seed funding secured by a preclinical start"
         },
         {
+          "title": "Labcorp, Thrive Global launch latest Thrive 5 health test",
+          "link": "https://www.fiercebiotech.com/medtech/labcorp-thrive-global-launch-latest-thrive-5-health-test",
+          "pubDate": "2026-10-16T03:56:00.000Z",
+          "description": "Labcorp has launched the Thrive 5 Health Test that is now offered through a collaboration with Arianna Huffington's behavior change technology company, Thrive Global."
+        },
+        {
           "title": "Fierce Biotech Fundraising Tracker '26: Estuary channels $93M series A; OMass obtains $310M",
           "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
           "pubDate": "2025-12-22T15:30:00.000Z",
@@ -39,24 +51,42 @@
           "link": "https://www.fiercebiotech.com/biotech/estuary-emerges-stealth-103m-its-gene-therapies-kidney-disease",
           "pubDate": "2026-10-15T08:26:00.000Z",
           "description": "Estuary Biotherapeutics has swum out of stealth with $103 million in funding to power a pair of gene therapies into clinical trials for an inherited kidney disorder."
-        },
-        {
-          "title": "City goes public with $200M IPO, while Frazier Life Sciences takes biotech-focused SPAC to Nasdaq",
-          "link": "https://www.fiercebiotech.com/biotech/city-goes-public-200m-ipo-while-frazier-takes-biotech-focused-spac-nasdaq",
-          "pubDate": "2026-10-16T02:49:00.000Z",
-          "description": "City Therapeutics has gone public with an upsized $200 million IPO, on the same day that Frazier Life Sciences listed its second biotech-focused shell company."
-        },
-        {
-          "title": "OrbiMed’s largest-ever Asian fund contributes to $3B war chest",
-          "link": "https://www.fiercebiotech.com/biotech/orbimeds-largest-ever-asian-fund-contributes-3b-war-chest",
-          "pubDate": "2026-10-15T09:19:00.000Z",
-          "description": "OrbiMed has raised $3 billion to place a fresh round of bets on biotechs and life sciences companies in the U.S., Europe and Asia.<br>"
         }
       ]
     },
     "endpoints": {
       "name": "Endpoints News",
       "items": [
+        {
+          "title": "A search for ‘the statin of Alzheimer’s’; Arrowhead injectable lowers tau; and more",
+          "link": "https://endpoints.news/a-search-for-the-statin-of-alzheimers-arrowhead-injectable-lowers-tau-and-more/",
+          "pubDate": "2026-10-17T10:00:16.000Z",
+          "description": "Welcome back to another edition of Endpoints Weekly. Thanks to everyone who came out to our AI Day event this week in New York City! Hosted by senior biopharma correspondent Andrew Dunn, AI Day was ..."
+        },
+        {
+          "title": "Q&A: Sanofi's new research chief on AI, R&D failure rates and dealmaking",
+          "link": "https://endpoints.news/qa-sanofis-new-research-chief-on-ai-rd-failure-rates-and-dealmaking/",
+          "pubDate": "2026-10-16T16:02:00.000Z",
+          "description": "Paulo Fontoura took over as Sanofi’s global head of R&D in September after 16 years at Roche and a recent stint at AI drug discovery startup Xaira Therapeutics. Ahead of Sanofi’s Oct. 30 earnings, Endpoints ..."
+        },
+        {
+          "title": "Novartis scraps Fabhalta study in lupus nephritis",
+          "link": "https://endpoints.news/novartis-scraps-fabhalta-study-in-lupus-nephritis/",
+          "pubDate": "2026-10-16T15:32:24.000Z",
+          "description": "Novartis terminated a mid-stage trial of Fabhalta in lupus nephritis, citing “strategic considerations,” according to a federal clinical trials database.\r\n\r\n Fabhalta, also known as iptacopan, is a key part of Novartis' portfolio. It delive"
+        },
+        {
+          "title": "China pursues export ban on some biotech platforms",
+          "link": "https://endpoints.news/china-pursues-export-ban-on-some-biotech-platforms/",
+          "pubDate": "2026-10-16T15:28:01.000Z",
+          "description": "The Chinese Ministry of Commerce is clamping down on the kinds of deals domestic companies can make, but the free-flowing licensing of drugs appears to be intact.\r\n\r\n Government officials are looking at"
+        },
+        {
+          "title": "FDA considers interim access for compounded peptides; Enspryng's label expansion",
+          "link": "https://endpoints.news/fda-considers-interim-access-for-compounded-peptides-enspryngs-label-expansion/",
+          "pubDate": "2026-10-16T15:23:34.000Z",
+          "description": "Plus news about Microbiotica, Cyrano Therapeutics and Opus Genetics.\r\n\r\n HHS and FDA submit peptide policy for review: An “interim access policy for compounding using certain peptides” is awaiting regulatory review at the White House Office"
+        },
         {
           "title": "CHMP endorses Eli Lilly’s GLP-1 pill and three other new drugs",
           "link": "https://endpoints.news/chmp-endorses-eli-lillys-glp-1-pill-and-three-other-new-drugs/",
@@ -74,36 +104,6 @@
           "link": "https://endpoints.news/heres-how-many-clinicians-are-using-ai-to-answer-their-medical-questions/",
           "pubDate": "2026-10-16T13:00:31.000Z",
           "description": "New research illustrates the rapid rise of clinicians’ use of AI to answer medical questions despite little evidence of how it affects decision-making or patient outcomes.\r\n\r\n Researchers studied usage data from OpenEvidence, an AI search ."
-        },
-        {
-          "title": "Ex-Genentech scientist joins Ira Mellman at Medici; Intellia poaches CMO from Scholar Rock",
-          "link": "https://endpoints.news/ex-genentech-scientist-joins-ira-mellman-at-medici-intellia-poaches-cmo-from-scholar-rock/",
-          "pubDate": "2026-10-16T11:00:08.000Z",
-          "description": "→ More former Genentech leaders are finding a new home. Lélia Delamarre posted on LinkedIn that she’s leading R&D at ARCH-backed cancer biotech Medici Therapeutics, one of this year’s"
-        },
-        {
-          "title": "Estuary debuts with $103M to develop kidney disease gene therapies",
-          "link": "https://endpoints.news/estuary-debuts-with-103m-to-develop-kidney-disease-gene-therapies/",
-          "pubDate": "2026-10-16T10:30:34.000Z",
-          "description": "Estuary Biotherapeutics raised the curtain on Friday with $103 million to support the advancement of two preclinical gene therapy candidates for the most common type of inherited kidney disease.\r\n\r\n The company’s cash comes from a ..."
-        },
-        {
-          "title": "City Therapeutics lands $200M IPO as it builds an Alnylam 2.0 in RNAi field",
-          "link": "https://endpoints.news/city-therapeutics-lands-200m-ipo-as-it-builds-an-alnylam-2-0-in-rnai-field/",
-          "pubDate": "2026-10-16T10:17:21.000Z",
-          "description": "City Therapeutics will be the 26th biotech to complete an initial public offering in 2026 when it begins trading Friday morning, adding to a boisterous rebound in industry listings.\r\n\r\n The Kendall Square-based drug developer priced ..."
-        },
-        {
-          "title": "CDC page supporting Covid vaccines for pregnancy went dark",
-          "link": "https://endpoints.news/cdc-page-supporting-covid-vaccines-for-pregnancy-went-dark/",
-          "pubDate": "2026-10-15T19:05:35.000Z",
-          "description": "The CDC briefly published a webpage that maintained unequivocal support for Covid-19 vaccines in people preparing to have a baby, but it now redirects elsewhere on the CDC's website, following online backlash from some vaccine ..."
-        },
-        {
-          "title": "Virginia leads in winning investments as drugmakers onshore to the US",
-          "link": "https://endpoints.news/virginia-leads-in-winning-investments-as-drugmakers-onshore-to-the-us/",
-          "pubDate": "2026-10-15T17:26:18.000Z",
-          "description": "The state of Virginia is emerging as an early winner as President Donald Trump prods drugmakers to increase their manufacturing investments in the US, securing at least $12.6 billion through commitments from three of the ..."
         }
       ]
     },
@@ -164,6 +164,12 @@
       "name": "BioPharma Dive",
       "items": [
         {
+          "title": "Iambic CEO on taking an AI drug company public",
+          "link": "https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238/",
+          "pubDate": "2026-10-16T16:10:00.000Z",
+          "description": "<p>Fresh off a $150 million IPO, Tom Miller spoke to BioPharma Dive about the roadshow process and how he sees AI&rsquo;s role in drug development evolving.</p>"
+        },
+        {
           "title": "This week in charts: Moderna’s massive stock run",
           "link": "https://www.biopharmadive.com/news/biotech-charts-moderna-stock-xbi-roche-china/832886/",
           "pubDate": "2026-10-16T13:15:00.000Z",
@@ -204,12 +210,6 @@
           "link": "https://www.biopharmadive.com/news/arrowhead-rnai-alzheimers-tau-aro-mapt-study-results/832950/",
           "pubDate": "2026-10-14T15:54:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/_gluo--ffPQcATih2CuusukvSlrAJr96z7PWL69DLpw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTgyMDgyODUxLmpwZw==.webp\"/></div></figure><p>In a first, a "
-        },
-        {
-          "title": "Verastem cancer drug shows early promise in small study",
-          "link": "https://www.biopharmadive.com/news/verastem-g12d-pancreatic-cancer-results-genfleet/832952/",
-          "pubDate": "2026-10-14T15:00:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/WEayUdfuHXoOw2FpmsOFLF4yn7KYNOFOwzm5w7xXaT4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE4Mjc5OTExLmpwZw==.webp\"/></div></figure><p>Wall Street an"
         }
       ]
     }
