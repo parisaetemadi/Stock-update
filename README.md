@@ -59,10 +59,21 @@ in `data/macro/<id>.json`, one file per series. A page showing one chart at a
 time therefore downloads the index (about a kilobyte) and a single series,
 rather than the whole archive.
 
-Seven series are published: the 2-, 10- and 30-year Treasury yields, US CPI
-inflation and unemployment, and Canadian CPI inflation and unemployment. No
-Canadian yields. Most come from FRED's graph CSV endpoint, which needs no API
-key; Canadian CPI comes from StatCan.
+Eight series are published: the 2-, 10- and 30-year Treasury yields, US CPI
+inflation and unemployment, Canadian CPI inflation and unemployment, and the
+S&P 500 price/earnings ratio. No Canadian yields. Most come from FRED's graph
+CSV endpoint, which needs no API key; Canadian CPI comes from StatCan.
+
+**The P/E is the one scrape here, and it is deliberate.** FRED has no S&P 500
+price/earnings series. A probe against a runner found three possibilities: the
+Yale Shiller spreadsheet, which answers only over plain http and is a 1.6MB
+legacy .xls that would mean adding a spreadsheet parser to a repository with no
+dependencies at all; Nasdaq Data Link, which now wants a key; and multpl.com,
+which serves a two-column HTML table back to 1871. The table won on cost, and
+the trade is that a redesign of that page breaks it. So the parser throws on
+anything that is not a long run of dated numbers rather than publishing a stub,
+and a failed week keeps the previous file. The rows carry a dagger where multpl
+is estimating a value, and negative ratios — real, in 2009 — are kept.
 
 Two details worth knowing before reading the numbers:
 

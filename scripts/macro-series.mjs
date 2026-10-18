@@ -36,12 +36,72 @@ export const SERIES = [
     note: 'Canadian all-items consumer price index against the same month a year earlier.' },
   { id: 'caunrate', candidates: ['LRUNTTTTCAM156S', 'LRUN64TTCAM156S', 'CANURHARMMDSMEI'],
     group: 'Canada', label: 'Canada Unemployment Rate', transform: 'level', unit: '%', decimals: 1, freq: 'monthly',
-    note: 'Share of the Canadian labour force without a job and looking for one. Seasonally adjusted.' }
+    note: 'Share of the Canadian labour force without a job and looking for one. Seasonally adjusted.' },
+
+  // --- Markets ---
+  // A multiple, not a rate, which is why its unit is 'x' and its change is
+  // quoted in turns rather than percentage points.
+  { id: 'sp500pe', candidates: ['multpl:s-p-500-pe-ratio'],
+    group: 'Markets', label: 'S&P 500 P/E', transform: 'level', unit: 'x', decimals: 1, freq: 'monthly',
+    note: 'What a dollar of the index\u2019s trailing annual earnings costs. History runs to 1871, which is long enough to see that the long-run average sits in the mid-teens and that every number above it has had an explanation at the time.' }
 ];
 
 // A spec names either one source or a list tried in order. A plain string is a
 // FRED series id; the "statcan:" prefix names a StatCan vector instead.
 export const candidatesFor = spec => spec.candidates || [spec.fred];
+
+/* ---------- multpl's HTML tables ----------
+   There is no S&P 500 price/earnings series on FRED, and the two sources that
+   do publish one are a 1.6MB legacy .xls from Yale, which would mean adding a
+   spreadsheet parser to a repository with no dependencies at all, and
+   multpl.com, which serves a plain two-column table. This takes the table.
+
+   Being a scrape, it is the most breakable thing in this pipeline, and it is
+   written to fail loudly rather than quietly: anything that does not yield a
+   sane run of dated numbers throws, and the caller keeps last week's file.
+
+   The real rows look like ["Oct 16, 2026", "† 26.12"] — a dagger marks a value
+   multpl is estimating, and older rows carry an en-quad entity in the same
+   place, so the number has to be pulled out rather than parsed off the front. */
+const MONTHS = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec'];
+
+const stripTags = html => html
+  .replace(/<[^>]*>/g, ' ')
+  .replace(/&[#a-z0-9]+;/gi, ' ')     // &nbsp;, &#x2002; and friends
+  .replace(/\s+/g, ' ')
+  .trim();
+
+export function parseMultplTable(html) {
+  const rows = [...String(html).matchAll(/<tr[^>]*>([\s\S]*?)<\/tr>/gi)];
+  if (rows.length < 50) throw new Error(`multpl: only ${rows.length} rows — the page shape has changed`);
+
+  const out = [];
+  for (const [, body] of rows) {
+    const cells = [...body.matchAll(/<t[dh][^>]*>([\s\S]*?)<\/t[dh]>/gi)].map(c => stripTags(c[1]));
+    if (cells.length < 2) continue;
+
+    const when = /^([A-Za-z]{3})[a-z]*\s+(\d{1,2}),\s*(\d{4})$/.exec(cells[0]);
+    if (!when) continue;                      // the header row, and anything else
+    const month = MONTHS.indexOf(when[1].toLowerCase());
+    if (month < 0) continue;
+
+    // The marker sits before the number, so take the number itself. A negative
+    // one is real: trailing earnings went negative in 2009 and the ratio with
+    // it, and dropping those would quietly flatten the most interesting part
+    // of the chart.
+    const found = /-?\d[\d,]*(?:\.\d+)?/.exec(cells[1]);
+    if (!found) continue;
+    const value = Number(found[0].replace(/,/g, ''));
+    if (!Number.isFinite(value)) continue;
+
+    const date = `${when[3]}-${String(month + 1).padStart(2, '0')}-${when[2].padStart(2, '0')}`;
+    out.push({ date, value, estimated: /[\u2020*]/.test(cells[1]) });
+  }
+
+  if (out.length < 50) throw new Error(`multpl: parsed only ${out.length} usable rows`);
+  out.sort((a, b) => a.date.localeCompare(b.date));
+  return out;
+}
 
 /* ---------- freshness ----------
    A source that answers is not the same as a source that is current. FRED still

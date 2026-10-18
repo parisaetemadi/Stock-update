@@ -5,7 +5,7 @@
    one), and thinning that drops or duplicates the boundary observation. */
 
 import assert from 'node:assert/strict';
-import { parseFredCsv, toYoY, toDiff, thin, pack, isFresh, stalenessDays, SERIES, candidatesFor } from './macro-series.mjs';
+import { parseFredCsv, parseMultplTable, toYoY, toDiff, thin, pack, isFresh, stalenessDays, SERIES, candidatesFor } from './macro-series.mjs';
 
 let passed = 0;
 function test(name, fn) {
@@ -60,6 +60,85 @@ test('rejects a response that is not the CSV at all', () => {
 test('sorts into date order', () => {
   const rows = parseFredCsv('DATE,X\n2026-03-01,3\n2026-01-01,1\n2026-02-01,2\n');
   assert.deepEqual(rows.map(r => r.value), [1, 2, 3]);
+});
+
+console.log('parseMultplTable');
+
+// Rows exactly as the live page serves them, taken from a probe run: a header,
+// a mid-month current value, month starts, a dagger marking an estimate, and
+// an en-quad entity where the dagger is not.
+const multplRow = (date, cell) => `<tr class="odd"><td>${date}</td><td>${cell}</td></tr>`;
+const multplPage = rows => `<html><body><table>
+  <tr><th>Date</th><th>Value</th></tr>
+  ${rows.join('\n')}
+</table></body></html>`;
+const manyRows = (n, from = 1900) => Array.from({ length: n }, (_, i) =>
+  multplRow(`Jan 1, ${from + i}`, `&#x2002; ${(10 + i / 10).toFixed(2)}`));
+
+test('reads the real row shapes', () => {
+  const rows = parseMultplTable(multplPage([
+    multplRow('Oct 16, 2026', '&dagger; 26.12'),
+    multplRow('Oct 1, 2026', '\u2020 26.29'),
+    multplRow('Sep 1, 2026', '\u2020 25.96'),
+    multplRow('Jan 1, 1871', '&#x2002; 11.10'),
+    ...manyRows(50)
+  ]));
+  const byDate = Object.fromEntries(rows.map(r => [r.date, r.value]));
+  assert.equal(byDate['2026-10-16'], 26.12);
+  assert.equal(byDate['2026-10-01'], 26.29);
+  assert.equal(byDate['1871-01-01'], 11.10);
+});
+
+test('comes back in date order, oldest first', () => {
+  const rows = parseMultplTable(multplPage([
+    multplRow('Oct 1, 2026', '\u2020 26.29'),
+    multplRow('Jan 1, 1871', '&#x2002; 11.10'),
+    multplRow('Jun 1, 1990', '&#x2002; 15.00'),
+    ...manyRows(50)
+  ]));
+  const dates = rows.map(r => r.date);
+  assert.deepEqual(dates, [...dates].sort());
+});
+
+test('the header row is not read as data', () => {
+  const rows = parseMultplTable(multplPage(manyRows(60)));
+  assert.equal(rows.some(r => !/^\d{4}-\d{2}-\d{2}$/.test(r.date)), false);
+  assert.equal(rows.length, 60);
+});
+
+test('a dagger marks an estimate without being read as a digit', () => {
+  const rows = parseMultplTable(multplPage([
+    multplRow('Oct 1, 2026', '\u2020 26.29'),
+    multplRow('Jan 1, 2000', '&#x2002; 29.04'),
+    ...manyRows(50)
+  ]));
+  assert.equal(rows.find(r => r.date === '2026-10-01').estimated, true);
+  assert.equal(rows.find(r => r.date === '2000-01-01').estimated, false);
+});
+
+test('a negative ratio survives', () => {
+  // Trailing earnings went negative in 2009 and the ratio with them. Dropping
+  // those rows would quietly flatten the most interesting part of the chart.
+  const rows = parseMultplTable(multplPage([
+    multplRow('May 1, 2009', '&#x2002; -12.40'),
+    ...manyRows(50)
+  ]));
+  assert.equal(rows.find(r => r.date === '2009-05-01').value, -12.4);
+});
+
+test('a thousands separator is not read as a decimal point', () => {
+  const rows = parseMultplTable(multplPage([
+    multplRow('Jan 1, 2010', '&#x2002; 1,234.50'),
+    ...manyRows(50)
+  ]));
+  assert.equal(rows.find(r => r.date === '2010-01-01').value, 1234.5);
+});
+
+test('a redesigned page throws rather than publishing a few stray rows', () => {
+  // The failure mode that matters: the scrape silently returning almost
+  // nothing, which would replace a century of history with a stub.
+  assert.throws(() => parseMultplTable('<html><body><p>no table here</p></body></html>'), /multpl/);
+  assert.throws(() => parseMultplTable(multplPage(manyRows(3))), /multpl/);
 });
 
 console.log('toYoY');
@@ -206,6 +285,14 @@ test('a daily series survives a long weekend but not a dead month', () => {
 test('the curve is the three maturities asked for, and no others', () => {
   const yields = SERIES.filter(s => s.group === 'US Treasury yields').map(s => s.id);
   assert.deepEqual(yields, ['dgs2', 'dgs10', 'dgs30']);
+});
+
+test('the P/E is a multiple, not a rate', () => {
+  const pe = SERIES.find(s => s.id === 'sp500pe');
+  assert.ok(pe, 'no S&P 500 P/E series');
+  assert.equal(pe.unit, 'x');
+  assert.equal(pe.transform, 'level');
+  assert.deepEqual(candidatesFor(pe), ['multpl:s-p-500-pe-ratio']);
 });
 
 test('Canada carries no yields', () => {

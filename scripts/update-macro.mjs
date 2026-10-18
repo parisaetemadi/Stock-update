@@ -12,9 +12,15 @@
    publish, and the page skips what isn't there. */
 
 import { writeFile, mkdir, readFile, readdir, unlink } from 'node:fs/promises';
-import { SERIES, candidatesFor, isFresh, stalenessDays, parseFredCsv, applyTransform, thin, cutoffISO, pack, FULL_DETAIL_YEARS } from './macro-series.mjs';
+import { SERIES, candidatesFor, isFresh, stalenessDays, parseFredCsv, parseMultplTable, applyTransform, thin, cutoffISO, pack, FULL_DETAIL_YEARS } from './macro-series.mjs';
 
 const RETRIES = 3;
+
+// multpl serves its table to a browser; the terse cron user-agent the FRED
+// calls use is the one the probe did not test, so this is the one it did.
+const BROWSER_HEADERS = {
+  'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+};
 
 // Statistics Canada's Web Data Service is the authority for Canadian series and
 // needs no key. latestN is capped generously rather than exactly: asking for
@@ -37,6 +43,19 @@ async function fetchStatCan(vectorId) {
     .sort((a, b) => a.date.localeCompare(b.date));
 }
 
+/* multpl publishes the S&P 500 price/earnings ratio as an HTML table, which is
+   the only form of it available without a key or a spreadsheet parser. Being a
+   scrape it is the most fragile source here, so parseMultplTable throws on
+   anything that is not a long run of dated numbers and this run keeps the
+   previous file rather than publishing a stub. */
+async function fetchMultpl(slug) {
+  const res = await fetch(`https://www.multpl.com/${slug}/table/by-month`, {
+    headers: { ...BROWSER_HEADERS, Accept: 'text/html' }
+  });
+  if (!res.ok) throw new Error(`multpl http ${res.status}`);
+  return parseMultplTable(await res.text()).map(p => ({ date: p.date, value: p.value }));
+}
+
 async function fetchOne(fredId) {
   let lastErr;
   for (let attempt = 1; attempt <= RETRIES; attempt++) {
@@ -55,11 +74,15 @@ async function fetchOne(fredId) {
 }
 
 function describe(candidate) {
-  return candidate.startsWith('statcan:') ? `StatCan v${candidate.slice(8)}` : `FRED ${candidate}`;
+  if (candidate.startsWith('statcan:')) return `StatCan v${candidate.slice(8)}`;
+  if (candidate.startsWith('multpl:')) return 'multpl.com';
+  return `FRED ${candidate}`;
 }
 
 function load(candidate) {
-  return candidate.startsWith('statcan:') ? fetchStatCan(candidate.slice(8)) : fetchOne(candidate);
+  if (candidate.startsWith('statcan:')) return fetchStatCan(candidate.slice(8));
+  if (candidate.startsWith('multpl:')) return fetchMultpl(candidate.slice(7));
+  return fetchOne(candidate);
 }
 
 /* A spec may name several sources, tried in order. Two things can go wrong and
