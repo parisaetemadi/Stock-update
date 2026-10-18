@@ -1,4 +1,5 @@
 import { writeFile, mkdir } from 'node:fs/promises';
+import { parseFredCsv } from './macro-series.mjs';
 
 // CPI-U, U.S. city average, all items, not seasonally adjusted.
 const CPI_SERIES_ID = 'CUUR0000SA0';
@@ -88,16 +89,11 @@ async function fetchFredMonthly(seriesId) {
   const url = `https://fred.stlouisfed.org/graph/fredgraph.csv?id=${seriesId}&cosd=${cosd}`;
   const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0 (dashboard-cron)' } });
   if (!res.ok) throw new Error(`fred http ${res.status}`);
-  const text = await res.text();
-  const lines = text.trim().split('\n').filter(Boolean);
-  // FRED's header column name has varied ("DATE" vs "observation_date").
-  if (lines.length < 2 || !lines[0].toLowerCase().includes('date')) {
-    throw new Error(`unexpected fred response: ${text.slice(0, 100)}`);
-  }
-  return lines.slice(1).map(line => {
-    const [date, value] = line.split(',');
-    return { date, value: Number(value) };
-  });
+  // Shared with the macro page's loader, which already rejects FRED's two
+  // ways of writing "no observation". This copy kept neither: a blank became
+  // Number("") — a real 0 — and a "." became NaN, and nothing filtered either
+  // out, so a holiday landed in the series as a reading.
+  return parseFredCsv(await res.text());
 }
 
 // Statistics Canada's Web Data Service is the authoritative source and needs no

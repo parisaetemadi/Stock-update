@@ -18,7 +18,15 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
+
+      # Same guard the macro and trials workflows use: check the parsing
+      # before trusting what it publishes, since this job commits straight to
+      # main and the dashboard reads whatever lands there.
+      - name: Check the parsing before trusting it
+        run: |
+          node scripts/yahoo.test.mjs
+          node scripts/fred.test.mjs
 
       - name: Fetch market data
         run: node scripts/update-market.mjs

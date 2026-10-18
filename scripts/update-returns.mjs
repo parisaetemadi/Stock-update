@@ -1,4 +1,5 @@
 import { writeFile, mkdir } from 'node:fs/promises';
+import { parseFredCsv } from './macro-series.mjs';
 
 // Trailing returns per ticker, for the period selector on the dashboard.
 //
@@ -49,15 +50,35 @@ function isoDay(date) {
 }
 
 // Start date for each period, given "today".
+// Stepping back a whole number of months without overflowing.
+//
+// setUTCMonth(getUTCMonth() - 1) looks right and is not: from 31 March it
+// asks for 31 February, which JavaScript rolls forward to 3 March. The 1M
+// return was then measured from four days before "today" instead of from a
+// month back — a month's gain reported as four days of it, on exactly the
+// month-ends where the number gets looked at. Same trap a year back from
+// 29 February. Land on the first, step the month, then clamp to that month's
+// last day.
+function monthsBack(date, months) {
+  const d = new Date(date);
+  const wanted = d.getUTCDate();
+  d.setUTCDate(1);
+  d.setUTCMonth(d.getUTCMonth() - months);
+  // Day 0 of the following month is the last day of this one.
+  const lastDay = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth() + 1, 0)).getUTCDate();
+  d.setUTCDate(Math.min(wanted, lastDay));
+  return d;
+}
+
 function periodStart(period, today) {
   const d = new Date(today);
   switch (period) {
     case '1W': d.setUTCDate(d.getUTCDate() - 7); return isoDay(d);
-    case '1M': d.setUTCMonth(d.getUTCMonth() - 1); return isoDay(d);
+    case '1M': return isoDay(monthsBack(today, 1));
     // Year-to-date is measured from the final close of last year.
     case 'YTD': return `${today.getUTCFullYear() - 1}-12-31`;
-    case '1Y': d.setUTCFullYear(d.getUTCFullYear() - 1); return isoDay(d);
-    case '5Y': d.setUTCFullYear(d.getUTCFullYear() - 5); return isoDay(d);
+    case '1Y': return isoDay(monthsBack(today, 12));
+    case '5Y': return isoDay(monthsBack(today, 60));
     default: return null;
   }
 }
@@ -97,17 +118,11 @@ async function fetchFredSeries(seriesId) {
   const url = `https://fred.stlouisfed.org/graph/fredgraph.csv?id=${seriesId}&cosd=${cosd}`;
   const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0 (dashboard-cron)' } });
   if (!res.ok) throw new Error(`fred http ${res.status}`);
-  const text = await res.text();
-  const lines = text.trim().split('\n').filter(Boolean);
-  if (lines.length < 2 || !lines[0].toLowerCase().includes('date')) {
-    throw new Error(`unexpected fred response: ${text.slice(0, 100)}`);
-  }
-  return lines.slice(1)
-    .map(line => {
-      const [date, value] = line.split(',');
-      return { date, close: Number(value) };
-    })
-    .filter(p => p.date && !isNaN(p.close));
+  // Shared with the macro page's loader rather than parsed again here: its
+  // copy is the one that rejects FRED's two ways of writing "no observation",
+  // and a blank read as a real 0 would land as the latest close and report
+  // every period as -100%.
+  return parseFredCsv(await res.text()).map(row => ({ date: row.date, close: row.value }));
 }
 
 async function main() {

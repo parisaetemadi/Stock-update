@@ -1,0 +1,31 @@
+# Nothing checked a change before it landed: the tests only ran inside two of
+# the data workflows, so a mistake in a script first showed up as a cron run
+# failing — or worse, as bad numbers published on the dashboard. This runs
+# every test on each push and pull request instead.
+name: Tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      # Every file is run even after one fails, so a red build names all of
+      # the broken tests rather than only the first.
+      - name: Run every test
+        run: |
+          status=0
+          for t in scripts/*.test.mjs; do
+            echo "::group::$t"
+            node "$t" || status=1
+            echo "::endgroup::"
+          done
+          exit $status

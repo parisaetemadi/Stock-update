@@ -1,5 +1,6 @@
 import { writeFile, mkdir } from 'node:fs/promises';
 import { previousClose } from './yahoo.mjs';
+import { parseFredCsv } from './macro-series.mjs';
 
 // Kept in sync by hand with DEFAULT_WATCHLIST in app.js. Fetched here, server-side,
 // because browsers can't reliably call these APIs directly (CORS/auth walls) — the
@@ -13,6 +14,7 @@ const TICKERS = [
   'BUG', 'SHOP',
   'XBI',
   'HBNK.TO',
+  'ETH',
   'USO', 'TNX', 'US1Y', 'US2Y', 'US30Y', 'USDCAD'
 ];
 
@@ -51,18 +53,12 @@ async function fetchFredLatest(seriesId) {
   const url = `https://fred.stlouisfed.org/graph/fredgraph.csv?id=${seriesId}&cosd=${cosd}`;
   const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0 (dashboard-cron)' } });
   if (!res.ok) throw new Error(`fred http ${res.status}`);
-  const text = await res.text();
-  const lines = text.trim().split('\n').filter(Boolean);
-  // FRED's CSV header column name has varied over time ("DATE" vs
-  // "observation_date"), so check it merely looks like a date header rather
-  // than matching an exact string — a strict match silently dropped US2Y.
-  if (lines.length < 2 || !lines[0].toLowerCase().includes('date')) {
-    throw new Error(`unexpected fred response: ${text.slice(0, 100)}`);
-  }
-  const rows = lines.slice(1).map(line => {
-    const [date, value] = line.split(',');
-    return { date, value: Number(value) };
-  }).filter(r => r.date && !isNaN(r.value));
+  // Shared with the macro page's loader rather than parsed again here. Its
+  // copy tolerates FRED's shifting header name (a strict match once dropped
+  // US2Y silently) and rejects both ways FRED writes "no observation" — a
+  // blank would otherwise be Number("") and publish a holiday as a real
+  // 0.00% yield, with the day's change against it reading as -100%.
+  const rows = parseFredCsv(await res.text());
   if (rows.length < 2) throw new Error('not enough data points');
 
   const latest = rows[rows.length - 1];
