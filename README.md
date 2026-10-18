@@ -14,8 +14,8 @@ commits them here. The dashboard fetches them directly from
 | `data/earnings.json` | Next earnings date per ticker | daily |
 | `data/biotech.json` | Biotech news headlines | daily |
 | `data/returns.json` | 1W / 1M / YTD / 1Y / 5Y change per ticker | daily |
-| `data/macro.json` | Index of the macro series: label, units, source, latest reading | daily |
-| `data/macro/<id>.json` | Full history of one macro series | daily |
+| `data/macro.json` | Index of the macro series: label, units, source, latest reading | 4x daily |
+| `data/macro/<id>.json` | Full history of one macro series | 4x daily |
 
 \* The cron says `*/10 * * * *`; GitHub does not honour it. Measured over the
 72 hours to 30 Aug 2026, the schedule produced **13 runs, not ~1,300** — an
@@ -110,3 +110,30 @@ what it really charted.
 Run `node scripts/macro-series.test.mjs` to exercise the parsing, both
 transforms, the thinning and the freshness gate. A series that fails entirely
 keeps the previous run's file rather than disappearing from the page.
+
+
+## Why the macro series refresh four times a day
+
+Because once a day was landing in the wrong place, and the evidence says so.
+Over 53 scheduled runs the daily job fired between 13:35 and 21:16 UTC with a
+median of 15:21. The Federal Reserve's H.15, which is where FRED's Treasury
+yields come from, publishes around 4:15pm Eastern — 20:15 to 21:15 UTC. Fifty-
+one of those 53 runs therefore happened before the day's yields existed, and
+the curve on the dashboard was structurally a day behind. CPI and the
+unemployment rate, out at 8:30am Eastern, were being caught, but only because
+the earliest fire was 13:35.
+
+Aiming better is not available. GitHub runs scheduled jobs hours late and at a
+drifting hour, so no cron line reliably lands just after a release. More
+attempts is the answer instead: 02:00, 09:00, 15:00 and 22:00 UTC, which
+between them straddle both the morning releases and H.15 however far any one
+of them slips.
+
+Four fixed entries rather than an interval, deliberately. A `*/10` schedule in
+this repository produced 13 runs in 72 hours against the ~1,300 it asked for —
+GitHub sheds frequent schedules under load — while the daily entries have fired
+53 times out of 53. Four low-frequency entries behave like the ones that work.
+
+With four schedules now writing to `data/` alongside a price job that writes
+every ten minutes, every workflow's commit step rebases and retries rather than
+letting a lost push drop a refresh silently.

@@ -31,5 +31,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/market.json data/watchlist.json
-          git diff --cached --quiet || git commit -m "Automated price refresh"
+          git diff --cached --quiet && { echo "nothing changed"; exit 0; }
+          git commit -m "Automated price refresh"
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            echo "push rejected, rebasing (attempt $attempt)"
+            git pull --rebase origin main
+          done
           git push

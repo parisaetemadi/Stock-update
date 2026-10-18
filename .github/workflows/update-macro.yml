@@ -1,0 +1,65 @@
+name: Update macro series
+
+# Split out of the daily job because once a day was landing in the wrong place.
+# Measured over 53 scheduled runs: the daily job fires between 13:35 and 21:16
+# UTC, median 15:21 — and the Federal Reserve's H.15, which is where FRED's
+# Treasury yields come from, publishes around 4:15pm Eastern, or 20:15-21:15
+# UTC. Fifty-one of those 53 runs happened before the day's yields existed, so
+# the curve on the dashboard was structurally a day behind. CPI and the
+# unemployment rate come out at 8:30am Eastern and were being caught, but only
+# because the earliest fire was 13:35.
+#
+# Precise timing is not available here: GitHub runs scheduled jobs hours late
+# and at a drifting hour, so there is no cron line that reliably lands just
+# after a release. More attempts is the answer rather than better aim.
+#
+# Four fixed hours rather than an interval, on purpose. A '*/10' schedule in
+# this same repository produced 13 runs in 72 hours against the ~1,300 it asked
+# for, because GitHub sheds frequent schedules under load; the daily entries
+# have fired 53 times out of 53. Four separate low-frequency entries behave
+# like the ones that work, not like the one that does not.
+on:
+  schedule:
+    - cron: '0 2 * * *'     # overnight: catches anything late from the day before
+    - cron: '0 9 * * *'     # before the US morning releases
+    - cron: '0 15 * * *'    # after CPI and the jobs report
+    - cron: '0 22 * * *'    # after H.15, so the day's yields are in
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Check the parsing and transforms before trusting them
+        run: node scripts/macro-series.test.mjs
+
+      - name: Fetch macro history
+        run: node scripts/update-macro.mjs
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && { echo "nothing changed"; exit 0; }
+          git commit -m "Automated macro refresh"
+          # Four schedules now write to data/, and the price job writes every
+          # ten minutes. A push that loses a race should rebase and retry
+          # rather than drop the refresh on the floor.
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            echo "push rejected, rebasing (attempt $attempt)"
+            git pull --rebase origin main
+          done
+          git push
