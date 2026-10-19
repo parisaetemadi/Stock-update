@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-12T15:07:51.562Z",
+  "generatedAt": "2026-10-19T12:51:07.463Z",
   "basis": "Drugs whose first registered trial began in 2019 or later, ranked by how many live industry-sponsored Phase 2–3 trials each is the subject of.",
   "novelSince": "2019-01-01",
   "source": "ClinicalTrials.gov API v2",
-  "studiesConsidered": 8718,
+  "studiesConsidered": 8714,
   "drugs": [
     {
       "name": "BL-B01D1",
@@ -13,7 +13,7 @@
       "condition": "Non-small Cell Lung Cancer",
       "enrolment": 11494,
       "lastUpdate": "2026-10-09",
-      "link": "https://clinicaltrials.gov/study/NCT07797881"
+      "link": "https://clinicaltrials.gov/study/NCT07648914"
     },
     {
       "name": "Sacituzumab tirumotecan",
@@ -22,18 +22,18 @@
       "sponsor": "Merck Sharp & Dohme LLC",
       "condition": "Non-small Cell Lung Cancer (NSCLC)",
       "enrolment": 15817,
-      "lastUpdate": "2026-10-09",
-      "link": "https://clinicaltrials.gov/study/NCT06966700"
+      "lastUpdate": "2026-10-19",
+      "link": "https://clinicaltrials.gov/study/NCT07318558"
     },
     {
       "name": "Pumitamig",
-      "trials": 23,
+      "trials": 24,
       "phase": "Phase 3",
       "sponsor": "Bristol-Myers Squibb",
       "condition": "Non-small Cell Lung Cancer",
-      "enrolment": 12906,
-      "lastUpdate": "2026-10-09",
-      "link": "https://clinicaltrials.gov/study/NCT07173751"
+      "enrolment": 12986,
+      "lastUpdate": "2026-10-15",
+      "link": "https://clinicaltrials.gov/study/NCT07871214"
     },
     {
       "name": "Orforglipron",
@@ -42,8 +42,8 @@
       "sponsor": "Eli Lilly and Company",
       "condition": "Overweight",
       "enrolment": 20788,
-      "lastUpdate": "2026-10-08",
-      "link": "https://clinicaltrials.gov/study/NCT06948435"
+      "lastUpdate": "2026-10-19",
+      "link": "https://clinicaltrials.gov/study/NCT06972472"
     },
     {
       "name": "BL-M07D1",
@@ -53,7 +53,7 @@
       "condition": "HER2-positive Breast Cancer",
       "enrolment": 6338,
       "lastUpdate": "2026-09-21",
-      "link": "https://clinicaltrials.gov/study/NCT07545460"
+      "link": "https://clinicaltrials.gov/study/NCT06445400"
     },
     {
       "name": "Adebrelimab",
@@ -63,7 +63,17 @@
       "condition": "Advanced Biliary Tract Cancer",
       "enrolment": 5035,
       "lastUpdate": "2026-09-25",
-      "link": "https://clinicaltrials.gov/study/NCT07229625"
+      "link": "https://clinicaltrials.gov/study/NCT06703177"
+    },
+    {
+      "name": "Maridebart cafraglutide",
+      "trials": 14,
+      "phase": "Phase 3",
+      "sponsor": "Amgen",
+      "condition": "Obesity",
+      "enrolment": 30162,
+      "lastUpdate": "2026-10-13",
+      "link": "https://clinicaltrials.gov/study/NCT07684235"
     },
     {
       "name": "SHR-A1811",
@@ -73,17 +83,7 @@
       "condition": "Ovarian Cancer",
       "enrolment": 5279,
       "lastUpdate": "2026-09-11",
-      "link": "https://clinicaltrials.gov/study/NCT06126640"
-    },
-    {
-      "name": "Maridebart cafraglutide",
-      "trials": 13,
-      "phase": "Phase 3",
-      "sponsor": "Amgen",
-      "condition": "Obesity",
-      "enrolment": 29932,
-      "lastUpdate": "2026-10-08",
-      "link": "https://clinicaltrials.gov/study/NCT06987695"
+      "link": "https://clinicaltrials.gov/study/NCT05424835"
     },
     {
       "name": "Volrustomig",
@@ -93,7 +93,7 @@
       "condition": "Gastric Cancer",
       "enrolment": 6264,
       "lastUpdate": "2026-10-09",
-      "link": "https://clinicaltrials.gov/study/NCT05702229"
+      "link": "https://clinicaltrials.gov/study/NCT06448754"
     },
     {
       "name": "SKB264",
@@ -103,7 +103,7 @@
       "condition": "Non-Small Cell Lung Cancer",
       "enrolment": 5421,
       "lastUpdate": "2026-10-09",
-      "link": "https://clinicaltrials.gov/study/NCT05642780"
+      "link": "https://clinicaltrials.gov/study/NCT05870319"
     }
   ]
 }
