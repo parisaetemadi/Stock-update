@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-10-18T19:17:56.336Z",
+  "generatedAt": "2026-10-19T17:13:45.313Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
         {
-          "title": "China looks to ban foreign acquisitions of critical biopharma platforms",
-          "link": "https://www.fiercebiotech.com/biotech/china-looks-ban-foreign-acquisitions-critical-biopharma-platforms",
-          "pubDate": "2026-10-16T10:40:00.000Z",
-          "description": "As Washington ramps up efforts to tighten cross-border life sciences deals involving Chinese assets, Beijing is moving to tighten its own grip on biomedical innovation, rolling out a draft policy that would ban or restrict the export of key"
+          "title": "Investment firm TCGX picks migraine biotech TriGemX to take public via SPAC",
+          "link": "https://www.fiercebiotech.com/biotech/investment-firm-tcgx-picks-migraine-biotech-trigemx-take-public-spac",
+          "pubDate": "2026-10-19T10:34:00.000Z",
+          "description": "Life sciences-focused investment firm TCGX will use a special purpose acquisition company to take migraine-minded TriGemX Bio public."
         },
         {
-          "title": "SimBioSys nabs FDA clearance for Nvidia-powered, MRI-derived breast cancer recurrence tool",
-          "link": "https://www.fiercebiotech.com/medtech/simbiosys-nabs-fda-clearance-nvidia-powered-mri-derived-breast-cancer-recurrence-tool",
-          "pubDate": "2026-10-15T02:40:00.000Z",
-          "description": "SimBioSys has been given FDA clearance of the Nvidia-powered TumorSight Risk, an AI and MRI-derived prognostic tool for assessing the risk of a breast cancer coming back."
+          "title": "Fierce Biotech Layoff Tracker 2026: Enlivex excises 60%; Eyepoint halves headcount",
+          "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+          "pubDate": "2025-12-23T10:11:00.000Z",
+          "description": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team."
         },
         {
-          "title": "Chutes & Ladders—Bausch + Lomb's returning CEO Saunders exits again",
-          "link": "https://www.fiercebiotech.com/biotech/chutes-ladders-bausch-lombs-return-ceo-saunders-exits-again",
-          "pubDate": "2026-10-15T16:45:00.000Z",
-          "description": "Bausch + Lomb CEO&nbsp;Brent Saunders is making a second exit from the eye health company, as the president of parent Bausch Health steps in temporarily. Plus, Paragon Labs is buying out  Apogee talent after its acquisition by AbbVie."
+          "title": "Lilly partners with Hong Kong's Metis in $1.1B deal to bolster AI nanoparticle discovery",
+          "link": "https://www.fiercebiotech.com/biotech/lilly-partners-hong-kongs-metis-11b-deal-bolster-ai-nanoparticle-discovery",
+          "pubDate": "2026-10-19T10:46:00.000Z",
+          "description": "The collaboration is another in a series of partnerships Lilly has accumulated in both drug delivery and AI-based technologies."
         },
         {
-          "title": "FDA issues early alert for Edwards Lifesciences’ mitral valve delivery system after reported death, injury",
-          "link": "https://www.fiercebiotech.com/medtech/fda-calls-early-alert-edwards-lifesciences-mitral-valve-replacement-after-injury-death",
-          "pubDate": "2026-10-16T02:28:00.000Z",
-          "description": "The FDA has issued an early alert for certain delivery systems used with Edwards Lifesciences’ SAPIEN M3 transcatheter mitral valve replacement system amid serious safety concerns."
+          "title": "Gilead ‘sitting on a foundational asset’ after oral UC drug's phase 2 win",
+          "link": "https://www.fiercebiotech.com/biotech/gilead-sitting-foundational-asset-its-oral-ibd-drug-after-mid-stage-win",
+          "pubDate": "2026-10-19T09:48:00.000Z",
+          "description": "Gilead touted a mid-stage win for its inflammatory bowel disease pill after the treatment delivered clinical improvements in patients with ulcerative colitis."
         },
         {
-          "title": "‘It’s certainly not easy’: How are Boston biotechs coping with a shallower pool of seed funding?",
-          "link": "https://www.fiercebiotech.com/biotech/why-bostons-early-stage-funding-drop-may-be-good-thing",
-          "pubDate": "2026-09-23T15:53:00.000Z",
-          "description": "As the world's biggest biotech hub, funding for early-stage startups has long been the lifeblood of Boston's life sciences industry. But the latest figures make for concerning reading—with average seed funding secured by a preclinical start"
+          "title": "Enlivex lays off 60% of employees, scraps preclinical R&D and gives execs ‘substantial’ salary cuts",
+          "link": "https://www.fiercebiotech.com/biotech/enlivex-lays-60-employees-and-gives-execs-substantial-salary-cuts",
+          "pubDate": "2026-10-19T09:44:00.000Z",
+          "description": "Enlivex is laying off 60% of its workforce, ending preclinical R&amp;D and trimming its top execs’ salaries as the Israeli biotech tries to keep cash flowing to its osteoarthritis drug."
         },
         {
-          "title": "Labcorp, Thrive Global launch latest Thrive 5 health test",
-          "link": "https://www.fiercebiotech.com/medtech/labcorp-thrive-global-launch-latest-thrive-5-health-test",
-          "pubDate": "2026-10-16T03:56:00.000Z",
-          "description": "Labcorp has launched the Thrive 5 Health Test that is now offered through a collaboration with Arianna Huffington's behavior change technology company, Thrive Global."
+          "title": "Merck KGaA buys Silence in $1.3B deal after siRNA drug's phase 2 blood cancer win",
+          "link": "https://www.fiercebiotech.com/biotech/merck-kgaa-buys-silence-13b-deal-biotechs-blood-cancer-sirna-drug",
+          "pubDate": "2026-10-19T09:00:00.000Z",
+          "description": "Germany’s Merck KGaA has picked up Silence Therapeutics to the tune of $1.3 billion in the wake of the British biotech’s mid-stage success for its challenger to Takeda’s Mimrylo."
         },
         {
-          "title": "Fierce Biotech Fundraising Tracker '26: Estuary channels $93M series A; OMass obtains $310M",
-          "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
-          "pubDate": "2025-12-22T15:30:00.000Z",
-          "description": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs."
+          "title": "Disc spins past FDA rejection with ‘overwhelmingly positive’ phase 3 data for rare disease drug",
+          "link": "https://www.fiercebiotech.com/biotech/disc-spins-past-fda-rejection-overwhelmingly-positive-phase-3-data",
+          "pubDate": "2026-10-19T08:00:00.000Z",
+          "description": "A phase 3 trial of Disc Medicine’s bitopertin has hit both co-primary endpoints and all secondary endpoints, positioning the biotech to refile for approval of the once-rejected rare disease drug candidate."
         },
         {
-          "title": "Estuary flows out of stealth with $103M to propel kidney disease gene therapies into clinic",
-          "link": "https://www.fiercebiotech.com/biotech/estuary-emerges-stealth-103m-its-gene-therapies-kidney-disease",
-          "pubDate": "2026-10-15T08:26:00.000Z",
-          "description": "Estuary Biotherapeutics has swum out of stealth with $103 million in funding to power a pair of gene therapies into clinical trials for an inherited kidney disorder."
+          "title": "Aligning drug discovery around patient benefit from the outset: Connecting human insights to better decisions",
+          "link": "https://www.fiercebiotech.com/sponsored/aligning-drug-discovery-around-patient-benefit-outset-connecting-human-insights-better",
+          "pubDate": "2026-10-15T16:06:00.000Z",
+          "description": "The pharmaceutical industry has traditionally viewed drug discovery and clinical development as separate stages of the R&amp;D continuum."
         }
       ]
     },
@@ -58,58 +58,76 @@
       "name": "Endpoints News",
       "items": [
         {
-          "title": "A search for ‘the statin of Alzheimer’s’; Arrowhead injectable lowers tau; and more",
-          "link": "https://endpoints.news/a-search-for-the-statin-of-alzheimers-arrowhead-injectable-lowers-tau-and-more/",
-          "pubDate": "2026-10-17T10:00:16.000Z",
-          "description": "Welcome back to another edition of Endpoints Weekly. Thanks to everyone who came out to our AI Day event this week in New York City! Hosted by senior biopharma correspondent Andrew Dunn, AI Day was ..."
+          "title": "#ESMO26 regular abstracts featuring Zai Lab, GSK, Merck and more",
+          "link": "https://endpoints.news/esmo26-regular-abstracts-featuring-zai-lab-gsk-merck-and-more/",
+          "pubDate": "2026-10-19T17:03:24.000Z",
+          "description": "The last time the ESMO congress was in Madrid, a presentation on first-line data in bladder cancer drew a rapturous standing ovation. Contenders that might draw the same reception include hotly anticipated ..."
         },
         {
-          "title": "Q&A: Sanofi's new research chief on AI, R&D failure rates and dealmaking",
-          "link": "https://endpoints.news/qa-sanofis-new-research-chief-on-ai-rd-failure-rates-and-dealmaking/",
-          "pubDate": "2026-10-16T16:02:00.000Z",
-          "description": "Paulo Fontoura took over as Sanofi’s global head of R&D in September after 16 years at Roche and a recent stint at AI drug discovery startup Xaira Therapeutics. Ahead of Sanofi’s Oct. 30 earnings, Endpoints ..."
+          "title": "Gilead’s pill posts stronger colitis remission rates than Entyvio",
+          "link": "https://endpoints.news/gileads-pill-posts-stronger-colitis-remission-rates-than-entyvio/",
+          "pubDate": "2026-10-19T15:05:39.000Z",
+          "description": "Gilead Sciences is to start late-stage trials of its oral α4β7 inhibitor in ulcerative colitis next year, after data from a Phase 2 dose-finding trial suggested that the drug looked better than rival products.\r\n\r\n After ..."
         },
         {
-          "title": "Novartis scraps Fabhalta study in lupus nephritis",
-          "link": "https://endpoints.news/novartis-scraps-fabhalta-study-in-lupus-nephritis/",
-          "pubDate": "2026-10-16T15:32:24.000Z",
-          "description": "Novartis terminated a mid-stage trial of Fabhalta in lupus nephritis, citing “strategic considerations,” according to a federal clinical trials database.\r\n\r\n Fabhalta, also known as iptacopan, is a key part of Novartis' portfolio. It delive"
+          "title": "EyePoint's Phase 3 failure; Lilly's China drug delivery deal",
+          "link": "https://endpoints.news/eyepoints-phase-3-failure-lillys-china-drug-delivery-deal/",
+          "pubDate": "2026-10-19T15:01:30.000Z",
+          "description": "Plus news about Longwood's next fund and Ryzumvi's label expansion.\r\n\r\n EyePoint drug fails, biotech halves staff: The Watertown, MA-based biotech is letting go of 53% of its positions after its experimental ..."
         },
         {
-          "title": "China pursues export ban on some biotech platforms",
-          "link": "https://endpoints.news/china-pursues-export-ban-on-some-biotech-platforms/",
-          "pubDate": "2026-10-16T15:28:01.000Z",
-          "description": "The Chinese Ministry of Commerce is clamping down on the kinds of deals domestic companies can make, but the free-flowing licensing of drugs appears to be intact.\r\n\r\n Government officials are looking at"
+          "title": "Merck KGaA to buy Silence Therapeutics and its siRNA pipeline for $1.3B",
+          "link": "https://endpoints.news/merck-kgaa-will-buy-silence-therapeutics-and-its-sirna-pipeline-for-1-3b/",
+          "pubDate": "2026-10-19T13:57:45.000Z",
+          "description": "Germany's Merck KGaA agreed to buy UK drug developer Silence Therapeutics for $1.3 billion, building out its work in rare and specialty diseases using genetic medicines.\r\n\r\n Silence is developing the siRNA drug divesiran, which is ..."
         },
         {
-          "title": "FDA considers interim access for compounded peptides; Enspryng's label expansion",
-          "link": "https://endpoints.news/fda-considers-interim-access-for-compounded-peptides-enspryngs-label-expansion/",
-          "pubDate": "2026-10-16T15:23:34.000Z",
-          "description": "Plus news about Microbiotica, Cyrano Therapeutics and Opus Genetics.\r\n\r\n HHS and FDA submit peptide policy for review: An “interim access policy for compounding using certain peptides” is awaiting regulatory review at the White House Office"
+          "title": "Sanofi taps new startup ScionxBio for long-acting RNA",
+          "link": "https://endpoints.news/sanofi-taps-new-startup-scionxbio-for-long-acting-rna/",
+          "pubDate": "2026-10-19T13:00:41.000Z",
+          "description": "ScionxBio has inked a deal with French drugmaker Sanofi — its first partnership since splitting from parent company Eleven Therapeutics a few months ago.\r\n\r\n Under the agreement, ScionxBio will screen Sanofi’s mRNA candidates through its so"
         },
         {
-          "title": "CHMP endorses Eli Lilly’s GLP-1 pill and three other new drugs",
-          "link": "https://endpoints.news/chmp-endorses-eli-lillys-glp-1-pill-and-three-other-new-drugs/",
-          "pubDate": "2026-10-16T14:55:55.000Z",
-          "description": "Eli Lilly secured EU regulatory backing for its oral GLP-1 pill orforglipron on Friday as it looks to catch up with competitor Novo’s Wegovy pill.\r\n\r\n The European Medicines Agency’s human medicines committee (CHMP)"
+          "title": "AbbVie’s Skyrizi combo beats Skyrizi alone in mid-stage Crohn’s trial",
+          "link": "https://endpoints.news/abbvies-skyrizi-combo-beats-skyrizi-alone-in-mid-stage-crohns-trial/",
+          "pubDate": "2026-10-19T12:51:49.000Z",
+          "description": "AbbVie’s Skyrizi-based combination therapy for inflammatory bowel disease worked better than Skyrizi alone in a mid-stage trial in Crohn’s disease, the company said Monday.\r\n\r\n The new product is codenamed ABBV-466 and combines Skyrizi, an "
         },
         {
-          "title": "Lilly interested in ibogaine investments, its neuro leader says",
-          "link": "https://endpoints.news/lilly-interested-in-ibogaine-investments-its-neuro-leader-says/",
-          "pubDate": "2026-10-16T14:04:29.000Z",
-          "description": "Eli Lilly is interested in R&D efforts to “improve the profile of ibogaine,” the pharma giant’s neuroscience president said at a psychedelics conference Thursday.\r\n\r\n Carole Ho, who joined the company last year from Denali Therapeutics ..."
+          "title": "Roche does $400M upfront, $15B deal with China's Hansoh",
+          "link": "https://endpoints.news/roche-does-400m-upfront-15b-deal-with-chinas-hansoh/",
+          "pubDate": "2026-10-19T11:08:33.000Z",
+          "description": "Roche is going all in on Chinese drug discovery and development.\r\n\r\n The Swiss pharma has inked one of the largest cross-border collaborations of the year, promising $400 million upfront and potentially $15 billion in biobucks ..."
         },
         {
-          "title": "Here's how many clinicians are using AI to answer their medical questions",
-          "link": "https://endpoints.news/heres-how-many-clinicians-are-using-ai-to-answer-their-medical-questions/",
-          "pubDate": "2026-10-16T13:00:31.000Z",
-          "description": "New research illustrates the rapid rise of clinicians’ use of AI to answer medical questions despite little evidence of how it affects decision-making or patient outcomes.\r\n\r\n Researchers studied usage data from OpenEvidence, an AI search ."
+          "title": "Disc Medicine reports 'sun allergy' drug hits Phase 3 home run",
+          "link": "https://endpoints.news/disc-medicine-reports-sun-allergy-drug-hits-home-run-in-phase-3/",
+          "pubDate": "2026-10-19T11:00:36.000Z",
+          "description": "Disc Medicine’s treatment for a rare disease that makes sun exposure painful succeeded on all endpoints in a Phase 3 study. The result sets the company on a path to redemption after the FDA unexpectedly ..."
         }
       ]
     },
     "statnews": {
       "name": "STAT News (Biotech)",
       "items": [
+        {
+          "title": "STAT+: China moves to restrict foreign biotech acquisitions",
+          "link": "https://www.statnews.com/2026/10/19/biotech-news-china-moves-to-restrict-foreign-biotech-acquisitons/?utm_campaign=rss",
+          "pubDate": "2026-10-19T14:58:31.000Z",
+          "description": "China is proposing new restrictions on foreign acquisitions of critical biopharma technologies, as the country seeks to retain control over its burgeoning drug development industry."
+        },
+        {
+          "title": "STAT+: Gilead’s IBD drug eliminated symptoms for patients, mid-stage study finds",
+          "link": "https://www.statnews.com/2026/10/19/gilead-ibs-drug-succeeds-phase-2-trial/?utm_campaign=rss",
+          "pubDate": "2026-10-19T08:35:00.000Z",
+          "description": "An oral treatment from Gilead Sciences eliminated the symptoms experienced by patients with a type of inflammatory bowel disease, according to mid-stage study results reported Monday."
+        },
+        {
+          "title": "STAT+: Does Isomorphic Labs have what it takes to revolutionize drugmaking?",
+          "link": "https://www.statnews.com/2026/10/19/can-isomorphic-labs-revolutionize-drugmaking/?utm_campaign=rss",
+          "pubDate": "2026-10-19T08:30:00.000Z",
+          "description": "Isomorphic Labs wants to turn its technology into an engine for new medicines. The question now is whether — and how — it can deliver on that promise."
+        },
         {
           "title": "STAT+: RevMed&#8217;s pancreatic cancer drug nears European approval",
           "link": "https://www.statnews.com/2026/10/16/biotech-news-revmed-pancreatic-cancer-drug-nears-european-approval/?utm_campaign=rss",
@@ -139,30 +157,48 @@
           "link": "https://www.statnews.com/2026/10/15/wall-street-biotech-trouble-stirring/?utm_campaign=rss",
           "pubDate": "2026-10-15T10:30:00.000Z",
           "description": "On Wall Street, the real trouble for biotech, and the reason for investor angst, lies below the surface."
-        },
-        {
-          "title": "Compass Pathways CEO: Psychedelics company will &#8216;go slow before we go fast&#8217;",
-          "link": "https://www.statnews.com/2026/10/14/compass-pathways-psychedelics-stat-summit/?utm_campaign=rss",
-          "pubDate": "2026-10-15T00:01:24.000Z",
-          "description": "The CEO of Compass Pathways said the company, whose psychedelic therapy is set for regulatory review this year, is prepared to “go slow before we go fast.”"
-        },
-        {
-          "title": "STAT+: FDA adcomm members&#8217; ties to industry under scrutiny",
-          "link": "https://www.statnews.com/2026/10/14/biotech-news-fda-adcomm-member-ties-to-industry-under-scrutiny/?utm_campaign=rss",
-          "pubDate": "2026-10-14T14:12:14.000Z",
-          "description": "New research found that nearly 40% of FDA advisory meetings held over a recent 20-year period included either a patient or consumer rep with active ties to an advocacy group&#8230;"
-        },
-        {
-          "title": "STAT+: Concerns grow on safety issues tied to Neurocrine Biosciences rare disease drug",
-          "link": "https://www.statnews.com/2026/10/13/neurocrine-biosciences-prader-willi-vykat-xr/?utm_campaign=rss",
-          "pubDate": "2026-10-13T08:30:00.000Z",
-          "description": "Patient advocates and some experts are expressing growing alarm over the perceived risks of a rare disease drug sold by Neurocrine Biosciences."
         }
       ]
     },
     "biopharmadive": {
       "name": "BioPharma Dive",
       "items": [
+        {
+          "title": "Disc’s once-spurned rare disease drug to get a second chance at approval",
+          "link": "https://www.biopharmadive.com/news/Disc-bitopertin-apollo-erythropoietic-protoporphyria-study-results/833327/",
+          "pubDate": "2026-10-19T16:27:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/pEMBQW3KaFgY6Lxfmup4ZtS1-TvKRR_38Tna06_mxJA/g:nowe:0:433/c:4500:2542/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01Mzg4MTE4NDYuanBn.webp\"/></div></figure><"
+        },
+        {
+          "title": "Merck KGaA bets on RNAi with $1.3B Silence buyout",
+          "link": "https://www.biopharmadive.com/news/merck-kgaa-rnai-13b-silence-buyout-blood-disorder-polycythemia-vera/833336/",
+          "pubDate": "2026-10-19T13:59:52.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/XrLcxShGY7XDXsOdjU9WtubI0W5Yi2P5k4gYh2Ax9HU/g:nowe:1:160/c:1583:894/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjUtMDgtMTVfYXRfOS4xNS4yMV9BTS5wbmc=.webp"
+        },
+        {
+          "title": "Roche inks $15B ADC pact with Hansoh; Veradermics scores in another baldness study",
+          "link": "https://www.biopharmadive.com/news/roche-hansoh-veradermics-rasonque-europe-orbimed-china-ultragenyx/833248/",
+          "pubDate": "2026-10-19T13:14:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\"/></div></figure>"
+        },
+        {
+          "title": "From strategy to scale: How Saudi Arabia is building a biotech ecosystem",
+          "link": "https://www.biopharmadive.com/spons/from-strategy-to-scale-how-saudi-arabia-is-building-a-biotech-ecosystem/832761/",
+          "pubDate": "2026-10-19T09:00:00.000Z",
+          "description": "<p>Saudi Arabia&rsquo;s biotech strategy now has named partners, sites and capital behind it.</p>"
+        },
+        {
+          "title": "Extractables in single-use systems used in ADC manufacturing",
+          "link": "https://www.biopharmadive.com/spons/extractables-in-single-use-systems-used-in-adc-manufacturing/833218/",
+          "pubDate": "2026-10-19T09:00:00.000Z",
+          "description": "<p>Explore extractables data supporting single-use systems in ADC manufacturing.</p>"
+        },
+        {
+          "title": "How early should you engage a CDMO?",
+          "link": "https://www.biopharmadive.com/spons/how-early-should-you-engage-a-cdmo/832693/",
+          "pubDate": "2026-10-19T09:00:00.000Z",
+          "description": "<p>Discover which CMC activities can move forward early, and which decisions need to remain flexible.</p>"
+        },
         {
           "title": "Iambic CEO on taking an AI drug company public",
           "link": "https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238/",
@@ -174,42 +210,6 @@
           "link": "https://www.biopharmadive.com/news/biotech-charts-moderna-stock-xbi-roche-china/832886/",
           "pubDate": "2026-10-16T13:15:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/noY6Oanv5v-_yDQZKEqBBDkEKvecYGoj9vaCkgyW_q0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyX20yY2w4SnouanBn.webp\"/></div></figure><p>The la"
-        },
-        {
-          "title": "Next-gen RNAi drugmaker City prices $200M IPO",
-          "link": "https://www.biopharmadive.com/news/city-therapeutics-ipo-price-rnai-drugs/832945/",
-          "pubDate": "2026-10-16T10:33:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/szYDL8kkQd6XaSVgvjJPYl2j0snveijWs_0sZ-B522Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDYyODUzODA3LmpwZw==.webp\"/></div></figure><p>The offering w"
-        },
-        {
-          "title": "Biogen-backed Estuary nabs $93M for kidney disease gene therapy",
-          "link": "https://www.biopharmadive.com/news/estuary-kidney-disease-gene-therapy-launch-emerged-biogen-biotech-startup/833114/",
-          "pubDate": "2026-10-16T10:30:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/ktSLVbm3OcchoepHqBqM7pHp-x5W3O0KZKEm19G7nnA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTQ2MDE0MzA1LmpwZw==.webp\"/></div></figure><p>The Series A r"
-        },
-        {
-          "title": "Belgian startup revives Galapagos CAR-T research",
-          "link": "https://www.biopharmadive.com/news/lakefront-armed-cell-therapies-deal-stoffels-galapagos/833082/",
-          "pubDate": "2026-10-15T15:55:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/D0L8N1mSAxUmtVXNUWGxMU_1vN4b1NGa4XnnPVKFOZ4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNjMzMTE0MjA1LmpwZw==.webp\"/></div></figure><p>Armed Cell The"
-        },
-        {
-          "title": "FDA ‘reset’ continues with new plan for reviewing rare disease drugs",
-          "link": "https://www.biopharmadive.com/news/fda-rare-disease-framework-initiative-drug-development/833080/",
-          "pubDate": "2026-10-15T15:23:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gpaOZa44o9-XZB6wRVVvfYbTrPRE6esvEdkkzkz8stU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mb29kLWFuZC1kcnVnLWFkbWluaXN0cmF0aW9uLmpwZw==.webp\"/></div></figure><p>A reva"
-        },
-        {
-          "title": "Iambic, an AI drug discovery specialist, banks $150M in an IPO",
-          "link": "https://www.biopharmadive.com/news/iambic-ipo-price-ai-drug-discovery/832771/",
-          "pubDate": "2026-10-15T00:08:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/KKSuOxTFPeZit4ONYhxrVBLX3z4TmhuGQrVJamE-W0c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc2OTg0OTQ5LmpwZw==.webp\"/></div></figure><p>Part of a wave"
-        },
-        {
-          "title": "Experimental Arrowhead RNAi drug hints at Alzheimer’s benefit",
-          "link": "https://www.biopharmadive.com/news/arrowhead-rnai-alzheimers-tau-aro-mapt-study-results/832950/",
-          "pubDate": "2026-10-14T15:54:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/_gluo--ffPQcATih2CuusukvSlrAJr96z7PWL69DLpw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTgyMDgyODUxLmpwZw==.webp\"/></div></figure><p>In a first, a "
         }
       ]
     }
