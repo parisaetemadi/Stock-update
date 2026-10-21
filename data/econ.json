@@ -1,11 +1,7 @@
 {
-  "generatedAt": "2026-10-20T15:25:01.749Z",
-  "usPce": {
-    "pceYoY": 3.419031824505426,
-    "period": "August 2026"
-  },
-  "canada": {
-    "cpiYoY": 3.0927835051546353,
+  "generatedAt": "2026-10-21T15:42:24.340Z",
+  "us": {
+    "cpiYoY": 3.737684729064035,
     "period": "September 2026"
   }
 }
