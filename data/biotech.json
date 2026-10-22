@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-10-21T15:42:23.828Z",
+  "generatedAt": "2026-10-22T15:42:39.048Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
         {
+          "title": "Menarini's Stemline picks up Georgiamune preclinical cancer immunotherapy in $1.1B deal",
+          "link": "https://www.fiercebiotech.com/biotech/menarini-stemline-pick-georgiamune-preclinical-cancer-immunotherapy-11b",
+          "pubDate": "2026-10-22T09:11:00.000Z",
+          "description": "Georgiamune, an immunology-focused biotech out of Maryland, has licensed a preclinical cancer drug candidate to Stemline Therapeutics, owned by Italy's Menarini Group, for up to $1.1 billion."
+        },
+        {
+          "title": "AbbVie scratches out phase 3 hidradenitis suppurativa win but falls short of expectations",
+          "link": "https://www.fiercebiotech.com/biotech/abbvie-scratches-out-phase-3-hidradenitis-suppurativa-win-falls-short-expectations",
+          "pubDate": "2026-10-22T10:39:00.000Z",
+          "description": "A phase 3 trial of AbbVie’s lutikizumab in hidradenitis suppurativa has hit its primary endpoint. But with the drug candidate beating placebo by a narrower margin than expected, the readout raises questions about AbbVie’s chances of crackin"
+        },
+        {
+          "title": "Celltrion picks up another Kaigene autoimmune antibody for up to $580.5M",
+          "link": "https://www.fiercebiotech.com/biotech/celltrion-picks-another-kaigene-autoimmune-antibody-5805m",
+          "pubDate": "2026-10-22T10:29:00.000Z",
+          "description": "Celltrion has licensed a preclinical antibody targeting autoimmune conditions from Maryland-based biotech Kaigene in a deal worth up to $580.5 million, marking another step in the South Korean drugmaker's expansion beyond its traditional bi"
+        },
+        {
+          "title": "Quest Diagnostics’ test results system breached in yet another medtech cyberattack",
+          "link": "https://www.fiercebiotech.com/medtech/quest-diagnostics-test-results-system-breached-yet-another-medtech-cyberattack",
+          "pubDate": "2026-10-22T08:28:00.000Z",
+          "description": "Quest Diagnostics is the latest life sciences company to fall victim to a cyberattack, with the company believing patient records have been compromised."
+        },
+        {
+          "title": "Rebranded NodThera plans IPO to fund NLRP3 inhibitor’s push toward approval",
+          "link": "https://www.fiercebiotech.com/biotech/rebranded-nodthera-plans-ipo-fund-nlrp3-inhibitors-push-toward-approval",
+          "pubDate": "2026-10-22T05:28:00.000Z",
+          "description": "NodThera—under its new name Rezera—is planning an IPO as the biotech steps up its ambitions to get its NLRP3 inhibitor to market."
+        },
+        {
+          "title": "Roche’s CEO has ‘absolutely not’ changed tune on Poseida despite scrapping CAR-T from the buyout",
+          "link": "https://www.fiercebiotech.com/biotech/roches-ceo-has-absolutely-not-changed-tune-15b-poseida-buy-despite-scrapping-asset",
+          "pubDate": "2026-10-22T04:21:00.000Z",
+          "description": "Roche’s CEO has insisted to Fierce that the company’s view on its $1.5 billion Poseida buyout has “absolutely not” changed, even as the Swiss pharma scraps one of the CAR-T therapy’s from the acquisition."
+        },
+        {
+          "title": "‘A two-way conversation with the tumor’: Researchers use ‘avatar’ to predict immunotherapy responses",
+          "link": "https://www.fiercebiotech.com/research/using-tumor-avatars-predict-patient-immunotherapy-response",
+          "pubDate": "2026-10-20T15:10:00.000Z",
+          "description": "Researchers have explored a revolutionary way to predict a patient's response to immunotherapies by creating a tumor “avatar” from biopsies."
+        },
+        {
           "title": "Amid bepirovirsen triumph, GSK quietly scraps trial of next-gen hep B therapy",
           "link": "https://www.fiercebiotech.com/biotech/amid-bepirovirsen-triumph-gsk-quietly-scraps-trial-next-gen-hep-b-therapy",
           "pubDate": "2026-10-21T09:37:00.000Z",
           "description": "GSK may have cemented its hepatitis B credentials with Tuesday’s landmark FDA nod for its “functional cure” bepirovirsen, but the pharma continues to rethink its strategy for next-gen candidates."
-        },
-        {
-          "title": "Roche builds blockbuster BTK case for fenebrutinib in multiple sclerosis as FDA decision approaches",
-          "link": "https://www.fiercebiotech.com/biotech/roche-builds-blockbuster-btk-case-multiple-sclerosis-fda-decision-approaches",
-          "pubDate": "2026-10-21T09:30:00.000Z",
-          "description": "Roche has dived into the data behind its filing for FDA approval of fenebrutinib in multiple sclerosis, unpacking the BTK inhibitor’s effect on chronic active lesions, disease control and brain volume."
-        },
-        {
-          "title": "Astellas links up with AI Proteins in $400M computational d rugdiscovery deal",
-          "link": "https://www.fiercebiotech.com/biotech/astellas-links-ai-proteins-400m-computational-discovery-deal",
-          "pubDate": "2026-10-21T09:16:00.000Z",
-          "description": "Japan's Astellas Pharma has tapped Boston computational discovery company AI Proteins in a drug discovery deal potentially worth $400 million."
-        },
-        {
-          "title": "‘We’re getting back to stability’: CBER Director Karim Mikhail shares his strategy with Fierce",
-          "link": "https://www.fiercebiotech.com/biotech/cber-director-karim-mikhail-tells-fierce-he-feels-people-deserve-leader-whos-present",
-          "pubDate": "2026-10-09T14:23:00.000Z",
-          "description": "The FDA's Center for Biologics Evaluation and Research (CBER) is recovering from the most turbulent period in its recent history. The captain tasked with steadying the ship is Karim Mikhail, who was appointed as the center's director on a p"
-        },
-        {
-          "title": "Biotech reverse mergers rebound to highest level since 2021 as PIPEs flood market: report",
-          "link": "https://www.fiercebiotech.com/biotech/biotech-reverse-mergers-rebound-highest-level-2021-pipes-flood-markets",
-          "pubDate": "2026-10-21T03:13:00.000Z",
-          "description": "Reverse mergers have returned with a bang. More biotechs have taken the back door to the public markets so far in 2026 than in any full year since 2021, according to J.P. Morgan, with institutional investors backing many of the newly public"
-        },
-        {
-          "title": "Advocacy organization launches data dashboard to better assess how clinical trial sites perform",
-          "link": "https://www.fiercebiotech.com/cro/society-clinical-research-sites-aims-strengthen-site-relationships-data-intelligence-dashboard",
-          "pubDate": "2026-10-20T10:08:00.000Z",
-          "description": "The Society for Clinical Research Sites (SCRS) has launched a data intelligence platform to offer fresh insights into how different locations compare."
-        },
-        {
-          "title": "Lycia aims for $228M IPO to generate data on food allergy rival to Xolair",
-          "link": "https://www.fiercebiotech.com/biotech/lycia-aims-228m-generate-data-food-allergy-rival-xolair",
-          "pubDate": "2026-10-20T07:50:00.000Z",
-          "description": "Lycia Therapeutics is banking on a $227.8 million IPO as the biotech seeks to finance its pipeline of protein degraders for autoimmune, inflammatory and allergic diseases."
-        },
-        {
-          "title": "Rapport's phase 2 bipolar win strikes chord with analysts despite falling short of original ambition",
-          "link": "https://www.fiercebiotech.com/biotech/rapport-bipolar-data-strike-chord-analysts-despite-missing-target",
-          "pubDate": "2026-10-20T09:20:00.000Z",
-          "description": "Rapport Therapeutics’ phase 2 bipolar mania study has hit its primary endpoint, furthering the biotech’s efforts to make RAP-219 a multiindication blockbuster. However, the effect size fell short of the level targeted by Rapport and analyst"
         }
       ]
     },
@@ -58,58 +58,76 @@
       "name": "Endpoints News",
       "items": [
         {
-          "title": "5 takeaways from Endpoints' AI Day: agents, AI slop, biosecurity",
-          "link": "https://endpoints.news/5-takeaways-from-endpoints-ai-day-agents-ai-slop-biosecurity/",
-          "pubDate": "2026-10-21T15:15:31.000Z",
-          "description": "In 2024, I started Endpoints News’ flagship AI event because I didn’t see anything like it.\r\n\r\n Biopharma conferences scratched the surface with a stray AI panel. Machine-learning events like NeurIPS didn't gather the whole drug ..."
+          "title": "A hepatitis B hold lifted and drug tabled; Ultomiris' accelerated approval",
+          "link": "https://endpoints.news/a-hepatitis-b-hold-lifted-and-drug-tabled-ultomiris-accelerated-approval/",
+          "pubDate": "2026-10-22T15:18:05.000Z",
+          "description": "Plus news about Biohaven, Arcus Biosciences and a Boehringer Ingelheim and Microsoft collaboration.\r\n\r\n Hold on Arbutus drug lifted: It’s been a long, tough road for Arbutus Biopharma. The company has"
         },
         {
-          "title": "CSL hires ViiV CEO Deborah Waterhouse after three decades at GSK",
-          "link": "https://endpoints.news/csl-hires-viiv-ceo-deborah-waterhouse-after-three-decades-at-gsk/",
-          "pubDate": "2026-10-21T15:11:08.000Z",
-          "description": "Deborah Waterhouse is moving on from a 30-year career at GSK, departing as CEO of the UK pharma's HIV specialist ViiV Healthcare.\r\n\r\n Waterhouse will take on the CEO post at CSL on"
+          "title": "AbbVie notches Phase 3 win in painful skin condition, FDA filing likely next year",
+          "link": "https://endpoints.news/abbvie-notches-phase-3-win-in-painful-skin-condition-fda-filing-likely-next-year/",
+          "pubDate": "2026-10-22T14:09:51.000Z",
+          "description": "AbbVie unwrapped a Phase 3 success on Thursday for an experimental drug designed to treat a debilitating skin disease.\r\n\r\n In the trial, AbbVie’s IL-1α and IL-1β inhibitor lutikizumab improved patient response ..."
         },
         {
-          "title": "Alcon and OpenAI make acquisitions; Tezspire's latest Phase 3 win",
-          "link": "https://endpoints.news/alcon-and-openai-make-acquisitions-tezspires-latest-phase-3-win/",
-          "pubDate": "2026-10-21T14:57:33.000Z",
-          "description": "Alcon acquires Neurotech: The Swiss eye specialist paid $550 million upfront to acquire Neurotech Pharmaceuticals and could make additional payments if certain milestones are met. Alcon gains hold of an FDA-approved ..."
+          "title": "Sanofi's new German site; radioisotope deals from Northstar and Telix",
+          "link": "https://endpoints.news/sanofis-new-german-site-radioisotope-deals-from-northstar-and-telix/",
+          "pubDate": "2026-10-22T14:07:13.000Z",
+          "description": "Plus more from Baxter and United Therapeutics. \r\n\r\n Sanofi starts construction of an insulin factory: Sanofi has broken ground on a new 36,000-square-meter manufacturing facility at its site in Frankfurt, which ..."
         },
         {
-          "title": "Roivant's autoimmune drug succeeds in two pivotal trials, setting up 2027 filing",
-          "link": "https://endpoints.news/roivants-autoimmune-drug-succeeds-in-two-pivotal-trials-setting-up-2027-filing/",
-          "pubDate": "2026-10-21T14:39:09.000Z",
-          "description": "Roivant Sciences on Wednesday checked off another milestone in its attempt to build a franchise drug in autoimmune diseases.\r\n\r\n The biotech said two trials for brepocitinib, which won its first approval earlier ..."
+          "title": "Big trials push beyond obesity to see if GLP-1s can quell alcohol, drug cravings",
+          "link": "https://endpoints.news/big-trials-push-beyond-obesity-to-see-if-glp-1s-can-quell-alcohol-drug-cravings/",
+          "pubDate": "2026-10-22T14:00:40.000Z",
+          "description": "For nearly as long as they've been approved for diabetes and weight loss, GLP-1 drugs have captured the public imagination as a possible solution to diseases far beyond metabolic disorders.\r\n\r\n That potential is now inching ..."
         },
         {
-          "title": "GSK gets FDA approval for hepatitis B drug that offers functional cure",
-          "link": "https://endpoints.news/gsk-gets-fda-approval-for-hepatitis-b-drug-that-offers-functional-cure/",
-          "pubDate": "2026-10-21T10:12:55.000Z",
-          "description": "The approval of GSK and Ionis’ chronic hepatitis B drug bepirovirsen came early, setting it up to eventually reach blockbuster status.\r\n\r\n But the FDA gave the drug, now branded Hibsago, a"
+          "title": "Healthcare industry weighs in on evidence standards for generative AI medical devices",
+          "link": "https://endpoints.news/healthcare-industry-weighs-in-on-evidence-standards-for-generative-ai-medical-devices/",
+          "pubDate": "2026-10-22T12:30:01.000Z",
+          "description": "How much evidence should the FDA require before it authorizes a generative AI-enabled medical device?\r\n\r\n The question was a point of contention among healthcare lobbying organizations and tech companies, who weighed in as the FDA ..."
         },
         {
-          "title": "Lilly’s retatrutide creeps closer to market for sleep apnea",
-          "link": "https://endpoints.news/lillys-retatrutide-creeps-closer-to-market-for-sleep-apnea/",
-          "pubDate": "2026-10-21T06:00:22.000Z",
-          "description": "Expectations for the launch of Eli Lilly’s triple agonist retatrutide in obesity, due next year, are at fever pitch. But the company is also lining up data in other indications with the aim of eventually ..."
+          "title": "Redesign Health merges with ARC Global in $2B deal to help hospitals build startups",
+          "link": "https://endpoints.news/redesign-health-merges-with-arc-global-in-2b-deal-to-help-hospitals-build-startups/",
+          "pubDate": "2026-10-22T12:00:26.000Z",
+          "description": "Health tech venture firm Redesign Health is merging with ARC Global, the innovation arm of Sheba Medical Center, to help hospitals in different countries develop and sell software.\r\n\r\n The new company will combine the two ..."
         },
         {
-          "title": "New ICER report suggests drug launch prices are outpacing their worth",
-          "link": "https://endpoints.news/new-icer-report-suggests-drug-launch-prices-are-outpacing-their-worth/",
-          "pubDate": "2026-10-20T17:57:40.000Z",
-          "description": "The median list price of drugs at launch rose 24% from 2022 to 2025, and the net prices of those drugs rose even higher, according to a new report from the Institute for Clinical and ..."
+          "title": "Georgiamune sells solid tumor drug to Italy's Menarini for up to $1.1B",
+          "link": "https://endpoints.news/georgiamune-sells-solid-tumor-drug-to-italys-menarini-for-up-to-1-1b/",
+          "pubDate": "2026-10-22T11:30:58.000Z",
+          "description": "A small Maryland biotech is shipping a preclinical cancer drug to a family-owned Italian pharma in a deal worth up to $1.1 billion if all goes according to plan, the companies exclusively told Endpoints News.\r\n\r\n ..."
         },
         {
-          "title": "An EHR giant backs consumer healthcare",
-          "link": "https://endpoints.news/an-ehr-giant-backs-consumer-healthcare/",
-          "pubDate": "2026-10-20T15:15:18.000Z",
-          "description": "Epic last week said it was launching a \"prescription marketplace\" that would allow physicians and their patients to compare prices for medicines at different pharmacies — all while in the doctor’s ..."
+          "title": "Roche talks up Phase 3 success rate as it unveils pipeline cuts",
+          "link": "https://endpoints.news/roche-talks-up-phase-3-success-rate-as-it-unveils-pipeline-cuts/",
+          "pubDate": "2026-10-22T10:21:48.000Z",
+          "description": "Where other European pharmas — notably Novartis, Novo and AstraZeneca — have suffered huge late-stage clinical failures this summer, Roche is feeling rather smug.\r\n\r\n CEO Thomas Schinecker said ..."
         }
       ]
     },
     "statnews": {
       "name": "STAT News (Biotech)",
       "items": [
+        {
+          "title": "STAT+: What to expect from the Moderna-Merck cancer vaccine data reveal",
+          "link": "https://www.statnews.com/2026/10/22/esmo-2026-what-to-know-ahead-of-moderna-merck-cancer-vaccine-data-reveal/?utm_campaign=rss",
+          "pubDate": "2026-10-22T13:35:20.000Z",
+          "description": "The Moderna-Merck cancer vaccine data reveal is days away. Here's what to expect."
+        },
+        {
+          "title": "STAT+: FDA has finalized its guidance on apps related to drugs, pharma rejoices",
+          "link": "https://www.statnews.com/2026/10/22/fda-pdurs-guidance-dtx-telehealth-glp1-addiction-health-tech/?utm_campaign=rss",
+          "pubDate": "2026-10-22T13:17:29.000Z",
+          "description": "In this edition of STAT Health Tech: FDA's guidance on prescription drug use-related software, and telehealth pushing GLP-1s for addiction."
+        },
+        {
+          "title": "STAT+: What&#8217;s the deal with Isomorphic Labs?",
+          "link": "https://www.statnews.com/2026/10/21/whats-the-deal-with-isomorphic-labs-ai-prognosis/?utm_campaign=rss",
+          "pubDate": "2026-10-21T17:49:31.000Z",
+          "description": "In this edition of STAT's AI Prognosis: What does Isomorphic Labs' high valuation say about AI's role in drug development, and the debate around AI and cost of care."
+        },
         {
           "title": "STAT+: GSK picks up hep B drug approval",
           "link": "https://www.statnews.com/2026/10/21/biotech-news-gsk-picks-up-hep-b-drug-approval/?utm_campaign=rss",
@@ -123,46 +141,40 @@
           "description": "An immune drug from Roivant could be headed to a new market, after the company reported positive trials in the eye disease non-infectious uveitis."
         },
         {
-          "title": "STAT+: A German biotech has big ambitions in cancer. Now it needs to get a medicine approved",
-          "link": "https://www.statnews.com/2026/10/21/immatics-cancer-cell-therapy-targets-prame-protein/?utm_campaign=rss",
-          "pubDate": "2026-10-21T08:30:00.000Z",
-          "description": "After a quarter century of work, the German biotech Immatics is facing a pivotal moment as it awaits Phase 3 results for its lead candidate in melanoma."
-        },
-        {
           "title": "STAT+: Mark Cuban wants to crack open the market for rare disease treatments",
           "link": "https://www.statnews.com/2026/10/21/mark-cuban-cost-plus-drugs-rare-disease-medicines/?utm_campaign=rss",
           "pubDate": "2026-10-21T08:30:00.000Z",
           "description": "Mark Cuban's Cost Plus Drugs says it can reduce manufacturing costs for custom rare disease drugs and n-of-1 gene therapies."
         },
         {
+          "title": "STAT+: A German biotech has big ambitions in cancer. Now it needs to get a medicine approved",
+          "link": "https://www.statnews.com/2026/10/21/immatics-cancer-cell-therapy-targets-prame-protein/?utm_campaign=rss",
+          "pubDate": "2026-10-21T08:30:00.000Z",
+          "description": "After a quarter century of work, the German biotech Immatics is facing a pivotal moment as it awaits Phase 3 results for its lead candidate in melanoma."
+        },
+        {
           "title": "STAT+: Roche continues to look to China for new drugs",
           "link": "https://www.statnews.com/2026/10/20/biotech-news-roches-15b-hunt-for-new-drugs-in-china/?utm_campaign=rss",
           "pubDate": "2026-10-20T16:42:06.000Z",
           "description": "China's Hansoh Pharmaceutical Group has announced that it struck a massive deal with Roche to develop a portfolio of antibody-drug conjugates."
-        },
-        {
-          "title": "Why I wish you didn’t want to see Nathan Fielder’s Elizabeth Holmes documentary",
-          "link": "https://www.statnews.com/2026/10/20/elizabeth-holmes-superpower-authenticity-vs-truth-matt-herper-take/?utm_campaign=rss",
-          "pubDate": "2026-10-20T15:41:10.000Z",
-          "description": "A reporter who interviewed Elizabeth Holmes on why society confuses authenticity, honesty, and truth, and how she takes advantage."
-        },
-        {
-          "title": "STAT+: OpenEvidence&#8217;s JAMA paper leaves open questions",
-          "link": "https://www.statnews.com/2026/10/20/openevidence-jama-paper-leaves-open-questions-health-tech/?utm_campaign=rss",
-          "pubDate": "2026-10-20T14:40:13.000Z",
-          "description": "In this edition of STAT Health Tech: A new paper in JAMA offers a glimpse into clinicians's use of OpenEvidence, and a look at Isomorphic Labs."
-        },
-        {
-          "title": "Opinion: I was a Theranos whistleblower. In ‘You Can See Everything,’ Elizabeth Holmes is still lying",
-          "link": "https://www.statnews.com/2026/10/19/elizabeth-holmes-theranos-whistleblower-tyler-shultz-insider-review/?utm_campaign=rss",
-          "pubDate": "2026-10-19T17:27:04.000Z",
-          "description": "A more accurate name would be “You Can See Everything That We Chose To Point The Camera At,”Theranos whistleblower Tyler Shultz writes."
         }
       ]
     },
     "biopharmadive": {
       "name": "BioPharma Dive",
       "items": [
+        {
+          "title": "Roche affirms sales outlook amid doubts about its future",
+          "link": "https://www.biopharmadive.com/news/roche-3q-2026-earnings-sales-outlook/833684/",
+          "pubDate": "2026-10-22T15:20:26.000Z",
+          "description": "<p>Lower-than-expected sales of Xolair stood out as the Swiss drugmaker readies for an onslaught of generic competition for top products.&nbsp;</p>"
+        },
+        {
+          "title": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
+          "link": "https://www.biopharmadive.com/news/gsk-ionis-fda-approve-hibsago-chronic-hepatitis-b-bepirovirsen/833541/",
+          "pubDate": "2026-10-21T16:03:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/ZralPibwV2FS7gfl92V7anvyG-GCm_2yJ_lZgP4LM4k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yRENKUkI1LmpwZw==.webp\"/></div></figure><p>Hibsago is viewed as a potential &"
+        },
         {
           "title": "Roivant, continuing ascent, claims another victory for rare disease drug",
           "link": "https://www.biopharmadive.com/news/roivant-brepocitinib-uveitis-study-results/833569/",
@@ -198,18 +210,6 @@
           "link": "https://www.biopharmadive.com/news/Disc-bitopertin-apollo-erythropoietic-protoporphyria-study-results/833327/",
           "pubDate": "2026-10-19T16:27:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/pEMBQW3KaFgY6Lxfmup4ZtS1-TvKRR_38Tna06_mxJA/g:nowe:0:433/c:4500:2542/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01Mzg4MTE4NDYuanBn.webp\"/></div></figure><"
-        },
-        {
-          "title": "Merck KGaA bets on RNAi with $1.3B Silence buyout",
-          "link": "https://www.biopharmadive.com/news/merck-kgaa-rnai-13b-silence-buyout-blood-disorder-polycythemia-vera/833336/",
-          "pubDate": "2026-10-19T13:59:52.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/XrLcxShGY7XDXsOdjU9WtubI0W5Yi2P5k4gYh2Ax9HU/g:nowe:1:160/c:1583:894/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjUtMDgtMTVfYXRfOS4xNS4yMV9BTS5wbmc=.webp"
-        },
-        {
-          "title": "Roche inks $15B ADC pact with Hansoh; Veradermics scores in another baldness study",
-          "link": "https://www.biopharmadive.com/news/roche-hansoh-veradermics-rasonque-europe-orbimed-china-ultragenyx/833248/",
-          "pubDate": "2026-10-19T13:14:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\"/></div></figure>"
         }
       ]
     }
