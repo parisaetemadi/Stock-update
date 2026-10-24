@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-10-23T15:30:07.635Z",
+  "generatedAt": "2026-10-24T14:09:09.006Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
+        {
+          "title": "‘It is what it is’: Merck exec unruffled by ‘unfortunate’ leak of ESMO cancer vaccine data",
+          "link": "https://www.fiercebiotech.com/biotech/it-what-it-merck-exec-sanguine-esmo-leak-significant-cancer-vaccine-data",
+          "pubDate": "2026-10-24T06:25:00.000Z",
+          "description": "Merck &amp; Co. and Moderna always knew they would be making headlines in Madrid this week—just not in the way it happened."
+        },
+        {
+          "title": "ESMO: Lilly touts 79% ADC response rate in competitive ovarian cancer space",
+          "link": "https://www.fiercebiotech.com/biotech/esmo-eli-lilly-touts-79-adc-response-rate-competitive-ovarian-cancer-space",
+          "pubDate": "2026-10-19T04:05:00.000Z",
+          "description": "Eli Lilly has shared phase 1 data on an antibody-drug conjugate in platinum-sensitive ovarian cancer, shedding light on the company’s chances of competing for a market targeted by rivals including AbbVie and Genmab."
+        },
+        {
+          "title": "ESMO: GSK cancer R&D chief says mo-rez data ‘reinforces our belief’ in ADC as phase 3 push ramps up",
+          "link": "https://www.fiercebiotech.com/biotech/esmo-gsk-cancer-chief-says-latest-data-mo-rez-reinforces-our-belief-adc",
+          "pubDate": "2026-10-22T03:26:00.000Z",
+          "description": "GSK’s cancer R&amp;D chief has suggested the latest slice of early-stage data on its B7-H4-directed antibody-drug conjugate (ADC) has “reinforce[d] our belief in the asset,” as the therapy races through a clutch of phase 3 studies."
+        },
+        {
+          "title": "Roche puts numbers behind phase 3 kidney disease win amid blockbuster ambitions",
+          "link": "https://www.fiercebiotech.com/biotech/roches-igan-kidney-disease-drug-sefaxersen-snags-ph3-win",
+          "pubDate": "2026-10-23T10:21:00.000Z",
+          "description": "Roche's Genentech has put numbers behind its phase 3 success in IgA nephropathy (IgAN), reporting that antisense oligonucleotide sefaxersen reduced a key marker of kidney damage by 43.1% compared with placebo."
+        },
         {
           "title": "Gilead to pay $1.3B upfront for PepStar’s oral IL-23 challenger to J&J’s Icotyde",
           "link": "https://www.fiercebiotech.com/biotech/gilead-pay-13b-upfront-pepstars-oral-il-23-challenger-jjs-icotyde",
@@ -27,36 +51,30 @@
           "link": "https://www.fiercebiotech.com/biotech/esmo-zentalis-already-dreaming-launching-wee1-drug-after-great-result",
           "pubDate": "2026-10-22T11:34:00.000Z",
           "description": "Zentalis Pharmaceuticals has pointed to the first overall survival (OS) analysis for azenosertib as proof that the oral WEE1 tyrosine kinase inhibitor can offer a convenient oral treatment for a tricky cancer."
-        },
-        {
-          "title": "ESMO: Takeda’s $1.2B bet on Innovent ‘absolutely’ pays off with details of ADC’s phase 3 win",
-          "link": "https://www.fiercebiotech.com/biotech/esmo-takedas-12b-bet-innovent-absolutely-pays-adcs-phase-3-win",
-          "pubDate": "2026-10-23T08:50:00.000Z",
-          "description": "Takeda has lifted the lid on the phase 3 win for its next-generation claudin18.2 drug, with the antibody-drug conjugate (ADC) demonstrating overall survival of 10.2 months."
-        },
-        {
-          "title": "Chutes & Ladders—Troubled CSL enlists GSK vet Deborah Waterhouse to lead",
-          "link": "https://www.fiercebiotech.com/biotech/chutes-ladders-troubled-csl-enlists-viiv-vet-deborah-waterhouse-lead",
-          "pubDate": "2026-10-22T16:51:00.000Z",
-          "description": "CSL has tapped a new leader to steer it through a make-or-break period. Ironwood's CEO since 2021 is hanging up his hat. CytoDyn's new helmsman is highlighting the company's \"transformational period.\" And more."
-        },
-        {
-          "title": "BMS leads Pathos AI's $237M series E alongside Alzheimer's link-up",
-          "link": "https://www.fiercebiotech.com/biotech/pathos-ai-closes-237m-series-e-heels-bms-alzheimers-link",
-          "pubDate": "2026-10-20T07:16:00.000Z",
-          "description": "Pathos AI has closed a $237 million series E round led by pharma giant Bristol Myers Squibb on the same day that the two companies signed a cutting-edge Alzheimer's disease-focused collaboration."
-        },
-        {
-          "title": "Roche pays Zymeworks $55M for trispecific challenger to Amgen’s Imdelltra",
-          "link": "https://www.fiercebiotech.com/biotech/roche-pays-zymeworks-55m-trispecific-challenger-amgens-imdelltra",
-          "pubDate": "2026-10-23T04:27:00.000Z",
-          "description": "Roche is paying Zymeworks $55 million upfront for ZW209, bagging global rights to a trispecific designed to improve on the rate and depth of responses achieved by Amgen’s Imdelltra."
         }
       ]
     },
     "endpoints": {
       "name": "Endpoints News",
       "items": [
+        {
+          "title": "Cancer vaccine data from #ESMO26; Treasury proposal could curb China investment; and more",
+          "link": "https://endpoints.news/cancer-vaccine-data-from-esmo26-treasury-proposal-could-curb-china-investment-and-more/",
+          "pubDate": "2026-10-24T10:00:25.000Z",
+          "description": "Hello from Madrid, and welcome back to Endpoints Weekly! I’m at #ESMO26 with my colleagues Ayisha Sharma and Reynald Castaneda. The most anticipated readout from this year’s conference was Merck and Moderna’s Phase 3 study ..."
+        },
+        {
+          "title": "Windward Bio files for Nasdaq IPO to fund China-derived assets and in-house R&D",
+          "link": "https://endpoints.news/windward-bio-files-for-nasdaq-ipo-to-fund-china-derived-assets-and-in-house-rd/",
+          "pubDate": "2026-10-23T23:15:09.000Z",
+          "description": "A 2-year-old European biotech with two clinical-stage assets from China is the latest to attempt an initial public offering in the US.\r\n\r\n Basel-based Windward Bio submitted its cards for a Nasdaq ..."
+        },
+        {
+          "title": "Q&A: Bristol Myers' Lynelle Hoch on autoimmune CAR-T safety challenges",
+          "link": "https://endpoints.news/qa-bristol-myers-lynelle-hoch-on-autoimmune-car-t-safety-challenges/",
+          "pubDate": "2026-10-23T18:36:40.000Z",
+          "description": "Bristol Myers Squibb is facing one problem after another with its autoimmune CAR-T therapy program. The company says it has figured out the cause of the safety signal in a lupus trial ..."
+        },
         {
           "title": "Lycia's $318M IPO; Merck sac-TMT trial stopped early",
           "link": "https://endpoints.news/lycias-318m-ipo-merck-sac-tmt-trial-stopped-early/",
@@ -70,7 +88,7 @@
           "description": "Another day, another Roche deal.\r\n\r\n The Swiss pharma is teaming up with Zymeworks, paying $55 million upfront for worldwide rights to a trispecific T cell engager (TCE) that could go head-to-head with Amgen’s Imdelltra.\r\n\r\n Zymeworks ..."
         },
         {
-          "title": "Bristol Myers reveals death in MS CAR-T trial; says it has answer for June safety signal",
+          "title": "Bristol Myers reveals death in MS CAR-T trial, has answer for safety signal in lupus trial",
           "link": "https://endpoints.news/bristol-myers-reveals-autoimmune-car-t-trial-death-explains-summertime-pause/",
           "pubDate": "2026-10-23T14:33:54.000Z",
           "description": "A patient has died in a Bristol Myers Squibb study of autoimmune CAR-T, the same technology that was called into question this summer when both Bristol Myers and Novartis paused similar programs.\r\n\r\n The patient, who ..."
@@ -85,31 +103,31 @@
           "title": "Post-Hoc Live: Did the US just kill off China biotech deals?",
           "link": "https://endpoints.news/post-hoc-live-did-the-us-just-kill-off-china-biotech-deals/",
           "pubDate": "2026-10-23T13:00:44.000Z",
-          "description": "Last night, the Treasury Department issued a proposed rule to implement the COINS Act, the 2025 law that governs US investment in sensitive technologies in China and other countries. In a surprise turn, a broad ..."
-        },
-        {
-          "title": "Biotech takes a hit as dealmakers take a knee in Q3",
-          "link": "https://endpoints.news/biotech-takes-a-hit-as-dealmakers-take-a-knee-in-q3/",
-          "pubDate": "2026-10-23T13:00:17.000Z",
-          "description": "A chill wind blew through the biopharma industry in the third quarter as the pace of M&A from the first half of the year cooled down, big upfront licensing deals slackened and venture investing slowed ..."
-        },
-        {
-          "title": "Warp Sciences emerges from stealth, founded by ex-OpenAI science chief and tech veterans",
-          "link": "https://endpoints.news/warp-sciences-emerges-from-stealth-founded-by-ex-openai-science-chief-and-tech-veterans/",
-          "pubDate": "2026-10-23T11:35:00.000Z",
-          "description": "With $215 million in a Series A raise, former OpenAI head of science Kevin Weil has launched a startup in an effort to help pharma companies make the building blocks for new drugs using artificial ..."
-        },
-        {
-          "title": "Tango combo clears Rasonque bar, Takeda's Innovent bet gets early returns, plus more from #ESMO26",
-          "link": "https://endpoints.news/tango-combo-clears-rasonque-bar-takedas-innovent-bet-gets-early-returns-and-more-from-esmo26/",
-          "pubDate": "2026-10-23T11:30:14.000Z",
-          "description": "MADRID — While Friday is officially the first day of this year's ESMO congress, some of the anticipation has deflated after keenly awaited data on Moderna and Merck's cancer vaccine were leaked on ..."
+          "description": "Thursday night, the Treasury Department issued a proposed rule to implement the COINS Act, the 2025 law that governs US investment in sensitive technologies in China and other countries. In a surprise turn, a broad ..."
         }
       ]
     },
     "statnews": {
       "name": "STAT News (Biotech)",
       "items": [
+        {
+          "title": "STAT+: Highly anticipated Moderna-Merck melanoma cancer vaccine data arrived early",
+          "link": "https://www.statnews.com/2026/10/23/moderna-merck-melanoma-cancer-vaccine-data-arrived-early-esmo/?utm_campaign=rss",
+          "pubDate": "2026-10-23T19:19:55.000Z",
+          "description": "In data released at ESMO, the Moderna-Merck personalized mRNA cancer vaccine reduced recurrence-free survival and the time until distant metastasis occurred."
+        },
+        {
+          "title": "STAT+: Patient dies in Bristol Myers Squibb autoimmune CAR-T trial",
+          "link": "https://www.statnews.com/2026/10/23/bristol-myers-squibb-car-t-therapy-autoimmune-trial-death/?utm_campaign=rss",
+          "pubDate": "2026-10-23T18:55:12.000Z",
+          "description": "Where should the safety bar be for studies investigating CAR-T therapies for autoimmune conditions?"
+        },
+        {
+          "title": "STAT+: Novartis multiple sclerosis treatment cuts rates of relapse in pivotal trials",
+          "link": "https://www.statnews.com/2026/10/23/novartis-remibrutinib-multiple-sclerosis-trial-results/?utm_campaign=rss",
+          "pubDate": "2026-10-23T16:47:31.000Z",
+          "description": "An MS treatment from Novartis cut by a third the rates of relapses compared to a standard treatment."
+        },
         {
           "title": "STAT+: Tango builds on Revolution Medicines&#8217; pancreatic cancer success",
           "link": "https://www.statnews.com/2026/10/23/tango-pancreatic-cancer-star-moderna-readout-newsletter/?utm_campaign=rss",
@@ -139,30 +157,24 @@
           "link": "https://www.statnews.com/2026/10/23/huntingtons-alnylam-gene-silencing-brezosiran/?utm_campaign=rss",
           "pubDate": "2026-10-23T07:45:00.000Z",
           "description": "It’s yet to be seen whether Alnylam’s drug will actually slow progression of Huntington’s, but the field is lively."
-        },
-        {
-          "title": "STAT+: Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial",
-          "link": "https://www.statnews.com/2026/10/22/esmo-moderna-merck-cancer-vaccine-intismeran-data-released/?utm_campaign=rss",
-          "pubDate": "2026-10-22T19:03:31.000Z",
-          "description": "A Moderna and Merck personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to standard treatment."
-        },
-        {
-          "title": "STAT+: AbbVie skin disorder drug succeeds in late-stage trial, but results miss market expectations",
-          "link": "https://www.statnews.com/2026/10/22/abbvie-lutikizumab-hidradenitis-suppurativa-drug-phase-3-results/?utm_campaign=rss",
-          "pubDate": "2026-10-22T18:22:27.000Z",
-          "description": "AbbVie's lutikizumab, an experimental therapy for a chronic skin condition, succeeded in a late-stage trial but missed market expectations."
-        },
-        {
-          "title": "STAT+: Will the Treasury restrict U.S. investment in the Chinese biotech sector?",
-          "link": "https://www.statnews.com/2026/10/22/biotech-news-treasury-restrictions-for-us-investment-in-chinese-biotech/?utm_campaign=rss",
-          "pubDate": "2026-10-22T16:17:03.000Z",
-          "description": "Rumors are swirling that the Treasury Department this week is going to propose a rule that restricts U.S. investment in the Chinese biotech sector."
         }
       ]
     },
     "biopharmadive": {
       "name": "BioPharma Dive",
       "items": [
+        {
+          "title": "This week in charts: a big year for RNAi developers",
+          "link": "https://www.biopharmadive.com/news/charts-rna-interference-rnai-drug-venture-ipos/833784/",
+          "pubDate": "2026-10-23T15:33:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/noY6Oanv5v-_yDQZKEqBBDkEKvecYGoj9vaCkgyW_q0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyX20yY2w4SnouanBn.webp\"/></div></figure><p>The la"
+        },
+        {
+          "title": "Star adds $200M after spinout successes",
+          "link": "https://www.biopharmadive.com/news/star-therapeutics-financing-vega-electra/833733/",
+          "pubDate": "2026-10-23T11:00:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/ikwjPam_MY0QG9yj2WEtClGL_s87-F0cOXgQzlLAeco/g:nowe:0:612/c:4226:2388/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTc2Mzk2OTYuanBn.webp\"/></div></figure><"
+        },
         {
           "title": "Protein degrader specialist Lycia prices $318M IPO",
           "link": "https://www.biopharmadive.com/news/lycia-therapeutics-targeted-protein-degraders-ipo-pricing/833624/",
@@ -198,18 +210,6 @@
           "link": "https://www.biopharmadive.com/news/gsk-ionis-fda-approve-hibsago-chronic-hepatitis-b-bepirovirsen/833541/",
           "pubDate": "2026-10-21T16:03:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/ZralPibwV2FS7gfl92V7anvyG-GCm_2yJ_lZgP4LM4k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yRENKUkI1LmpwZw==.webp\"/></div></figure><p>Hibsago is viewed as a potential &"
-        },
-        {
-          "title": "Roivant, continuing ascent, claims another victory for rare disease drug",
-          "link": "https://www.biopharmadive.com/news/roivant-brepocitinib-uveitis-study-results/833569/",
-          "pubDate": "2026-10-21T15:31:00.000Z",
-          "description": "<p>Shortly after winning a clearance in the skin disease dermatomyositis, brepocitinib posted results suggesting it might also be a &ldquo;best-in-disease&rdquo; medicine for an inflammatory eye condition, one analyst said.</p>"
-        },
-        {
-          "title": "Arcus kidney cancer data impresses analysts; TriGemX inks a SPAC deal",
-          "link": "https://www.biopharmadive.com/news/arcus-casdatifan-trigemx-lilly-metis-astrazeneca/833430/",
-          "pubDate": "2026-10-21T14:23:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\"/></div></figure>"
         }
       ]
     }
