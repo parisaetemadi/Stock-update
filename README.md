@@ -8,8 +8,8 @@ commits them here. The dashboard fetches them directly from
 
 | File | Contents | Refreshed |
 | --- | --- | --- |
-| `data/market.json` | Index, commodity and crypto prices | scheduled every 10 min* |
-| `data/watchlist.json` | Watchlist ticker prices | scheduled every 10 min* |
+| `data/market.json` | Index, commodity and crypto prices | scheduled 8x daily* |
+| `data/watchlist.json` | Watchlist ticker prices | scheduled 8x daily* |
 | `data/econ.json` | US CPI, US PCE, Canada CPI (year-over-year) | daily |
 | `data/earnings.json` | Next earnings date per ticker | daily |
 | `data/biotech.json` | Biotech news headlines | daily |
@@ -17,14 +17,18 @@ commits them here. The dashboard fetches them directly from
 | `data/macro.json` | Index of the macro series: label, units, source, latest reading | 4x daily |
 | `data/macro/<id>.json` | Full history of one macro series | 4x daily |
 
-\* The cron says `*/10 * * * *`; GitHub does not honour it. Measured over the
-72 hours to 30 Aug 2026, the schedule produced **13 runs, not ~1,300** — an
-average of one every five and a half hours, with gaps of eight and ten hours.
-GitHub drops scheduled runs under load and offers no guarantee about them, so
-this is a floor, not a cadence. The dashboard gets genuinely current prices
-from its own Cloudflare function on page load; these files are the fallback
-for when that can't answer, and the manual **Run workflow** button on both
-workflows refreshes them on demand.
+\* This asked for `*/10 * * * *` until it was measured. Over the 72 hours to
+30 Aug 2026 that schedule produced **13 runs, not ~1,300** — one every five
+and a half hours, with gaps of eight and ten. GitHub sheds frequent schedules
+under load and guarantees nothing about them, while the daily entries here
+fired 53 times out of 53. It now asks for eight fixed entries a day, which
+should deliver *more* real refreshes than asking for 144 did, and stops the
+schedule claiming a cadence it never had.
+
+These files are a fallback, which is why eight is enough: the dashboard gets
+genuinely current prices from its own Cloudflare function, on page load and
+every minute after while the tab is open. The manual **Run workflow** button
+refreshes them on demand.
 
 ## Why this is a separate public repo
 

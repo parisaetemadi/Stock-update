@@ -2,7 +2,17 @@ name: Update dashboard prices
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    # Eight fixed entries rather than '*/10', for the reason the macro workflow
+    # already uses fixed hours: GitHub sheds frequent schedules under load. The
+    # '*/10' this replaces asked for ~1,300 runs in 72 hours and got 13 — about
+    # one every five and a half hours. The daily entries in this repository
+    # fired 53 times out of 53. Asking for eight a day should therefore deliver
+    # *more* actual refreshes than asking for 144, not fewer.
+    #
+    # :17 rather than :00 because the top of the hour is the most congested
+    # minute on the shared runners, and a schedule there waits behind everyone
+    # else's.
+    - cron: '17 0,3,6,9,12,15,18,21 * * *'
   workflow_dispatch: {}
 
 permissions:
