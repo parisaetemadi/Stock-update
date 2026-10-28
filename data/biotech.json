@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-10-27T16:05:23.626Z",
+  "generatedAt": "2026-10-28T16:52:01.577Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
+        {
+          "title": "Biogen CEO tells analysts he’s focused on early-stage R&D as ‘we were not very good with that’",
+          "link": "https://www.fiercebiotech.com/biotech/biogen-ceo-focused-early-stage-future-company",
+          "pubDate": "2026-10-28T10:06:00.000Z",
+          "description": "Biogen's CEO has pointed to the company's ability to take five drugs into clinical trials so far this year as evidence of its new focus on early-stage R&amp;D."
+        },
+        {
+          "title": "‘The patient need is enormous’: Syntax programs stem cells into pancreatic beta cells in 4 days",
+          "link": "https://www.fiercebiotech.com/research/syntax-bio-programs-stem-cells-pancreatic-beta-cells-just-4-days",
+          "pubDate": "2026-10-27T16:05:00.000Z",
+          "description": "Chicago-based Syntax Bio believes it has cracked the code for turning stem cells into pancreatic beta cells in as little as four days."
+        },
+        {
+          "title": "Lilly’s retatrutide bests Ozempic on blood sugar, weight loss in phase 3 diabetes showdown",
+          "link": "https://www.fiercebiotech.com/biotech/eli-lillys-retatrutide-tops-ozempic-phase-3-diabetes-showdown",
+          "pubDate": "2026-10-28T07:46:00.000Z",
+          "description": "Eli Lilly’s triple-G drug candidate retatrutide has beaten Novo’s Ozempic in a head-to-head phase 3 trial, driving deeper reductions in blood sugar and body weight across the 80-week study."
+        },
+        {
+          "title": "GSK predicts ‘some limited impact’ to UK roles as restructuring rolls on",
+          "link": "https://www.fiercebiotech.com/biotech/gsk-predicts-some-limited-impact-uk-roles-restructuring-rolls",
+          "pubDate": "2026-10-28T06:34:00.000Z",
+          "description": "GSK’s global restructuring plan is likely to see “some limited impact” to roles on the Big Pharma’s home turf of the U.K., executives have confirmed."
+        },
+        {
+          "title": "The 2026 Biotech Graveyard",
+          "link": "https://www.fiercebiotech.com/biotech/2026-biotech-graveyard",
+          "pubDate": "2026-10-11T07:49:00.000Z",
+          "description": "Fierce’s biotech graveyard is an annual tradition in which we remember all the companies we lost over the past year. While we're embracing the spooky spirit of Halloween, we hope the sad stories of drug developers shutting up shop won’t hau"
+        },
+        {
+          "title": "Astellas makes $1.3B bet on Audax’s preclinical push to reverse decades of IL-12 woes",
+          "link": "https://www.fiercebiotech.com/biotech/astellas-makes-13b-bet-audaxs-preclinical-push-reverse-decades-il-12-woes",
+          "pubDate": "2026-10-28T05:38:00.000Z",
+          "description": "Astellas has struck a deal for Audax Biosciences’ IL-12 program, committing up to $285 million in upfront and option fees to secure a chance to license the preclinical immuno-oncology program."
+        },
         {
           "title": "Artiva lays off 94% of staff after deaths and durability sink autoimmune cell therapy",
           "link": "https://www.fiercebiotech.com/biotech/artiva-lays-94-staff-after-deaths-and-durability-sink-autoimmune-cell-therapy",
@@ -15,42 +51,6 @@
           "link": "https://www.fiercebiotech.com/biotech/ras-rivalries-leaked-vaccine-readouts-esmo-brought-data-drama",
           "pubDate": "2026-10-27T06:35:00.000Z",
           "description": "Every ESMO conference is eventful, but the drama kicked into gear earlier than expected this year when the eagerly anticipated phase 3 data for Moderna and Merck &amp; Co.’s cancer vaccine were leaked two days before the Presidential Sympos"
-        },
-        {
-          "title": "Parkinson’s-focused Aspen and bispecific biotech Bambusa both shoot for $134M IPOs",
-          "link": "https://www.fiercebiotech.com/biotech/parkinsons-focused-aspen-and-bispecific-biotech-bambusa-both-shoot-134m-ipos",
-          "pubDate": "2026-10-27T07:37:00.000Z",
-          "description": "Parkinson’s disease cell therapy-focused Aspen Neuroscience and bispecific biotech Bambusa Therapeutics are each hoping to raise around $134 million from their respective IPOs."
-        },
-        {
-          "title": "Corxel claims oral obesity drug is in the ‘right lane’ as biotech plans SPAC route to Nasdaq",
-          "link": "https://www.fiercebiotech.com/biotech/377m-spac-deal-corxel-says-its-oral-obesity-drug-right-lane-or-corxel-takes-oral-obesity",
-          "pubDate": "2026-10-26T15:48:00.000Z",
-          "description": "Corxel Pharmaceuticals may not have always planned to dust off the SPAC route to the public markets, but the obesity-focused biotech is happy with its choice."
-        },
-        {
-          "title": "Labcorp continues acquisition spree as it buys up Millennium Health",
-          "link": "https://www.fiercebiotech.com/medtech/labcorp-continues-acquisition-spree-it-buys-millennium-health",
-          "pubDate": "2026-10-27T02:37:00.000Z",
-          "description": "Labcorp is acquiring Millennium Health to boost the medtech giant’s toxicology testing capabilities throughout the U.S."
-        },
-        {
-          "title": "BMS joins 3-year partnership to boost participation in cancer trials",
-          "link": "https://www.fiercebiotech.com/cro/bms-partners-healthcare-improvement-organization-expand-access-cancer-clinical-trials",
-          "pubDate": "2026-10-26T13:28:00.000Z",
-          "description": "The Institute for Healthcare Improvement has partnered with Bristol Myers Squibb on an initiative to expand access to cancer trials."
-        },
-        {
-          "title": "Novartis CEO keeps faith in Avidity deal despite taking $1.9B hit from del-desiran fail",
-          "link": "https://www.fiercebiotech.com/biotech/novartis-ceo-keeps-faith-avidity-deal-despite-19b-hit-del-desiran-fail",
-          "pubDate": "2026-10-27T03:51:00.000Z",
-          "description": "Novartis CEO Vas Narasimhan has insisted that the phase 3 fail for del-desiran is just a “bump” in the Swiss pharma’s wider plans for the drug, despite costing the company an estimated $1.9 billion."
-        },
-        {
-          "title": "GSK’s B7-H3 ADC drives 67% cancer risk reduction in Hansoh's phase 3 China trial",
-          "link": "https://www.fiercebiotech.com/biotech/gsks-b7-h3-adc-drives-67-cancer-risk-reduction-phase-3",
-          "pubDate": "2026-10-27T03:30:00.000Z",
-          "description": "A phase 3 trial has linked GSK’s risvutatug rezetecan to a 67% reduction in the risk of disease progression or death, providing evidence that B7-H3-directed antibody-drug conjugates work in relapsed osteosarcoma."
         }
       ]
     },
@@ -58,58 +58,88 @@
       "name": "Endpoints News",
       "items": [
         {
-          "title": "Gubra looks beyond metabolism, hopes for first portfolio company this year",
-          "link": "https://endpoints.news/gubra-looks-beyond-metabolism-hopes-for-first-portfolio-company-this-year/",
-          "pubDate": "2026-10-27T15:21:31.000Z",
-          "description": "The Copenhagen-based drugmaker Gubra's present is mostly about obesity. Its future will need to be about a much broader pipeline.\r\n\r\n The company has a portfolio of weight loss drug candidates but is moving into the ..."
+          "title": "Analysts press Biogen on lupus drug litifilimab ahead of pivotal readouts",
+          "link": "https://endpoints.news/analysts-press-biogen-on-lupus-drug-litifilimab-ahead-of-pivotal-readouts/",
+          "pubDate": "2026-10-28T15:25:26.000Z",
+          "description": "Scrutiny of Biogen’s late-stage pipeline is intensifying ahead of several Phase 3 readouts that are pivotal to CEO Chris Viehbacher's turnaround efforts.\r\n\r\n Analysts lobbed numerous questions at Viehbacher and other Biogen execs about the "
         },
         {
-          "title": "Artiva to wind down after two patient deaths in autoimmune cell therapy trials",
-          "link": "https://endpoints.news/artiva-to-wind-down-after-two-patient-deaths-in-autoimmune-cell-therapy-trials/",
-          "pubDate": "2026-10-27T14:45:41.000Z",
-          "description": "Cell therapy biotech Artiva Biotherapeutics abruptly announced Tuesday morning that it is effectively shutting down and laying off almost all of its staff after two patients died in its clinical trials.\r\n\r\n Researchers had been testing ..."
+          "title": "Pfizer India site closure risks exacerbating cancer drug shortages",
+          "link": "https://endpoints.news/pfizer-india-site-closure-risks-exacerbating-cancer-drug-shortages/",
+          "pubDate": "2026-10-28T15:15:11.000Z",
+          "description": "Pfizer has been forced to temporarily close a cancer drug factory in India. The factory won’t reopen for up to two years and is already contributing to cancer drug shortages.\r\n\r\n In July, heavy monsoon rain ..."
         },
         {
-          "title": "Outpace ends an ovarian cancer trial; Incyte data impresses at ESMO",
-          "link": "https://endpoints.news/outpace-ends-an-ovarian-cancer-trial-incyte-data-impresses-at-esmo/",
-          "pubDate": "2026-10-27T14:38:38.000Z",
-          "description": "Plus news about Genmab, Rumi, Prana and Fractyl.\r\n\r\n Outpace Bio ends cell therapy trial: The Seattle startup canned a Phase 1 ovarian cancer trial of its mesothelin autologous CAR-T, called OPB-101 ..."
+          "title": "Beijing-based BioGeometry gets $100M+ for AI drug R&D",
+          "link": "https://endpoints.news/beijing-based-biogeometry-gets-100m-for-ai-drug-rd/",
+          "pubDate": "2026-10-28T14:08:53.000Z",
+          "description": "A Chinese biotech startup has raised more than $100 million in Series A funding for its AI-driven protein design.\r\n\r\n BioGeometry, a 4-year-old company headquartered in Beijing, said in a statement Wednesday ..."
         },
         {
-          "title": "After Makary's FDA exit, biopharma exhales: Signal Survey",
-          "link": "https://endpoints.news/after-makarys-fda-exit-biopharma-exhales-signal-survey/",
-          "pubDate": "2026-10-27T14:04:06.000Z",
-          "description": "When Endpoints Signal released the Q3 Biopharma Sentiment Index last week, it showed a level of industry optimism not seen in years. Behind the topline figure, one area of improvement really stood ..."
+          "title": "Now 78% of scientists say AI will speed drug discovery this year: Signal Survey",
+          "link": "https://endpoints.news/now-78-of-scientists-say-ai-will-speed-drug-discovery-this-year-signal-survey/",
+          "pubDate": "2026-10-28T13:00:06.000Z",
+          "description": "A year ago, Endpoints Signal surveyed almost 1,500 biopharma insiders about the very near-term prospects of AI accelerating drug discovery. Scientists, interestingly, were the most skeptical. Now, as we revisit the question in our"
         },
         {
-          "title": "Ferring to acquire ovary-in-a-dish startup Gameto for up to $1.38B",
-          "link": "https://endpoints.news/ferring-to-acquire-ovary-in-a-dish-startup-gameto-for-up-to-1-38b/",
-          "pubDate": "2026-10-27T13:16:29.000Z",
-          "description": "Ferring Pharmaceuticals has signed an agreement to acquire the fertility startup Gameto in a deal that could be worth up to $1.3825 billion, the companies told Endpoints News ahead of a"
+          "title": "Lilly's triple-G drug retatrutide outshines Novo's Ozempic in diabetes",
+          "link": "https://endpoints.news/lillys-triple-g-drug-retatrutide-outshines-novos-ozempic-in-diabetes/",
+          "pubDate": "2026-10-28T10:45:48.000Z",
+          "description": "Eli Lilly’s retatrutide, the incretin shot that has already proven its effectiveness against other assets on a cross-trial basis, has cemented its utility in a head-to-head trial, albeit in diabetes rather than obesity.\r\n\r\n The drug ..."
         },
         {
-          "title": "After $1.9B impairment hit, Novartis stands by $12B bet on Avidity",
-          "link": "https://endpoints.news/novartis-stands-by-12b-bet-on-avidity-after-1-9b-impairment-hit/",
-          "pubDate": "2026-10-27T10:57:52.000Z",
-          "description": "Novartis’ $12 billion acquisition of Avidity Biosciences “remains absolutely on track,” CEO Vas Narasimhan said, after the company disclosed a $1.9 billion impairment charge on a failed late-stage neuromuscular disease asset it ..."
+          "title": "Astellas buys option on preclinical IL-12 cancer drug from Audax Biosciences",
+          "link": "https://endpoints.news/astellas-buys-option-to-preclinical-il-12-cancer-drug-from-audax-biosciences/",
+          "pubDate": "2026-10-28T10:26:20.000Z",
+          "description": "Astellas has taken an exclusive option to license a preclinical immuno-oncology asset from Australian biotech Audax Biosciences.\r\n\r\n The deal features $285 million that covers the upfront fee and a payment that becomes due if the ..."
         },
         {
-          "title": "Novartis considers bypassing European government payers due to MFN",
-          "link": "https://endpoints.news/novartis-considers-bypassing-european-government-payers-due-to-mfn/",
-          "pubDate": "2026-10-27T10:34:44.000Z",
-          "description": "Novartis CEO Vas Narasimhan said Tuesday that launching new drugs in the private market or in a self-pay market in Europe is not off the table in response to the so-called most favored nation policy.\r\n\r\n ..."
+          "title": "Anthropic buys a single-person biotech startup backed by Atlas Venture",
+          "link": "https://endpoints.news/anthropic-buys-a-single-person-biotech-startup-backed-by-atlas-venture/",
+          "pubDate": "2026-10-27T22:31:54.000Z",
+          "description": "The AI company Anthropic has acquired a drug discovery startup called Mithril Medicine, as part of its push into the life sciences.\r\n\r\n And that's where things start to get strange.\r\n\r\n Mithril is ..."
         },
         {
-          "title": "Employers accuse UnitedHealth of overpaying medical claims",
-          "link": "https://endpoints.news/employers-accuse-unitedhealth-of-overpaying-medical-claims/",
-          "pubDate": "2026-10-26T20:50:03.000Z",
-          "description": "Six large US companies sued UnitedHealth Group, accusing the health insurance giant of overpaying for workers’ medical claims and driving up their costs.\r\n\r\n Aramark, Whirlpool, Grainger, Kraft Heinz Foods, Ralph Lauren and Sterling Jeweler"
+          "title": "Backed by Amish and Mennonites, a new kind of gene therapy company takes shape",
+          "link": "https://endpoints.news/backed-by-amish-and-mennonites-a-new-kind-of-gene-therapy-company-takes-shape/",
+          "pubDate": "2026-10-27T20:52:03.000Z",
+          "description": "LANCASTER, PA — This spring, Lorraine and Mark Martin, a Mennonite family with a tax business, adopted a stubby-legged cow named Royal Lite.\r\n\r\n Lorraine, Mark and Royal Lite all have one thing in common: They ..."
         }
       ]
     },
     "statnews": {
       "name": "STAT News (Biotech)",
       "items": [
+        {
+          "title": "STAT+: HHS moves to allow compounding of some unapproved peptides",
+          "link": "https://www.statnews.com/2026/10/28/hhs-enforcement-discretion-policy-allows-peptide-compounding/?utm_campaign=rss",
+          "pubDate": "2026-10-28T16:35:03.000Z",
+          "description": "Kennedy and his MAHA movement have embraced peptides, though there's little evidence for many of the wellness compounds."
+        },
+        {
+          "title": "STAT+: Lilly&#8217;s triple-G drug beats Ozempic in head-to-head study",
+          "link": "https://www.statnews.com/2026/10/28/biotech-news-lillys-triple-g-drug-beats-ozempic-in-head-to-head-study/?utm_campaign=rss",
+          "pubDate": "2026-10-28T13:42:44.000Z",
+          "description": "Eli Lilly announced that its investigational drug retatrutide was more effective at lowering blood sugar and cutting weight than Novo Nordisk’s Ozempic in a large diabetes study."
+        },
+        {
+          "title": "STAT+: Lilly says ‘triple-G’ drug beats Novo’s Ozempic in diabetes study",
+          "link": "https://www.statnews.com/2026/10/28/retatrutide-vs-ozempic-lilly-diabetes-study/?utm_campaign=rss",
+          "pubDate": "2026-10-28T10:45:00.000Z",
+          "description": "Data add to expectations that the drug will be one of Lilly’s greatest growth drivers."
+        },
+        {
+          "title": "STAT+: After two deaths in autoimmune cell therapy trial, Artiva is shutting down",
+          "link": "https://www.statnews.com/2026/10/27/autoimmune-cell-therapy-trial-artiva-therapeutics-shutting-down/?utm_campaign=rss",
+          "pubDate": "2026-10-27T18:05:13.000Z",
+          "description": "Recent deaths are setbacks in drug companies’ interest in applying cancer therapy strategies to autoimmune diseases."
+        },
+        {
+          "title": "STAT+: FDA offers new details on quicker approval pathway for personalized gene therapies",
+          "link": "https://www.statnews.com/2026/10/27/fda-personalized-gene-therapy-guidance-individualized-feature-space/?utm_campaign=rss",
+          "pubDate": "2026-10-27T16:17:33.000Z",
+          "description": "Rare disease advocates applauded the FDA's move to speed access to treatments."
+        },
         {
           "title": "STAT+: RFK Jr. goes for broke in Iowa",
           "link": "https://www.statnews.com/2026/10/27/rfk-jr-campaigns-zach-lahn-iowa-coins-binsa-china-biotech-rules/?utm_campaign=rss",
@@ -127,42 +157,42 @@
           "link": "https://www.statnews.com/2026/10/27/cancer-vaccines-intismeran-autogene-esmo-results-delivery-access/?utm_campaign=rss",
           "pubDate": "2026-10-27T08:30:00.000Z",
           "description": "“If we want cancer vaccines to reach patients faster than BRCA testing did, there are several challenges to address now,” write Karen E. Knudsen and Othman Laraki."
-        },
-        {
-          "title": "STAT+: Pennsylvania Dutch country, tired of waiting for biopharma, builds drug company of its own",
-          "link": "https://www.statnews.com/2026/10/27/gene-therapy-cow-rare-disease-amish-mennonite-patients-waiting/?utm_campaign=rss",
-          "pubDate": "2026-10-27T08:30:00.000Z",
-          "description": "A small community tests if it can solve a crisis no one else could, for the simple reason that they have no other choice."
-        },
-        {
-          "title": "STAT+: Roche gets a lung cancer win with its KRAS drug divarasib",
-          "link": "https://www.statnews.com/2026/10/26/roche-kras-drug-divarasib-lung-cancer-treatment-win/?utm_campaign=rss",
-          "pubDate": "2026-10-26T23:17:13.000Z",
-          "description": "One of the more impressive data sets at this year’s ESMO came from a Roche study of its drug divarasib, which treats lung cancer."
-        },
-        {
-          "title": "STAT+: Merck ADC drug cut risk of death by one-third in advanced endometrial cancer",
-          "link": "https://www.statnews.com/2026/10/26/merck-kelun-sac-tmt-endometrial-cancer-study-esmo-2026/?utm_campaign=rss",
-          "pubDate": "2026-10-26T15:30:00.000Z",
-          "description": "A Phase 3 trial of a targeted drug developed by Merck and China’s Kelun-Biotech cut by one-third the risk of death in patients with advanced endometrial cancer."
-        },
-        {
-          "title": "STAT+: Incyte pancreatic cancer medicine induces lasting tumor responses, company says at ESMO",
-          "link": "https://www.statnews.com/2026/10/26/incyte-esmo-pancreatic-cancer-incb161734-results/?utm_campaign=rss",
-          "pubDate": "2026-10-26T13:57:14.000Z",
-          "description": "A targeted drug from Incyte, when used in combination with chemotherapy, induced lasting tumor responses in certain patients with pancreatic cancer."
-        },
-        {
-          "title": "STAT+: Five biotech updates to read after ESMO this weekend",
-          "link": "https://www.statnews.com/2026/10/26/biotech-news-moderna-ceo-on-whats-next-after-intismeran-success/?utm_campaign=rss",
-          "pubDate": "2026-10-26T13:38:56.000Z",
-          "description": "Moderna and Merck are racing to submit their personalized cancer vaccine for FDA approval, expected in 2027, according to Moderna CEO Stéphane Bancel."
         }
       ]
     },
     "biopharmadive": {
       "name": "BioPharma Dive",
       "items": [
+        {
+          "title": "Lilly’s ‘triple-G’ drug tops Novo’s Ozempic in diabetes trial",
+          "link": "https://www.biopharmadive.com/news/retatrutide-ozempic-diabetes-trial-results-lilly-novo/873016/",
+          "pubDate": "2026-10-28T15:53:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/iwYdPUaaZl2omwgNyfsvrBrIJD-r2l8R0lmsoYTHQAc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgyOTA4NDEzLmpwZw==.webp\"/></div></figure><p>The highest do"
+        },
+        {
+          "title": "FDA unveils guidance for ‘plug and play’ gene therapies",
+          "link": "https://www.biopharmadive.com/news/fda-personalized-gene-therapy-rare-disease-guidance/873004/",
+          "pubDate": "2026-10-28T15:15:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/LqhVLnY07ufPGU8REFhiVmXvMx9YmJsAbRsaQagI-HI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg5ODc5Mjc3LmpwZw==.webp\"/></div></figure><p>The plan advan"
+        },
+        {
+          "title": "Lilly shuffles business structure; Novartis writes off part of Avidity deal",
+          "link": "https://www.biopharmadive.com/news/lilly-global-markets-novartis-avidity-astellas-talzenna-prana/872857/",
+          "pubDate": "2026-10-28T13:27:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\"/></div></figure>"
+        },
+        {
+          "title": "Ferring to acquire next-gen IVF startup Gameto for up to $1.4B",
+          "link": "https://www.biopharmadive.com/news/ferring-gameto-acquire-ivf-fertilo-womens-health/872904/",
+          "pubDate": "2026-10-27T20:53:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/buFy9i4baXoc_Ing8ezl1VLtuBsoS93BQzPiGcoSdiM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzMyMDUyNTc5LmpwZw==.webp\"/></div></figure><p>The buyout han"
+        },
+        {
+          "title": "Court rejects Novo bid to block Lilly obesity drug ads",
+          "link": "https://www.biopharmadive.com/news/novo-lilly-lawsuit-ruling-false-advertising-wegovy-zepbound/872856/",
+          "pubDate": "2026-10-27T16:03:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/cVxusteODEmivYUo1oFpGS2sOXjM22jwDw_oeO8reOE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yWTU2SzNYLmpwZw==.webp\"/></div></figure><p>Novo failed to prove that Lilly&rs"
+        },
         {
           "title": "Artiva to quit autoimmune cell therapy work, cut staff after patient deaths",
           "link": "https://www.biopharmadive.com/news/artiva-discontinue-nk-cell-therapy-autoimmune-patient-death/872873/",
@@ -180,36 +210,6 @@
           "link": "https://www.biopharmadive.com/news/biontech-dualitybio-modest-results-adc-breast-cancer/839574/",
           "pubDate": "2026-10-26T16:06:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/rOXgWwvAoQejvYyGfhFgyegwrIQjA6F1toVkmaowa6Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDk1OTc1MTMyLmpwZw==.webp\"/></div></figure><p>The companies "
-        },
-        {
-          "title": "ESMO ‘26: A cancer vaccine debate, Roche’s KRAS progress and Amgen’s ‘unprecedented’ data",
-          "link": "https://www.biopharmadive.com/news/esmo-2026-intismeran-melanoma-imdelltra-divarasib-kras-g12c/833921/",
-          "pubDate": "2026-10-26T15:58:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/EJrqrrcuFWlU-QnLf8Ud41fk8Eni5F1wUYU7UftQH9A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY1NzI1MDM2LmpwZw==.webp\"/></div></figure><p>At one of the "
-        },
-        {
-          "title": "Another autoimmune CAR-T death; Treasury zeroes in on China deals",
-          "link": "https://www.biopharmadive.com/news/autoimmune-bristol-death-treasury-china-gilead-pepstar-zymeworks/833901/",
-          "pubDate": "2026-10-26T13:59:35.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\"/></div></figure>"
-        },
-        {
-          "title": "Novel protein and peptide therapeutics",
-          "link": "https://www.biopharmadive.com/spons/novel-protein-and-peptide-therapeutics/833429/",
-          "pubDate": "2026-10-26T09:00:00.000Z",
-          "description": "<p>Explore manufacturing challenges and solutions for ADCs, bispecifics, peptides and more.</p>"
-        },
-        {
-          "title": "The molecule was fine. The moment wasn’t.",
-          "link": "https://www.biopharmadive.com/spons/the-molecule-was-fine-the-moment-wasnt/833616/",
-          "pubDate": "2026-10-26T09:00:00.000Z",
-          "description": "<p>Some overlooked medicines aren&rsquo;t failures. They just arrived before the market was ready.</p>"
-        },
-        {
-          "title": "This week in charts: a big year for RNAi developers",
-          "link": "https://www.biopharmadive.com/news/charts-rna-interference-rnai-drug-venture-ipos/833784/",
-          "pubDate": "2026-10-23T15:33:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/noY6Oanv5v-_yDQZKEqBBDkEKvecYGoj9vaCkgyW_q0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyX20yY2w4SnouanBn.webp\"/></div></figure><p>The la"
         }
       ]
     }
