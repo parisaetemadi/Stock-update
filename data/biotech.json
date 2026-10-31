@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T16:50:44.199Z",
+  "generatedAt": "2026-10-31T15:54:02.843Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
@@ -38,7 +38,7 @@
           "title": "AstraZeneca cuts early-phase prostate cancer pipeline",
           "link": "https://www.fiercebiotech.com/biotech/astrazeneca-cuts-early-phase-prostate-cancer-pipeline",
           "pubDate": "2026-10-30T05:04:00.000Z",
-          "description": "AstraZeneca has punted a pair of early-phase prostate cancer programs as part of its quarterly pipeline clearout."
+          "description": "AstraZeneca has punted a pair of early-phase prostate cancer programs as part of its quarterly pipeline clear out."
         },
         {
           "title": "Bambusa shoots past IPO targets as Aspen trims offering",
@@ -57,6 +57,12 @@
     "endpoints": {
       "name": "Endpoints News",
       "items": [
+        {
+          "title": "Anthropic’s one-person biotech buy; Jake Van Naarden’s dealmaking strategy; and more",
+          "link": "https://endpoints.news/anthropics-one-person-biotech-buy-jake-van-naardens-dealmaking-strategy-and-more/",
+          "pubDate": "2026-10-31T10:00:28.000Z",
+          "description": "Hello and welcome back to a spooky Halloween edition of Endpoints Weekly! Sorry to all the candy corn lovers out there, but just noting that they’re actually made with bug secretions. The Atlantic has all ..."
+        },
         {
           "title": "Sanofi may seek higher European drug prices, not withhold launches, under Trump deal",
           "link": "https://endpoints.news/sanofi-may-seek-higher-european-drug-prices-not-withhold-launches-under-trump-deal/",
@@ -82,7 +88,7 @@
           "description": "Nathan Frey has stayed busy since Anthropic acquired his biotech startup Coefficient Bio this spring.\r\n\r\n The former Genentech machine-learning scientist now leads drug discovery and development research at the tech giant. Endpoints News ex"
         },
         {
-          "title": "Sanofi has no plans for a 'major' overhaul as Dupixent's patent cliff looms",
+          "title": "Sanofi has no plans for 'major' reconstruction as Dupixent's patent cliff looms",
           "link": "https://endpoints.news/sanofi-has-no-plans-for-a-major-overhaul-as-dupixents-patent-cliff-looms/",
           "pubDate": "2026-10-30T11:12:36.000Z",
           "description": "It’s been six months since Belén Garijo took over as the CEO of Sanofi, and the French drugmaker said Friday it is not planning “major” changes to its business or R&D pipeline as the early ..."
@@ -98,12 +104,6 @@
           "link": "https://endpoints.news/setara-gets-90m-to-continue-rare-disease-pipeline-spun-out-of-jazzs-actio-deal/",
           "pubDate": "2026-10-30T10:30:35.000Z",
           "description": "After shipping its precision epilepsy drug to Jazz Pharmaceuticals, Actio Biosciences has spun out the remainder of its genetics-driven pipeline into a new company called Setara Biosciences.\r\n\r\n Setara is getting a fresh $90 million to ..."
-        },
-        {
-          "title": "Post-Hoc Live: Is biotech’s future full of zero- and one- employee startups?",
-          "link": "https://endpoints.news/post-hoc-live-is-biotechs-future-full-of-zero-and-one-employee-startups/",
-          "pubDate": "2026-10-30T10:00:25.000Z",
-          "description": "After Endpoints News’ AI event in New York in October, I had dinner with some of our guests. Over a few glasses of wine, we started talking about some out-there ideas they ..."
         }
       ]
     },
