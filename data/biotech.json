@@ -1,62 +1,98 @@
 {
-  "generatedAt": "2026-11-01T16:56:17.916Z",
+  "generatedAt": "2026-11-02T20:33:03.429Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
         {
-          "title": "Gilead reveals partial clinical hold on 2 CAR-T cell therapy trials",
-          "link": "https://www.fiercebiotech.com/biotech/gileads-kite-reveals-partial-clinical-hold-2-car-t-cell-therapy-trials",
-          "pubDate": "2026-10-29T18:40:00.000Z",
-          "description": "Gilead Sciences announced on its third-quarter earnings call Oct. 29 that the company has placed a partial clinical hold on two studies for the CAR-T cell therapy KITE-753 in diffuse large B-cell lymphoma (DLBCL)."
+          "title": "Karyopharm files Chapter 11, lines up Ayrmid as lead bidder in planned merger",
+          "link": "https://www.fiercebiotech.com/pharma/karyopharm-files-chapter-11-and-ayrmid-agrees-make-first-bid",
+          "pubDate": "2026-11-02T10:17:00.000Z",
+          "description": "In an answer to Karyopharm's cash crisis, Irish biotech Ayrmid has agreed to make the first bid on the struggling biopharma's assets in a court supervised auction, teeing up a potential hematology merger."
         },
         {
-          "title": "When drug development gets personal",
-          "link": "https://www.fiercebiotech.com/biotech/when-drug-development-gets-personal",
-          "pubDate": "2026-10-30T09:33:00.000Z",
-          "description": "When Third Rock Ventures partner Jigar Raythatha was diagnosed with brain cancer, he found himself relying on a drug originally developed by Agios, a biotech his firm backed years before he joined. On \"The Top Line,\" he shares how the exper"
+          "title": "OpenAI-funded Biossil snags Theriva's unwanted antibiotic degrader portfolio for up to $91M",
+          "link": "https://www.fiercebiotech.com/biotech/openai-funded-biossil-snags-therivas-antibiotic-degrader-portfolio-91m",
+          "pubDate": "2026-11-02T09:55:00.000Z",
+          "description": "Canada's OpenAI-backed startup Biossil Labs has extended its pharma shopping spree with a deal worth up to $91 million for Theriva Biologics' deprioritized early- to mid-stage portfolio of antibiotic-degrading enzymes."
         },
         {
-          "title": "Chutes & Ladders—Lilly unifies global markets as 36-year vet Patrik Jonsson retires",
-          "link": "https://www.fiercebiotech.com/biotech/chutes-ladders-lilly-unifies-global-markets-36-year-vet-patrik-jonsson-retires",
-          "pubDate": "2026-10-29T15:53:00.000Z",
-          "description": "Lilly will unite its U.S. and international commercial units as a long-time exec retires. Enanta's CEO will hang up his hat after 23 year at the helm. Estrella has tapped a new a CEO to lead it through a clinical trial."
+          "title": "Teva ends trial of one of its original line-up of innovative meds over futility",
+          "link": "https://www.fiercebiotech.com/biotech/teva-ends-trial-one-its-original-line-innovative-meds-over-futility",
+          "pubDate": "2026-11-02T09:24:00.000Z",
+          "description": "Teva has given up on a key trial of one of its original line-up of innovative medicines."
         },
         {
-          "title": "Bracco invests $230M in first US diagnostic imaging manufacturing facility",
-          "link": "https://www.fiercebiotech.com/medtech/bracco-invests-230m-first-us-diagnostic-imaging-manufacturing-facility",
-          "pubDate": "2026-10-30T07:43:00.000Z",
-          "description": "Bracco announced it will invest $230 million to establish its first U.S. manufacturing facility for injectable contrast media in Sanford, North Carolina."
+          "title": "FDA dims Bright Minds’ outlook with partial hold on seizure trial over toxicity in mice",
+          "link": "https://www.fiercebiotech.com/biotech/fda-dims-bright-minds-outlook-partial-hold-seizure-trial",
+          "pubDate": "2026-11-02T08:43:00.000Z",
+          "description": "The FDA has put a partial hold on Bright Minds Biosciences’ seizure study application over preclinical toxicity data and concerns about its preparations for enrolling children."
         },
         {
-          "title": "Jazz's $820M Actio buyout gives rise to Setara, armed with $90M series A",
-          "link": "https://www.fiercebiotech.com/biotech/setara-raises-90m-series-carrying-actio-torch-following-jazz-acquisition",
-          "pubDate": "2026-10-29T11:16:00.000Z",
-          "description": "Setara Biosciences, a privately held spinout formed following Jazz Pharmaceuticals' acquisition of Actio Biosciences in September, has raised $90 million in series A financing to advance its clinical-stage neuroscience drug candidate and ea"
+          "title": "Lower dose of Tiziana's MS drug reduces neuroinflammation, while higher dose struggles",
+          "link": "https://www.fiercebiotech.com/biotech/tiziana-sees-lower-dose-intranasal-ms-drug-hit-neuroinflammation-goal-while-higher-dose",
+          "pubDate": "2026-11-02T08:40:00.000Z",
+          "description": "Tiziana Life Sciences’ intranasal drug has hit the dual endpoints of a phase 2a study in patients with a form of multiple sclerosis (MS), although the win was slightly marred by the higher dose missing a key neuroinflammation goal."
         },
         {
-          "title": "AstraZeneca cuts early-phase prostate cancer pipeline",
-          "link": "https://www.fiercebiotech.com/biotech/astrazeneca-cuts-early-phase-prostate-cancer-pipeline",
-          "pubDate": "2026-10-30T05:04:00.000Z",
-          "description": "AstraZeneca has punted a pair of early-phase prostate cancer programs as part of its quarterly pipeline clear out."
+          "title": "Connected clinical research: from fragmentation to progress",
+          "link": "https://www.fiercebiotech.com/sponsored/connected-clinical-research-fragmentation-progress",
+          "pubDate": "2026-10-22T14:35:00.000Z",
+          "description": "Mike Novotny examines the funding, technology and operational challenges shaping clinical research, and why connected systems matter."
         },
         {
-          "title": "Bambusa shoots past IPO targets as Aspen trims offering",
-          "link": "https://www.fiercebiotech.com/biotech/bambusa-shoots-past-ipo-targets-aspen-trims-offering",
-          "pubDate": "2026-10-30T04:02:00.000Z",
-          "description": "Bambusa Therapeutics has upsized its IPO, selling more shares at the midpoint of its target range to gross $168.9 million for bispecific R&amp;D. But Aspen Neuroscience underperformed expectations, hitting the bottom end of its target range"
+          "title": "The cost of waiting: What reaching clinical proof-of-concept sooner means for biotech cash burn",
+          "link": "https://www.fiercebiotech.com/sponsored/cost-waiting-what-reaching-clinical-proof-concept-sooner-means-biotech-cash-burn",
+          "pubDate": "2026-10-29T11:15:00.000Z",
+          "description": "Explore how delays before clinical proof-of-concept increase biotech cash burn, and how connected drug development can preserve capital and runway."
         },
         {
-          "title": "Roche launches differential diagnosis test for mesothelioma",
-          "link": "https://www.fiercebiotech.com/medtech/roche-launches-differential-diagnosis-test-mesothelioma",
-          "pubDate": "2026-10-30T03:55:00.000Z",
-          "description": "Roche announced the global launch of its VENTANA BAP1 (SP527) test, an automated, ready-to-use immunohistochemistry (IHC) assay."
+          "title": "China's InventisBio delivers competitive TYK2 data in phase 3 psoriasis win",
+          "link": "https://www.fiercebiotech.com/biotech/inventisbio-delivers-competitive-tyk2-data-phase-3-psoriasis-win",
+          "pubDate": "2026-11-02T05:47:00.000Z",
+          "description": "A phase 3 trial of InventisBio’s nomelcitinib has hit its primary endpoint, delivering evidence that the TYK2 inhibitor can hold its own against rival psoriasis drugs."
         }
       ]
     },
     "endpoints": {
       "name": "Endpoints News",
       "items": [
+        {
+          "title": "AbbVie, Brise disclose deal for two preclinical migraine meds",
+          "link": "https://endpoints.news/abbvie-brise-disclose-deal-for-two-preclinical-migraine-meds/",
+          "pubDate": "2026-11-02T19:43:03.000Z",
+          "description": "AbbVie has agreed to a discovery and commercialization deal with Brise Pharma for two preclinical migraine programs.\r\n\r\n The Beijing-based partner said Monday the agreement actually stemmed from 2024. An investor relations ..."
+        },
+        {
+          "title": "WuXi Biologics, Fresenius partner ahead of biosimilar boom",
+          "link": "https://endpoints.news/wuxi-biologics-fresenius-partner-ahead-of-biosimilar-boom/",
+          "pubDate": "2026-11-02T18:44:22.000Z",
+          "description": "WuXi Biologics and German drugmaker Fresenius have reached one of the largest biosimilar deals to date ahead of what some in the industry have called an upcoming “golden decade” for such products.\r\n\r\n ..."
+        },
+        {
+          "title": "UniQure gets review date and adcomm; Inovia's stock surges after approval",
+          "link": "https://endpoints.news/uniqure-gets-review-date-and-adcomm-inovias-stock-surges-after-approval/",
+          "pubDate": "2026-11-02T16:10:20.000Z",
+          "description": "Plus news about AbbVie, Gilead and Tiziana Life Sciences.\r\n\r\n FDA gives uniQure a review date and adcomm: The agency will decide whether or not to approve UniQure’s high-profile Huntington’s disease gene therapy by May 1 ..."
+        },
+        {
+          "title": "Karyopharm plans to merge with Ayrmid, the company that tried buying bluebird",
+          "link": "https://endpoints.news/karyopharm-plans-to-merge-with-ayrmid-the-company-that-tried-buying-bluebird/",
+          "pubDate": "2026-11-02T15:28:10.000Z",
+          "description": "With few options remaining, a commercial-stage blood cancer biotech will go through a bankruptcy process and plans to merge with another drugmaker in the blood disorder field.\r\n\r\n Karyopharm Therapeutics, maker of the multiple myeloma drug "
+        },
+        {
+          "title": "FDA puts Bright Minds drug on partial hold, stock tanks",
+          "link": "https://endpoints.news/fda-puts-bright-minds-drug-on-partial-hold-stock-tanks/",
+          "pubDate": "2026-11-02T15:11:58.000Z",
+          "description": "The FDA placed an experimental seizure drug from Bright Minds Biosciences on a partial clinical hold, the company announced Monday.\r\n\r\n Regulators issued the hold for BMB-101 after identifying toxicity issues in preclinical mouse models, Br"
+        },
+        {
+          "title": "CinRx teams with Sam Waksal's Graviton on ROCK2 for PAH, other cardio conditions",
+          "link": "https://endpoints.news/cinrx-teams-with-sam-waksals-graviton-on-rock2-for-pah-other-cardio-conditions/",
+          "pubDate": "2026-11-02T12:00:45.000Z",
+          "description": "Sam Waksal is doubling down on ROCK2 after his first work on the target led to the chronic graft-versus-host disease medicine Rezurock.\r\n\r\n Now, the Graviton Bioscience CEO is teaming up with a cardio drug development ..."
+        },
         {
           "title": "Anthropic’s one-person biotech buy; Jake Van Naarden’s dealmaking strategy; and more",
           "link": "https://endpoints.news/anthropics-one-person-biotech-buy-jake-van-naardens-dealmaking-strategy-and-more/",
@@ -68,48 +104,24 @@
           "link": "https://endpoints.news/sanofi-may-seek-higher-european-drug-prices-not-withhold-launches-under-trump-deal/",
           "pubDate": "2026-10-30T16:16:51.000Z",
           "description": "While some of Europe’s biggest drugmakers have warned that President Donald Trump’s pricing policies could leave European patients waiting longer for new medicines, Sanofi is taking a different approach.\r\n\r\n ..."
-        },
-        {
-          "title": "Gilead CAR-T on partial clinical hold; Agios' PDUFA date pushed back",
-          "link": "https://endpoints.news/gilead-car-t-on-partial-clinical-hold-agios-pdufa-date-pushed-back/",
-          "pubDate": "2026-10-30T15:47:13.000Z",
-          "description": "Plus news about Acumen, Bristol Myers Squibb, Regeneron, Aer Therapeutics and Hemay Pharmaceutical.\r\n\r\n Gilead pauses CAR-T after ICANS: After several cases of the neurological condition known as ICANS, Gilead said in ..."
-        },
-        {
-          "title": "AstraZeneca says reorg could mean R&D cuts and trials shifted to emerging markets",
-          "link": "https://endpoints.news/astrazeneca-says-reorg-could-mean-rd-cuts-and-trials-shifted-to-emerging-markets/",
-          "pubDate": "2026-10-30T15:36:16.000Z",
-          "description": "AstraZeneca’s leadership hinted at where the cost cuts and job losses from the company’s new restructuring program might fall on a call with journalists Friday.\r\n\r\n “We are losing patent protection for Farxiga ..."
-        },
-        {
-          "title": "Anthropic's Nathan Frey on biopharma partners, M&A and pipeline",
-          "link": "https://endpoints.news/anthropics-nathan-frey-on-biopharma-partners-ma-and-pipeline/",
-          "pubDate": "2026-10-30T13:00:09.000Z",
-          "description": "Nathan Frey has stayed busy since Anthropic acquired his biotech startup Coefficient Bio this spring.\r\n\r\n The former Genentech machine-learning scientist now leads drug discovery and development research at the tech giant. Endpoints News ex"
-        },
-        {
-          "title": "Sanofi has no plans for 'major restructuring' as Dupixent's patent cliff looms",
-          "link": "https://endpoints.news/sanofi-has-no-plans-for-a-major-overhaul-as-dupixents-patent-cliff-looms/",
-          "pubDate": "2026-10-30T11:12:36.000Z",
-          "description": "It’s been six months since Belén Garijo took over as the CEO of Sanofi, and the French drugmaker said Friday it is not planning “major” changes to its business or R&D pipeline as the early ..."
-        },
-        {
-          "title": "After Be Bio shutdown, its CEO heads to Orbis; Enanta's longtime chief Jay Luly to retire",
-          "link": "https://endpoints.news/after-be-bio-shutdown-its-ceo-heads-to-orbis-enantas-longtime-chief-jay-luly-to-retire/",
-          "pubDate": "2026-10-30T11:00:55.000Z",
-          "description": "→ Former Be Biopharma chief Joanne Smith-Farrell has landed at Orbis Medicines, an Eli Lilly- and Novo-backed startup that's developing oral macrocycles. Smith-Farrell replaces co-founder Morten Graugaard as CEO of Orbis ..."
-        },
-        {
-          "title": "Setara gets $90M to continue rare disease pipeline spun out of Jazz's Actio deal",
-          "link": "https://endpoints.news/setara-gets-90m-to-continue-rare-disease-pipeline-spun-out-of-jazzs-actio-deal/",
-          "pubDate": "2026-10-30T10:30:35.000Z",
-          "description": "After shipping its precision epilepsy drug to Jazz Pharmaceuticals, Actio Biosciences has spun out the remainder of its genetics-driven pipeline into a new company called Setara Biosciences.\r\n\r\n Setara is getting a fresh $90 million to ..."
         }
       ]
     },
     "statnews": {
       "name": "STAT News (Biotech)",
       "items": [
+        {
+          "title": "STAT+: Psilocybin&#8217;s lasting benefits prove elusive in mice",
+          "link": "https://www.statnews.com/2026/11/02/biotech-news-psilocybin-lasting-benefits-prove-elusive-in-mice/?utm_campaign=rss",
+          "pubDate": "2026-11-02T16:47:33.000Z",
+          "description": "Five Bay Area labs teamed up to compare lasting effects of psilocybin on anxiety and depression-like behavior in mice, with limited results:"
+        },
+        {
+          "title": "STAT+: Coming readout of Kymera eczema trial is a high-stakes moment in a bid to rival Dupixent",
+          "link": "https://www.statnews.com/2026/11/02/kymera-therapeutics-trial-results-eczema-dupixent-rival/?utm_campaign=rss",
+          "pubDate": "2026-11-02T09:30:00.000Z",
+          "description": "Investors and doctors are intensely awaiting mid-stage results of an experimental Kymera therapy positioned to rival Dupixent."
+        },
         {
           "title": "STAT+: El-Sayed claps back at RFK Jr., and FDA&#8217;s ‘enforcement discretion’ on peptides",
           "link": "https://www.statnews.com/2026/10/29/el-sayed-claps-back-at-rfk-jr-fda-peptide-policy-dc-diagnosis/?utm_campaign=rss",
@@ -145,24 +157,36 @@
           "link": "https://www.statnews.com/2026/10/28/biotech-news-lillys-triple-g-drug-beats-ozempic-in-head-to-head-study/?utm_campaign=rss",
           "pubDate": "2026-10-28T13:42:44.000Z",
           "description": "Eli Lilly announced that its investigational drug retatrutide was more effective at lowering blood sugar and cutting weight than Novo Nordisk’s Ozempic in a large diabetes study."
-        },
-        {
-          "title": "STAT+: Lilly says ‘triple-G’ drug beat Novo’s Ozempic in diabetes study",
-          "link": "https://www.statnews.com/2026/10/28/retatrutide-vs-ozempic-lilly-diabetes-study/?utm_campaign=rss",
-          "pubDate": "2026-10-28T10:45:00.000Z",
-          "description": "Data add to expectations that the drug will be one of Lilly’s greatest growth drivers."
-        },
-        {
-          "title": "STAT+: After two deaths in autoimmune cell therapy trial, Artiva is shutting down",
-          "link": "https://www.statnews.com/2026/10/27/autoimmune-cell-therapy-trial-artiva-therapeutics-shutting-down/?utm_campaign=rss",
-          "pubDate": "2026-10-27T18:05:13.000Z",
-          "description": "Recent deaths are setbacks in drug companies’ interest in applying cancer therapy strategies to autoimmune diseases."
         }
       ]
     },
     "biopharmadive": {
       "name": "BioPharma Dive",
       "items": [
+        {
+          "title": "Karyopharm, deep in debt, to sell itself in bankruptcy",
+          "link": "https://www.biopharmadive.com/news/karyopharm-bankruptcy-chapter-11-auction-ayrmid-gamida-cell/873415/",
+          "pubDate": "2026-11-02T17:07:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/CSn7mb9kUJKt7C4B-Hg90ixWPga0R-Efvq-YxlFSZ5I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzI3MjY4MzcuanBn.webp\"/></div></figure><p>The parent of cell"
+        },
+        {
+          "title": "Keytruda biosimilars are coming — but they face an uphill battle",
+          "link": "https://www.biopharmadive.com/news/keytruda-biosimilars-fda-pbm-market-share-drug/873424/",
+          "pubDate": "2026-11-02T14:34:00.000Z",
+          "description": "<p>A patent cliff is fast approaching for Merck&rsquo;s flagship blockbuster, but the deck might be stacked against its biosimilars gaining widespread traction.</p>"
+        },
+        {
+          "title": "Earnings roundup: AstraZeneca’s cost cuts, Alnylam’s slump and Regeneron’s resilience",
+          "link": "https://www.biopharmadive.com/news/astrazeneca-alnylam-regeneron-3q26-earnings-analysis/873410/",
+          "pubDate": "2026-11-02T14:00:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/v0D5Ajbuzjf7G4SQRuR5yVFGXoGWXxkevKZwUQRcJjs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTU2MTc2MTM5LmpwZw==.webp\"/></div></figure><p>AstraZeneca wi"
+        },
+        {
+          "title": "Breaking the silos: What effective scenario modeling looks like in 2026 and beyond",
+          "link": "https://www.biopharmadive.com/spons/breaking-the-silos-what-effective-scenario-modeling-looks-like-in-2026-and/872840/",
+          "pubDate": "2026-11-02T10:00:00.000Z",
+          "description": "<p>Explore how integrated scenario modeling helps pharma leaders navigate pricing uncertainty and the complexity of global launches.</p>"
+        },
         {
           "title": "This week in charts: ESMO’s winners and losers",
           "link": "https://www.biopharmadive.com/news/biotech-charts-esmo-2026-winners-losers/873281/",
@@ -186,30 +210,6 @@
           "link": "https://www.biopharmadive.com/news/aspen-neuroscience-parkinsons-ipo-pricing/873050/",
           "pubDate": "2026-10-30T02:38:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/GGg1HxfgIG19LbD7AgeaGjelOegByXmxh0T8qynEMtw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTc0ODAyNDQuanBn.webp\"/></div></figure><p>The San Diego biot"
-        },
-        {
-          "title": "Labor Department finalizes sweeping PBM disclosure rule",
-          "link": "https://www.biopharmadive.com/news/pbm-transparency-final-rule-labor-department-employer/873254/",
-          "pubDate": "2026-10-29T20:30:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/iKz4BuDjmRE6UbrRRlF9efr8bpRIs0pUQv8B6wyXeIc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI4NTA1MDQwXzEuanBn.webp\"/></div></figure><p>Starting in 20"
-        },
-        {
-          "title": "Genmab soars to record highs after cancer drug succeeds in key trial",
-          "link": "https://www.biopharmadive.com/news/genmab-stock-soars-positive-head-neck-cancer-antibody-phase-3/873164/",
-          "pubDate": "2026-10-29T16:06:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/1GOOygB_vDxFfGVwH1bZj_iwDOBw8_8wMTSRFsfMSuk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nZW5tYWItY3BoXzI3Mi5qcGc=.webp\"/></div></figure><p>The drugmaker&rsquo;s mark"
-        },
-        {
-          "title": "HHS to allow compounders to make 6 unapproved peptides",
-          "link": "https://www.biopharmadive.com/news/hhs-peptides-rfk-fda-compounders/873141/",
-          "pubDate": "2026-10-29T14:52:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/AFD8pM514vG9kS1aZEU5Fu6ctoEvGDpf245Ge1DxEYs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcxODA4NDE4LmpwZw==.webp\"/></div></figure><p>RFK Jr. has gi"
-        },
-        {
-          "title": "Flagship blends three biotech startups to form Etcelera",
-          "link": "https://www.biopharmadive.com/news/flagship-etcelera-etiome-empress-cellarity-launch/872947/",
-          "pubDate": "2026-10-29T10:30:00.000Z",
-          "description": "<p>Etiome, Cellarity and Empress Therapeutics are being combined into one new AI-aided drugmaker claiming to possess the ability to better predict the way new medicines will fare in humans.</p>"
         }
       ]
     }
