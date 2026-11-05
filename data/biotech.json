@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-11-04T18:18:15.620Z",
+  "generatedAt": "2026-11-05T18:22:09.495Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
         {
-          "title": "Fierce Biotech Layoff Tracker 2026: Ultragenyx lays off 20%; Molecular Partners trims 44%",
+          "title": "Rezera revs up for $181M IPO to fund phase 3 trial of NLRP3 inhibitor",
+          "link": "https://www.fiercebiotech.com/biotech/rezera-revs-181m-ipo-fund-phase-3-trial-nlrp3-inhibitor",
+          "pubDate": "2026-11-05T09:57:00.000Z",
+          "description": "Rezera—the new name for NodThera—is aiming for a $181 million IPO to take its NLRP3 inhibitor into phase 3 trials for a cardiovascular disease."
+        },
+        {
+          "title": "MetaVia sees GLP-1 shed liver fat and body weight in phase 1, takes aim at specific liver disease",
+          "link": "https://www.fiercebiotech.com/biotech/metavias-glp-1-sheds-liver-fat-and-body-weight-phase-1-fails-wow-investors",
+          "pubDate": "2026-11-05T09:53:00.000Z",
+          "description": "MetaVia has linked its GLP-1/glucagon receptor agonist to reductions in liver fat and body weight in a phase 1 trial. Encouraged by the data, MetaVia plans to start a phase 2 trial in alcohol-associated liver disease next year."
+        },
+        {
+          "title": "AstraZeneca said to offer $10B to acquire Rhythm, analysts whisper of a bidding war",
+          "link": "https://www.fiercebiotech.com/pharma/astrazeneca-offers-10b-acquire-rhythm-analysts-whisper-bidding-war",
+          "pubDate": "2026-11-05T09:38:00.000Z",
+          "description": "AstraZeneca has made a roughly $10 billion offer to purchase rare obesity disease player Rhythm Pharmaceuticals, The Wall Street Journal reports. At least three teams of analysts suggest a bidding war could be brewing and that Rhythm is unl"
+        },
+        {
+          "title": "Agios aims to shed over 100 R&D roles this year ahead of hoped-for sickle cell disease approval",
+          "link": "https://www.fiercebiotech.com/biotech/agios-aims-shed-100-rd-roles-year-ahead-hoped-scd-approval",
+          "pubDate": "2026-11-05T08:41:00.000Z",
+          "description": "Agios Pharmaceuticals has been shrinking its R&amp;D headcount over the course of 2026 as the commercial-stage company looks to eliminate more than 100 roles by year-end."
+        },
+        {
+          "title": "Cash-strapped Vivoryon regains China rights to kidney disease prospect from Simcere",
+          "link": "https://www.fiercebiotech.com/biotech/cash-strapped-vivoryon-regains-china-rights-kidney-disease-prospect-simcere",
+          "pubDate": "2026-11-05T05:51:00.000Z",
+          "description": "Vivoryon Therapeutics has regained the China rights to its kidney disease prospect as the German biotech’s cash reserves begin to dry up."
+        },
+        {
+          "title": "Fierce Biotech Fundraising Tracker '26: Alethio attains $90M series A for rare blood cancer drugs",
+          "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+          "pubDate": "2025-12-22T15:30:00.000Z",
+          "description": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs."
+        },
+        {
+          "title": "Evommune signs $1B deal with China’s Hinova to enter same molecular glue niche as Novartis",
+          "link": "https://www.fiercebiotech.com/biotech/evommune-signs-1b-deal-chinas-hinova-enter-same-molecular-glue-space-novartis",
+          "pubDate": "2026-11-05T04:55:00.000Z",
+          "description": "Evommune has paid $30 million to China’s Hinova Pharmaceuticals to get stuck into a niche of preclinical molecular glue degrader development that’s also being pursued by Novartis."
+        },
+        {
+          "title": "Fierce Biotech Layoff Tracker 2026: Agios trims 100 R&D roles; Ultragenyx lays off 20%",
           "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
           "pubDate": "2025-12-23T10:11:00.000Z",
           "description": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team."
-        },
-        {
-          "title": "Madrigal’s former clinical development head files whistleblower lawsuit alleging Rezdiffra safety cover-up",
-          "link": "https://www.fiercebiotech.com/pharma/madrigal-former-clinical-development-head-files-whistleblower-lawsuit-alleging-rezdiffra",
-          "pubDate": "2026-11-04T10:52:00.000Z",
-          "description": "Madrigal Pharmaceuticals is facing a whistleblower lawsuit alleging that senior leadership censored serious liver-injury data related to its breakthrough MASH drug Rezdiffra and retaliated against the firm’s top clinical development head wh"
-        },
-        {
-          "title": "Smith+Nephew held failed talks with J&J over potential orthopedics combination",
-          "link": "https://www.fiercebiotech.com/medtech/smithnephew-held-failed-talks-jj-orthopaedics-biz-combination",
-          "pubDate": "2026-11-04T03:02:00.000Z",
-          "description": "Smith+Nephew held talks with Johnson &amp; Johnson’s hip-and-knee replacement unit DePuy Synthes aimed at a potential combination with its orthopedics unit."
-        },
-        {
-          "title": "Minghui grants ASKA Japanese rights to sub-q TED candidate in $440M deal",
-          "link": "https://www.fiercebiotech.com/biotech/minghui-grants-aska-exclusive-japanese-rights-sub-q-ted-candidate-440m",
-          "pubDate": "2026-11-04T09:20:00.000Z",
-          "description": "China’s Minghui Pharmaceutical has licensed its late-stage thyroid eye disease candidate to ASKA Pharmaceutical for up to $440 million, granting the Japanese drugmaker exclusive development and commercialization rights in its home country."
-        },
-        {
-          "title": "Blackstone Life Sciences teams up with Boston Scientific in $455M heart pump deal",
-          "link": "https://www.fiercebiotech.com/medtech/blackstone-life-sciences-teams-boston-scientific-455m-heart-pump-deal",
-          "pubDate": "2026-11-04T09:17:00.000Z",
-          "description": "Blackstone Life Sciences has penned a $455 million collaboration with Boston Scientific to co-fund the development of the medtech’s next-generation miniature heart pump system."
-        },
-        {
-          "title": "Boehringer returns to Sino Biopharma in $7.4B deal for preclinical TCEs, ADCs",
-          "link": "https://www.fiercebiotech.com/biotech/boehringer-returns-sino-biopharma-74b-deal-preclinical-tces-adcs",
-          "pubDate": "2026-11-04T09:12:00.000Z",
-          "description": "Boehringer Ingelheim has returned to China to satisfy its appetite for antibody-drug conjugates and T-cell engagers."
-        },
-        {
-          "title": "nPhase rakes in $30M to expand AI-native clinical data platform",
-          "link": "https://www.fiercebiotech.com/cro/nphase-rakes-30m-expand-ai-native-clinical-data-platform",
-          "pubDate": "2026-11-04T08:23:00.000Z",
-          "description": "Clinical research company nPhase has closed a $30 million series D financing round to expand its AI-native clinical data platform."
-        },
-        {
-          "title": "AbbVie pens $1.4B deal for deprioritized IBD drug from Nxera",
-          "link": "https://www.fiercebiotech.com/biotech/abbvie-pens-14b-deal-deprioritized-ibd-drug-nxera",
-          "pubDate": "2026-11-04T07:21:00.000Z",
-          "description": "AbbVie has added another angle to its relationship with Nxera, with the Big Pharma paying $100 million upfront for a phase 1 inflammatory bowel disease candidate."
         }
       ]
     },
@@ -58,52 +58,52 @@
       "name": "Endpoints News",
       "items": [
         {
-          "title": "Sanofi ends development of Nurix's STAT6 degrader",
-          "link": "https://endpoints.news/sanofi-ends-development-of-nurixs-stat6-degrader/",
-          "pubDate": "2026-11-04T16:05:02.000Z",
-          "description": "Sanofi is dropping an experimental drug targeting a pathway that many analysts see as a potential pillar of the next generation of immunology medicine.\r\n\r\n The company will no longer pursue the program known as SAR448272 ..."
+          "title": "Rasonque sales drive RevMed's stock; whistleblower sues Madrigal over MASH",
+          "link": "https://endpoints.news/rasonque-sales-drive-up-revmeds-stock-whistleblower-sues-madrigal-over-mash/",
+          "pubDate": "2026-11-05T15:59:19.000Z",
+          "description": "Plus news about Rezera, ANI Pharmaceuticals, Cloudbreak Pharma and Anaheim Bio.\r\n\r\n RevMed’s stock jumps on early Rasonque sales: The RAS drug developer reported sales of its pancreatic cancer therapy Rasonque for the first time, netting .."
         },
         {
-          "title": "CVS to break up, splitting pharmacy business from insurance",
-          "link": "https://endpoints.news/cvs-to-break-up-splitting-pharmacy-business-from-insurance/",
-          "pubDate": "2026-11-04T15:38:13.000Z",
-          "description": "CVS Health is splitting into two publicly traded companies as the healthcare giant fights rising costs, retail competition, regulatory scrutiny and other pressures.\r\n\r\n The first company, to be named CVS Health, will host its insurance ..."
+          "title": "Caldera, Evommune sign China licensing deals for autoimmune drugs",
+          "link": "https://endpoints.news/caldera-evommune-sign-china-licensing-deals-for-autoimmune-drugs/",
+          "pubDate": "2026-11-05T15:27:30.000Z",
+          "description": "The biopharma industry was already on pace for one China deal per week for the entire year. Now, another two biotechs have snagged assets from the world's busiest shopping mall for new ..."
         },
         {
-          "title": "China climbed biotech's worry list, while Big Pharma kept shopping",
-          "link": "https://endpoints.news/china-climbed-biotechs-worry-list-while-big-pharma-kept-shopping/",
-          "pubDate": "2026-11-04T15:35:37.000Z",
-          "description": "In the months leading up to the Treasury Department's release of draft rules that would limit US investment in Chinese biopharma, the industry's view of China was already in a downward sentiment ..."
+          "title": "#AASLD26: Merck unwraps biopsy data for MASH drug it got from South Korea's Hanmi",
+          "link": "https://endpoints.news/aasld26-merck-unwraps-mash-biopsy-data-for-drug-it-got-from-south-koreas-hanmi/",
+          "pubDate": "2026-11-05T15:00:22.000Z",
+          "description": "Merck reported Thursday its dual GLP-1/glucagon agonist cleared a mid-stage trial in the liver disease called MASH, sharing biopsy data on a drug it licensed from Hanmi Pharmaceutical in 2020 for $10 ..."
         },
         {
-          "title": "First wave of #ASH26 abstracts is here, with data from J&J, Servier and AstraZeneca",
-          "link": "https://endpoints.news/first-wave-of-ash26-abstracts-is-here-with-data-from-jj-servier-and-astrazeneca/",
-          "pubDate": "2026-11-04T14:42:50.000Z",
-          "description": "The American Society of Hematology's annual meeting is just a little over a month away. This year's edition will be in New Orleans, LA, and Endpoints News will be covering the meeting in person.\r\n\r\n For ..."
+          "title": "Ellipsis Health buys Kouper Health to act on AI voice calls",
+          "link": "https://endpoints.news/ellipsis-health-buys-kouper-health-to-act-on-ai-voice-calls/",
+          "pubDate": "2026-11-05T14:00:40.000Z",
+          "description": "Ellipsis Health, a startup developing voice AI for healthcare, has acquired another company as demand for AI that can call patients heats up, Endpoints News learned exclusively.\r\n\r\n Ellipsis, which uses voice AI to screen and ..."
         },
         {
-          "title": "Spyre’s arthritis misses; Ideaya ends eye cancer trial",
-          "link": "https://endpoints.news/spyres-arthritis-misses-ideaya-ends-eye-cancer-trial/",
-          "pubDate": "2026-11-04T14:39:42.000Z",
-          "description": "Plus news about United Therapeutics.\r\n\r\n Spyre Therapeutics reports additional trial failures: The biotech said its long-acting anti-TL1A drug, codenamed SPY072, did not meet the primary endpoints in the psoriatic arthritis or ..."
+          "title": "Alethio clinches $90M to advance antibody for essential thrombocythemia",
+          "link": "https://endpoints.news/alethio-clinches-90m-to-advance-antibody-for-essential-thrombocythemia/",
+          "pubDate": "2026-11-05T08:00:50.000Z",
+          "description": "About a year after emerging from stealth, University of Oxford spinout Alethio Therapeutics has collected $90 million in a Series A raise to support its lead rare blood cancer program.\r\n\r\n The ..."
         },
         {
-          "title": "Boehringer Ingelheim strikes $7B backloaded ADC, TCE cancer deal with China's Sino",
-          "link": "https://endpoints.news/boehringer-ingelheim-strikes-7b-backloaded-adc-tce-cancer-deal-with-chinas-sino/",
-          "pubDate": "2026-11-04T13:57:21.000Z",
-          "description": "Germany's Boehringer Ingelheim is further planting its stake in China, teaming up with Sino Biopharmaceutical in a cancer drug development deal that could balloon past $7 billion.\r\n\r\n Boehringer is delivering $358 million ..."
+          "title": "T-Therapeutics secures $133M for cancer, autoimmune TCRs",
+          "link": "https://endpoints.news/t-therapeutics-secures-133m-for-cancer-autoimmune-tcrs/",
+          "pubDate": "2026-11-05T07:00:00.000Z",
+          "description": "Johnson & Johnson, Merck KGaA and Eli Lilly are joining Sanofi in backing a UK biotech working on T cell receptors for autoimmune conditions and cancer.\r\n\r\n The pharma companies or their corporate ..."
         },
         {
-          "title": "Novo won't launch CagriSema in Europe for 'a couple of years,' CFO says",
-          "link": "https://endpoints.news/novo-wont-launch-cagrisema-in-europe-for-a-couple-of-years-cfo-says/",
-          "pubDate": "2026-11-04T12:03:29.000Z",
-          "description": "Novo won't launch its big obesity hope CagriSema in Europe for another “couple of years,” Novo’s outgoing CFO Karsten Munk Knudsen told Endpoints News in a Wednesday interview.\r\n\r\n\r\n\r\n “For CagriSema, the clear ..."
+          "title": "#ASH26: Kamau shares first data from revamped sickle cell gene editing therapy",
+          "link": "https://endpoints.news/kamau-shares-first-data-from-revamped-sickle-cell-gene-editing-therapy/",
+          "pubDate": "2026-11-04T20:05:28.000Z",
+          "description": "Kamau Therapeutics, which has stayed relatively quiet since its 2023 emergence, is sharing clinical data from its revamped sickle cell gene editing program for the first time.\r\n\r\n The startup is giving a ..."
         },
         {
-          "title": "AbbVie bets up to $1.47B on Nxera's gut-targeting IBD program",
-          "link": "https://endpoints.news/abbvie-bets-up-to-1-47b-on-nxeras-gut-targeting-ibd-program/",
-          "pubDate": "2026-11-04T11:47:26.000Z",
-          "description": "AbbVie is licensing Nxera Pharma’s EP4 receptor agonist program for $100 million upfront, with up to $1.37 billion at stake in development and commercial milestones.\r\n\r\n Through its UK subsidiary, Tokyo-based Nxera will hand over global ..."
+          "title": "Novo’s race to catch Eli Lilly may already be lost",
+          "link": "https://endpoints.news/novos-race-to-catch-eli-lilly-may-already-be-lost/",
+          "pubDate": "2026-11-04T18:47:01.000Z",
+          "description": "A year ago, the rivalry between Eli Lilly and Novo was the fiercest in the industry. Now, it looks increasingly one-sided.\r\n\r\n The best evidence might be investors' reactions to each company's third-quarter results. Both stocks ..."
         }
       ]
     },
@@ -111,58 +111,82 @@
       "name": "STAT News (Biotech)",
       "items": [
         {
+          "title": "STAT+: A possible comeback for a failed sickle cell gene therapy",
+          "link": "https://www.statnews.com/2026/11/05/biotech-news-a-possible-comeback-for-failed-sickle-cell-gene-therapy/?utm_campaign=rss",
+          "pubDate": "2026-11-05T16:22:53.000Z",
+          "description": "Three years ago, a trial for a sickle cell gene-editing therapy a decade in the making ended abruptly after the first patient suffered a serious adverse event. Now, the therapy&#8230;"
+        },
+        {
+          "title": "STAT+: Beyond statins, one drug lowered heart attack risk by 20%",
+          "link": "https://www.statnews.com/2026/11/05/repatha-vs-zetia-cholesterol-study-heart-attack-risk/?utm_campaign=rss",
+          "pubDate": "2026-11-05T14:00:00.000Z",
+          "description": "A new study could help doctors figure out what medicine to prescribe for cholesterol when statins don't cut it: It's “answering a really challenging clinical question.\""
+        },
+        {
+          "title": "STAT+: Medicare delays controversial remote patient monitoring rule to 2029",
+          "link": "https://www.statnews.com/2026/11/05/health-tech-news-medicare-delays-controversial-rpm-rule-update/?utm_campaign=rss",
+          "pubDate": "2026-11-05T13:04:15.000Z",
+          "description": "Despite widespread opposition, Medicare will finalize a controversial proposal that will prevent providers, such as hospitals, from using third parties to deliver remote patient monitoring services."
+        },
+        {
+          "title": "STAT+: Revolution Medicines’ pancreatic cancer drug has stunning commercial debut",
+          "link": "https://www.statnews.com/2026/11/05/rasonque-revolution-medicines-pancreatic-cancer-commercial-launch/?utm_campaign=rss",
+          "pubDate": "2026-11-05T12:33:01.000Z",
+          "description": "Rasonque, Revolution Medicines' new pancreatic cancer drug, is off to one of the best oncology drug launches in history."
+        },
+        {
+          "title": "STAT+: A closer look at ProMis Neurosciences and its Alzheimer&#8217;s drug",
+          "link": "https://www.statnews.com/2026/11/05/promis-neurosciences-alzheimers-disease-acumen-vertex-kidney-drug/?utm_campaign=rss",
+          "pubDate": "2026-11-05T11:30:00.000Z",
+          "description": "Shares of ProMis Neurosciences, developer of a treatment for Alzheimer’s disease, sold off sharply last week. A closer look at the reason why — and whether it holds up."
+        },
+        {
+          "title": "STAT+: In China, a flood of controversial clinical trials slows to a trickle",
+          "link": "https://www.statnews.com/2026/11/05/china-biotech-restrictions-impact-rare-disease-investigator-initiated-trial/?utm_campaign=rss",
+          "pubDate": "2026-11-05T09:30:00.000Z",
+          "description": "Following patient deaths, China restricts investigator-initiated biotech trials, leaving rare disease families and US investors facing an uncertain future."
+        },
+        {
+          "title": "STAT+: Pharma critic Bernie Sanders is set to hold major sway over FDA funding bill",
+          "link": "https://www.statnews.com/2026/11/04/bernie-sanders-senate-help-key-role-pdufa-reauthorization/?utm_campaign=rss",
+          "pubDate": "2026-11-04T21:17:19.000Z",
+          "description": "Sanders could use his role in crafting the FDA funding bill to push for reforms."
+        },
+        {
           "title": "STAT+: Ultragenyx cuts staff after another study fails",
           "link": "https://www.statnews.com/2026/11/04/biotech-news-ultragenyx-cuts-staff-after-another-study-fails/?utm_campaign=rss",
           "pubDate": "2026-11-04T14:46:46.000Z",
           "description": "Ultragenyx announced that it's laying off about 20% of its staff as it ends development of two rare disease drugs."
-        },
-        {
-          "title": "STAT+: Former Madrigal Pharmaceuticals executive alleges coverup of safety issues tied to its drug",
-          "link": "https://www.statnews.com/2026/11/04/former-madrigal-pharmaceuticals-executive-rezdiffra-lawsuit/?utm_campaign=rss",
-          "pubDate": "2026-11-04T12:30:43.000Z",
-          "description": "A top former executive at Madrigal Pharmaceuticals has filed a lawsuit in federal court alleging a coverup of drug safety issues."
-        },
-        {
-          "title": "STAT+: Servier’s $1.55 billion muscular dystrophy drug fails first major test",
-          "link": "https://www.statnews.com/2026/11/03/becker-muscular-dystrophy-servier-edgewise-sevasemten-fail/?utm_campaign=rss",
-          "pubDate": "2026-11-03T20:53:20.000Z",
-          "description": "Servier reports a surprise setback for a drug being tested for a form of muscular dystrophy that lacks treatment."
-        },
-        {
-          "title": "STAT+: Who will get the first psychedelic approved?",
-          "link": "https://www.statnews.com/2026/11/03/biotech-news-who-will-get-the-first-psychedelic-approved/?utm_campaign=rss",
-          "pubDate": "2026-11-03T15:36:21.000Z",
-          "description": "The biotech Compass Pathways has been seen as one of the frontrunners in the race to get the first psychedelic drug approved. But it could be a tight race, with a non-profit&#8230;"
-        },
-        {
-          "title": "STAT+: Psilocybin&#8217;s lasting benefits prove elusive in mice",
-          "link": "https://www.statnews.com/2026/11/02/biotech-news-psilocybin-lasting-benefits-prove-elusive-in-mice/?utm_campaign=rss",
-          "pubDate": "2026-11-02T16:47:33.000Z",
-          "description": "Five Bay Area labs teamed up to compare lasting effects of psilocybin on anxiety and depression-like behavior in mice, with limited results:"
-        },
-        {
-          "title": "STAT+: Coming readout of Kymera eczema trial is a high-stakes moment in a bid to rival Dupixent",
-          "link": "https://www.statnews.com/2026/11/02/kymera-therapeutics-trial-results-eczema-dupixent-rival/?utm_campaign=rss",
-          "pubDate": "2026-11-02T09:30:00.000Z",
-          "description": "Investors and doctors are intensely awaiting mid-stage results of an experimental Kymera therapy positioned to rival Dupixent."
-        },
-        {
-          "title": "STAT+: El-Sayed claps back at RFK Jr., and FDA&#8217;s ‘enforcement discretion’ on peptides",
-          "link": "https://www.statnews.com/2026/10/29/el-sayed-claps-back-at-rfk-jr-fda-peptide-policy-dc-diagnosis/?utm_campaign=rss",
-          "pubDate": "2026-10-29T14:18:27.000Z",
-          "description": "Abdul El-Sayed, the Democratic Senate candidate in Michigan, pushes back against the RFK Jr.'s claims, and the new FDA policy around peptides."
-        },
-        {
-          "title": "STAT+: HHS green lights six peptides, despite concerns from FDA scientists",
-          "link": "https://www.statnews.com/2026/10/29/biotech-news-hhs-green-lights-six-peptides-for-now/?utm_campaign=rss",
-          "pubDate": "2026-10-29T13:43:44.000Z",
-          "description": "Great news for peptide fans: The Trump administration is giving the peptide craze a regulatory boost, despite objections from FDA career scientists."
         }
       ]
     },
     "biopharmadive": {
       "name": "BioPharma Dive",
       "items": [
+        {
+          "title": "At ASH, drugmakers to showcase early data for three-pronged cancer therapies",
+          "link": "https://www.biopharmadive.com/news/ash-2026-trispecific-multiple-myeloma-johnson-johnson-abbvie/873852/",
+          "pubDate": "2026-11-05T17:09:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/aUhcesS0eCO3NThNNqPfIC_gM2-0lSalzL7WEg-RP7g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02ODA4MDQ3ODAuanBn.webp\"/></div></figure><p>J&amp;J and AbbVie"
+        },
+        {
+          "title": "Revolution’s Rasonque off to best cancer drug launch ‘in history’",
+          "link": "https://www.biopharmadive.com/news/revolution-rasonque-sales-3q-2026-pancreatic-cancer/873839/",
+          "pubDate": "2026-11-05T16:21:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/7jo2bTBrvQW7C5qhMG_FtjmMgwpMzB3G5eEU8gciPKw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yYXNvbnF1ZS1wYWNrYWdpbmctZmluYWwuanBn.webp\"/></div></figure><p>Wall Street an"
+        },
+        {
+          "title": "T-Therapeutics reloads with a $133M megaround for bispecifics",
+          "link": "https://www.biopharmadive.com/news/t-therapeutics-series-b-tces-bispecifics-cancer-autoimmune/873786/",
+          "pubDate": "2026-11-05T12:52:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/6Rw1W7QFwfEr4ZVYUQ6mtqLuDIyMAnFxCrIVTMNhp3I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTQ3NjA0OTMxLmpwZw==.webp\"/></div></figure><p>The startup is"
+        },
+        {
+          "title": "Alethio raises $90M to target rare blood cancers",
+          "link": "https://www.biopharmadive.com/news/alethio-therapeutics-myeloproliferative-neoplasms-series-a/873775/",
+          "pubDate": "2026-11-05T08:00:00.000Z",
+          "description": "<p>The startup is working on a medicine one of its investors claimed could have a broader reach than other approved drugs for a group of conditions known as&nbsp;myeloproliferative neoplasms.</p>"
+        },
         {
           "title": "Sanofi stops development of Nurix-partnered immune drug",
           "link": "https://www.biopharmadive.com/news/sanofi-discontinue-development-nurix-stat6-degrader-eczema/873697/",
@@ -186,30 +210,6 @@
           "link": "https://www.biopharmadive.com/news/biotech-pharma-midterm-elections-impact/873667/",
           "pubDate": "2026-11-04T15:28:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/L34bY0QCFnLRydTcMQcaYqh7Vc35DUVpi6PKrjpMyvA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAyOTg1NTQ5XzEuanBn.webp\"/></div></figure><p>Historical dat"
-        },
-        {
-          "title": "Vertex, ahead of FDA decision, calms fears surrounding kidney drug",
-          "link": "https://www.biopharmadive.com/news/vertex-earnings-q3-2026-povetacicept-iga-nephropathy-kidney/873600/",
-          "pubDate": "2026-11-03T17:32:00.000Z",
-          "description": "<p>On a conference call, executives expressed conviction in the coming launch of an IgA nephropathy medicine viewed by Wall Street investors as important to Vertex&rsquo;s future.&nbsp;</p>"
-        },
-        {
-          "title": "Medicare Part D premiums are spiking 50% on average next year, KFF finds",
-          "link": "https://www.biopharmadive.com/news/medicare-part-d-premiums-skyrocket-2027-kff/873552/",
-          "pubDate": "2026-11-03T13:46:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/9rqEUkPAiXkoa-G6AcbavB0YG3WKMnd5HB4wsjvTalk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTU1OTcyODQuanBn.webp\"/></div></figure><p>The health policy "
-        },
-        {
-          "title": "UniQure gets an FDA decision date; Teva scraps brain drug study",
-          "link": "https://www.biopharmadive.com/news/uniqure-fda-bright-minds-specific-teva-cinrock/873455/",
-          "pubDate": "2026-11-03T13:41:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\"/></div></figure>"
-        },
-        {
-          "title": "Karyopharm, deep in debt, to sell itself in bankruptcy",
-          "link": "https://www.biopharmadive.com/news/karyopharm-bankruptcy-chapter-11-auction-ayrmid-gamida-cell/873415/",
-          "pubDate": "2026-11-02T17:07:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/CSn7mb9kUJKt7C4B-Hg90ixWPga0R-Efvq-YxlFSZ5I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzI3MjY4MzcuanBn.webp\"/></div></figure><p>The parent of cell"
         }
       ]
     }
