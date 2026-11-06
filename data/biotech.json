@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-11-05T18:22:09.495Z",
+  "generatedAt": "2026-11-06T17:43:34.483Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
+        {
+          "title": "Chutes & Ladders—Novo's longtime CFO to hang up gloves as Galderma exec steps in",
+          "link": "https://www.fiercebiotech.com/biotech/chutes-ladders-novos-longtime-cfo-hang-gloves-galderma-exec-steps",
+          "pubDate": "2026-11-05T15:09:00.000Z",
+          "description": "Novo's CFO of the past 8 years is taking his leave at the end of the year. Alnylam is on the hunt for a new commercial chief amid news of Tolga Tanguler's departure. Amgen has looked within to replace its head of quality."
+        },
+        {
+          "title": "There's more than one way to build a biotech",
+          "link": "https://www.fiercebiotech.com/biotech/theres-more-one-way-build-biotech",
+          "pubDate": "2026-11-06T10:13:00.000Z",
+          "description": "Axiom Biosciences is taking an unconventional approach to raising capital and developing new therapies. In this episode of \"The Top Line,\" founder and CEO Remo Moomiaie-Qajar joins Fierce Biotech's Marissa Russo to discuss the company's fin"
+        },
+        {
+          "title": "Generate CEO sees ‘huge opportunity’ from using Claude to shorten CAR-T cell engines",
+          "link": "https://www.fiercebiotech.com/research/anthropic-extends-its-biological-footprint-generates-car-t-cells",
+          "pubDate": "2026-11-05T09:41:00.000Z",
+          "description": "Generate Biomedicines' CEO has hailed the “huge opportunity” offered by AI tools after the Flagship-founded company used Anthropic's Claude AI platform to reduce the size of CAR-T cell engines."
+        },
+        {
+          "title": "Moderna’s norovirus vaccine plans in limbo in wake of phase 3 miss",
+          "link": "https://www.fiercebiotech.com/biotech/modernas-norovirus-plans-limbo-after-ph3-miss",
+          "pubDate": "2026-11-06T09:52:00.000Z",
+          "description": "Moderna has scrapped plans to enroll a new cohort in a phase 3 trial of its norovirus vaccine and instead will meet with regulators to decide on next steps."
+        },
+        {
+          "title": "Merck abandons Sutro-partnered IL-2 drug in ‘routine pipeline prioritization’",
+          "link": "https://www.fiercebiotech.com/biotech/merck-abandons-sutro-partnered-il-2-drug-routine-pipeline-prioritization",
+          "pubDate": "2026-11-06T04:21:00.000Z",
+          "description": "Merck &amp; Co. has called time on a Sutro Biopharma-partnered IL-2 agonist that was being tested for solid tumors."
+        },
+        {
+          "title": "Siemens Healthineers rebrands and carves out in vitro diagnostics biz",
+          "link": "https://www.fiercebiotech.com/medtech/siemens-healthineers-rebrands-and-carves-out-vitro-diagnostics-biz",
+          "pubDate": "2026-11-06T02:36:00.000Z",
+          "description": "Siemens Healthineers will carve out its in vitro diagnostics business as a standalone company operating under the name Olyrian Diagnostics."
+        },
         {
           "title": "Rezera revs up for $181M IPO to fund phase 3 trial of NLRP3 inhibitor",
           "link": "https://www.fiercebiotech.com/biotech/rezera-revs-181m-ipo-fund-phase-3-trial-nlrp3-inhibitor",
@@ -15,42 +51,6 @@
           "link": "https://www.fiercebiotech.com/biotech/metavias-glp-1-sheds-liver-fat-and-body-weight-phase-1-fails-wow-investors",
           "pubDate": "2026-11-05T09:53:00.000Z",
           "description": "MetaVia has linked its GLP-1/glucagon receptor agonist to reductions in liver fat and body weight in a phase 1 trial. Encouraged by the data, MetaVia plans to start a phase 2 trial in alcohol-associated liver disease next year."
-        },
-        {
-          "title": "AstraZeneca said to offer $10B to acquire Rhythm, analysts whisper of a bidding war",
-          "link": "https://www.fiercebiotech.com/pharma/astrazeneca-offers-10b-acquire-rhythm-analysts-whisper-bidding-war",
-          "pubDate": "2026-11-05T09:38:00.000Z",
-          "description": "AstraZeneca has made a roughly $10 billion offer to purchase rare obesity disease player Rhythm Pharmaceuticals, The Wall Street Journal reports. At least three teams of analysts suggest a bidding war could be brewing and that Rhythm is unl"
-        },
-        {
-          "title": "Agios aims to shed over 100 R&D roles this year ahead of hoped-for sickle cell disease approval",
-          "link": "https://www.fiercebiotech.com/biotech/agios-aims-shed-100-rd-roles-year-ahead-hoped-scd-approval",
-          "pubDate": "2026-11-05T08:41:00.000Z",
-          "description": "Agios Pharmaceuticals has been shrinking its R&amp;D headcount over the course of 2026 as the commercial-stage company looks to eliminate more than 100 roles by year-end."
-        },
-        {
-          "title": "Cash-strapped Vivoryon regains China rights to kidney disease prospect from Simcere",
-          "link": "https://www.fiercebiotech.com/biotech/cash-strapped-vivoryon-regains-china-rights-kidney-disease-prospect-simcere",
-          "pubDate": "2026-11-05T05:51:00.000Z",
-          "description": "Vivoryon Therapeutics has regained the China rights to its kidney disease prospect as the German biotech’s cash reserves begin to dry up."
-        },
-        {
-          "title": "Fierce Biotech Fundraising Tracker '26: Alethio attains $90M series A for rare blood cancer drugs",
-          "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
-          "pubDate": "2025-12-22T15:30:00.000Z",
-          "description": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs."
-        },
-        {
-          "title": "Evommune signs $1B deal with China’s Hinova to enter same molecular glue niche as Novartis",
-          "link": "https://www.fiercebiotech.com/biotech/evommune-signs-1b-deal-chinas-hinova-enter-same-molecular-glue-space-novartis",
-          "pubDate": "2026-11-05T04:55:00.000Z",
-          "description": "Evommune has paid $30 million to China’s Hinova Pharmaceuticals to get stuck into a niche of preclinical molecular glue degrader development that’s also being pursued by Novartis."
-        },
-        {
-          "title": "Fierce Biotech Layoff Tracker 2026: Agios trims 100 R&D roles; Ultragenyx lays off 20%",
-          "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
-          "pubDate": "2025-12-23T10:11:00.000Z",
-          "description": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team."
         }
       ]
     },
@@ -58,58 +58,76 @@
       "name": "Endpoints News",
       "items": [
         {
-          "title": "Rasonque sales drive RevMed's stock; whistleblower sues Madrigal over MASH",
-          "link": "https://endpoints.news/rasonque-sales-drive-up-revmeds-stock-whistleblower-sues-madrigal-over-mash/",
-          "pubDate": "2026-11-05T15:59:19.000Z",
-          "description": "Plus news about Rezera, ANI Pharmaceuticals, Cloudbreak Pharma and Anaheim Bio.\r\n\r\n RevMed’s stock jumps on early Rasonque sales: The RAS drug developer reported sales of its pancreatic cancer therapy Rasonque for the first time, netting .."
+          "title": "#SITC26: Immunocore reports early data for brenetafusp plus Kimmtrak in uveal melanoma",
+          "link": "https://endpoints.news/sitc26-immunocore-reports-early-data-for-brenetafusp-plus-kimmtrak-in-uveal-melanoma/",
+          "pubDate": "2026-11-06T17:00:22.000Z",
+          "description": "In an early test of two bispecific T cell engagers combined in a solid tumor, Immunocore said an estimated 70% of certain uveal melanoma patients were alive at two years after receiving the doublet in ..."
         },
         {
-          "title": "Caldera, Evommune sign China licensing deals for autoimmune drugs",
-          "link": "https://endpoints.news/caldera-evommune-sign-china-licensing-deals-for-autoimmune-drugs/",
-          "pubDate": "2026-11-05T15:27:30.000Z",
-          "description": "The biopharma industry was already on pace for one China deal per week for the entire year. Now, another two biotechs have snagged assets from the world's busiest shopping mall for new ..."
+          "title": "J&J’s Rybrevant nets FDA approval in head and neck cancer",
+          "link": "https://endpoints.news/jjs-rybrevant-nets-fda-approval-in-head-and-neck-cancer/",
+          "pubDate": "2026-11-06T16:53:33.000Z",
+          "description": "The FDA has granted accelerated approval to Johnson & Johnson’s cancer shot Rybrevant in head and neck cancer that’s come back after previous chemotherapy and immunotherapy.\r\n\r\n The approval is the first in a decade for ..."
         },
         {
-          "title": "#AASLD26: Merck unwraps biopsy data for MASH drug it got from South Korea's Hanmi",
-          "link": "https://endpoints.news/aasld26-merck-unwraps-mash-biopsy-data-for-drug-it-got-from-south-koreas-hanmi/",
-          "pubDate": "2026-11-05T15:00:22.000Z",
-          "description": "Merck reported Thursday its dual GLP-1/glucagon agonist cleared a mid-stage trial in the liver disease called MASH, sharing biopsy data on a drug it licensed from Hanmi Pharmaceutical in 2020 for $10 ..."
+          "title": "Satellos' new Duchenne study endpoint; Amgen's Repatha cuts heart attack risk",
+          "link": "https://endpoints.news/satellos-new-duchenne-study-endpoint-amgens-repatha-cuts-heart-attack-risk/",
+          "pubDate": "2026-11-06T16:08:42.000Z",
+          "description": "Plus, news about MetaVia, Agios Pharmaceuticals and Inovio.\r\n\r\n Satellos Bioscience changes Duchenne study primary endpoint: The company is studying a small-molecule drug called forazapadin aimed at helping muscle repair and growth in boys "
         },
         {
-          "title": "Ellipsis Health buys Kouper Health to act on AI voice calls",
-          "link": "https://endpoints.news/ellipsis-health-buys-kouper-health-to-act-on-ai-voice-calls/",
-          "pubDate": "2026-11-05T14:00:40.000Z",
-          "description": "Ellipsis Health, a startup developing voice AI for healthcare, has acquired another company as demand for AI that can call patients heats up, Endpoints News learned exclusively.\r\n\r\n Ellipsis, which uses voice AI to screen and ..."
+          "title": "Sarepta quits enrolling for confirmatory Phase 3 trial of Elevidys",
+          "link": "https://endpoints.news/sarepta-quits-enrolling-for-confirmatory-phase-3-trial-of-elevidys/",
+          "pubDate": "2026-11-06T14:10:47.000Z",
+          "description": "Sarepta Therapeutics won’t enroll more patients in the Phase 3 trial of its Duchenne muscular dystrophy gene therapy Elevidys, a test that was meant to act as confirmatory evidence for an approval in older boys.\r\n\r\n ..."
         },
         {
-          "title": "Alethio clinches $90M to advance antibody for essential thrombocythemia",
-          "link": "https://endpoints.news/alethio-clinches-90m-to-advance-antibody-for-essential-thrombocythemia/",
-          "pubDate": "2026-11-05T08:00:50.000Z",
-          "description": "About a year after emerging from stealth, University of Oxford spinout Alethio Therapeutics has collected $90 million in a Series A raise to support its lead rare blood cancer program.\r\n\r\n The ..."
+          "title": "Moderna notches small profit as it prioritizes work on cancer vaccines",
+          "link": "https://endpoints.news/moderna-notches-small-profit-as-it-prioritizes-work-on-cancer-vaccines/",
+          "pubDate": "2026-11-06T13:02:48.000Z",
+          "description": "International Covid-19 vaccine sales helped propel Moderna to its first profitable quarter in two years, as its return to cancer leaps forward.\r\n\r\n\r\n\r\n “I don't normally use a lot of hyperbole, but it was a great ..."
         },
         {
-          "title": "T-Therapeutics secures $133M for cancer, autoimmune TCRs",
-          "link": "https://endpoints.news/t-therapeutics-secures-133m-for-cancer-autoimmune-tcrs/",
-          "pubDate": "2026-11-05T07:00:00.000Z",
-          "description": "Johnson & Johnson, Merck KGaA and Eli Lilly are joining Sanofi in backing a UK biotech working on T cell receptors for autoimmune conditions and cancer.\r\n\r\n The pharma companies or their corporate ..."
+          "title": "Novo, Pfizer make CFO hires; Alnylam's chief commercial officer exits as struggles continue",
+          "link": "https://endpoints.news/novo-pfizer-make-cfo-hires-alnylams-chief-commercial-officer-exits-as-struggles-continue/",
+          "pubDate": "2026-11-06T12:00:44.000Z",
+          "description": "→ As Endpoints News previously reported, Novo will soon have a new finance chief to help guide it as it tries to turn a corner. Luigi La Corte said in a ..."
         },
         {
-          "title": "#ASH26: Kamau shares first data from revamped sickle cell gene editing therapy",
-          "link": "https://endpoints.news/kamau-shares-first-data-from-revamped-sickle-cell-gene-editing-therapy/",
-          "pubDate": "2026-11-04T20:05:28.000Z",
-          "description": "Kamau Therapeutics, which has stayed relatively quiet since its 2023 emergence, is sharing clinical data from its revamped sickle cell gene editing program for the first time.\r\n\r\n The startup is giving a ..."
+          "title": "Seven new tumor cases reported among patients on Novartis' Zolgensma gene therapy",
+          "link": "https://endpoints.news/seven-new-tumor-cases-reported-in-zolgensma-patients/",
+          "pubDate": "2026-11-05T21:08:43.000Z",
+          "description": "Nine patients who have received Novartis' spinal muscular atrophy gene therapy Zolgensma have developed tumors following their treatment, the company confirmed Thursday. Seven of those cases were disclosed for the first time.\r\n\r\n Two may be"
         },
         {
-          "title": "Novo’s race to catch Eli Lilly may already be lost",
-          "link": "https://endpoints.news/novos-race-to-catch-eli-lilly-may-already-be-lost/",
-          "pubDate": "2026-11-04T18:47:01.000Z",
-          "description": "A year ago, the rivalry between Eli Lilly and Novo was the fiercest in the industry. Now, it looks increasingly one-sided.\r\n\r\n The best evidence might be investors' reactions to each company's third-quarter results. Both stocks ..."
+          "title": "Preeclampsia almost took her life and her baby's. Drugs are finally underway",
+          "link": "https://endpoints.news/preeclampsia-almost-took-her-life-and-her-babys-drugs-are-finally-underway/",
+          "pubDate": "2026-11-05T20:52:52.000Z",
+          "description": "LAS CRUCES, NM — Emily Chaddock had hired a photographer to capture her in the classic maternity pose.\r\n\r\n But days later, at 27 weeks pregnant, she developed severe preeclampsia. Her blood vessels narrowed and her vision ..."
         }
       ]
     },
     "statnews": {
       "name": "STAT News (Biotech)",
       "items": [
+        {
+          "title": "STAT+: New tumor cases show common gene therapy tool can come with risk",
+          "link": "https://www.statnews.com/2026/11/06/novartis-zolgensma-gene-therapy-tumor-risk/?utm_campaign=rss",
+          "pubDate": "2026-11-06T16:14:40.000Z",
+          "description": "New cases show AAV gene therapies like Zolgensma carry tumor risks, raising key concerns for SMA patients and gene therapy researchers in general."
+        },
+        {
+          "title": "STAT+: Amgen&#8217;s Repatha linked to fewer heart attacks",
+          "link": "https://www.statnews.com/2026/11/06/biotech-news-amgen-repatha-linked-to-fewer-heart-attacks/?utm_campaign=rss",
+          "pubDate": "2026-11-06T15:14:53.000Z",
+          "description": "Pithy intro text about the biopharma milieu.&#160; Novartis cites&#160;more tumor reports after Zolgensma Novartis has disclosed seven previously unreported cases of tumors in children who received Zolgensma, its gene therapy&#8230;"
+        },
+        {
+          "title": "STAT+: Novartis cites cases of previously unknown tumors possibly tied to its SMA gene therapy",
+          "link": "https://www.statnews.com/pharmalot/2026/11/05/novartis-sma-zolgensma-tumor-case-reports/?utm_campaign=rss",
+          "pubDate": "2026-11-05T18:53:34.000Z",
+          "description": "Novartis has acknowledged seven previously unknown instances in which tumors were found in children who were treated with its spinal muscular atrophy therapy, Zolgensma."
+        },
         {
           "title": "STAT+: A possible comeback for a failed sickle cell gene therapy",
           "link": "https://www.statnews.com/2026/11/05/biotech-news-a-possible-comeback-for-failed-sickle-cell-gene-therapy/?utm_campaign=rss",
@@ -139,30 +157,36 @@
           "link": "https://www.statnews.com/2026/11/05/promis-neurosciences-alzheimers-disease-acumen-vertex-kidney-drug/?utm_campaign=rss",
           "pubDate": "2026-11-05T11:30:00.000Z",
           "description": "Shares of ProMis Neurosciences, developer of a treatment for Alzheimer’s disease, sold off sharply last week. A closer look at the reason why — and whether it holds up."
-        },
-        {
-          "title": "STAT+: In China, a flood of controversial clinical trials slows to a trickle",
-          "link": "https://www.statnews.com/2026/11/05/china-biotech-restrictions-impact-rare-disease-investigator-initiated-trial/?utm_campaign=rss",
-          "pubDate": "2026-11-05T09:30:00.000Z",
-          "description": "Following patient deaths, China restricts investigator-initiated biotech trials, leaving rare disease families and US investors facing an uncertain future."
-        },
-        {
-          "title": "STAT+: Pharma critic Bernie Sanders is set to hold major sway over FDA funding bill",
-          "link": "https://www.statnews.com/2026/11/04/bernie-sanders-senate-help-key-role-pdufa-reauthorization/?utm_campaign=rss",
-          "pubDate": "2026-11-04T21:17:19.000Z",
-          "description": "Sanders could use his role in crafting the FDA funding bill to push for reforms."
-        },
-        {
-          "title": "STAT+: Ultragenyx cuts staff after another study fails",
-          "link": "https://www.statnews.com/2026/11/04/biotech-news-ultragenyx-cuts-staff-after-another-study-fails/?utm_campaign=rss",
-          "pubDate": "2026-11-04T14:46:46.000Z",
-          "description": "Ultragenyx announced that it's laying off about 20% of its staff as it ends development of two rare disease drugs."
         }
       ]
     },
     "biopharmadive": {
       "name": "BioPharma Dive",
       "items": [
+        {
+          "title": "Novartis reveals cancer cases possibly linked to gene therapy Zolgensma",
+          "link": "https://www.biopharmadive.com/news/zolgensma-tumor-report-novartis-sma-spinal-muscular-atrophy/873990/",
+          "pubDate": "2026-11-06T16:51:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vrkuKfC86E3IAGde3vZ5ggasyy4P6e9PEsoXK1DBtPw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjc0ODQ0MTE0LmpwZw==.webp\"/></div></figure><p>The occurrence"
+        },
+        {
+          "title": "Lilly, Hims reach GLP-1 deal; Alnylam sales chief to step down",
+          "link": "https://www.biopharmadive.com/news/lilly-hims-alnylam-boehringer-ultragenyx-sevasemten-ani-egetis/873843/",
+          "pubDate": "2026-11-06T13:13:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\"/></div></figure>"
+        },
+        {
+          "title": "This week in charts: 3 drug launches Wall Street is watching",
+          "link": "https://www.biopharmadive.com/news/biotech-charts-drug-launches-sales-wegovy-rezdiffra-auvelity/873549/",
+          "pubDate": "2026-11-06T12:00:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/noY6Oanv5v-_yDQZKEqBBDkEKvecYGoj9vaCkgyW_q0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyX20yY2w4SnouanBn.webp\"/></div></figure><p>The la"
+        },
+        {
+          "title": "Medicare will cut billions from 340B, expand site-neutral payments in 2027",
+          "link": "https://www.biopharmadive.com/news/medicare-will-cut-billions-from-340b-expand-site-neutral-payments-in-2027/873909/",
+          "pubDate": "2026-11-05T21:06:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/5RHqNDZFgUFfignT5rqVP6ETVGApAb__iAS5G4tEp8E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA1OTA4MDM3LmpwZw==.webp\"/></div></figure><p>Regulators fin"
+        },
         {
           "title": "At ASH, drugmakers to showcase early data for three-pronged cancer therapies",
           "link": "https://www.biopharmadive.com/news/ash-2026-trispecific-multiple-myeloma-johnson-johnson-abbvie/873852/",
@@ -186,30 +210,6 @@
           "link": "https://www.biopharmadive.com/news/alethio-therapeutics-myeloproliferative-neoplasms-series-a/873775/",
           "pubDate": "2026-11-05T08:00:00.000Z",
           "description": "<p>The startup is working on a medicine one of its investors claimed could have a broader reach than other approved drugs for a group of conditions known as&nbsp;myeloproliferative neoplasms.</p>"
-        },
-        {
-          "title": "Sanofi stops development of Nurix-partnered immune drug",
-          "link": "https://www.biopharmadive.com/news/sanofi-discontinue-development-nurix-stat6-degrader-eczema/873697/",
-          "pubDate": "2026-11-04T17:18:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/FBR1IQNmU9Hqatva496Zg2G8JMHsqV0UGsf4LMARqYo/g:nowe:189:144/c:1776:1003/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS80OTY5MDc4MzcxMl8yYTc1ZmQ5M2MyX28uanBn.webp\"/></div></fi"
-        },
-        {
-          "title": "Novo gets much-needed lift as Wegovy pill tops Wall Street forecasts",
-          "link": "https://www.biopharmadive.com/news/novo-wegovy-pill-sales-3q-2026-earnings-cfo/873693/",
-          "pubDate": "2026-11-04T16:13:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/VdqvvmORi87mCCjU3L6_SGAEVMxArSRaPHEeQ-JvdaY/g:nowe:7:772/c:1992:1125/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9vcmlnaW5hbF8xLmpmaWY=.webp\"/></div></figure><p>The drug&r"
-        },
-        {
-          "title": "CVS to split into two companies in stunning strategic about-face",
-          "link": "https://www.biopharmadive.com/news/cvs-split-two-companies-strategic-about-face/873742/",
-          "pubDate": "2026-11-04T15:47:46.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/dNegkVxFwnucovdoVAZMfnKsAsk7SBcWhjg72hTkCic/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDEzNjc0NTk2LmpwZw==.webp\"/></div></figure><p>The breakup, w"
-        },
-        {
-          "title": "Biopharma likely to climb higher after ‘blue wave,’ analysts say",
-          "link": "https://www.biopharmadive.com/news/biotech-pharma-midterm-elections-impact/873667/",
-          "pubDate": "2026-11-04T15:28:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/L34bY0QCFnLRydTcMQcaYqh7Vc35DUVpi6PKrjpMyvA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAyOTg1NTQ5XzEuanBn.webp\"/></div></figure><p>Historical dat"
         }
       ]
     }
