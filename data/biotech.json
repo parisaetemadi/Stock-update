@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-11-06T17:43:34.483Z",
+  "generatedAt": "2026-11-07T16:40:17.118Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
+        {
+          "title": "Novartis’ Lp(a) drug shows zero benefit, casting shadow over Amgen and Lilly programs",
+          "link": "https://www.fiercebiotech.com/biotech/novartis-lpa-drug-shows-zero-benefit-casting-shadow-over-amgen-and-lilly-programs",
+          "pubDate": "2026-11-05T10:46:00.000Z",
+          "description": "Novartis has lifted the lid on data from its failed cardiovascular outcomes trial, reporting a total absence of efficacy that could intensify questions about upcoming readouts from Amgen and Eli Lilly."
+        },
         {
           "title": "Chutes & Ladders—Novo's longtime CFO to hang up gloves as Galderma exec steps in",
           "link": "https://www.fiercebiotech.com/biotech/chutes-ladders-novos-longtime-cfo-hang-gloves-galderma-exec-steps",
@@ -45,18 +51,30 @@
           "link": "https://www.fiercebiotech.com/biotech/rezera-revs-181m-ipo-fund-phase-3-trial-nlrp3-inhibitor",
           "pubDate": "2026-11-05T09:57:00.000Z",
           "description": "Rezera—the new name for NodThera—is aiming for a $181 million IPO to take its NLRP3 inhibitor into phase 3 trials for a cardiovascular disease."
-        },
-        {
-          "title": "MetaVia sees GLP-1 shed liver fat and body weight in phase 1, takes aim at specific liver disease",
-          "link": "https://www.fiercebiotech.com/biotech/metavias-glp-1-sheds-liver-fat-and-body-weight-phase-1-fails-wow-investors",
-          "pubDate": "2026-11-05T09:53:00.000Z",
-          "description": "MetaVia has linked its GLP-1/glucagon receptor agonist to reductions in liver fat and body weight in a phase 1 trial. Encouraged by the data, MetaVia plans to start a phase 2 trial in alcohol-associated liver disease next year."
         }
       ]
     },
     "endpoints": {
       "name": "Endpoints News",
       "items": [
+        {
+          "title": "#AHA26: The similar, surprising Novo and Novartis heart drug failures spelled out",
+          "link": "https://endpoints.news/aha26-the-similar-surprising-novo-and-novartis-heart-drug-failures-spelled-out/",
+          "pubDate": "2026-11-07T14:50:59.000Z",
+          "description": "The heart drug whose failure knocked 9% off Novo’s share price in July had almost no effect at all in its pivotal trial. And data on a cardiovascular candidate from Novartis ..."
+        },
+        {
+          "title": "Novo’s race to catch Lilly; Q3 earnings recap; and more",
+          "link": "https://endpoints.news/novos-race-to-catch-lilly-q3-earnings-recap-and-more/",
+          "pubDate": "2026-11-07T11:00:46.000Z",
+          "description": "Welcome back to Endpoints Weekly. Democrats won control of Congress in a wave election on Tuesday. What does that mean for biopharma? Endpoints News’ Max Bayer and Drew Armstrong discussed the results with policy expert ..."
+        },
+        {
+          "title": "Church quits role at AI startup Radical, claims ‘sleazy’ behavior stole credit from partner",
+          "link": "https://endpoints.news/church-quits-role-at-ai-startup-radical-claims-sleazy-behavior-stole-credit-from-partner/",
+          "pubDate": "2026-11-07T00:52:09.000Z",
+          "description": "George Church, the famed Harvard scientist, has advised startups pursuing everything from resurrecting extinct species to putting pig organs in humans.\r\n\r\n But he hasn’t witnessed anything quite like a bizarre fight to steal scientific cred"
+        },
         {
           "title": "#SITC26: Immunocore reports early data for brenetafusp plus Kimmtrak in uveal melanoma",
           "link": "https://endpoints.news/sitc26-immunocore-reports-early-data-for-brenetafusp-plus-kimmtrak-in-uveal-melanoma/",
@@ -86,30 +104,24 @@
           "link": "https://endpoints.news/moderna-notches-small-profit-as-it-prioritizes-work-on-cancer-vaccines/",
           "pubDate": "2026-11-06T13:02:48.000Z",
           "description": "International Covid-19 vaccine sales helped propel Moderna to its first profitable quarter in two years, as its return to cancer leaps forward.\r\n\r\n\r\n\r\n “I don't normally use a lot of hyperbole, but it was a great ..."
-        },
-        {
-          "title": "Novo, Pfizer make CFO hires; Alnylam's chief commercial officer exits as struggles continue",
-          "link": "https://endpoints.news/novo-pfizer-make-cfo-hires-alnylams-chief-commercial-officer-exits-as-struggles-continue/",
-          "pubDate": "2026-11-06T12:00:44.000Z",
-          "description": "→ As Endpoints News previously reported, Novo will soon have a new finance chief to help guide it as it tries to turn a corner. Luigi La Corte said in a ..."
-        },
-        {
-          "title": "Seven new tumor cases reported among patients on Novartis' Zolgensma gene therapy",
-          "link": "https://endpoints.news/seven-new-tumor-cases-reported-in-zolgensma-patients/",
-          "pubDate": "2026-11-05T21:08:43.000Z",
-          "description": "Nine patients who have received Novartis' spinal muscular atrophy gene therapy Zolgensma have developed tumors following their treatment, the company confirmed Thursday. Seven of those cases were disclosed for the first time.\r\n\r\n Two may be"
-        },
-        {
-          "title": "Preeclampsia almost took her life and her baby's. Drugs are finally underway",
-          "link": "https://endpoints.news/preeclampsia-almost-took-her-life-and-her-babys-drugs-are-finally-underway/",
-          "pubDate": "2026-11-05T20:52:52.000Z",
-          "description": "LAS CRUCES, NM — Emily Chaddock had hired a photographer to capture her in the classic maternity pose.\r\n\r\n But days later, at 27 weeks pregnant, she developed severe preeclampsia. Her blood vessels narrowed and her vision ..."
         }
       ]
     },
     "statnews": {
       "name": "STAT News (Biotech)",
       "items": [
+        {
+          "title": "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
+          "link": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss",
+          "pubDate": "2026-11-07T14:50:00.000Z",
+          "description": "Medical mystery at the AHA conference: A Novartis drug lowered a risk marker for cardiovascular disease but did not lower chance of heart attack or stroke."
+        },
+        {
+          "title": "STAT+: Despite Novo drug’s failure, cardiologists say they will still pursue anti-inflammatories",
+          "link": "https://www.statnews.com/2026/11/07/aha-2026-conference-novo-nordisk-zeus-trial-ziltivekimab-results/?utm_campaign=rss",
+          "pubDate": "2026-11-07T14:35:00.000Z",
+          "description": "“These results, the fact that they're negative, does not invalidate that inflammation plays a very important role in cardiovascular disease.\""
+        },
         {
           "title": "STAT+: New tumor cases show common gene therapy tool can come with risk",
           "link": "https://www.statnews.com/2026/11/06/novartis-zolgensma-gene-therapy-tumor-risk/?utm_campaign=rss",
@@ -145,18 +157,6 @@
           "link": "https://www.statnews.com/2026/11/05/health-tech-news-medicare-delays-controversial-rpm-rule-update/?utm_campaign=rss",
           "pubDate": "2026-11-05T13:04:15.000Z",
           "description": "Despite widespread opposition, Medicare will finalize a controversial proposal that will prevent providers, such as hospitals, from using third parties to deliver remote patient monitoring services."
-        },
-        {
-          "title": "STAT+: Revolution Medicines’ pancreatic cancer drug has stunning commercial debut",
-          "link": "https://www.statnews.com/2026/11/05/rasonque-revolution-medicines-pancreatic-cancer-commercial-launch/?utm_campaign=rss",
-          "pubDate": "2026-11-05T12:33:01.000Z",
-          "description": "Rasonque, Revolution Medicines' new pancreatic cancer drug, is off to one of the best oncology drug launches in history."
-        },
-        {
-          "title": "STAT+: A closer look at ProMis Neurosciences and its Alzheimer&#8217;s drug",
-          "link": "https://www.statnews.com/2026/11/05/promis-neurosciences-alzheimers-disease-acumen-vertex-kidney-drug/?utm_campaign=rss",
-          "pubDate": "2026-11-05T11:30:00.000Z",
-          "description": "Shares of ProMis Neurosciences, developer of a treatment for Alzheimer’s disease, sold off sharply last week. A closer look at the reason why — and whether it holds up."
         }
       ]
     },
