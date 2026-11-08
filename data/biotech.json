@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T16:40:17.118Z",
+  "generatedAt": "2026-11-08T16:48:26.794Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
@@ -58,6 +58,12 @@
       "name": "Endpoints News",
       "items": [
         {
+          "title": "FDA launches investigation of Novartis’ Zolgensma after cancer cases",
+          "link": "https://endpoints.news/fda-launches-investigation-of-novartis-zolgensma-after-cancer-cases/",
+          "pubDate": "2026-11-07T21:12:08.000Z",
+          "description": "The FDA is looking into a “serious risk” of cancer linked to Novartis’ spinal muscular atrophy gene therapy Zolgensma, the agency said Friday. It follows Novartis' disclosure Thursday ..."
+        },
+        {
           "title": "#AHA26: The similar, surprising Novo and Novartis heart drug failures spelled out",
           "link": "https://endpoints.news/aha26-the-similar-surprising-novo-and-novartis-heart-drug-failures-spelled-out/",
           "pubDate": "2026-11-07T14:50:59.000Z",
@@ -98,18 +104,24 @@
           "link": "https://endpoints.news/sarepta-quits-enrolling-for-confirmatory-phase-3-trial-of-elevidys/",
           "pubDate": "2026-11-06T14:10:47.000Z",
           "description": "Sarepta Therapeutics won’t enroll more patients in the Phase 3 trial of its Duchenne muscular dystrophy gene therapy Elevidys, a test that was meant to act as confirmatory evidence for an approval in older boys.\r\n\r\n ..."
-        },
-        {
-          "title": "Moderna notches small profit as it prioritizes work on cancer vaccines",
-          "link": "https://endpoints.news/moderna-notches-small-profit-as-it-prioritizes-work-on-cancer-vaccines/",
-          "pubDate": "2026-11-06T13:02:48.000Z",
-          "description": "International Covid-19 vaccine sales helped propel Moderna to its first profitable quarter in two years, as its return to cancer leaps forward.\r\n\r\n\r\n\r\n “I don't normally use a lot of hyperbole, but it was a great ..."
         }
       ]
     },
     "statnews": {
       "name": "STAT News (Biotech)",
       "items": [
+        {
+          "title": "STAT+: Why the latest heart drug failures should make us all more skeptical of AI hype",
+          "link": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss",
+          "pubDate": "2026-11-08T09:30:00.000Z",
+          "description": "Once again, a hot new technology that was supposed to speed up drug research has fallen flat."
+        },
+        {
+          "title": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
+          "link": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss",
+          "pubDate": "2026-11-07T16:57:13.000Z",
+          "description": "The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited."
+        },
         {
           "title": "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
           "link": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss",
@@ -145,18 +157,6 @@
           "link": "https://www.statnews.com/2026/11/05/biotech-news-a-possible-comeback-for-failed-sickle-cell-gene-therapy/?utm_campaign=rss",
           "pubDate": "2026-11-05T16:22:53.000Z",
           "description": "Three years ago, a trial for a sickle cell gene-editing therapy a decade in the making ended abruptly after the first patient suffered a serious adverse event. Now, the therapy&#8230;"
-        },
-        {
-          "title": "STAT+: Beyond statins, one drug lowered heart attack risk by 20%",
-          "link": "https://www.statnews.com/2026/11/05/repatha-vs-zetia-cholesterol-study-heart-attack-risk/?utm_campaign=rss",
-          "pubDate": "2026-11-05T14:00:00.000Z",
-          "description": "A new study could help doctors figure out what medicine to prescribe for cholesterol when statins don't cut it: It's “answering a really challenging clinical question.\""
-        },
-        {
-          "title": "STAT+: Medicare delays controversial remote patient monitoring rule to 2029",
-          "link": "https://www.statnews.com/2026/11/05/health-tech-news-medicare-delays-controversial-rpm-rule-update/?utm_campaign=rss",
-          "pubDate": "2026-11-05T13:04:15.000Z",
-          "description": "Despite widespread opposition, Medicare will finalize a controversial proposal that will prevent providers, such as hospitals, from using third parties to deliver remote patient monitoring services."
         }
       ]
     },
