@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-11-11T18:10:32.695Z",
+  "generatedAt": "2026-11-12T18:38:16.706Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
         {
-          "title": "Valo and Montai become one as the Flagship AI-based biotechs tie the knot",
-          "link": "https://www.fiercebiotech.com/biotech/flagship-ai-based-biotechs-valo-montai-tie-knot",
-          "pubDate": "2026-11-11T09:18:00.000Z",
-          "description": "Two Flagship Pioneering-founded AI drug discovery and development biotechs, Valo Health and Montai Therapeutics, will join forces in a merger that aims to advance Montai’s early-stage and preclinical pipeline as well as continue a series of"
+          "title": "FDA appears to pause controversial speedy review program, complete response letter disclosures",
+          "link": "https://www.fiercebiotech.com/pharma/fda-appears-pause-controversial-speedy-review-program-complete-response-letter-disclosures",
+          "pubDate": "2026-11-12T11:04:00.000Z",
+          "description": "The FDA has quietly shelved the Commissioner’s National Priority Voucher (CNPV) pilot program, Reuters reports. Meanwhile, the agency also appears to have paused publishing complete response letters after briefly halting—and then resuming—t"
         },
         {
-          "title": "Fierce Biotech Fundraising Tracker '26: VectorY wins $83.5M; Oyster cracks $60M series A",
+          "title": "Vor pays RemeGen $10M for long-acting addition to autoimmune pipeline",
+          "link": "https://www.fiercebiotech.com/biotech/vor-pays-remegen-10m-long-acting-successor-autoimmune-drug",
+          "pubDate": "2026-11-12T10:06:00.000Z",
+          "description": "Vor Bio is paying RemeGen $10 million upfront in cash for rights to RC298 outside Greater China, adding a long-acting drug candidate to its BAFF/APRIL franchise."
+        },
+        {
+          "title": "Kyverna abandons next-gen autoimmune CAR-T once touted as follow-up to miv-cel",
+          "link": "https://www.fiercebiotech.com/biotech/kyverna-abandons-next-gen-car-t-once-touted-follow-miv-cel",
+          "pubDate": "2026-11-12T09:28:00.000Z",
+          "description": "Kyverna is halting work on a next-gen CD19 CAR-T therapy as the biotech seeks FDA approval for what could become the first CAR-T treatment for an autoimmune disease."
+        },
+        {
+          "title": "Why a fresh approach to targeting G protein-coupled receptors could treat a rare eye cancer",
+          "link": "https://www.fiercebiotech.com/research/how-targeting-g-protein-coupled-receptors-can-reverse-cancer-signaling-rare-eye-cancer",
+          "pubDate": "2026-11-11T21:13:00.000Z",
+          "description": "Researchers found that only by targeting both the G protein-coupled receptor and its mutated internal molecular switch can uveal melanoma cell signaling be disrupted."
+        },
+        {
+          "title": "BMS reunites R&D divisions under Cristian Massacesi, while Robert Plenge departs",
+          "link": "https://www.fiercebiotech.com/biotech/bristol-myers-reunites-rd-divisions-under-cristian-massacesi",
+          "pubDate": "2026-11-12T08:16:00.000Z",
+          "description": "Bristol Myers Squibb is merging its research and development divisions under the leadership of Cristian Massacesi, M.D."
+        },
+        {
+          "title": "Pfizer taps Blackstone for up to $1.5B to pave path to GLP-1's obesity launch",
+          "link": "https://www.fiercebiotech.com/biotech/pfizer-taps-blackstone-15b-pave-path-glp-1-launch",
+          "pubDate": "2026-11-12T03:35:00.000Z",
+          "description": "Pfizer has secured up to $1.5 billion from Blackstone Life Sciences to fund development of its monthly GLP-1 receptor agonist."
+        },
+        {
+          "title": "Fierce Biotech Fundraising Tracker '26: China's Eli Radiopharma raises $60M; Neurosterix notches $105M",
           "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
           "pubDate": "2025-12-22T15:30:00.000Z",
           "description": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs."
         },
         {
-          "title": "Could we see 10 Chinese Big Pharmas within a decade? Some CEOs think so",
-          "link": "https://www.fiercebiotech.com/biotech/will-we-see-10-chinese-big-pharmas-within-decade-some-ceos-think-so",
-          "pubDate": "2026-11-07T06:55:00.000Z",
-          "description": "For executives at many of the Chinese drug developers who spoke to Fierce, the real prize is a seat at the Big Pharma table. In recent years, this objective has moved from a vague aspiration to a concrete goal."
-        },
-        {
-          "title": "BioNTech pays $205M for FDA voucher to speed up ‘late-stage oncology pipeline’",
-          "link": "https://www.fiercebiotech.com/pharma/biontech-pays-205m-fda-voucher-speed-late-stage-oncology-pipeline",
-          "pubDate": "2026-11-11T07:49:00.000Z",
-          "description": "BioNTech has agreed to pay $205 million to purchase an FDA priority review voucher to support a future filing of a drug in its “late-stage oncology pipeline.” Fierce breaks down which candidate is most likely to claim the regulatory acceler"
-        },
-        {
-          "title": "Amgen builds Sjögren’s case with detailed phase 3 data ahead of Novartis showdown",
-          "link": "https://www.fiercebiotech.com/biotech/amgen-builds-sjogrens-case-detailed-phase-3-data-ahead-novartis-showdown",
-          "pubDate": "2026-11-11T04:47:00.000Z",
-          "description": "Amgen has shared more data from a phase 3 Sjögren’s disease trial that dazzled analysts, digging into the details that could shape its showdown with Novartis."
-        },
-        {
-          "title": "Capricor, NextCure shed light on recent layoffs as they gear up for approval decision, merger",
-          "link": "https://www.fiercebiotech.com/biotech/capricor-nextcure-shed-light-recent-layoffs",
-          "pubDate": "2026-11-11T04:49:00.000Z",
-          "description": "Capricor and NextCure have shed light on recent rounds of layoffs, as the biotechs brace for a hoped-for drug approval and merger, respectively."
-        },
-        {
-          "title": "Abbott nabs FDA approval, CE Mark for implantable cardioverter-defibrillator lead",
-          "link": "https://www.fiercebiotech.com/medtech/abbott-nabs-fda-approval-ce-mark-implantable-cardioverter-defibrillator-lead",
-          "pubDate": "2026-11-11T01:25:00.000Z",
-          "description": "Abbott has received both FDA and CE Mark approval for its UltiSynq defibrillation lead tech, which is designed to deliver both conduction system pacing and defibrillation therapy."
-        },
-        {
-          "title": "Beam’s sickle cell therapy results tee up potential Casgevy, Lyfgenia showdown",
-          "link": "https://www.fiercebiotech.com/biotech/beams-sickle-cell-therapy-risto-cels-phase-12-results-position-potential-casgevy-lyfgenia",
-          "pubDate": "2026-11-10T13:34:00.000Z",
-          "description": "Gearing up for a potential FDA filing by the end of the year, Beam Therapeutics revealed results from a phase 1/2 study of its base-edited cell therapy risto-cel, showing the potential sickle cell treatment reduced the most painful complica"
+          "title": "Addex spinout Neurosterix raises $105M series B to fund phase 2 schizophrenia trial",
+          "link": "https://www.fiercebiotech.com/biotech/addex-spinout-neurosterix-raises-105m-series-b-fund-phase-2-schizophrenia-trial",
+          "pubDate": "2026-11-12T03:57:00.000Z",
+          "description": "Addex Therapeutics’ neuropsychiatric-focused spinout has raised $105 million in series B funds to bankroll a planned phase 2 study of its schizophrenia treatment."
         }
       ]
     },
@@ -58,58 +58,82 @@
       "name": "Endpoints News",
       "items": [
         {
-          "title": "Flagship merges two startups; J&J scores a bipolar mania success",
-          "link": "https://endpoints.news/flagship-merges-two-startups-jj-scores-a-bipolar-mania-success/",
-          "pubDate": "2026-11-11T15:44:23.000Z",
-          "description": "Plus, news about AstraZeneca, BrightGene, PepGen and Prime Medicine.\r\n\r\n Another Flagship merger: Valo Health and Montai Therapeutics, two Flagship Pioneering startups, are combining into one company. The merged company will operate ..."
+          "title": "EnGene seeks comeback from May bladder cancer crash",
+          "link": "https://endpoints.news/engene-seeks-comeback-from-may-bladder-cancer-crash/",
+          "pubDate": "2026-11-12T16:15:42.000Z",
+          "description": "EnGene’s latest data on its bladder cancer therapy looked better than an earlier cut in May, which had gutted the biotech’s stock after it reported underwhelming durability results. But it still remains ..."
         },
         {
-          "title": "Beeline reveals Phase 2 lupus data from old Bristol Myers drug",
-          "link": "https://endpoints.news/beeline-reveals-phase-2-lupus-data-from-old-bristol-myers-drug/",
-          "pubDate": "2026-11-11T14:00:48.000Z",
-          "description": "Beeline Medicines fleshed out an impressive mid-stage win in systemic lupus on Wednesday, setting the stage for Phase 3 trials with a former drug from Bristol Myers Squibb.\r\n\r\n At each of three doses tested, Beeline’s ..."
+          "title": "BioNTech pays $205M for Scholar Rock voucher; J&J pulls back in Norway",
+          "link": "https://endpoints.news/biontech-pays-205m-for-scholar-rock-voucher-jj-pulls-back-in-norway/",
+          "pubDate": "2026-11-12T16:03:16.000Z",
+          "description": "Plus, news about Vor Bio, RemeGen, Merck KGaA, Aidea, Astellas and Immuneering.\r\n\r\n BioNTech acquires PRV for $205 million: The German biotech scooped up the FDA voucher from Scholar Rock, with plans ..."
         },
         {
-          "title": "UK science minister calls for more life sciences investment",
-          "link": "https://endpoints.news/uk-science-minister-calls-for-more-life-sciences-investment/",
-          "pubDate": "2026-11-11T13:52:49.000Z",
-          "description": "Now that the UK government has increased its spending on medicines, it’s calling for life sciences companies to do their part and invest on home soil.\r\n\r\n “We are determined to ensure that the UK is ..."
+          "title": "Merck KGaA's writedown over Lonza deal; PharmaLogic buys Lantheus' CDMO business",
+          "link": "https://endpoints.news/merck-kgaas-writedown-over-lonza-deal-pharmalogic-buys-lantheus-cdmo-business/",
+          "pubDate": "2026-11-12T15:06:12.000Z",
+          "description": "Merck KGaA’s impairment hit from CDMO sale: The German conglomerate reported a €366 million ($405.8 million) impairment loss on its business sale to Lonza, according to its third-quarter earnings report Thursday. Last week, the company ..."
         },
         {
-          "title": "VectorY bags $83.5M for antibody gene therapies in neurodegenerative diseases",
-          "link": "https://endpoints.news/vectory-bags-83-5m-for-antibody-gene-therapies-in-neurodegenerative-diseases/",
-          "pubDate": "2026-11-11T13:00:05.000Z",
-          "description": "VectorY Therapeutics added €74.5 million ($83.5 million) to its Series A to fund a gene therapy that makes antibodies in the brain.\r\n\r\n The biotech’s lead asset VTx-002 is in a"
+          "title": "Ira Mellman wants Parker Institute to restore cancer immunotherapy",
+          "link": "https://endpoints.news/ira-mellman-wants-parker-institute-to-restore-cancer-immunotherapy/",
+          "pubDate": "2026-11-12T14:00:54.000Z",
+          "description": "While the whole world was applauding Revolution Medicines' new cancer drug, all Ira Mellman felt was disappointment and frustration.\r\n\r\n The pill, daraxonrasib, kept patients with advanced pancreatic cancer alive roughly twice as ..."
         },
         {
-          "title": "Merck KGaA lands FDA nod for joint tumor drug it licensed from Abbisko",
-          "link": "https://endpoints.news/merck-kgaa-lands-fda-nod-for-joint-tumor-drug-it-licensed-from-abbisko/",
-          "pubDate": "2026-11-11T11:57:06.000Z",
-          "description": "Merck KGaA said Tuesday that the drug it licensed from a China-based biotech has secured FDA approval for rare noncancerous tumors that impact the joints.\r\n\r\n The German conglomerate got the"
+          "title": "Bristol Myers to merge R&D under Massacesi, research head to exit",
+          "link": "https://endpoints.news/bristol-myers-to-merge-rd-under-massacesi-research-head-to-exit/",
+          "pubDate": "2026-11-12T12:29:08.000Z",
+          "description": "Bristol Myers Squibb is changing up its R&D leadership, moving out head of research Robert Plenge and giving his responsibilities to Cristian Massacesi, the company's chief medical officer and head of development work.\r\n\r\n The shakeup ..."
         },
         {
-          "title": "Despite midterm losses, RFK Jr. is bullish on MAHA's future",
-          "link": "https://endpoints.news/despite-midterm-losses-rfk-jr-is-bullish-on-mahas-future/",
-          "pubDate": "2026-11-10T22:06:43.000Z",
-          "description": "Rumors and speculation have swirled all year about the fate of HHS Secretary Robert F. Kennedy Jr., the political face of the Make America Healthy Again movement.\r\n\r\n But after a bruising midterm election for the ..."
+          "title": "Blackstone commits up to $1.5B for R&D of Pfizer's ex-Metsera GLP-1",
+          "link": "https://endpoints.news/blackstone-commits-up-to-1-5b-for-rd-of-pfizers-ex-metsera-glp-1/",
+          "pubDate": "2026-11-12T11:17:18.000Z",
+          "description": "Pfizer has secured up to $1.5 billion from the investment group Blackstone Life Sciences to help pay for the development of its obesity candidate berobenatide.\r\n\r\n The co-funding agreement will see that cash come from funds ..."
         },
         {
-          "title": "Mirum plans FDA submission for hepatitis D treatment as competition brews",
-          "link": "https://endpoints.news/mirum-plans-fda-submission-for-hepatitis-d-treatment-as-competition-brews/",
-          "pubDate": "2026-11-10T19:31:21.000Z",
-          "description": "Mirum’s hepatitis D treatment has succeeded in the second of two pivotal trials. Now comes the next challenge: competing with rivals in a growing market.\r\n\r\n The Phase 3 trial, called AZURE-4, enrolled 113 treatment-naïve patients ..."
+          "title": "Neurosterix pulls in $105M for schizophrenia drug, taps Cobenfy vets",
+          "link": "https://endpoints.news/neurosterix-pulls-in-105m-for-schizophrenia-drug-recruits-cobenfy-vets/",
+          "pubDate": "2026-11-11T21:00:55.000Z",
+          "description": "Neurosterix, which is reuniting some key figures behind Cobenfy, has corralled $105 million in a Series B to fund its lead schizophrenia candidate that hits one of the targets of Bristol Myers Squibb’s drug.\r\n\r\n The ..."
         },
         {
-          "title": "Oura to buy AI care startup Counsel Health for $625M",
-          "link": "https://endpoints.news/oura-to-buy-ai-care-startup-counsel-health-for-625m/",
-          "pubDate": "2026-11-10T19:00:02.000Z",
-          "description": "Wearable ringmaker Oura is buying AI primary care startup Counsel Health.\r\n\r\n Oura is paying $625 million in cash for Counsel, which offers medical AI services as well as virtual visits with doctors. The idea is ..."
+          "title": "How Hims plans to reinvigorate its business",
+          "link": "https://endpoints.news/how-hims-plans-to-revive-its-business-after-pivoting-to-branded-glp-1s/",
+          "pubDate": "2026-11-11T20:20:26.000Z",
+          "description": "Hims & Hers, once obsessed with delivering \"personalized care\" through compounded drug products, is now banking on brand-name treatments and the pharmaceutical giants it previously tried to undercut.\r\n\r\n Hims struck a deal with Eli Lilly .."
         }
       ]
     },
     "statnews": {
       "name": "STAT News (Biotech)",
       "items": [
+        {
+          "title": "STAT+: Blackstone backs Pfizer&#8217;s bet on monthly obesity treatment",
+          "link": "https://www.statnews.com/2026/11/12/biotech-news-blackstone-backs-pfizer-bet-on-monthly-obesity-treatment/?utm_campaign=rss",
+          "pubDate": "2026-11-12T16:31:10.000Z",
+          "description": "Pfizer spent up to $10 billion to buy Metsera last year. Now, it’s bringing in private equity behemoth Blackstone to help pay for the deal."
+        },
+        {
+          "title": "STAT+: What to know about Biogen&#8217;s big lupus study readout",
+          "link": "https://www.statnews.com/2026/11/12/biogen-lupus-litifilimab-what-to-know/?utm_campaign=rss",
+          "pubDate": "2026-11-12T11:30:00.000Z",
+          "description": "Biogen is expected to soon release the results of pivotal clinical trials of an experimental therapy for lupus."
+        },
+        {
+          "title": "STAT+: Alnylam, once in the hunt to be a $100 billion biotech, needs to solve its heart drug problem",
+          "link": "https://www.statnews.com/2026/11/12/alnylam-amvuttra-heart-drug-growth/?utm_campaign=rss",
+          "pubDate": "2026-11-12T11:30:00.000Z",
+          "description": "Alnylam is heavily dependent on its heart drug Amvuttra for growth — and sales have been slowing."
+        },
+        {
+          "title": "STAT+: Most-favored nations policy makes drugmakers rethink launches abroad",
+          "link": "https://www.statnews.com/2026/11/11/biotech-news-mfn-makes-drugmakers-rethink-launches-abroad/?utm_campaign=rss",
+          "pubDate": "2026-11-11T19:44:07.000Z",
+          "description": "Drug companies seem to be looking for workarounds to protect their U.S. sales against Trump's \"most-favored nations\" policy:"
+        },
         {
           "title": "STAT+: GLP-1s are given an FDA warning for rare eye condition risk",
           "link": "https://www.statnews.com/2026/11/10/biotech-news-glp-1-given-an-fda-warning-for-rare-eye-condition-risk/?utm_campaign=rss",
@@ -133,36 +157,30 @@
           "link": "https://www.statnews.com/2026/11/09/glp-1-drugs-potential-risk-rare-eye-condition-naion-fda/?utm_campaign=rss",
           "pubDate": "2026-11-09T15:56:55.000Z",
           "description": "The FDA on Monday warned that GLP-1 drugs carry a potential risk for a rare but serious eye condition that's sometimes referred to as an \"eye stroke.\""
-        },
-        {
-          "title": "STAT+: Gene therapy&#8217;s long-debated cancer risk materializes",
-          "link": "https://www.statnews.com/2026/11/09/biotech-news-gene-therapy-long-debated-cancer-risk-materializes/?utm_campaign=rss",
-          "pubDate": "2026-11-09T14:36:12.000Z",
-          "description": "For years, gene therapy researchers debated whether the viruses they use to ferry replacement genes into cells could cause tumors. A small number of cases now offer strong evidence that&#8230;"
-        },
-        {
-          "title": "STAT+: Why the latest heart drug failures should make us all more skeptical of AI hype",
-          "link": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss",
-          "pubDate": "2026-11-08T09:30:00.000Z",
-          "description": "Once again, a hot new technology that was supposed to speed up drug research has fallen flat."
-        },
-        {
-          "title": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
-          "link": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss",
-          "pubDate": "2026-11-07T16:57:13.000Z",
-          "description": "The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited."
-        },
-        {
-          "title": "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
-          "link": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss",
-          "pubDate": "2026-11-07T14:50:00.000Z",
-          "description": "Medical mystery at the AHA conference: A Novartis drug lowered a risk marker for cardiovascular disease but did not lower chance of heart attack or stroke."
         }
       ]
     },
     "biopharmadive": {
       "name": "BioPharma Dive",
       "items": [
+        {
+          "title": "Blackstone bets $1.5B on Pfizer’s obesity drug",
+          "link": "https://www.biopharmadive.com/news/blackstone-pfizer-berobenatide-deal/874483/",
+          "pubDate": "2026-11-12T16:44:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/sHvIDEWnHWODDKUtbWbg7nZxoWKQNqB4C54nc9z4iH4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc4ODI5MzYyLmpwZw==.webp\"/></div></figure><p>The deal will "
+        },
+        {
+          "title": "Bristol Myers research chief to depart in ‘evolution’ of company’s structure",
+          "link": "https://www.biopharmadive.com/news/bristol-myers-robert-plenge-cristian-massacesi-research-transition/874476/",
+          "pubDate": "2026-11-12T16:03:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/NssANDxc-w3Lev3YMH6Myqj-17rIkS8jhhpMfUUSnv0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yUkhCWTM1LmpwZw==.webp\"/></div></figure><p>Robert Plenge is leaving as part o"
+        },
+        {
+          "title": "The FDA has over 1k open jobs — and the staffing shortage is hitting pharma",
+          "link": "https://www.biopharmadive.com/news/fda-staffing-shortages-drug-reviews-pharma/874480/",
+          "pubDate": "2026-11-12T14:38:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/M_BApEps17v_s4qekgl3PRqvD1nnmKZFb0-ht_fOXok/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZGEtam9iLXZhY2FuY2llcy5qcGc=.webp\"/></div></figure><p>The agency is still re"
+        },
         {
           "title": "Drug price hikes in Germany could push US costs higher, study says",
           "link": "https://www.biopharmadive.com/news/germany-us-drug-price-study-healthcare-costs/874360/",
@@ -192,24 +210,6 @@
           "link": "https://www.biopharmadive.com/news/oyster-venture-financing-tau-targeted-protein-degraders/874160/",
           "pubDate": "2026-11-10T07:00:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/Bdi5M4HMTn0nQ7Ww6DWMZBEaPY1McVmIyhbOSlOBYfo/g:nowe:0:194/c:1920:1085/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8zODY4NjUwMzI1MV80M2IzNGRlNTFjX2suanBn.webp\"/></div></figu"
-        },
-        {
-          "title": "BIO unveils plan for US to remain biotech’s ‘global leader’",
-          "link": "https://www.biopharmadive.com/news/bio-bioadvance-proposal-us-trial-competition-china/874162/",
-          "pubDate": "2026-11-10T05:01:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/nimSL5AA0ES-i0o8XkJqVeKGZvxTALWACz2RWnQmI1U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAzMDA3MTY2LmpwZw==.webp\"/></div></figure><p>A seven-part p"
-        },
-        {
-          "title": "Bayer wins FDA nod for a new kind of blood thinner",
-          "link": "https://www.biopharmadive.com/news/bayer-sunharbo-asundexian-fda-approve-stroke-factor-xi/872837/",
-          "pubDate": "2026-11-09T22:40:00.000Z",
-          "description": "<p>Sunharbo&rsquo;s U.S. approval is the first for a &ldquo;Factor XIa&rdquo; inhibitor, an anticipated class of medicines seen as a possible step forward in stroke prevention.&nbsp;</p>"
-        },
-        {
-          "title": "Vir hepatitis D drug succeeds in first pivotal study",
-          "link": "https://www.biopharmadive.com/news/vir-chronic-hepatitis-d-drug-results-elebsiran-tobevibart/874089/",
-          "pubDate": "2026-11-09T17:09:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/WTj9wwd26Jgid6RbkzIxCCDVBTEu1vEsrLxuXPECj48/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ2NjQxNTQ4LmpwZw==.webp\"/></div></figure><p>A program that"
         }
       ]
     }
