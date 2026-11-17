@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-11-16T20:42:38.125Z",
+  "generatedAt": "2026-11-17T19:27:46.157Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
         {
-          "title": "CG preps new, expanded bladder cancer plans with FDA after ph. 3 win",
-          "link": "https://www.fiercebiotech.com/biotech/cgs-newest-late-stage-bladder-cancer-results-broaden-clinical-potential",
-          "pubDate": "2026-11-16T10:40:00.000Z",
-          "description": "CG Oncology showed in a late-stage study that its immunotherapy cretostimogene reduced the risk of tumor recurrence in certain patients with non-muscle invasive bladder cancer following surgery."
+          "title": "Medtronic pays $380M-plus for Contego Medical buyout",
+          "link": "https://www.fiercebiotech.com/medtech/medtronic-pays-380m-plus-contego-medical-buyout",
+          "pubDate": "2026-11-17T11:21:00.000Z",
+          "description": "Medtronic is boosting its cardiovascular disease portfolio with a deal to buy up carotid artery disease and peripheral thrombectomy tech company Contego Medical."
         },
         {
-          "title": "Helus' chemically modified psychedelic hits key goals in phase 3 depression trial",
-          "link": "https://www.fiercebiotech.com/biotech/helus-touts-ph-3-win-its-chemically-modified-psychedelic-depression",
-          "pubDate": "2026-11-16T09:37:00.000Z",
-          "description": "Helus Pharma's oral chemically modified version of psilocybin hit the key goals of a phase 3 study as an adjunctive treatment in major depressive disorder."
+          "title": "Kyntra axes mid-stage ADC, adding to years of stumbles",
+          "link": "https://www.fiercebiotech.com/biotech/kyntra-axes-mid-stage-adc-adding-years-myriad-stumbles",
+          "pubDate": "2026-11-17T09:31:00.000Z",
+          "description": "Beleaguered Kyntra Bio can’t catch a break. Formerly known as FibroGen, the company has endured a series of woes over the last few years, and now the biotech is cutting a clinical antibody-drug conjugate program from its mid-stage lineup."
         },
         {
-          "title": "Biogen inks $411M neurodegeneration pact with protein degrader biotech TrimTech",
-          "link": "https://www.fiercebiotech.com/biotech/biogen-inks-411m-collab-trimtechs-protein-degrader-tech-aimed-neurodegeneration",
-          "pubDate": "2026-11-16T09:41:00.000Z",
-          "description": "Cambridge, U.K.-based TrimTech Therapeutics has linked up with Biogen in a collaboration worth up to $411 million in biobucks to develop protein degraders for neurodegenerative diseases."
+          "title": "Why 2027 could be ‘Europe’s year to shine’: Panelists debate biotech funding at Fierce’s London event",
+          "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-llsw-its-europes-year-shine-all-ingredients-are-here-biotech-funding",
+          "pubDate": "2026-11-17T06:21:00.000Z",
+          "description": "Panelists at Fierce Biotech's London Life Sciences Week event discussed whether Europe can pull its weight in biopharma investment next year against the gravitational pull of the U.S. and China."
         },
         {
-          "title": "Lilly secures another myelofibrosis option via $1.5B deal for JPM-founded Calytrix",
-          "link": "https://www.fiercebiotech.com/biotech/lilly-secures-another-myelofibrosis-option-15b-deal-jpm-founded-calytrix",
-          "pubDate": "2026-11-16T09:03:00.000Z",
-          "description": "Eli Lilly has added another myelofibrosis prospect to its pipeline courtesy of a $1.5 billion deal for Massachusetts biotech Calytrix Bio."
+          "title": "Isomorphic Labs raises $5B series C months after $2.1B round",
+          "link": "https://www.fiercebiotech.com/biotech/isomorphic-labs-raises-5b-series-c-months-after-21b-round",
+          "pubDate": "2026-11-17T08:37:00.000Z",
+          "description": "Isomorphic Labs has raised a $5 billion series C round, marking the second time in six months that the AI drug development startup has pulled off a multibillion-dollar financing."
         },
         {
-          "title": "J&J pays $2.2B upfront for Ollin to challenge Roche’s Vabysmo with phase 3 bispecific",
-          "link": "https://www.fiercebiotech.com/biotech/jj-pays-22b-upfront-ollin-challenge-roches-vabysmo",
-          "pubDate": "2026-11-16T09:23:00.000Z",
-          "description": "Johnson &amp; Johnson has struck a deal to buy Ollin Biosciences for $2.2 billion upfront, establishing itself as a threat to Roche’s blockbuster eye disease drug Vabysmo."
+          "title": "AriBio’s oral Alzheimer’s drug meets monotherapy goal in phase 3 as Fosun weighs licensing option",
+          "link": "https://www.fiercebiotech.com/pharma/aribio-oral-alzheimers-drug-meets-monotherapy-goal-phase-3-fosun-weighs-licensing-option",
+          "pubDate": "2026-11-16T22:07:00.000Z",
+          "description": "AriBio’s erectile dysfunction med-turned Alzheimer’s disease candidate mirodenafil has delivered some mixed results from a global phase 3 trial. Fosun Pharma has an option to in-license the PDE5 inhibitor."
         },
         {
-          "title": "Aclaris drops TSLP program from pipeline after flunking phase 2 eczema test",
-          "link": "https://www.fiercebiotech.com/biotech/aclaris-scratches-tslp-program-pipeline-after-flunking-phase-2-eczema-test",
-          "pubDate": "2026-11-16T07:57:00.000Z",
-          "description": "A phase 2 study of Aclaris Therapeutics’ bosakitug in atopic dermatitis has missed its primary endpoint, adding to the setbacks anti-TSLP antibodies have encountered in the indication."
+          "title": "Sellas marks 9-month survival benefit in late-stage leukemia vaccine study",
+          "link": "https://www.fiercebiotech.com/biotech/sellas-marks-nine-month-survival-benefit-late-stage-leukemia-vaccine-study",
+          "pubDate": "2026-11-16T18:12:00.000Z",
+          "description": "Sellas Life Sciences’ cancer vaccine for acute myeloid leukemia has passed a phase 3 test with a more than nine-month improvement in overall survival."
         },
         {
-          "title": "Building resilient biomanufacturing supply networks",
-          "link": "https://www.fiercebiotech.com/sponsored/building-resilient-biomanufacturing-supply-networks",
-          "pubDate": "2026-11-10T17:22:00.000Z",
-          "description": "Global scale, regional proximity and harmonized quality systems can strengthen biologics supply resilience"
+          "title": "Marrow extracts $120M series B to advance preclinical blood disease therapy",
+          "link": "https://www.fiercebiotech.com/biotech/marrow-kicks-173m-and-preclinical-blood-disease-therapy",
+          "pubDate": "2026-11-13T08:44:00.000Z",
+          "description": "A new biotech targeting blood disorders, aptly called Marrow Therapeutics, has launched with $173 million in combined funding and a preclinical lead program aimed at sickle cell disease and beta thalassemia."
         },
         {
-          "title": "Flagship commits £100M to set up AI-focused biotech incubation outpost in London",
-          "link": "https://www.fiercebiotech.com/biotech/flagship-commits-ps100-million-set-ai-focused-biotech-incubation-outpost-london",
-          "pubDate": "2026-11-16T06:10:00.000Z",
-          "description": "Flagship Pioneering has picked London as the site of the venture capital powerhouse’s first company-creation unit outside of its hometown."
+          "title": "Lilly signs $5.9B deal with Stipple to unlock oncology targets",
+          "link": "https://www.fiercebiotech.com/biotech/eli-lilly-dots-59b-deal-stipple-unlock-oncology-targets",
+          "pubDate": "2026-11-17T03:04:00.000Z",
+          "description": "Eli Lilly has struck a $5.9 billion deal to partner with Stipple Bio on oncology drug candidates that more precisely target tumor cells."
         }
       ]
     },
@@ -58,58 +58,82 @@
       "name": "Endpoints News",
       "items": [
         {
-          "title": "AstraZeneca, Alexion's mysathenia gravis treatment enters crowded market",
-          "link": "https://endpoints.news/astrazeneca-alexions-mysathenia-gravis-treatment-enters-crowded-market/",
-          "pubDate": "2026-11-16T19:17:34.000Z",
-          "description": "AstraZeneca and Alexion won FDA approval Monday for their self-administered generalized myasthenia gravis (gMG) drug Klygefa.\r\n\r\n The drug, also known as gefurulimab, is a once-weekly treatment for patients who have anti-acetylcholine recep"
+          "title": "Sellas claims Phase 3 win on AML cancer vaccine",
+          "link": "https://endpoints.news/sellas-claims-phase-3-win-on-aml-cancer-vaccine/",
+          "pubDate": "2026-11-17T18:32:28.000Z",
+          "description": "Sellas Life Sciences' cancer vaccine succeeded in a Phase 3 trial of certain acute myeloid leukemia patients, the company said Tuesday.\r\n\r\n Sellas is developing galinpepimut-S, which it calls GPS for short ..."
         },
         {
-          "title": "Helus Pharma notches successful Phase 3 depression readout",
-          "link": "https://endpoints.news/helus-pharma-notches-successful-phase-3-depression-readout/",
-          "pubDate": "2026-11-16T18:30:34.000Z",
-          "description": "Helus Pharma, part of the budding class of psychedelics companies, said its lead drug improved depression symptoms compared to placebo, but investors appeared slightly skittish about the safety profile.\r\n\r\n The company said"
+          "title": "Analysis: 3 thoughts on Isomorphic's record $5B Series C for AI in bio",
+          "link": "https://endpoints.news/analysis-3-thoughts-on-isomorphics-record-5b-series-c-for-ai-in-bio/",
+          "pubDate": "2026-11-17T16:34:45.000Z",
+          "description": "Just six months after raising $2.1 billion, Google-backed Isomorphic Labs has one-upped itself with a historic $5 billion Series C round.\r\n\r\n It is the largest private raise in biotech history, surpassing Altos ..."
         },
         {
-          "title": "China's $40k CAR-T; Novartis and Biogen strike deals",
-          "link": "https://endpoints.news/car-t-costs-falling-in-china-novartis-and-biogen-strike-deals-obesityweek-readouts/",
-          "pubDate": "2026-11-16T16:19:12.000Z",
-          "description": "Plus, news about Amylyx, Jiangsu Hengrui and AstraZeneca.\r\n\r\n China drastically cuts price of a CAR-T: China is adding a CAR-T therapy to its basic medical insurance drug list, or the NRDL ..."
+          "title": "Health tech preps for a consumer-driven future",
+          "link": "https://endpoints.news/health-tech-preps-for-a-consumer-driven-future/",
+          "pubDate": "2026-11-17T16:16:08.000Z",
+          "description": "Hello from Las Vegas! The Endpoints team was undeterred by Friday’s ground stop and has been roaming the conference floor at HLTH to get a sense of where health tech is headed. Here’s what we’ve ..."
         },
         {
-          "title": "Parker Institute's Karen Knudsen: Cancer research has a translation problem",
-          "link": "https://endpoints.news/parker-institutes-karen-knudsen-cancer-research-has-a-translation-problem/",
-          "pubDate": "2026-11-16T15:57:41.000Z",
-          "description": "Karen Knudsen has established a reputation for transforming medical organizations. Her latest project is the now 10-year-old Parker Institute for Cancer Immunotherapy, or PICI.\r\n\r\n Before becoming the nonprofit’s new CEO last year, Knudsen "
+          "title": "#CTAD26: Cognito plans FDA submission of light and sound therapy for Alzheimer’s",
+          "link": "https://endpoints.news/ctad26-cognito-plans-fda-submission-of-light-and-sound-therapy-for-alzheimers/",
+          "pubDate": "2026-11-17T16:01:42.000Z",
+          "description": "BOSTON — A decade ago, neuroscientists at MIT published data that seemed too good, or perhaps just too wacky, to be true.\r\n Light flickered at just the right frequency induced brain waves that appeared to help ..."
         },
         {
-          "title": "Lilly's 14th acquisition of the year is a little-known blood cancer biotech",
-          "link": "https://endpoints.news/lillys-14th-acquisition-of-the-year-is-a-little-known-blood-cancer-biotech/",
-          "pubDate": "2026-11-16T14:37:18.000Z",
-          "description": "Eli Lilly has been on a shopping spree this year thanks to its GLP-1-driven revenue, and its 14th acquisition of 2026 is in cancer, the domain of expertise for the pharma's head ..."
+          "title": "Novo revamps its direct-to-consumer platform; Roche drug Gazyva approved again",
+          "link": "https://endpoints.news/novo-revamps-its-direct-to-consumer-platform-roche-drug-gazyva-approved-again/",
+          "pubDate": "2026-11-17T15:13:36.000Z",
+          "description": "Plus news about Uniquity Bio, Commit Biologics, Rosemont Pharmaceuticals, Aytu and Aclaris Therapeutics. \r\n\r\n Novo relaunches NovoCare direct-to-consumer platform: Novo is revamping its DTC business with what it calls a \"reimagined consumer"
         },
         {
-          "title": "J&J to buy eye disease biotech Ollin Biosciences for up to $3.3B",
-          "link": "https://endpoints.news/jj-to-buy-eye-disease-biotech-ollin-biosciences-for-up-to-3-3b/",
-          "pubDate": "2026-11-16T13:52:04.000Z",
-          "description": "Johnson & Johnson said Monday it will snap up Ollin Biosciences in a deal worth up to $3.3 billion, just a little over a year after the ophthalmology biotech broke cover ..."
+          "title": "#CTAD26: Priavoid’s amyloid-detangling pill PRI-002 fails Phase 2 study in Alzheimer’s",
+          "link": "https://endpoints.news/priavoids-amyloid-detangling-pill-pri-002-fails-phase-2-study-in-alzheimers/",
+          "pubDate": "2026-11-17T15:05:43.000Z",
+          "description": "BOSTON — For nearly a decade, the German biotech startup Priavoid has been working on a pill to break up small clumps of amyloid proteins that accumulate in the brains of people with Alzheimer’s disease.\r\n Now ..."
         },
         {
-          "title": "CG Oncology's bladder cancer treatment beats expectations in Phase 3",
-          "link": "https://endpoints.news/cg-oncologys-bladder-cancer-treatment-beats-expectations-in-phase-3/",
-          "pubDate": "2026-11-16T13:00:01.000Z",
-          "description": "CG Oncology said its oncolytic immunotherapy succeeded in a late-stage trial in certain patients with non-muscle invasive bladder cancer, potentially expanding the asset’s market significantly.\r\n\r\n Cretostimogene grenadenorepvec met the Pha"
+          "title": "Patient data startup b.well launches tools to make AI chatbots safer",
+          "link": "https://endpoints.news/patient-data-startup-b-well-launches-tools-to-make-ai-chatbots-safer/",
+          "pubDate": "2026-11-17T14:00:01.000Z",
+          "description": "AI chatbots and agents are fielding hundreds of millions of health-related questions each week. But even when users upload their own health records to those apps, large language models are usually ..."
         },
         {
-          "title": "Flagship launches UK lab to build AI-driven biotechs with £100M investment",
-          "link": "https://endpoints.news/flagship-launches-uk-lab-to-build-ai-driven-biotechs-with-100m-investment/",
-          "pubDate": "2026-11-16T12:04:27.000Z",
-          "description": "Flagship Pioneering, the life science investor behind the likes of Moderna, has launched a new lab in London focused on building “AI-native platform companies” in the UK.\r\n\r\n The announcement marks Flagship’s first major investment in ..."
+          "title": "Marrow raises $173M for siRNA drug competing with CRISPR therapy for sickle cell",
+          "link": "https://endpoints.news/marrow-raises-173m-for-sirna-drug-competing-with-crispr-therapy-for-sickle-cell/",
+          "pubDate": "2026-11-17T12:00:50.000Z",
+          "description": "When the FDA approved two gene therapies for sickle cell disease in December 2023, many drugmakers viewed it as the end of the story and shelved their programs for the condition.\r\n Yet three years on ..."
         }
       ]
     },
     "statnews": {
       "name": "STAT News (Biotech)",
       "items": [
+        {
+          "title": "STAT+: Flagship opens biotech-creation outpost in the U.K.",
+          "link": "https://www.statnews.com/2026/11/17/biotech-news-flagship-opens-biotech-creation-uk-outpost/?utm_campaign=rss",
+          "pubDate": "2026-11-17T17:05:10.000Z",
+          "description": "Flagship is putting up 100 million pounds to start “AI-native platform companies\" focused on human and planetary health in the U.K.:"
+        },
+        {
+          "title": "STAT+: Sellas&#8217; experimental blood cancer immunotherapy reduced risk of death in clinical trial",
+          "link": "https://www.statnews.com/2026/11/17/sellas-blood-cancer-immunotherapy-succeeds-clinical-trial/?utm_campaign=rss",
+          "pubDate": "2026-11-17T12:00:00.000Z",
+          "description": "Sellas' experimental blood cancer immunotherapy reduced the risk of death in clinical trial."
+        },
+        {
+          "title": "STAT+: With $173 million, new startup takes aim at sickle cell",
+          "link": "https://www.statnews.com/2026/11/17/new-startup-developing-novel-sickle-cell-anemia-infusion-no-gene-therapy/?utm_campaign=rss",
+          "pubDate": "2026-11-17T12:00:00.000Z",
+          "description": "Researchers are seeking a sickle cell treatment as effective as gene therapy, without the drawbacks. This entrepreneur thinks he might have one."
+        },
+        {
+          "title": "STAT+: After death in gene therapy trial for a brain disease, progress is reported",
+          "link": "https://www.statnews.com/2026/11/17/capsida-gene-therapy-trial-death-follow-up-investigation/?utm_campaign=rss",
+          "pubDate": "2026-11-17T09:30:00.000Z",
+          "description": "An unexpected patient death rattled researchers who sought to pierce the blood-brain barrier. Now some think they have a better way of mitigating risks."
+        },
         {
           "title": "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC",
           "link": "https://www.statnews.com/2026/11/16/fda-proposes-new-category-supplement-nac/?utm_campaign=rss",
@@ -133,36 +157,30 @@
           "link": "https://www.statnews.com/2026/11/16/bladder-cancer-immunotherapy-reduced-tumor-recurrence-cg-oncology/?utm_campaign=rss",
           "pubDate": "2026-11-16T13:00:00.000Z",
           "description": "CG Oncology's bladder cancer immunotherapy reduced risk of tumor recurrence by 68% — results that may change how physicians treat certain patients."
-        },
-        {
-          "title": "STAT+: Versant, Lilly put $100 million behind new startup aimed at solving one of gene therapy’s thorniest issues",
-          "link": "https://www.statnews.com/2026/11/16/versant-lilly-put-100-million-behind-new-startup-aimed-at-solving-one-of-gene-therapys-thorniest-issues/?utm_campaign=rss",
-          "pubDate": "2026-11-16T10:00:00.000Z",
-          "description": "Versant Ventures, Eli Lilly, and a handful of other investors will pour $100 million into a new startup devoted to solving a thorny gene therapy challenge."
-        },
-        {
-          "title": "BeOne, Hengrui top list of China’s most powerful drugmakers",
-          "link": "https://www.statnews.com/2026/11/16/beone-hengrui-top-list-of-chinas-most-powerful-drugmakers/?utm_campaign=rss",
-          "pubDate": "2026-11-16T09:30:00.000Z",
-          "description": "A new STAT-WireScreen index ranks China's most valuable publicly traded biotech companies. See which one topped the list."
-        },
-        {
-          "title": "STAT+: FDA rejects lung cancer treatment ivonescimab from Summit Therapeutics",
-          "link": "https://www.statnews.com/2026/11/15/fda-rejects-ivonescimab-lung-cancer-treatment-summit-therapeutics/?utm_campaign=rss",
-          "pubDate": "2026-11-15T15:05:15.000Z",
-          "description": "The FDA has rejected ivonescimab, a treatment for a type of lung cancer developed by U.S. biotech Summit Therapeutics and the Chinese drugmaker Akeso."
-        },
-        {
-          "title": "STAT+: HHS plans funding for research into ibogaine for PTSD",
-          "link": "https://www.statnews.com/2026/11/13/biotech-news-hhs-funding-for-research-into-ibogaine-for-ptsd/?utm_campaign=rss",
-          "pubDate": "2026-11-13T15:25:46.000Z",
-          "description": "The Trump administration will funnel up to $4.9 million into supporting research into ibogaine, a psychedelic that’s drawn interest as a potential treatment for PTSD and addiction."
         }
       ]
     },
     "biopharmadive": {
       "name": "BioPharma Dive",
       "items": [
+        {
+          "title": "Roche breast cancer pill cleared by FDA",
+          "link": "https://www.biopharmadive.com/news/roche-fda-approve-wilserdly-giredestrant-breast-cancer/874884/",
+          "pubDate": "2026-11-17T17:18:00.000Z",
+          "description": "<p>Wilserdly&rsquo;s U.S. approval is seen by analysts as a &ldquo;key first step&rdquo; in an important launch for Roche, which has claimed the drug could become its top-selling product.</p>"
+        },
+        {
+          "title": "AI drugmaker Isomorphic restocks with $5B fundraise",
+          "link": "https://www.biopharmadive.com/news/isomorphic-labs-ai-drug-discovery-financing/874863/",
+          "pubDate": "2026-11-17T15:51:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/KKSuOxTFPeZit4ONYhxrVBLX3z4TmhuGQrVJamE-W0c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc2OTg0OTQ5LmpwZw==.webp\"/></div></figure><p>Even as the la"
+        },
+        {
+          "title": "Marrow sets out to challenge genetic medicines for severe blood diseases",
+          "link": "https://www.biopharmadive.com/news/marrow-therapeutics-sickle-cell-beta-thalassemia-drug/874789/",
+          "pubDate": "2026-11-17T12:00:00.000Z",
+          "description": "<p>Armed with $173 million in venture funding, the startup is developing what it&rsquo;s positioning as a more accessible alternative to gene therapy and gene editing treatments for sickle cell and beta thalassemia.</p>"
+        },
         {
           "title": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug",
           "link": "https://www.biopharmadive.com/news/summit-akeso-fda-ivonescimab-reject-egfr-lung-cancer/874745/",
@@ -192,24 +210,6 @@
           "link": "https://www.biopharmadive.com/news/seawolf-therapeutics-dna-versant-startup-financing/874465/",
           "pubDate": "2026-11-16T10:00:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/u4lSfwtg5UDXhUP22Wv2qtyb_gdeXF3v7ZvdH--a4p0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjg3NTA1OTk1LmpwZw==.webp\"/></div></figure><p>The startup, w"
-        },
-        {
-          "title": "Completing the circle: the next evolution in sustainable pharmaceutical blister packaging",
-          "link": "https://www.biopharmadive.com/spons/completing-the-circle-the-next-evolution-in-sustainable-pharmaceutical-bli/874350/",
-          "pubDate": "2026-11-16T10:00:00.000Z",
-          "description": "<p>Discover how innovative PET and PP lidding are advancing sustainable pharmaceutical blister packaging.</p>"
-        },
-        {
-          "title": "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment",
-          "link": "https://www.biopharmadive.com/spons/your-ai-pilots-arent-stalling-because-of-the-ai-theyre-stalling-because/874345/",
-          "pubDate": "2026-11-16T10:00:00.000Z",
-          "description": "<p>As clinical AI adoption accelerates, trust, traceability and readiness matter more than ever.</p>"
-        },
-        {
-          "title": "The infrastructure decisions that will enable tomorrow’s biggest breakthroughs",
-          "link": "https://www.biopharmadive.com/spons/the-infrastructure-decisions-that-will-enable-tomorrows-biggest-breakthrou/874507/",
-          "pubDate": "2026-11-16T10:00:00.000Z",
-          "description": "<p>Faster drug discovery depends on more than the model. What drug developers need to know about AI.</p>"
         }
       ]
     }
