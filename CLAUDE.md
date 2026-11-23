@@ -1,6 +1,8 @@
 # Working agreements
 
-Standing instructions from the owner. Don't re-confirm them in chat.
+**Read this file before doing anything else in this repo** — and any other
+`.md` instructions it points to. Standing instructions from the owner; don't
+re-confirm them in chat.
 
 - **Always merge.** Once CI is green, mark the PR ready and merge it. Yes, every time.
 - **Never watch a PR.** Don't call `subscribe_pr_activity`; every wake event replays
