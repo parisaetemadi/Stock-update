@@ -1,5 +1,7 @@
 # Stock-update
 
+> **Purpose.** Public data feed for the private Personal dashboard. GitHub Actions refreshes the JSON in `data/` on a schedule — no app code lives here.
+
 Public data feed for a personal dashboard.
 
 GitHub Actions refreshes the JSON files in [`data/`](data/) on a schedule and
@@ -141,3 +143,12 @@ GitHub sheds frequent schedules under load — while the daily entries have fire
 With four schedules now writing to `data/` alongside a price job that writes
 every ten minutes, every workflow's commit step rebases and retries rather than
 letting a lost push drop a refresh silently.
+
+## Agent rules
+
+- Commit straight to `main` and push — no branches, no PRs, no merges, never watch a PR.
+- One commit per session. Test it yourself before committing; don't report untested work.
+- Don't ask permission for deploys, settings, or deleting what's been replaced.
+- Save tokens: bullets over prose, read only the files named, targeted edits, batched tool calls.
+- Comments: one bullet list per file or section, never a comment per chunk of code.
+- Full detail: [CLAUDE.md](CLAUDE.md)
