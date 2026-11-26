@@ -1,6 +1,6 @@
 # Stock-update
 
-> **Purpose.** Public data feed for the private Personal dashboard. GitHub Actions refreshes the JSON in `data/` on a schedule — no app code lives here.
+> **Purpose.** Public data feed for a private dashboard. GitHub Actions refreshes market, macro, earnings and biotech JSON on a schedule and commits it here.
 
 Public data feed for a personal dashboard.
 
