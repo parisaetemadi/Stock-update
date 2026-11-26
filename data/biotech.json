@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-11-18T19:09:58.837Z",
+  "generatedAt": "2026-11-26T19:24:57.956Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
       "items": [
         {
-          "title": "Less than a year into the job, Everett Cunningham steps down as Quanterix CEO",
-          "link": "https://www.fiercebiotech.com/medtech/less-year-job-everett-cunningham-steps-down-quanterix-ceo",
-          "pubDate": "2026-11-18T08:17:00.000Z",
-          "description": "Quanterix is on the lookout for a new chief executive once again as Everett Cunningham, who only started the top job back in January, hits the exit."
+          "title": "Bayer becomes latest Big Pharma to head to Hansoh in $3.3B deal for phase 1 ADC",
+          "link": "https://www.fiercebiotech.com/biotech/bayer-becomes-latest-big-pharma-head-hansoh-33b-deal-phase-1-adc",
+          "pubDate": "2026-11-25T10:30:00.000Z",
+          "description": "Bayer has become the latest drug giant to turn to Hansoh Pharma for its antibody-drug conjugate expertise."
         },
         {
-          "title": "Biogen’s tau therapy drives bigger benefits in 2-year Alzheimer’s update",
-          "link": "https://www.fiercebiotech.com/biotech/biogens-tau-therapy-drives-bigger-benefits-2-year-alzheimers-update",
-          "pubDate": "2026-11-18T09:27:00.000Z",
-          "description": "Biogen has linked its tau-targeting antisense oligonucleotide to a further slowing of clinical decline after two years, leading analysts to hail the strengthening of evidence supporting late-phase development."
+          "title": "Schrödinger signs €22M biologics collab with sequencing automation outfit Enpicom",
+          "link": "https://www.fiercebiotech.com/biotech/schrodinger-forms-ties-sequencing-automation-outfit-enpicom-eur22m",
+          "pubDate": "2026-11-25T09:09:00.000Z",
+          "description": "Computational discovery biotech Schrödinger has finalized a collaboration with sequencing automation company Enpicom in an all-cash deal worth €22 million."
         },
         {
-          "title": "Clene Nanomedicine uses CRO Veristat’s biostatistics platform for FDA submission",
-          "link": "https://www.fiercebiotech.com/cro/clene-nanomedicine-uses-cro-veristats-biostatistics-platform-fda-submission",
-          "pubDate": "2026-11-13T14:11:00.000Z",
-          "description": "Clinical research organization Veristat has partnered with Clene Nanomedicine to accelerate data outputs for its FDA application for its ALS drug."
+          "title": "FDA issues noncompliance letters to 2 biotechs over lack of trial data reporting",
+          "link": "https://www.fiercebiotech.com/biotech/fda-issues-noncompliance-letters-biotechs-over-lack-trial-data-reporting",
+          "pubDate": "2026-11-24T18:09:00.000Z",
+          "description": "The FDA has issued two biotechs with noncompliance letters for failure to report clinical trial results."
         },
         {
-          "title": "Pfizer enters in vivo CAR-T space via 3-program, $2.6B deal with China’s Starna",
-          "link": "https://www.fiercebiotech.com/biotech/pfizer-enters-vivo-car-t-space-3-program-26b-deal-chinas-starna",
-          "pubDate": "2026-11-18T08:31:00.000Z",
-          "description": "Pfizer has decided to join the in vivo CAR-T race, penning a $2.6 billion deal for three preclinical candidates from China’s Starna Therapeutics."
+          "title": "Finnish biotech delivers durable symptom relief in phase 2 birch pollen allergy trial",
+          "link": "https://www.fiercebiotech.com/biotech/desentum-delivers-durable-symptom-relief-phase-2-birch-pollen-allergy-trial",
+          "pubDate": "2026-11-25T08:23:00.000Z",
+          "description": "A phase 2 trial of Desentum’s birch pollen allergen immunotherapy has hit its primary endpoint, teeing up further study of a short-course medication that could provide a persistent effect."
         },
         {
-          "title": "At Fierce’s London event, Big Pharmas tell biotechs to ‘be transparent’ to secure deals",
-          "link": "https://www.fiercebiotech.com/biotech/what-makes-big-pharma-deal-be-transparent-dont-spam-us-and-not-using-patent-cliffs-reason",
-          "pubDate": "2026-11-18T02:29:00.000Z",
-          "description": "Every biotech looking for a suitor wants to know: What does it take to charm a Big Pharma into a deal?"
+          "title": "‘The potential is there’: BetterLife’s LSD cousin mirrors neuroplasticity in mice without the hallucinations",
+          "link": "https://www.fiercebiotech.com/research/betterlifes-lsd-cousin-mirrors-neuroplasticity-without-hallucinations-mice",
+          "pubDate": "2026-11-24T23:19:00.000Z",
+          "description": "With the boom in researching psychedelics to treat neurological conditions, scientists have begun to explore ways to alter these drugs to remove the hallucinogenic effects while salvaging the neuroplastic tendencies of these drugs."
         },
         {
-          "title": "Vertex signs $220M deal with Genomics to re-up long-running discovery pact",
-          "link": "https://www.fiercebiotech.com/biotech/vertex-signs-genomics-220m-4-more-years-long-time-discovery-pact",
-          "pubDate": "2026-11-17T15:02:00.000Z",
-          "description": "Vertex Pharmaceuticals has re-upped its ties with sequencing specialist Genomics in a deal worth up to $220 million, signing on for an extra four years on top of the eight the companies have already worked together."
+          "title": "Thermo Fisher Scientific nabs FDA expanded use clearance for EXENT analyser system",
+          "link": "https://www.fiercebiotech.com/medtech/thermo-fisher-scientific-nabs-fda-expanded-use-clearance-exent-analyser-system",
+          "pubDate": "2026-11-25T02:04:00.000Z",
+          "description": "Thermo Fisher Scientific announced FDA clearance for expanded intended use of its EXENT Analyser with the EXENT GAM Assay."
         },
         {
-          "title": "Priavoid’s Alzheimer’s pill fails to prove efficacy in phase 2 trial",
-          "link": "https://www.fiercebiotech.com/biotech/priavoids-alzheimers-pill-fails-prove-efficacy-phase-2-trial",
-          "pubDate": "2026-11-18T04:23:00.000Z",
-          "description": "Priavoid’s pill for Alzheimer's disease has failed to prove its effectiveness  in a phase 2 dementia study, although the German biotech pointed to encouraging signs in the longer-term data."
+          "title": "ARM CEO reflects on ‘wild 12 months’ pushing back on FDA’s shifting gene therapy stance",
+          "link": "https://www.fiercebiotech.com/biotech/arm-ceo-reflects-wild-12-months-navigating-fdas-shifting-gene-therapy-stance",
+          "pubDate": "2026-11-24T02:39:00.000Z",
+          "description": "When Fierce first met up with Tim Hunt back in November 2025, the CEO of the Alliance for Regenerative Medicine (ARM)—which represents over 400 members, including biotechs—was optimistic that cell and gene therapies were high on the governm"
         },
         {
-          "title": "FDA clears MiniMed Fit tubeless insulin pump",
-          "link": "https://www.fiercebiotech.com/medtech/fda-clears-minimed-fit-tubeless-insulin-pump",
-          "pubDate": "2026-11-18T03:32:00.000Z",
-          "description": "MiniMed announced has picked up FDA clearance of its tubeless insulin pump, the MiniMed Fit."
+          "title": "DiaMedica shares signs that drug extends pregnancy in fetal growth restriction trial",
+          "link": "https://www.fiercebiotech.com/biotech/diamedica-shares-signs-drug-extends-pregnancy-fetal-growth-restriction-trial",
+          "pubDate": "2026-11-24T09:34:00.000Z",
+          "description": "DiaMedica Therapeutics has shared phase 2 results in severe early-onset fetal growth restriction, reporting that most participants with known delivery dates remained pregnant longer than expected."
         }
       ]
     },
@@ -58,52 +58,52 @@
       "name": "Endpoints News",
       "items": [
         {
-          "title": "Novo’s consumer push gains momentum with Wegovy pill, CagriSema on deck",
-          "link": "https://endpoints.news/novos-consumer-push-gains-momentum-with-wegovy-pill-cagrisema-on-deck/",
-          "pubDate": "2026-11-18T18:25:52.000Z",
-          "description": "LAS VEGAS — When Ed Cinca returned to Novo after four years away, he barely recognized the place.\r\n\r\n “I think the building’s the same, but that’s about it,” Cinca, Novo’s senior vice president of marketing and ..."
+          "title": "Bayer goes to Hansoh for ADC deal worth $150M up front",
+          "link": "https://endpoints.news/bayer-goes-to-hansoh-for-adc-deal-worth-150m-up-front/",
+          "pubDate": "2026-11-25T15:55:19.000Z",
+          "description": "Hansoh Pharma continues to line up partners as dealmaking with China’s biotech industry shows no signs of abating.\r\n\r\n Bayer is the latest to sign up for a piece of Hansoh’s pipeline. The German giant on ..."
         },
         {
-          "title": "#CTAD26: Lilly’s dopamine drug mevidalen fails Phase 2 study in Alzheimer’s",
-          "link": "https://endpoints.news/ctad26-lillys-dopamine-drug-mevidalen-fails-phase-2-study-in-alzheimers/",
-          "pubDate": "2026-11-18T16:22:48.000Z",
-          "description": "BOSTON — A little-known therapy Eli Lilly has quietly been testing in people with mild and moderate Alzheimer’s disease has failed in its Phase 2 study.\r\n The experimental drug, called mevidalen, was dropped ..."
+          "title": "Bayer pulls blockbuster drug from Germany over pricing dispute",
+          "link": "https://endpoints.news/bayer-pulls-blockbuster-drug-from-germany-over-pricing-dispute/",
+          "pubDate": "2026-11-25T15:51:44.000Z",
+          "description": "Bayer is pulling its blockbuster heart and kidney disease drug Kerendia from Germany, its home market, in a reimbursement dispute that highlights growing tensions between drugmakers and European governments over the price of innovative medi"
         },
         {
-          "title": "Dispatches from Jefferies: Latent Labs on AI, Relay’s PI3Kα ambitions and Biohaven’s protein degrader approach",
-          "link": "https://endpoints.news/dispatches-from-jefferies-latent-labs-on-ai-relays-pi3k%ce%b1-ambitions-and-biohavens-protein-degrader-approach/",
-          "pubDate": "2026-11-18T15:29:39.000Z",
-          "description": "LONDON — Long queues snaked outside the iconic Waldorf Hilton on Monday morning at the 17th Jefferies Global Healthcare Conference as attendees jostled to pick up registration badges — only to be ushered into the main hall ..."
+          "title": "GSK's autoimmune success; AbbVie drug gets expanded label for vitiligo",
+          "link": "https://endpoints.news/gsks-autoimmune-success-abbvie-drug-gets-expanded-label-for-vitiligo/",
+          "pubDate": "2026-11-25T15:22:38.000Z",
+          "description": "Plus news about MPN Therapeutics, Desentum, Schrödinger and CirCode Biomed.\r\n\r\n GSK’s Exdensur matches Nucala in Phase 3: The UK drugmaker’s Exdensur, given twice a year, achieved non-inferior disease remission rates when set against the co"
         },
         {
-          "title": "Pfizer gets into in vivo CAR-T through licensing deal with Starna Therapeutics",
-          "link": "https://endpoints.news/pfizer-gets-into-in-vivo-car-t-through-licensing-deal-with-starna-therapeutics/",
-          "pubDate": "2026-11-18T12:23:46.000Z",
-          "description": "Pfizer is entering the in vivo CAR-T race, paying $330 million upfront to Starna Therapeutics. The deal gives Pfizer exclusive rights outside of Greater China to three pre-IND assets in autoimmune disease.\r\n\r\n The pharma will ..."
+          "title": "'Prof Oak' is now lending his expertise to Anthropic",
+          "link": "https://endpoints.news/prof-oak-is-now-lending-his-expertise-to-anthropic/",
+          "pubDate": "2026-11-25T15:00:14.000Z",
+          "description": "An unlikely person is involved in Anthropic’s biology R&D, as the artificial intelligence giant adjusts to life after its record-breaking IPO.\r\n\r\n Cody Tranbarger, who unmasked himself last month as prolific X-poster \""
         },
         {
-          "title": "AI bio startup Boltz raises $110M Series A",
-          "link": "https://endpoints.news/ai-bio-startup-boltz-raises-110m-series-a/",
-          "pubDate": "2026-11-18T12:00:27.000Z",
-          "description": "LONDON — Less than a year after launching from stealth with $28 million, the AI bio startup Boltz has raised a $110 million Series A round, its leaders exclusively told Endpoints News.\r\n\r\n The ..."
+          "title": "Bristol Myers reports one Phase 3 success, one failure in Sotyktu lupus trials",
+          "link": "https://endpoints.news/bristol-myers-reports-one-phase-3-success-one-failure-in-sotyktu-lupus-trials/",
+          "pubDate": "2026-11-25T14:27:50.000Z",
+          "description": "Bristol Myers Squibb’s attempt to push Sotyktu, its oral TYK2 inhibitor, into lupus has hit a snag.\r\n\r\n The drug was being tested in two Phase 3 studies for systemic lupus, with Bristol Myers toplining the ..."
         },
         {
-          "title": "Merck ends the sorry saga of BTK inhibitor it got from ArQule",
-          "link": "https://endpoints.news/merck-ends-the-sorry-saga-of-btk-inhibitor-it-got-from-arqule/",
-          "pubDate": "2026-11-18T11:43:38.000Z",
-          "description": "Merck has ended development of a BTK inhibitor that was the main reason it bought ArQule for $2.7 billion in 2019.\r\n\r\n Nemtabrutinib, or MK-1026, was being investigated in a slew of trials in blood cancers ..."
+          "title": "Pharming pauses Ruconest production, warns of supply interruption",
+          "link": "https://endpoints.news/pharming-pauses-ruconest-production-warns-of-supply-interruption/",
+          "pubDate": "2026-11-25T12:13:28.000Z",
+          "description": "Pharming said Wednesday it has paused the production of its marketed drug for acute attacks of hereditary angioedema (HAE) due to issues at an unnamed third-party manufacturer. The drugmaker has notified the FDA that the ..."
         },
         {
-          "title": "#CTAD26: Biogen’s tau drug slows Alzheimer’s more after nearly two years",
-          "link": "https://endpoints.news/ctad26-biogens-tau-drug-slows-alzheimers-more-after-nearly-two-years/",
-          "pubDate": "2026-11-18T01:10:35.000Z",
-          "description": "BOSTON — The benefits of Biogen's experimental Alzheimer's drug seem to get better with time.\r\n Over the summer, Biogen reported that the lowest dose of its gene-silencing therapy diranersen slowed the disease by ..."
+          "title": "The 38-year history behind Insmed, now Sanofi's strongest wager since 2004",
+          "link": "https://endpoints.news/the-38-year-history-behind-insmed-now-sanofis-strongest-wager-since-2004/",
+          "pubDate": "2026-11-25T12:02:17.000Z",
+          "description": "The biggest biopharma deal since 2023 — a $41 billion buyout of a respiratory drugmaker — was 38 years in the making.\r\n\r\n Sanofi's move Tuesday for Insmed marked the culmination of a complicated saga ..."
         },
         {
-          "title": "White House pulls FDA nominee Overton amid uncertain Senate support",
-          "link": "https://endpoints.news/white-house-pulls-fda-nominee-overton-amid-uncertain-senate-support/",
-          "pubDate": "2026-11-18T00:34:10.000Z",
-          "description": "Heidi Overton, the Trump administration’s nominee to lead the FDA, has been pulled from consideration, according to a White House official.\r\n\r\n The Senate had been considering Overton’s candidacy as part of a group of nominations ..."
+          "title": "Cogent prepares for first commercial launch with GI tumor treatment",
+          "link": "https://endpoints.news/cogent-prepares-for-first-commercial-launch-with-gi-tumor-treatment/",
+          "pubDate": "2026-11-24T21:54:24.000Z",
+          "description": "The FDA has approved Cogent Biosciences’ second-line treatment for gastrointestinal stromal tumors.\r\n\r\n Ekitna, also known as bezuclastinib, will be administered in combination with Pfizer’s oral kinase inhibitor Sutent. The approval is ..."
         }
       ]
     },
@@ -111,52 +111,52 @@
       "name": "STAT News (Biotech)",
       "items": [
         {
-          "title": "STAT+: FDA discloses reasons for rejecting Summit drug",
-          "link": "https://www.statnews.com/2026/11/18/biotech-news-fda-discloses-reasons-for-rejecting-summit-drug/?utm_campaign=rss",
-          "pubDate": "2026-11-18T14:37:13.000Z",
-          "description": "The FDA published its complete response letter to Summit Therapeutics explaining why it rejected the biotech's closely watched lung cancer drug:"
+          "title": "STAT+: FDA approves Cogent&#8217;s drug for rare stomach cancer",
+          "link": "https://www.statnews.com/2026/11/25/biotech-news-fda-approves-cogents-drug-for-rare-stomach-cancer/?utm_campaign=rss",
+          "pubDate": "2026-11-25T20:44:15.000Z",
+          "description": "Cogent Biosciences won FDA clearance for its stomach cancer treatment, in combination with a much older drug from Pfizer called Sutent."
         },
         {
-          "title": "STAT+: Flagship opens biotech-creation outpost in the U.K.",
-          "link": "https://www.statnews.com/2026/11/17/biotech-news-flagship-opens-biotech-creation-uk-outpost/?utm_campaign=rss",
-          "pubDate": "2026-11-17T17:05:10.000Z",
-          "description": "Flagship is putting up 100 million pounds to start “AI-native platform companies\" focused on human and planetary health in the U.K.:"
+          "title": "Opinion: Washington and Beijing are building walls around biotechnology. That’s the wrong approach",
+          "link": "https://www.statnews.com/2026/11/25/us-china-biotech-race-policy-data/?utm_campaign=rss",
+          "pubDate": "2026-11-25T09:30:00.000Z",
+          "description": "“Data show that the U.S.-China contest in biotechnology is not one race but several,” writes Michael S. Kinch."
         },
         {
-          "title": "STAT+: Sellas&#8217; experimental blood cancer immunotherapy reduced risk of death in clinical trial",
-          "link": "https://www.statnews.com/2026/11/17/sellas-blood-cancer-immunotherapy-succeeds-clinical-trial/?utm_campaign=rss",
-          "pubDate": "2026-11-17T12:00:00.000Z",
-          "description": "Sellas' experimental blood cancer immunotherapy reduced the risk of death in clinical trial."
+          "title": "STAT+: Roche&#8217;s potential breast cancer blockbuster drug wins second FDA nod",
+          "link": "https://www.statnews.com/2026/11/24/biotech-news-roche-potential-breast-cancer-blockbluster-drug-wins-second-fda-nod/?utm_campaign=rss",
+          "pubDate": "2026-11-24T14:26:07.000Z",
+          "description": "Roche's breast cancer pill has picked up its second FDA clearance in a week, this time in early-stage breast cancer for use after surgery."
         },
         {
-          "title": "STAT+: With $173 million, new startup takes aim at sickle cell",
-          "link": "https://www.statnews.com/2026/11/17/new-startup-developing-novel-sickle-cell-anemia-infusion-no-gene-therapy/?utm_campaign=rss",
-          "pubDate": "2026-11-17T12:00:00.000Z",
-          "description": "Researchers are seeking a sickle cell treatment as effective as gene therapy, without the drawbacks. This entrepreneur thinks he might have one."
+          "title": "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices",
+          "link": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/?utm_campaign=rss",
+          "pubDate": "2026-11-24T00:19:48.000Z",
+          "description": "The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations."
         },
         {
-          "title": "STAT+: After death in gene therapy trial for a brain disease, progress is reported",
-          "link": "https://www.statnews.com/2026/11/17/capsida-gene-therapy-trial-death-follow-up-investigation/?utm_campaign=rss",
-          "pubDate": "2026-11-17T09:30:00.000Z",
-          "description": "An unexpected patient death rattled researchers who sought to pierce the blood-brain barrier. Now some think they have a better way of mitigating risks."
+          "title": "STAT+: Limb-girdle muscular dystrophy gets its first FDA-approved drug, from BridgeBio",
+          "link": "https://www.statnews.com/2026/11/23/fda-approves-bridgebio-lgmd-drug-welgemda/?utm_campaign=rss",
+          "pubDate": "2026-11-23T21:23:42.000Z",
+          "description": "A type of muscular dystrophy that was long ignored has its first drug — and it could earn BridgeBio a billion dollars a year."
         },
         {
-          "title": "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC",
-          "link": "https://www.statnews.com/2026/11/16/fda-proposes-new-category-supplement-nac/?utm_campaign=rss",
-          "pubDate": "2026-11-16T18:54:06.000Z",
-          "description": "The supplement NAC has been widely available for years, but exists in a legal gray area."
+          "title": "STAT+: A big win for a potential competitor for Dupixent eczema treatment",
+          "link": "https://www.statnews.com/2026/11/23/biotech-news-a-big-win-for-potential-dupixent-competitor-eczema-treatment/?utm_campaign=rss",
+          "pubDate": "2026-11-23T14:43:21.000Z",
+          "description": "Kymera Therapeutics has a shot at giving eczema patients Dupixent-like relief in a pill, a new 244-patient Phase 2 trial finds:"
         },
         {
-          "title": "STAT+: Biotech&#8217;s rebound isn&#8217;t lifting all boats equally",
-          "link": "https://www.statnews.com/2026/11/16/biotech-news-rebound-isnt-lifting-all-boats-equally/?utm_campaign=rss",
-          "pubDate": "2026-11-16T16:56:33.000Z",
-          "description": "Biotech is having a good year, though you wouldn't necessarily know it from how investors are treating positive clinical data."
+          "title": "STAT+: Invivyd reports positive results in Sisyphean Covid antibody quest",
+          "link": "https://www.statnews.com/2026/11/23/invivyd-covid-monoclonal-antibody-declaration-trial-vyd2311/?utm_campaign=rss",
+          "pubDate": "2026-11-23T12:01:00.000Z",
+          "description": "The biotech Invivyd reported that its monoclonal antibody strongly protected people from Covid. Is there a market for it?"
         },
         {
-          "title": "STAT+: Helus’ psychedelic drug improved depression in study but faces safety questions",
-          "link": "https://www.statnews.com/2026/11/16/helus-psychedelics-depression-phase-3-trial/?utm_campaign=rss",
-          "pubDate": "2026-11-16T13:07:47.000Z",
-          "description": "A psychedelic drug from Helus Pharma improved depression in a study, but is facing safety questions with a number of serious adverse events reported."
+          "title": "STAT+: Kymera Therapeutics reports mid-stage eczema trial success for would-be Dupixent rival",
+          "link": "https://www.statnews.com/2026/11/23/kymera-therapeutics-eczema-trial-success-potential-dupixent-rival/?utm_campaign=rss",
+          "pubDate": "2026-11-23T12:00:00.000Z",
+          "description": "Kymera Therapeutics announced on Monday that its experimental therapy effectively and safely treated eczema patients’ itchy, inflamed skin."
         }
       ]
     },
@@ -164,52 +164,52 @@
       "name": "BioPharma Dive",
       "items": [
         {
-          "title": "‘Selling and marketing snake oil’: The debate over compounded GLP-1s",
-          "link": "https://www.biopharmadive.com/news/compounded-glp-1s-telehealth-debate-snake-oil-fda/875065/",
-          "pubDate": "2026-11-18T18:51:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/yKCjGDWC51aQYUkjfFkvjMpXPQo6RuxYwFrpquhHAAo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTUzOTI3ODE1LmpwZw==.webp\"/></div></figure><p>Proponents of "
+          "title": "Medicare sets 2028 prices for 13 new drugs under Biden-era law",
+          "link": "https://www.biopharmadive.com/news/inflation-reduction-act-2028-final-medicare-drug-price/875717/",
+          "pubDate": "2026-11-25T16:26:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/yNFj1iOXXiGXHrvNzMITrI7Zf52PfwK1rovRc0StZW8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDQ3NTA1MDAwLmpwZw==.webp\"/></div></figure><p>Drugs nearing "
         },
         {
-          "title": "White House pulls nomination for FDA nominee Overton",
-          "link": "https://www.biopharmadive.com/news/white-house-withdraw-heidi-overton-fda-commissioner-nomination/874961/",
-          "pubDate": "2026-11-18T17:00:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/I4OD5X6p--2ITpT-w51kC3Y_ZcoTL-ZImAJ0d0zLv9Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk2OTM3MzQ1LmpwZw==.webp\"/></div></figure><p>The sudden end"
-        },
-        {
-          "title": "Pfizer leaps into ‘in vivo’ CAR-T with latest China deal",
-          "link": "https://www.biopharmadive.com/news/pfizer-starna-in-vivo-cell-therapy-autoimmune-disease-deal/875018/",
-          "pubDate": "2026-11-18T15:55:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/9q1igoj8_9CfAODyGNPT1Irc-9cVp0ISCol79mPBMxg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzM5NzQ1X3d5OVJ1NmcuanBn.webp\"/></div></figure><p>The po"
-        },
-        {
-          "title": "FDA publishes rejection letter for Summit drug; Nuvalent buyout pays more dividends for GSK",
-          "link": "https://www.biopharmadive.com/news/summit-crl-sellas-data-nelkarmi-lilly-astrazeneca-biogen/874825/",
-          "pubDate": "2026-11-18T14:21:00.000Z",
+          "title": "Amgen takes next step toward biosimilar Opdivo; Bristol Myers taps a new finance head",
+          "link": "https://www.biopharmadive.com/news/arcus-quemliclustat-belite-amgen-opdivo-biosimilar/875512/",
+          "pubDate": "2026-11-25T16:24:00.000Z",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\"/></div></figure>"
         },
         {
-          "title": "Roche breast cancer pill cleared by FDA",
-          "link": "https://www.biopharmadive.com/news/roche-fda-approve-wilserdly-giredestrant-breast-cancer/874884/",
-          "pubDate": "2026-11-17T17:18:00.000Z",
-          "description": "<p>Wilserdly&rsquo;s U.S. approval is seen by analysts as a &ldquo;key first step&rdquo; in an important launch for Roche, which has claimed the drug could become its top-selling product.</p>"
+          "title": "FDA approves BridgeBio muscular dystrophy drug",
+          "link": "https://www.biopharmadive.com/news/fda-bridgebio-welgemda-limb-girdle-muscle-disorder-approval/875610/",
+          "pubDate": "2026-11-24T16:36:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/OR8SxLe6A-mfa2L56w6SQj-pPoUqhUUQiBQvTR5zGx4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDEzMjg5OTM2LmpwZw==.webp\"/></div></figure><p>Wall Street an"
         },
         {
-          "title": "AI drugmaker Isomorphic restocks with $5B fundraise",
-          "link": "https://www.biopharmadive.com/news/isomorphic-labs-ai-drug-discovery-financing/874863/",
-          "pubDate": "2026-11-17T15:51:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/KKSuOxTFPeZit4ONYhxrVBLX3z4TmhuGQrVJamE-W0c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc2OTg0OTQ5LmpwZw==.webp\"/></div></figure><p>Even as the la"
+          "title": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer",
+          "link": "https://www.biopharmadive.com/news/fda-roche-wilserdly-breast-cancer-approval-early-stage/875563/",
+          "pubDate": "2026-11-24T15:36:00.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/_Jl91qpyunJWe-csdceqrcSO_PmI-VBjWQO1KOBqP58/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTM3MjY1MDU5LmpwZw==.webp\"/></div></figure><p>The latest app"
         },
         {
-          "title": "Marrow sets out to challenge genetic medicines for severe blood diseases",
-          "link": "https://www.biopharmadive.com/news/marrow-therapeutics-sickle-cell-beta-thalassemia-drug/874789/",
-          "pubDate": "2026-11-17T12:00:00.000Z",
-          "description": "<p>Armed with $173 million in venture funding, the startup is developing what it&rsquo;s positioning as a more accessible alternative to gene therapy and gene editing treatments for sickle cell and beta thalassemia.</p>"
+          "title": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition",
+          "link": "https://www.biopharmadive.com/news/sanofi-insmed-acquisition-deal-immunology-rare-disease/875627/",
+          "pubDate": "2026-11-24T13:50:59.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/FBR1IQNmU9Hqatva496Zg2G8JMHsqV0UGsf4LMARqYo/g:nowe:189:144/c:1776:1003/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS80OTY5MDc4MzcxMl8yYTc1ZmQ5M2MyX28uanBn.webp\"/></div></fi"
         },
         {
-          "title": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug",
-          "link": "https://www.biopharmadive.com/news/summit-akeso-fda-ivonescimab-reject-egfr-lung-cancer/874745/",
-          "pubDate": "2026-11-16T17:14:00.000Z",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/LOS_28-DMajSa8O6Kljhq6j2s2eQ9vRkHn46DVb8jQ4/g:nowe:0:1261/c:8000:4520/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDM5OTA3NDhfb1VYZnlvYi5qcGc=.webp\"/></d"
+          "title": "Lilly buys Huntington’s drug developer LoQus23 in potentially $725M deal",
+          "link": "https://www.biopharmadive.com/news/lilly-loqus-huntingtons-drug-acquisition-deal/875448/",
+          "pubDate": "2026-11-23T16:17:09.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/QYrn4AL-LTvRLRqpV7pdxYRRCrtu_8cR3zIhOGsRcEY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODgwMzQzMTAwLmpwZw==.webp\"/></div></figure><p>The acquisitio"
+        },
+        {
+          "title": "Kymera eczema pill meets goals in mid-stage trial",
+          "link": "https://www.biopharmadive.com/news/kymera-eczema-pill-phase2-data-protein-degrader-dupixent-ebglyss/875462/",
+          "pubDate": "2026-11-23T14:53:55.000Z",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/bHeki-RcmamHWZ337AesYqx0-vgLVnsXCVdnZnNyTHA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ0MTEwNTU2LmpwZw==.webp\"/></div></figure><p>The protein de"
+        },
+        {
+          "title": "Why today’s leading drug developers are fine-tuning open models on their own data",
+          "link": "https://www.biopharmadive.com/spons/why-todays-leading-drug-developers-are-fine-tuning-open-models-on-their-ow/875153/",
+          "pubDate": "2026-11-23T10:00:00.000Z",
+          "description": "<p>Open or proprietary AI models? What drug developers should weigh before they fine-tune.</p>"
         }
       ]
     }
