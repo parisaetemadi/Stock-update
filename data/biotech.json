@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T19:54:12.816Z",
+  "generatedAt": "2026-11-27T19:43:00.853Z",
   "sources": {
     "fierce": {
       "name": "Fierce Biotech",
@@ -111,6 +111,12 @@
       "name": "STAT News (Biotech)",
       "items": [
         {
+          "title": "STAT+: FDA extends assessment of experimental Vertex kidney drug",
+          "link": "https://www.statnews.com/2026/11/27/fda-vertex-povetacicept-kidney-capricor-duchenne-readout-newsletter/?utm_campaign=rss",
+          "pubDate": "2026-11-27T16:00:54.000Z",
+          "description": "The FDA is extending its assessment of Vertex's investigational kidney drug, as the company faces questions about potential safety concerns."
+        },
+        {
           "title": "STAT+: FDA approves Cogent&#8217;s drug for rare stomach cancer",
           "link": "https://www.statnews.com/2026/11/25/biotech-news-fda-approves-cogents-drug-for-rare-stomach-cancer/?utm_campaign=rss",
           "pubDate": "2026-11-25T20:44:15.000Z",
@@ -151,12 +157,6 @@
           "link": "https://www.statnews.com/2026/11/23/invivyd-covid-monoclonal-antibody-declaration-trial-vyd2311/?utm_campaign=rss",
           "pubDate": "2026-11-23T12:01:00.000Z",
           "description": "The biotech Invivyd reported that its monoclonal antibody strongly protected people from Covid. Is there a market for it?"
-        },
-        {
-          "title": "STAT+: Kymera Therapeutics reports mid-stage eczema trial success for would-be Dupixent rival",
-          "link": "https://www.statnews.com/2026/11/23/kymera-therapeutics-eczema-trial-success-potential-dupixent-rival/?utm_campaign=rss",
-          "pubDate": "2026-11-23T12:00:00.000Z",
-          "description": "Kymera Therapeutics announced on Monday that its experimental therapy effectively and safely treated eczema patients’ itchy, inflamed skin."
         }
       ]
     },
